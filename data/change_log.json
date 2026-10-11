@@ -1,5 +1,29 @@
 [
   {
+    "id": "421225-20261010233500",
+    "inmateNumber": "421225",
+    "name": "OGLESBY, GERALD LEE",
+    "bookedAt": "2026-10-10T23:35:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-10T23:35:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T02:17:12",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422544-20261010211900",
     "inmateNumber": "422544",
     "name": "OBRIEN, MATTHEW CAREY",

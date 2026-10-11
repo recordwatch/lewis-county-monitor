@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T01:49:13",
+  "generatedAt": "2026-10-11T02:17:12",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 154,
-    "bookingsObserved": 5,
+    "bookingsTracked": 155,
+    "bookingsObserved": 6,
     "releasesObserved": 1,
-    "inCustody": 153,
-    "uniquePeople": 154
+    "inCustody": 154,
+    "uniquePeople": 155
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-10",
-      "booked": 6,
+      "booked": 7,
       "released": 1
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 9,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 44,
-      "pct": 28.6,
+      "pct": 28.4,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
-      "count": 35,
-      "pct": 22.7,
+      "count": 36,
+      "pct": 23.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 35,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Centralia Police"
     },
     {
@@ -480,12 +480,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 22.5,
+    "currentMedianDaysHeld": 22,
     "currentLongestDaysHeld": 763.4
   },
   "bond": {
     "withBond": 84,
-    "noBond": 69,
+    "noBond": 70,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14196700
