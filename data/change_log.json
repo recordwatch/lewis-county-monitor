@@ -123,7 +123,7 @@
     "name": "DUNIVIN, ROBERT LOYD",
     "bookedAt": "2026-10-10T18:59:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 4000,
+    "bondTotal": 104000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
@@ -141,8 +141,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "W"
       },
       {
@@ -151,7 +151,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "W"
       },
@@ -189,7 +189,7 @@
     "name": "ALLEN, RYAN WAYNE",
     "bookedAt": "2026-10-10T15:25:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 1000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -198,7 +198,7 @@
         "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 2500,
         "warrantNumber": "6A0422190"
       }
     ],
