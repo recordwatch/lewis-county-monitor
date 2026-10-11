@@ -1,5 +1,59 @@
 [
   {
+    "id": "422544-20261010211900",
+    "inmateNumber": "422544",
+    "name": "OBRIEN, MATTHEW CAREY",
+    "bookedAt": "2026-10-10T21:19:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT OF A MOTOR VEHICLE/FTA",
+        "arrestDate": "2026-10-10T21:19:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "VEHICLE PROWL 2CD/FTA",
+        "arrestDate": "2026-10-10T21:19:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "MAL MISCH 3RD/<50/FTA",
+        "arrestDate": "2026-10-10T21:19:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "CRIM TRESPASS 2ND/FTA",
+        "arrestDate": "2026-10-10T21:19:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "36515-20261010203000",
     "inmateNumber": "36515",
     "name": "BRIGHT, SANDI KAY",
@@ -25,7 +79,7 @@
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
         "bondAmount": 500,
-        "warrantNumber": "T0080714"
+        "warrantNumber": "T00801714"
       }
     ],
     "status": "in_custody",
