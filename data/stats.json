@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T14:32:16",
+  "generatedAt": "2026-10-11T14:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 156,
-    "bookingsObserved": 7,
+    "bookingsTracked": 157,
+    "bookingsObserved": 8,
     "releasesObserved": 3,
-    "inCustody": 153,
-    "uniquePeople": 156
+    "inCustody": 154,
+    "uniquePeople": 157
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 1,
+      "booked": 2,
       "released": 2
     }
   ],
@@ -177,17 +177,17 @@
       "pct": 3.6
     },
     {
+      "name": "DWLS 3RD DEGREE/FTA",
+      "count": 14,
+      "pct": 3.3
+    },
+    {
       "name": "POSS of Controlled Substance",
       "count": 14,
       "pct": 3.3
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 13,
-      "pct": 3.1
-    },
-    {
-      "name": "DWLS 3RD DEGREE/FTA",
       "count": 13,
       "pct": 3.1
     },
@@ -265,38 +265,38 @@
   "topAgencies": [
     {
       "name": "JAIL",
-      "count": 45,
-      "pct": 28.8,
+      "count": 46,
+      "pct": 29.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 36,
-      "pct": 23.1,
+      "pct": 22.9,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 35,
-      "pct": 22.4,
+      "pct": 22.3,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 19,
-      "pct": 12.2,
+      "pct": 12.1,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 11,
-      "pct": 7.1,
+      "pct": 7,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
       "count": 4,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Winlock Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 234,
-      "pct": 56.7,
+      "pct": 56.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 114,
-      "pct": 27.6,
+      "count": 115,
+      "pct": 27.8,
       "label": "Lewis County District Court"
     },
     {
@@ -401,13 +401,13 @@
     },
     {
       "name": "Cash or Bond",
-      "count": 104,
-      "pct": 25
+      "count": 105,
+      "pct": 25.2
     },
     {
       "name": "Serving Time",
       "count": 94,
-      "pct": 22.6
+      "pct": 22.5
     },
     {
       "name": "Released by Court",
@@ -480,15 +480,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 23,
+    "currentMedianDaysHeld": 22.5,
     "currentLongestDaysHeld": 763.9
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 84,
     "noBond": 70,
-    "medianBond": 30000,
+    "medianBond": 27500,
     "maxBond": 3000000,
-    "totalBond": 14312700
+    "totalBond": 14317800
   },
   "chargesPerBooking": 2.7
 }

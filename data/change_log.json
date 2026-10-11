@@ -1,5 +1,29 @@
 [
   {
+    "id": "284074-20261011133500",
+    "inmateNumber": "284074",
+    "name": "YOUNG, DANIEL JAMES",
+    "bookedAt": "2026-10-11T13:35:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-11T13:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "6A0216259"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T14:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "59308-20261011091500",
     "inmateNumber": "59308",
     "name": "PRINCE, MARCUS EARL",
