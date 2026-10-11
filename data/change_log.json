@@ -1,5 +1,63 @@
 [
   {
+    "id": "36515-20261010203000",
+    "inmateNumber": "36515",
+    "name": "BRIGHT, SANDI KAY",
+    "bookedAt": "2026-10-10T20:30:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-10T20:30:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00801713"
+      },
+      {
+        "description": "POSS DRUG PARAPHERNALIA USED",
+        "arrestDate": "2026-10-10T20:30:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T0080714"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T21:35:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "124420-20261010152500",
+    "inmateNumber": "124420",
+    "name": "ALLEN, RYAN WAYNE",
+    "bookedAt": "2026-10-10T15:25:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-10-10T15:25:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0422190"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T21:35:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "13794-20261010151800",
     "inmateNumber": "13794",
     "name": "WILBER, RICHARD WARD",
@@ -21,7 +79,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:29:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "416341-20261010084700",
@@ -402,12 +462,12 @@
         "warrantNumber": "2610054321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-10T19:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "216770-20261008140100",
