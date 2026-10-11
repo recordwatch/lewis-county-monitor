@@ -1,5 +1,29 @@
 [
   {
+    "id": "59308-20261011091500",
+    "inmateNumber": "59308",
+    "name": "PRINCE, MARCUS EARL",
+    "bookedAt": "2026-10-11T09:15:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-10-11T09:15:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2410054721"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T10:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "421225-20261010233500",
     "inmateNumber": "421225",
     "name": "OGLESBY, GERALD LEE",
