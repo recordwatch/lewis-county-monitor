@@ -36,6 +36,70 @@
     "releaseSource": null
   },
   {
+    "id": "8374-20261010185900",
+    "inmateNumber": "8374",
+    "name": "DUNIVIN, ROBERT LOYD",
+    "bookedAt": "2026-10-10T18:59:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 4000,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-10T18:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 4000,
+        "warrantNumber": "T00246039"
+      },
+      {
+        "description": "DRUGS-POSS W/INTENT TO MANU/DELIVER CS",
+        "arrestDate": "2026-10-10T18:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "UNLAW POSS FIREARM 1ST",
+        "arrestDate": "2026-10-10T18:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-10T18:59:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-10T18:59:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "124420-20261010152500",
     "inmateNumber": "124420",
     "name": "ALLEN, RYAN WAYNE",
