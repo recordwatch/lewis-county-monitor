@@ -11,11 +11,11 @@
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-10-10T23:35:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0300432"
       }
     ],
     "status": "in_custody",
