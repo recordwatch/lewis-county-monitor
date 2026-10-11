@@ -136,12 +136,12 @@
         "warrantNumber": "T00801714"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:35:21",
-    "releasedAt": null,
+    "releasedAt": "2026-10-11T13:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "8374-20261010185900",
