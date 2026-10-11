@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-10T15:40:09",
+  "generatedAt": "2026-10-10T18:29:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 149,
-    "bookingsObserved": 0,
+    "bookingsTracked": 150,
+    "bookingsObserved": 1,
     "releasesObserved": 0,
-    "inCustody": 149,
-    "uniquePeople": 149
+    "inCustody": 150,
+    "uniquePeople": 150
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-10",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -168,13 +168,13 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 18,
-      "pct": 4.4
+      "count": 19,
+      "pct": 4.7
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 14,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 44,
-      "pct": 29.5,
+      "pct": 29.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 34,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
-      "count": 32,
-      "pct": 21.5,
+      "count": 33,
+      "pct": 22,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CHEH",
       "count": 19,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Chehalis Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 227,
-      "pct": 56.8,
+      "pct": 56.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 110,
-      "pct": 27.5,
+      "count": 111,
+      "pct": 27.7,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 19,
-      "pct": 4.8,
+      "pct": 4.7,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "WLM",
       "count": 7,
-      "pct": 1.8,
+      "pct": 1.7,
       "label": "Winlock Municipal Court"
     },
     {
       "name": "NMC",
       "count": 3,
-      "pct": 0.8,
+      "pct": 0.7,
       "label": "Napavine Municipal Court"
     },
     {
@@ -376,13 +376,13 @@
     {
       "name": "OSC",
       "count": 1,
-      "pct": 0.3,
+      "pct": 0.2,
       "label": "OSC"
     },
     {
       "name": "USM",
       "count": 1,
-      "pct": 0.3,
+      "pct": 0.2,
       "label": "USM"
     }
   ],
@@ -391,17 +391,17 @@
     {
       "name": "Included",
       "count": 105,
-      "pct": 26.1
+      "pct": 26
     },
     {
       "name": "Cash or Bond",
-      "count": 100,
-      "pct": 24.8
+      "count": 101,
+      "pct": 25
     },
     {
       "name": "Serving Time",
       "count": 93,
-      "pct": 23.1
+      "pct": 23
     },
     {
       "name": "Released by Court",
@@ -474,15 +474,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 24,
-    "currentLongestDaysHeld": 763
+    "currentMedianDaysHeld": 23.7,
+    "currentLongestDaysHeld": 763.1
   },
   "bond": {
-    "withBond": 81,
+    "withBond": 82,
     "noBond": 68,
-    "medianBond": 30000,
+    "medianBond": 27500,
     "maxBond": 3000000,
-    "totalBond": 14200200
+    "totalBond": 14200700
   },
   "chargesPerBooking": 2.7
 }

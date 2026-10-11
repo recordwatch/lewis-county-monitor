@@ -1,5 +1,29 @@
 [
   {
+    "id": "13794-20261010151800",
+    "inmateNumber": "13794",
+    "name": "WILBER, RICHARD WARD",
+    "bookedAt": "2026-10-10T15:18:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-10T15:18:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0398315"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T18:29:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "416341-20261010084700",
     "inmateNumber": "416341",
     "name": "SAGERO FRANCO, WILLIAM",
@@ -31,7 +55,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422655-20261009222200",
@@ -65,7 +91,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "2043-20261009212000",
@@ -119,7 +147,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "344068-20261009192500",
@@ -143,7 +173,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "169360-20261009190100",
@@ -167,7 +199,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422668-20261009122600",
@@ -191,7 +225,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "420245-20261009113500",
@@ -225,7 +261,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "382929-20261009065800",
@@ -259,7 +297,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "159092-20261008214000",
@@ -293,7 +333,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "406705-20261008184900",
@@ -327,7 +369,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422646-20261008143400",
@@ -361,7 +405,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "216770-20261008140100",
@@ -385,7 +431,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "5675-20261008124000",
@@ -439,7 +487,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "252060-20261008110000",
@@ -463,7 +513,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "389673-20261007200000",
@@ -487,7 +539,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "18864-20261007173000",
@@ -511,7 +565,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "421835-20261007142700",
@@ -575,7 +631,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "165376-20261006231600",
@@ -609,7 +667,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "83809-20261006181200",
@@ -633,7 +693,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "3088-20261006154000",
@@ -667,7 +729,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "63585-20261006114100",
@@ -691,7 +755,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422585-20261006110000",
@@ -725,7 +791,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "289517-20261006010000",
@@ -759,7 +827,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "174594-20261005164500",
@@ -793,7 +863,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "374758-20261005144400",
@@ -817,7 +889,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "85297-20261005120700",
@@ -851,7 +925,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "419439-20261005111100",
@@ -885,7 +961,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "413902-20261005102200",
@@ -909,7 +987,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "419945-20261005085000",
@@ -933,7 +1013,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422541-20261004232000",
@@ -967,7 +1049,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "1290-20261004223700",
@@ -1021,7 +1105,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "163694-20261004223700",
@@ -1045,7 +1131,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "340703-20261004142100",
@@ -1069,7 +1157,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "333-20261004124000",
@@ -1103,7 +1193,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "64972-20261004090700",
@@ -1127,7 +1219,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "35051-20261003161500",
@@ -1181,7 +1275,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "224039-20261003033700",
@@ -1225,7 +1321,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "104881-20261002204600",
@@ -1279,7 +1377,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "9549-20261002200000",
@@ -1303,7 +1403,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "399366-20261002184600",
@@ -1347,7 +1449,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "7021-20261002164500",
@@ -1381,7 +1485,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "420740-20261002073500",
@@ -1405,7 +1511,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "256484-20261002015900",
@@ -1439,7 +1547,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "136635-20261001110000",
@@ -1483,7 +1593,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "175207-20260930064400",
@@ -1517,7 +1629,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "16193-20260930004400",
@@ -1551,7 +1665,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422414-20260929204500",
@@ -1595,7 +1711,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "386915-20260929185500",
@@ -1619,7 +1737,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "97106-20260929131900",
@@ -1653,7 +1773,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "415106-20260929103500",
@@ -1677,7 +1799,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "133477-20260929095500",
@@ -1711,7 +1835,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "182553-20260929085100",
@@ -1755,7 +1881,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "122959-20260929085000",
@@ -1789,7 +1917,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "259492-20260928162300",
@@ -1823,7 +1953,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "289508-20260928090500",
@@ -1857,7 +1989,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "321793-20260927205300",
@@ -1891,7 +2025,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "338866-20260927023000",
@@ -1955,7 +2091,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "79107-20260925170000",
@@ -1979,7 +2117,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "51535-20260924102500",
@@ -2043,7 +2183,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "257696-20260924001000",
@@ -2077,7 +2219,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "417459-20260923143000",
@@ -2191,7 +2335,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "188849-20260923143000",
@@ -2345,7 +2491,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "166740-20260923134500",
@@ -2389,7 +2537,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "11212-20260923092700",
@@ -2423,7 +2573,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "418794-20260922152000",
@@ -2447,7 +2599,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "400601-20260922133000",
@@ -2501,7 +2655,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "229892-20260922063000",
@@ -2635,7 +2791,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "363186-20260922044500",
@@ -2679,7 +2837,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "417690-20260921113000",
@@ -2713,7 +2873,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "310244-20260920215700",
@@ -2807,7 +2969,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "8689-20260920195600",
@@ -2861,7 +3025,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "414102-20260919134700",
@@ -2895,7 +3061,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "333896-20260918135000",
@@ -2919,7 +3087,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "402194-20260917095400",
@@ -2943,7 +3113,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "211850-20260916160500",
@@ -2967,7 +3139,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "319994-20260916101500",
@@ -2991,7 +3165,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "407793-20260915193200",
@@ -3015,7 +3191,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "417356-20260915180000",
@@ -3039,7 +3217,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "93314-20260915030200",
@@ -3123,7 +3303,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "285297-20260914135500",
@@ -3157,7 +3339,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "410350-20260914130000",
@@ -3191,7 +3375,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "52924-20260909141500",
@@ -3215,7 +3401,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "194787-20260906232200",
@@ -3349,7 +3537,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "15513-20260905225500",
@@ -3373,7 +3563,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "401784-20260902102500",
@@ -3407,7 +3599,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "418417-20260901105300",
@@ -3451,7 +3645,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "10218-20260831091100",
@@ -3475,7 +3671,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "142309-20260829020700",
@@ -3499,7 +3697,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "350210-20260827021600",
@@ -3553,7 +3753,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "214453-20260826160000",
@@ -3587,7 +3789,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "394849-20260825132000",
@@ -3621,7 +3825,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "392262-20260825084500",
@@ -3675,7 +3881,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "218618-20260824150500",
@@ -3719,7 +3927,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "112570-20260824091400",
@@ -3743,7 +3953,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "378376-20260822045800",
@@ -3777,7 +3989,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "187413-20260821071200",
@@ -3831,7 +4045,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "346443-20260820211700",
@@ -3855,7 +4071,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "421226-20260819220300",
@@ -3889,7 +4107,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "99681-20260819191100",
@@ -3933,7 +4153,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "233784-20260819152700",
@@ -3957,7 +4179,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "6844-20260814224800",
@@ -4021,7 +4245,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "142194-20260814204400",
@@ -4055,7 +4281,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "362920-20260813181000",
@@ -4089,7 +4317,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "58010-20260813132000",
@@ -4113,7 +4343,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "178122-20260811094500",
@@ -4137,7 +4369,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "272771-20260809070400",
@@ -4181,7 +4415,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "420887-20260807165600",
@@ -4205,7 +4441,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "420859-20260806081600",
@@ -4269,7 +4507,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "305331-20260804205500",
@@ -4313,7 +4553,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "313628-20260803151800",
@@ -4347,7 +4589,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "181144-20260802142700",
@@ -4381,7 +4625,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "45760-20260801152800",
@@ -4415,7 +4661,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "413338-20260731065900",
@@ -4439,7 +4687,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "308509-20260729141600",
@@ -4473,7 +4723,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "268037-20260726045800",
@@ -4517,7 +4769,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "322706-20260723013200",
@@ -4581,7 +4835,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "59001-20260721014200",
@@ -4615,7 +4871,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "267769-20260710095000",
@@ -4639,7 +4897,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "311810-20260706103800",
@@ -4663,7 +4923,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "9498-20260703013100",
@@ -4707,7 +4969,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "229240-20260701090000",
@@ -4751,7 +5015,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "176609-20260628111200",
@@ -4795,7 +5061,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "49985-20260619215900",
@@ -4849,7 +5117,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "343004-20260610115200",
@@ -4873,7 +5143,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "363231-20260609133700",
@@ -4907,7 +5179,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "419012-20260527160000",
@@ -4951,7 +5225,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "408538-20260523045400",
@@ -4985,7 +5261,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "388421-20260506155200",
@@ -5009,7 +5287,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "136732-20260506153700",
@@ -5103,7 +5383,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "186616-20260409141500",
@@ -5147,7 +5429,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "383645-20260320195200",
@@ -5181,7 +5465,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "416992-20260311032700",
@@ -5225,7 +5511,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "365198-20260311011000",
@@ -5269,7 +5557,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "415014-20260228215800",
@@ -5303,7 +5593,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "311447-20260214162200",
@@ -5347,7 +5639,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "416147-20260206120100",
@@ -5391,7 +5685,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "416057-20260203032100",
@@ -5495,7 +5791,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "415934-20260129034500",
@@ -5549,7 +5847,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "55307-20251215151600",
@@ -5613,7 +5913,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "270939-20251201170400",
@@ -5647,7 +5949,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "44801-20251127195500",
@@ -5701,7 +6005,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "257055-20251106192000",
@@ -5755,7 +6061,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "407654-20250905065300",
@@ -5809,7 +6117,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "213449-20250816164900",
@@ -5843,7 +6153,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "216021-20250713225600",
@@ -5877,7 +6189,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "47371-20250530123000",
@@ -5921,7 +6235,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "407779-20250424003900",
@@ -5975,7 +6291,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "32568-20250305142800",
@@ -6069,7 +6387,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "19064-20240907163000",
@@ -6133,6 +6453,8 @@
     "status": "in_custody",
     "firstSeen": "2026-10-10T15:40:09",
     "releasedAt": null,
-    "baseline": true
+    "baseline": true,
+    "releasedTo": null,
+    "releaseSource": null
   }
 ]
