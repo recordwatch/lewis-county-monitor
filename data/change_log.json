@@ -215,7 +215,7 @@
     "name": "WILBER, RICHARD WARD",
     "bookedAt": "2026-10-10T15:18:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 500,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -224,7 +224,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 3500,
         "warrantNumber": "6A0398315"
       }
     ],
@@ -249,8 +249,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0350444"
       },
       {
@@ -313,7 +313,7 @@
     "name": "WALLACE, RODNEY ALLAN",
     "bookedAt": "2026-10-09T21:20:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 2000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DUI",
@@ -331,8 +331,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0137537"
       },
       {
@@ -351,8 +351,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0137536"
       }
     ],
@@ -421,7 +421,7 @@
     "name": "DEISLER, CAROLINE DIANE",
     "bookedAt": "2026-10-09T12:26:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "THEFT 2ND DEG>250",
@@ -429,8 +429,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 15000,
         "warrantNumber": "W"
       }
     ],
