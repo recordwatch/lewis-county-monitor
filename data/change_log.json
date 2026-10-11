@@ -1,5 +1,29 @@
 [
   {
+    "id": "186610-20261011134300",
+    "inmateNumber": "186610",
+    "name": "HILL, BRYAN JACOB",
+    "bookedAt": "2026-10-11T13:43:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "arrestDate": "2026-10-11T13:43:00",
+        "arrestingAgency": "CHEH",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0307575"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T15:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "284074-20261011133500",
     "inmateNumber": "284074",
     "name": "YOUNG, DANIEL JAMES",
@@ -12,7 +36,7 @@
         "arrestDate": "2026-10-11T13:35:00",
         "arrestingAgency": "JAIL",
         "court": "LCD",
-        "billingAgency": null,
+        "billingAgency": "LC",
         "bondType": "Cash or Bond",
         "bondAmount": 5100,
         "warrantNumber": "6A0216259"
@@ -21,7 +45,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-11T14:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "59308-20261011091500",
