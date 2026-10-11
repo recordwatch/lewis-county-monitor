@@ -11,47 +11,49 @@
         "description": "THEFT OF A MOTOR VEHICLE/FTA",
         "arrestDate": "2026-10-10T21:19:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610053521"
       },
       {
         "description": "VEHICLE PROWL 2CD/FTA",
         "arrestDate": "2026-10-10T21:19:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610053521"
       },
       {
         "description": "MAL MISCH 3RD/<50/FTA",
         "arrestDate": "2026-10-10T21:19:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610053521"
       },
       {
         "description": "CRIM TRESPASS 2ND/FTA",
         "arrestDate": "2026-10-10T21:19:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610053521"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "36515-20261010203000",
