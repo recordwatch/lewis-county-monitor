@@ -843,9 +843,9 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 15000,
-        "warrantNumber": "2610054621"
+        "bondType": "Released by Court",
+        "bondAmount": null,
+        "warrantNumber": "NOT FILED"
       },
       {
         "description": "POSS of Controlled Substance",
@@ -855,6 +855,16 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
+        "warrantNumber": "2610054621"
+      },
+      {
+        "description": "POSS STL PROP 2/>750",
+        "arrestDate": "2026-10-09T12:26:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 15000,
         "warrantNumber": "2610054621"
       }
     ],

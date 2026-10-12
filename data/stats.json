@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:17:15",
+  "generatedAt": "2026-10-12T13:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 169,
@@ -189,12 +189,12 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 13,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 13,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 237,
-      "pct": 54.5,
+      "count": 238,
+      "pct": 54.6,
       "label": "Lewis County Superior Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CNM",
       "count": 22,
-      "pct": 5.1,
+      "pct": 5,
       "label": "Centralia Municipal Court"
     },
     {
@@ -402,17 +402,17 @@
     {
       "name": "Included",
       "count": 115,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "Cash or Bond",
       "count": 113,
-      "pct": 25.8
+      "pct": 25.7
     },
     {
       "name": "Serving Time",
       "count": 95,
-      "pct": 21.7
+      "pct": 21.6
     },
     {
       "name": "No Bail",
@@ -421,8 +421,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 39,
-      "pct": 8.9
+      "count": 40,
+      "pct": 9.1
     },
     {
       "name": "Amended",
