@@ -557,7 +557,7 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 100000,
-        "warrantNumber": "W"
+        "warrantNumber": "2610054521"
       },
       {
         "description": "UNLAW POSS FIREARM 1ST",
@@ -565,29 +565,29 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Amended",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "AMEND"
       },
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-10-10T18:59:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610054521"
       },
       {
-        "description": "POSS of Controlled Substance",
+        "description": "UNLAW POSS FIREARM 2ND",
         "arrestDate": "2026-10-10T18:59:00",
         "arrestingAgency": "LCSO",
-        "court": null,
+        "court": "SUP",
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "26100054521"
       }
     ],
     "status": "in_custody",
