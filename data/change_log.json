@@ -11,21 +11,21 @@
         "description": "ASSAULT 4TH DV",
         "arrestDate": "2026-10-11T18:45:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0416973"
       },
       {
         "description": "MAL MISCH 3RD DV",
         "arrestDate": "2026-10-11T18:45:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0416973"
       }
     ],
     "status": "in_custody",
