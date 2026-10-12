@@ -521,7 +521,7 @@
     "name": "ALLEN, RYAN WAYNE",
     "bookedAt": "2026-10-10T15:25:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 2500,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -529,8 +529,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "Appearance Bond",
+        "bondAmount": 25000,
         "warrantNumber": "6A0422190"
       }
     ],
@@ -570,7 +570,7 @@
   {
     "id": "416341-20261010084700",
     "inmateNumber": "416341",
-    "name": "SAGERO FRANCO, WILLIAM",
+    "name": "SAGERO-FRANCO, WILLIAM",
     "bookedAt": "2026-10-10T08:47:00",
     "arrestingAgency": "LCSO",
     "bondTotal": 500,
