@@ -2570,12 +2570,12 @@
         "warrantNumber": "6A0098878"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-11T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "51535-20260924102500",
