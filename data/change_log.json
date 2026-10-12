@@ -584,7 +584,7 @@
         "arrestDate": "2026-10-10T18:59:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
-        "billingAgency": null,
+        "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "26100054521"
@@ -863,6 +863,16 @@
     "arrestingAgency": "JAIL",
     "bondTotal": 50000,
     "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-09T11:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "OSC",
+        "billingAgency": "OLYM",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "241024753"
+      },
       {
         "description": "THEFT 1ST DEG>1500",
         "arrestDate": "2026-10-09T11:35:00",

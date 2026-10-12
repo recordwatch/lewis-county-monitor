@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:49:15",
+  "generatedAt": "2026-10-12T12:55:11",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 169,
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 17,
-      "pct": 3.9
+      "count": 18,
+      "pct": 4.1
     },
     {
       "name": "POSS of Controlled Substance",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 236,
-      "pct": 54.5,
+      "pct": 54.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 125,
-      "pct": 28.9,
+      "pct": 28.8,
       "label": "Lewis County District Court"
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "OSC",
-      "count": 1,
-      "pct": 0.2,
+      "count": 2,
+      "pct": 0.5,
       "label": "OSC"
     },
     {
@@ -412,12 +412,12 @@
     {
       "name": "Serving Time",
       "count": 95,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "No Bail",
-      "count": 41,
-      "pct": 9.4
+      "count": 42,
+      "pct": 9.6
     },
     {
       "name": "Released by Court",
@@ -486,7 +486,7 @@
       }
     ],
     "currentMedianDaysHeld": 20.7,
-    "currentLongestDaysHeld": 764.8
+    "currentLongestDaysHeld": 764.9
   },
   "bond": {
     "withBond": 90,
