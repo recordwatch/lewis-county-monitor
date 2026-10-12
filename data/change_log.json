@@ -47,7 +47,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-12T10:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "158486-20261012054400",
@@ -55,33 +57,55 @@
     "name": "HERNANDEZ PUENTES, ADAN",
     "bookedAt": "2026-10-12T05:44:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DUI",
         "arrestDate": "2026-10-12T05:44:00",
         "arrestingAgency": "WASH",
-        "court": null,
-        "billingAgency": null,
+        "court": "LCD",
+        "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "T00801732"
       },
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-10-12T05:44:00",
         "arrestingAgency": "WASH",
-        "court": null,
-        "billingAgency": null,
+        "court": "LCD",
+        "billingAgency": "WSP",
         "bondType": "Cash or Bond",
         "bondAmount": 500,
-        "warrantNumber": null
+        "warrantNumber": "T00801732"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-12T05:44:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00801732"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-12T05:44:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00801733"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T10:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "323997-20261012015100",

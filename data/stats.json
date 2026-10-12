@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:17:15",
+  "generatedAt": "2026-10-12T10:32:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 169,
@@ -177,24 +177,24 @@
       "pct": 3.9
     },
     {
+      "name": "POSS of Controlled Substance",
+      "count": 15,
+      "pct": 3.4
+    },
+    {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 14,
       "pct": 3.2
     },
     {
-      "name": "POSS of Controlled Substance",
-      "count": 14,
-      "pct": 3.2
+      "name": "Drive w/o req ignition intrlck",
+      "count": 13,
+      "pct": 3
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 13,
       "pct": 3
-    },
-    {
-      "name": "Drive w/o req ignition intrlck",
-      "count": 12,
-      "pct": 2.8
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 234,
-      "pct": 54.8,
+      "pct": 54.3,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 121,
-      "pct": 28.3,
+      "count": 125,
+      "pct": 29,
       "label": "Lewis County District Court"
     },
     {
       "name": "CSM",
       "count": 23,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "CNM",
       "count": 22,
-      "pct": 5.2,
+      "pct": 5.1,
       "label": "Centralia Municipal Court"
     },
     {
@@ -400,24 +400,24 @@
   ],
   "bondTypes": [
     {
-      "name": "Included",
+      "name": "Cash or Bond",
       "count": 113,
-      "pct": 26.2
+      "pct": 26
     },
     {
-      "name": "Cash or Bond",
-      "count": 111,
-      "pct": 25.7
+      "name": "Included",
+      "count": 113,
+      "pct": 26
     },
     {
       "name": "Serving Time",
       "count": 95,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "No Bail",
       "count": 41,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "Released by Court",
@@ -432,7 +432,7 @@
     {
       "name": "Referred",
       "count": 8,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "Released Time Served",
@@ -486,14 +486,14 @@
       }
     ],
     "currentMedianDaysHeld": 20.6,
-    "currentLongestDaysHeld": 764.7
+    "currentLongestDaysHeld": 764.8
   },
   "bond": {
     "withBond": 90,
     "noBond": 72,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14359800
+    "totalBond": 14361800
   },
   "chargesPerBooking": 2.6
 }
