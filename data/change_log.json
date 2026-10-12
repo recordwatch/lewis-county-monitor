@@ -1,5 +1,53 @@
 [
   {
+    "id": "51079-20261011214900",
+    "inmateNumber": "51079",
+    "name": "BENSCHING, BEVERLY JOYCIE",
+    "bookedAt": "2026-10-11T21:49:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-11T21:49:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T23:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "277581-20261011214500",
+    "inmateNumber": "277581",
+    "name": "RICO GONZALEZ, ANDREA FERNANDA",
+    "bookedAt": "2026-10-11T21:45:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-10-11T21:45:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T23:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422705-20261011184500",
     "inmateNumber": "422705",
     "name": "REYNOLDS-CERRATO, JASON R",

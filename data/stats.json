@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T22:49:14",
+  "generatedAt": "2026-10-11T23:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 162,
-    "bookingsObserved": 13,
+    "bookingsTracked": 164,
+    "bookingsObserved": 15,
     "releasesObserved": 4,
-    "inCustody": 158,
-    "uniquePeople": 162
+    "inCustody": 160,
+    "uniquePeople": 164
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 7,
+      "booked": 9,
       "released": 3
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 22,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "DUI",
       "count": 22,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -266,43 +266,43 @@
     {
       "name": "JAIL",
       "count": 46,
-      "pct": 28.4,
+      "pct": 28,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
-      "count": 38,
-      "pct": 23.5,
+      "count": 39,
+      "pct": 23.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
-      "count": 35,
-      "pct": 21.6,
+      "count": 36,
+      "pct": 22,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 22,
-      "pct": 13.6,
+      "pct": 13.4,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 11,
-      "pct": 6.8,
+      "pct": 6.7,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
       "count": 4,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "Winlock Police"
     },
     {
       "name": "DOC",
       "count": 3,
-      "pct": 1.9,
+      "pct": 1.8,
       "label": "Dept. of Corrections"
     },
     {
@@ -480,12 +480,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 21.1,
+    "currentMedianDaysHeld": 20.8,
     "currentLongestDaysHeld": 764.3
   },
   "bond": {
     "withBond": 88,
-    "noBond": 70,
+    "noBond": 72,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14336300
