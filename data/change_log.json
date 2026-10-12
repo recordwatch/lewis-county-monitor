@@ -184,12 +184,12 @@
         "warrantNumber": "CC2024028"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T19:32:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "KITTITAS",
+    "releaseSource": "official"
   },
   {
     "id": "186610-20261011134300",
