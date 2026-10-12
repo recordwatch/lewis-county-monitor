@@ -1,5 +1,39 @@
 [
   {
+    "id": "416433-20261012112000",
+    "inmateNumber": "416433",
+    "name": "BUNCHAIDUNG, CHANAN",
+    "bookedAt": "2026-10-12T11:20:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 2ND DEG>250/FTA",
+        "arrestDate": "2026-10-12T11:20:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610010121"
+      },
+      {
+        "description": "Organized Retail Thft 2nd/FTA",
+        "arrestDate": "2026-10-12T11:20:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610010121"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T13:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "418267-20261012090000",
     "inmateNumber": "418267",
     "name": "JARAMILLO, CRYSTAL GAYLE",
