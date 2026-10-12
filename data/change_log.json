@@ -1,5 +1,29 @@
 [
   {
+    "id": "422716-20261011233300",
+    "inmateNumber": "422716",
+    "name": "ANDERSON, RONALD ANTONE",
+    "bookedAt": "2026-10-11T23:33:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-11T23:33:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00872622"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T01:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "51079-20261011214900",
     "inmateNumber": "51079",
     "name": "BENSCHING, BEVERLY JOYCIE",
@@ -236,12 +260,12 @@
         "warrantNumber": "2410054721"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T10:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "421225-20261010233500",
