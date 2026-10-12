@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T23:17:15",
+  "generatedAt": "2026-10-11T23:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 164,
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 234,
-      "pct": 55.7,
+      "pct": 55.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 116,
-      "pct": 27.6,
+      "count": 117,
+      "pct": 27.7,
       "label": "Lewis County District Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CNM",
-      "count": 21,
-      "pct": 5,
+      "count": 22,
+      "pct": 5.2,
       "label": "Centralia Municipal Court"
     },
     {
@@ -364,7 +364,7 @@
     {
       "name": "ODC",
       "count": 4,
-      "pct": 1,
+      "pct": 0.9,
       "label": "ODC"
     },
     {
@@ -397,17 +397,17 @@
     {
       "name": "Included",
       "count": 113,
-      "pct": 26.7
+      "pct": 26.6
     },
     {
       "name": "Cash or Bond",
       "count": 109,
-      "pct": 25.8
+      "pct": 25.6
     },
     {
       "name": "Serving Time",
       "count": 94,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "Released by Court",
@@ -416,8 +416,8 @@
     },
     {
       "name": "No Bail",
-      "count": 36,
-      "pct": 8.5
+      "count": 38,
+      "pct": 8.9
     },
     {
       "name": "Amended",

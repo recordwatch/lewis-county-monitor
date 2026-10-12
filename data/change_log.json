@@ -11,17 +11,19 @@
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-10-11T21:49:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0398052"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-11T23:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "277581-20261011214500",
@@ -35,17 +37,19 @@
         "description": "ASSAULT 4TH DV",
         "arrestDate": "2026-10-11T21:45:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0364371"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-11T23:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422705-20261011184500",
