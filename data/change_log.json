@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-12T02:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422716-20261011233300",
@@ -49,7 +51,7 @@
         "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "T00872622"
+        "warrantNumber": "T00874622"
       }
     ],
     "status": "in_custody",
