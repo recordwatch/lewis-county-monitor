@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T02:32:17",
+  "generatedAt": "2026-10-12T02:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 165,
-    "bookingsObserved": 16,
+    "bookingsTracked": 166,
+    "bookingsObserved": 17,
     "releasesObserved": 7,
-    "inCustody": 158,
-    "uniquePeople": 165
+    "inCustody": 159,
+    "uniquePeople": 166
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 0,
+      "booked": 1,
       "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 23,
-      "pct": 5.3
+      "count": 24,
+      "pct": 5.6
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 22,
-      "pct": 5.1
+      "count": 23,
+      "pct": 5.3
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -179,12 +179,12 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 14,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "POSS of Controlled Substance",
       "count": 14,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 46,
-      "pct": 27.9,
+      "pct": 27.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 39,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 36,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "Centralia Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 12,
-      "pct": 7.3,
+      "count": 13,
+      "pct": 7.8,
       "label": "Washington State Patrol"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 234,
-      "pct": 55.3,
+      "pct": 55.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 118,
-      "pct": 27.9,
+      "count": 120,
+      "pct": 28.2,
       "label": "Lewis County District Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "WLM",
       "count": 7,
-      "pct": 1.7,
+      "pct": 1.6,
       "label": "Winlock Municipal Court"
     },
     {
@@ -401,28 +401,28 @@
   "bondTypes": [
     {
       "name": "Included",
-      "count": 113,
-      "pct": 26.5
+      "count": 114,
+      "pct": 26.6
     },
     {
       "name": "Cash or Bond",
       "count": 109,
-      "pct": 25.6
+      "pct": 25.5
     },
     {
       "name": "Serving Time",
       "count": 94,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "No Bail",
-      "count": 39,
-      "pct": 9.2
+      "count": 40,
+      "pct": 9.3
     },
     {
       "name": "Released by Court",
       "count": 39,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "Amended",
@@ -490,7 +490,7 @@
   },
   "bond": {
     "withBond": 87,
-    "noBond": 71,
+    "noBond": 72,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14321300

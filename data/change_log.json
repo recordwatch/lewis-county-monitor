@@ -1,5 +1,39 @@
 [
   {
+    "id": "323997-20261012015100",
+    "inmateNumber": "323997",
+    "name": "HAHN, JAMES JON",
+    "bookedAt": "2026-10-12T01:51:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-12T01:51:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00801729"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-12T01:51:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "T00801729"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T02:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422716-20261011233300",
     "inmateNumber": "422716",
     "name": "ANDERSON, RONALD ANTONE",
