@@ -5,7 +5,7 @@
     "name": "HAHN, JAMES JON",
     "bookedAt": "2026-10-12T01:51:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DUI",
@@ -23,8 +23,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Included",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "T00801729"
       }
     ],

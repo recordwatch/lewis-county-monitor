@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T04:17:17",
+  "generatedAt": "2026-10-12T04:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 166,
@@ -401,13 +401,13 @@
   "bondTypes": [
     {
       "name": "Included",
-      "count": 114,
-      "pct": 26.6
+      "count": 113,
+      "pct": 26.4
     },
     {
       "name": "Cash or Bond",
-      "count": 109,
-      "pct": 25.5
+      "count": 110,
+      "pct": 25.7
     },
     {
       "name": "Serving Time",
@@ -489,11 +489,11 @@
     "currentLongestDaysHeld": 764.5
   },
   "bond": {
-    "withBond": 87,
-    "noBond": 72,
+    "withBond": 88,
+    "noBond": 71,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14321300
+    "totalBond": 14321800
   },
   "chargesPerBooking": 2.6
 }
