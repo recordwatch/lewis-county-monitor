@@ -224,12 +224,12 @@
         "warrantNumber": "6A0398052"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T23:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "277581-20261011214500",
@@ -377,7 +377,7 @@
     "name": "HILL, BRYAN JACOB",
     "bookedAt": "2026-10-11T13:43:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 500,
+    "bondTotal": 2350,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -386,7 +386,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 2350,
         "warrantNumber": "6A0426616"
       }
     ],
@@ -416,12 +416,12 @@
         "warrantNumber": "6A0216259"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T14:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "59308-20261011091500",
@@ -468,12 +468,12 @@
         "warrantNumber": "6A0300432"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T02:17:12",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422544-20261010211900",
@@ -714,12 +714,12 @@
         "warrantNumber": "6A0350444"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T15:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422655-20261009222200",
