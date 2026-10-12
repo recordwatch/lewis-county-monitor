@@ -11,11 +11,11 @@
         "description": "CRIM TRESPASS 2ND",
         "arrestDate": "2026-10-11T13:43:00",
         "arrestingAgency": "CHEH",
-        "court": "LCD",
-        "billingAgency": null,
+        "court": "CSM",
+        "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
         "bondAmount": 500,
-        "warrantNumber": "6A0307575"
+        "warrantNumber": "6A0426616"
       }
     ],
     "status": "in_custody",

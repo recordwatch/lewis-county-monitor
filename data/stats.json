@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:32:14",
+  "generatedAt": "2026-10-11T18:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 158,
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 116,
-      "pct": 28,
+      "count": 115,
+      "pct": 27.7,
       "label": "Lewis County District Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 19,
-      "pct": 4.6,
+      "count": 20,
+      "pct": 4.8,
       "label": "Chehalis Municipal Court"
     },
     {
