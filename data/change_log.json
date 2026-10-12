@@ -31,7 +31,7 @@
     "name": "COOK, ROCKY ALAN",
     "bookedAt": "2026-10-11T17:45:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -39,8 +39,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": null,
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "6A0398319"
       }
     ],
