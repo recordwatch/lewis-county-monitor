@@ -1,5 +1,77 @@
 [
   {
+    "id": "175979-20261011182400",
+    "inmateNumber": "175979",
+    "name": "MOODY, RUSSELL JAY",
+    "bookedAt": "2026-10-11T18:24:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "Obstructing a Public Servant/FTA",
+        "arrestDate": "2026-10-11T18:24:00",
+        "arrestingAgency": "LCSO",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "PA2600037"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T19:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "44227-20261011174500",
+    "inmateNumber": "44227",
+    "name": "COOK, ROCKY ALAN",
+    "bookedAt": "2026-10-11T17:45:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-11T17:45:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0398319"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T19:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "418267-20261011151100",
+    "inmateNumber": "418267",
+    "name": "JARAMILLO, CRYSTAL GAYLE",
+    "bookedAt": "2026-10-11T15:11:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 15000,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-11T15:11:00",
+        "arrestingAgency": "CHEH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 15000,
+        "warrantNumber": "CC2024028"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T19:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "186610-20261011134300",
     "inmateNumber": "186610",
     "name": "HILL, BRYAN JACOB",
