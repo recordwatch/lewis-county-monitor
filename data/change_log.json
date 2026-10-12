@@ -26,6 +26,64 @@
     "releaseSource": null
   },
   {
+    "id": "212802-20261012081200",
+    "inmateNumber": "212802",
+    "name": "HAENKE, TYREL AARON",
+    "bookedAt": "2026-10-12T08:12:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-12T08:12:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "T00766467"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T10:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "158486-20261012054400",
+    "inmateNumber": "158486",
+    "name": "HERNANDEZ PUENTES, ADAN",
+    "bookedAt": "2026-10-12T05:44:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-12T05:44:00",
+        "arrestingAgency": "WASH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-12T05:44:00",
+        "arrestingAgency": "WASH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T10:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "323997-20261012015100",
     "inmateNumber": "323997",
     "name": "HAHN, JAMES JON",
