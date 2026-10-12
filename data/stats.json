@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T20:32:17",
+  "generatedAt": "2026-10-11T20:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 161,
-    "bookingsObserved": 12,
+    "bookingsTracked": 162,
+    "bookingsObserved": 13,
     "releasesObserved": 4,
-    "inCustody": 157,
-    "uniquePeople": 161
+    "inCustody": 158,
+    "uniquePeople": 162
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 6,
+      "booked": 7,
       "released": 3
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 16,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -189,7 +189,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 13,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 46,
-      "pct": 28.6,
+      "pct": 28.4,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 38,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 35,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 21,
-      "pct": 13,
+      "count": 22,
+      "pct": 13.6,
       "label": "Chehalis Police"
     },
     {
@@ -485,7 +485,7 @@
   },
   "bond": {
     "withBond": 88,
-    "noBond": 69,
+    "noBond": 70,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14336300

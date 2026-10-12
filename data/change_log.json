@@ -1,5 +1,39 @@
 [
   {
+    "id": "422705-20261011184500",
+    "inmateNumber": "422705",
+    "name": "REYNOLDS-CERRATO, JASON R",
+    "bookedAt": "2026-10-11T18:45:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-10-11T18:45:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "MAL MISCH 3RD DV",
+        "arrestDate": "2026-10-11T18:45:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T20:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "175979-20261011182400",
     "inmateNumber": "175979",
     "name": "MOODY, RUSSELL JAY",
