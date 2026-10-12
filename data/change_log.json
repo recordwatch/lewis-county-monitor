@@ -263,7 +263,7 @@
     "name": "REYNOLDS-CERRATO, JASON R",
     "bookedAt": "2026-10-11T18:45:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "ASSAULT 4TH DV",
@@ -271,8 +271,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "6A0416973"
       },
       {
