@@ -845,7 +845,17 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 15000,
-        "warrantNumber": "W"
+        "warrantNumber": "2610054621"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-09T12:26:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610054621"
       }
     ],
     "status": "in_custody",

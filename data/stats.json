@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:55:11",
+  "generatedAt": "2026-10-12T13:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 169,
@@ -178,8 +178,8 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 14,
-      "pct": 3.2
+      "count": 15,
+      "pct": 3.4
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 9,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 236,
-      "pct": 54.4,
+      "count": 237,
+      "pct": 54.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 125,
-      "pct": 28.8,
+      "pct": 28.7,
       "label": "Lewis County District Court"
     },
     {
@@ -364,7 +364,7 @@
     {
       "name": "ODC",
       "count": 5,
-      "pct": 1.2,
+      "pct": 1.1,
       "label": "ODC"
     },
     {
@@ -401,13 +401,13 @@
   "bondTypes": [
     {
       "name": "Included",
-      "count": 114,
-      "pct": 26.1
+      "count": 115,
+      "pct": 26.3
     },
     {
       "name": "Cash or Bond",
       "count": 113,
-      "pct": 25.9
+      "pct": 25.8
     },
     {
       "name": "Serving Time",
