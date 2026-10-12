@@ -1,5 +1,29 @@
 [
   {
+    "id": "418267-20261012090000",
+    "inmateNumber": "418267",
+    "name": "JARAMILLO, CRYSTAL GAYLE",
+    "bookedAt": "2026-10-12T09:00:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 15000,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-12T09:00:00",
+        "arrestingAgency": "CHEH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 15000,
+        "warrantNumber": "CC2024028"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T08:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "323997-20261012015100",
     "inmateNumber": "323997",
     "name": "HAHN, JAMES JON",

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T07:49:13",
+  "generatedAt": "2026-10-12T08:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 166,
-    "bookingsObserved": 17,
+    "bookingsTracked": 167,
+    "bookingsObserved": 18,
     "releasesObserved": 7,
-    "inCustody": 159,
+    "inCustody": 160,
     "uniquePeople": 166
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 1,
+      "booked": 2,
       "released": 2
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 24,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 16,
-      "pct": 3.7
+      "count": 17,
+      "pct": 3.9
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 46,
-      "pct": 27.7,
+      "pct": 27.5,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 39,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 36,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 22,
-      "pct": 13.3,
+      "count": 23,
+      "pct": 13.8,
       "label": "Chehalis Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 234,
-      "pct": 55.1,
+      "pct": 54.9,
       "label": "Lewis County Superior Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "DOC",
       "count": 10,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "ODC",
-      "count": 4,
-      "pct": 0.9,
+      "count": 5,
+      "pct": 1.2,
       "label": "ODC"
     },
     {
@@ -402,17 +402,17 @@
     {
       "name": "Included",
       "count": 113,
-      "pct": 26.4
+      "pct": 26.3
     },
     {
       "name": "Cash or Bond",
-      "count": 110,
-      "pct": 25.7
+      "count": 111,
+      "pct": 25.9
     },
     {
       "name": "Serving Time",
       "count": 94,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "No Bail",
@@ -486,14 +486,14 @@
       }
     ],
     "currentMedianDaysHeld": 21.4,
-    "currentLongestDaysHeld": 764.6
+    "currentLongestDaysHeld": 764.7
   },
   "bond": {
-    "withBond": 88,
+    "withBond": 89,
     "noBond": 71,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14321800
+    "totalBond": 14336800
   },
   "chargesPerBooking": 2.6
 }
