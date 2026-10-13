@@ -1,5 +1,29 @@
 [
   {
+    "id": "6125-20261012115000",
+    "inmateNumber": "6125",
+    "name": "LARSON, JEFFERY TODD",
+    "bookedAt": "2026-10-12T11:50:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "THEFT 2ND DEG>250/FTA",
+        "arrestDate": "2026-10-12T11:50:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "25WA1766"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T21:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "416433-20261012112000",
     "inmateNumber": "416433",
     "name": "BUNCHAIDUNG, CHANAN",
