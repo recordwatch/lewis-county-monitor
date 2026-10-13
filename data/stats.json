@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T22:32:21",
+  "generatedAt": "2026-10-12T22:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 172,
-    "bookingsObserved": 23,
+    "bookingsTracked": 173,
+    "bookingsObserved": 24,
     "releasesObserved": 18,
-    "inCustody": 154,
-    "uniquePeople": 171
+    "inCustody": 155,
+    "uniquePeople": 172
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 7,
+      "booked": 8,
       "released": 13
     }
   ],
@@ -178,16 +178,16 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 15,
-      "pct": 3.4
-    },
-    {
-      "name": "THEFT 3RD DEG",
-      "count": 14,
-      "pct": 3.1
+      "count": 16,
+      "pct": 3.6
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
+      "count": 15,
+      "pct": 3.3
+    },
+    {
+      "name": "THEFT 3RD DEG",
       "count": 14,
       "pct": 3.1
     },
@@ -202,12 +202,12 @@
       "pct": 2
     },
     {
-      "name": "Protection Order Violation",
-      "count": 7,
-      "pct": 1.6
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+      "count": 8,
+      "pct": 1.8
     },
     {
-      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+      "name": "Protection Order Violation",
       "count": 7,
       "pct": 1.6
     },
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 48,
-      "pct": 27.9,
+      "pct": 27.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
-      "count": 39,
-      "pct": 22.7,
+      "count": 40,
+      "pct": 23.1,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 37,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 24,
-      "pct": 14,
+      "pct": 13.9,
       "label": "Chehalis Police"
     },
     {
@@ -485,12 +485,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 23.9,
+    "currentMedianDaysHeld": 23.4,
     "currentLongestDaysHeld": 765.3
   },
   "bond": {
     "withBond": 87,
-    "noBond": 67,
+    "noBond": 68,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14318050

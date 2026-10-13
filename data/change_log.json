@@ -1,5 +1,49 @@
 [
   {
+    "id": "332431-20261012155200",
+    "inmateNumber": "332431",
+    "name": "GEE, JAMIE THOMAS",
+    "bookedAt": "2026-10-12T15:52:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-12T15:52:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-12T15:52:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-12T15:52:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T22:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "253912-20261012140200",
     "inmateNumber": "253912",
     "name": "SUTHERLAND, MASON JAMES",
