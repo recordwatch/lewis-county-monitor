@@ -832,12 +832,12 @@
         "warrantNumber": "25Y000226"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T19:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "169360-20261009190100",
