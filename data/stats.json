@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T02:49:16",
+  "generatedAt": "2026-10-13T03:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 176,
-    "bookingsObserved": 27,
+    "bookingsTracked": 178,
+    "bookingsObserved": 29,
     "releasesObserved": 18,
-    "inCustody": 158,
-    "uniquePeople": 175
+    "inCustody": 160,
+    "uniquePeople": 177
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 11,
+      "booked": 13,
       "released": 13
     },
     {
@@ -162,12 +162,12 @@
   ],
   "topCharges": [
     {
-      "name": "DWLS 3RD DEGREE",
-      "count": 25,
-      "pct": 5.5
+      "name": "DUI",
+      "count": 27,
+      "pct": 5.9
     },
     {
-      "name": "DUI",
+      "name": "DWLS 3RD DEGREE",
       "count": 25,
       "pct": 5.5
     },
@@ -266,37 +266,37 @@
     {
       "name": "JAIL",
       "count": 49,
-      "pct": 27.8,
+      "pct": 27.5,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 40,
-      "pct": 22.7,
+      "pct": 22.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 39,
-      "pct": 22.2,
+      "pct": 21.9,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 24,
-      "pct": 13.6,
+      "count": 25,
+      "pct": 14,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 14,
-      "pct": 8,
+      "pct": 7.9,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
-      "count": 4,
-      "pct": 2.3,
+      "count": 5,
+      "pct": 2.8,
       "label": "Winlock Police"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 242,
-      "pct": 54.1,
+      "pct": 53.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 130,
-      "pct": 29.1,
+      "pct": 29,
       "label": "Lewis County District Court"
     },
     {
       "name": "CSM",
-      "count": 24,
-      "pct": 5.4,
+      "count": 25,
+      "pct": 5.6,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "NMC",
-      "count": 3,
-      "pct": 0.7,
+      "count": 4,
+      "pct": 0.9,
       "label": "Napavine Municipal Court"
     },
     {
@@ -402,22 +402,22 @@
     {
       "name": "Cash or Bond",
       "count": 117,
-      "pct": 26
+      "pct": 25.9
     },
     {
       "name": "Included",
       "count": 116,
-      "pct": 25.8
+      "pct": 25.7
     },
     {
       "name": "Serving Time",
       "count": 96,
-      "pct": 21.3
+      "pct": 21.2
     },
     {
       "name": "No Bail",
-      "count": 46,
-      "pct": 10.2
+      "count": 48,
+      "pct": 10.6
     },
     {
       "name": "Released by Court",
@@ -485,12 +485,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 22.2,
+    "currentMedianDaysHeld": 21.9,
     "currentLongestDaysHeld": 765.4
   },
   "bond": {
     "withBond": 90,
-    "noBond": 68,
+    "noBond": 70,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14327650

@@ -1,5 +1,53 @@
 [
   {
+    "id": "136843-20261012232000",
+    "inmateNumber": "136843",
+    "name": "MCGOWEN, ADAM ISAIAH",
+    "bookedAt": "2026-10-12T23:20:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-12T23:20:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0427424"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T03:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "417212-20261012230200",
+    "inmateNumber": "417212",
+    "name": "MADDEN, ALYSSA SYDNEY",
+    "bookedAt": "2026-10-12T23:02:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-12T23:02:00",
+        "arrestingAgency": "WINL",
+        "court": "NMC",
+        "billingAgency": "WINL",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0386987"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T03:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "326045-20261012200000",
     "inmateNumber": "326045",
     "name": "ALLEN, VERNON CLAUDE",
