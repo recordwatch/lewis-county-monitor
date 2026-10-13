@@ -5,43 +5,45 @@
     "name": "GEE, JAMIE THOMAS",
     "bookedAt": "2026-10-12T15:52:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-10-12T15:52:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0398322"
       },
       {
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
         "arrestDate": "2026-10-12T15:52:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0227165"
       },
       {
         "description": "DWLS 3RD DEGREE/FTA",
         "arrestDate": "2026-10-12T15:52:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0227162"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T22:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "253912-20261012140200",
