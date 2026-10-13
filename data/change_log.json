@@ -1,5 +1,29 @@
 [
   {
+    "id": "407428-20261013120600",
+    "inmateNumber": "407428",
+    "name": "TAYLOR, SHAWN LOREN",
+    "bookedAt": "2026-10-13T12:06:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "PHYSIC CONT W INTOX",
+        "arrestDate": "2026-10-13T12:06:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "5A0395326"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T14:17:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "88280-20261013104600",
     "inmateNumber": "88280",
     "name": "CALDWELL, KEITH DAVID",
@@ -101,8 +125,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 7600,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "7Z0711112"
       }
     ],
@@ -197,7 +221,7 @@
     "name": "GEE, JAMIE THOMAS",
     "bookedAt": "2026-10-12T15:52:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 1000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -206,7 +230,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 10000,
         "warrantNumber": "6A0398322"
       },
       {
@@ -383,7 +407,7 @@
     "name": "HERNANDEZ PUENTES, ADAN",
     "bookedAt": "2026-10-12T05:44:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 2500,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "DUI",
@@ -391,8 +415,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
         "warrantNumber": "T00801732"
       },
       {
@@ -401,8 +425,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00801732"
       },
       {
@@ -411,8 +435,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00801732"
       },
       {
@@ -421,8 +445,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00801733"
       }
     ],
