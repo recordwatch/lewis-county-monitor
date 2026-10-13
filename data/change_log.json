@@ -1,5 +1,29 @@
 [
   {
+    "id": "326045-20261012200000",
+    "inmateNumber": "326045",
+    "name": "ALLEN, VERNON CLAUDE",
+    "bookedAt": "2026-10-12T20:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 7600,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-12T20:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 7600,
+        "warrantNumber": "7Z0711112"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T01:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "43303-20261012183300",
     "inmateNumber": "43303",
     "name": "BINGISSER, KODY DEVIN",

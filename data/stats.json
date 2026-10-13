@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T01:32:16",
+  "generatedAt": "2026-10-13T01:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 175,
-    "bookingsObserved": 26,
+    "bookingsTracked": 176,
+    "bookingsObserved": 27,
     "releasesObserved": 18,
-    "inCustody": 157,
-    "uniquePeople": 174
+    "inCustody": 158,
+    "uniquePeople": 175
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 10,
+      "booked": 11,
       "released": 13
     },
     {
@@ -177,17 +177,17 @@
       "pct": 4
     },
     {
+      "name": "DWLS 3RD DEGREE/FTA",
+      "count": 16,
+      "pct": 3.5
+    },
+    {
       "name": "POSS of Controlled Substance",
       "count": 16,
       "pct": 3.5
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 15,
-      "pct": 3.3
-    },
-    {
-      "name": "DWLS 3RD DEGREE/FTA",
       "count": 15,
       "pct": 3.3
     },
@@ -209,12 +209,12 @@
     {
       "name": "HARRASSMENT-DEATH THREAT",
       "count": 7,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "Protection Order Violation",
       "count": 7,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "RESISTING ARREST",
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "JAIL",
-      "count": 48,
-      "pct": 27.4,
+      "count": 49,
+      "pct": 27.8,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 40,
-      "pct": 22.9,
+      "pct": 22.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 39,
-      "pct": 22.3,
+      "pct": 22.2,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 24,
-      "pct": 13.7,
+      "pct": 13.6,
       "label": "Chehalis Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 242,
-      "pct": 54.3,
+      "pct": 54.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 129,
-      "pct": 28.9,
+      "count": 130,
+      "pct": 29.1,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CNM",
       "count": 23,
-      "pct": 5.2,
+      "pct": 5.1,
       "label": "Centralia Municipal Court"
     },
     {
@@ -401,8 +401,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 116,
-      "pct": 25.8
+      "count": 117,
+      "pct": 26
     },
     {
       "name": "Included",
@@ -412,7 +412,7 @@
     {
       "name": "Serving Time",
       "count": 96,
-      "pct": 21.4
+      "pct": 21.3
     },
     {
       "name": "No Bail",
@@ -489,11 +489,11 @@
     "currentLongestDaysHeld": 765.4
   },
   "bond": {
-    "withBond": 89,
+    "withBond": 90,
     "noBond": 68,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14320050
+    "totalBond": 14327650
   },
   "chargesPerBooking": 2.6
 }
