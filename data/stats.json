@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:32:15",
+  "generatedAt": "2026-10-13T16:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 181,
@@ -416,8 +416,8 @@
     },
     {
       "name": "Cash or Bond",
-      "count": 115,
-      "pct": 25.1
+      "count": 114,
+      "pct": 24.8
     },
     {
       "name": "Serving Time",
@@ -431,8 +431,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 42,
-      "pct": 9.2
+      "count": 43,
+      "pct": 9.4
     },
     {
       "name": "Amended",

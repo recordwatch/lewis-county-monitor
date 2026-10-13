@@ -303,8 +303,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "2510049721"
       }
     ],
