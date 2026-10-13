@@ -5,23 +5,25 @@
     "name": "SUTHERLAND, MASON JAMES",
     "bookedAt": "2026-10-12T14:02:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
         "arrestDate": "2026-10-12T14:02:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0419413"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T21:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "6125-20261012115000",
