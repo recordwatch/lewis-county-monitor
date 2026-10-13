@@ -54,12 +54,12 @@
         "warrantNumber": "REFERRED"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T12:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T16:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "136843-20261012232000",
