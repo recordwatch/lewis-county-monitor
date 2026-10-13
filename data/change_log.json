@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-13T14:17:18",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "88280-20261013104600",
@@ -3035,7 +3037,7 @@
     "name": "HANDORFF, PETER MICHAEL",
     "bookedAt": "2026-09-27T20:53:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 100000,
+    "bondTotal": 107500,
     "charges": [
       {
         "description": "ASSAULT 1ST/FIREARM",
@@ -3063,8 +3065,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 7500,
         "warrantNumber": "6A0350446"
       }
     ],
