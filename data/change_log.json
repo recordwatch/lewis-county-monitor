@@ -162,10 +162,10 @@
         "arrestDate": "2026-10-12T11:50:00",
         "arrestingAgency": "CENT",
         "court": "SUP",
-        "billingAgency": null,
+        "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 10000,
-        "warrantNumber": "25WA1766"
+        "warrantNumber": "2510049721"
       }
     ],
     "status": "in_custody",
