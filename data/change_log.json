@@ -1423,7 +1423,7 @@
     "name": "MACKEY, DANIEL JOSEPH",
     "bookedAt": "2026-10-08T14:01:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 10000,
+    "bondTotal": 11000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -1442,7 +1442,7 @@
         "court": "WLM",
         "billingAgency": "TOL",
         "bondType": "Released on Bond",
-        "bondAmount": null,
+        "bondAmount": 1000,
         "warrantNumber": "6A0259238"
       }
     ],
