@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T16:49:13",
+  "generatedAt": "2026-10-12T17:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 170,
@@ -202,6 +202,11 @@
       "pct": 2
     },
     {
+      "name": "Protection Order Violation",
+      "count": 7,
+      "pct": 1.6
+    },
+    {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 7,
       "pct": 1.6
@@ -218,11 +223,6 @@
     },
     {
       "name": "HARRASSMENT-DEATH THREAT",
-      "count": 6,
-      "pct": 1.4
-    },
-    {
-      "name": "Protection Order Violation",
       "count": 6,
       "pct": 1.4
     },
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 240,
-      "pct": 54.8,
+      "pct": 54.7,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 125,
-      "pct": 28.5,
+      "count": 126,
+      "pct": 28.7,
       "label": "Lewis County District Court"
     },
     {
       "name": "CSM",
       "count": 23,
-      "pct": 5.3,
+      "pct": 5.2,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -402,22 +402,22 @@
     {
       "name": "Included",
       "count": 116,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "Cash or Bond",
       "count": 112,
-      "pct": 25.4
+      "pct": 25.3
     },
     {
       "name": "Serving Time",
       "count": 96,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "No Bail",
-      "count": 42,
-      "pct": 9.5
+      "count": 43,
+      "pct": 9.7
     },
     {
       "name": "Released by Court",
@@ -493,7 +493,7 @@
     "noBond": 68,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14367050
+    "totalBond": 14327050
   },
   "chargesPerBooking": 2.6
 }

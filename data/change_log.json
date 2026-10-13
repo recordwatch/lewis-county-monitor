@@ -573,7 +573,7 @@
     "name": "DUNIVIN, ROBERT LOYD",
     "bookedAt": "2026-10-10T18:59:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 104000,
+    "bondTotal": 64000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
@@ -592,7 +592,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 100000,
+        "bondAmount": 60000,
         "warrantNumber": "2610054521"
       },
       {
@@ -2712,6 +2712,16 @@
         "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-09-27T20:53:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0350446"
       }
     ],
     "status": "in_custody",
