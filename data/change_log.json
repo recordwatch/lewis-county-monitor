@@ -148,12 +148,12 @@
         "warrantNumber": "6A0073943"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T00:17:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "332431-20261012155200",
@@ -1361,7 +1361,7 @@
     "name": "MACKEY, DANIEL JOSEPH",
     "bookedAt": "2026-10-08T14:01:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 11000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -1379,8 +1379,8 @@
         "arrestingAgency": "WINL",
         "court": "WLM",
         "billingAgency": "TOL",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released on Bond",
+        "bondAmount": null,
         "warrantNumber": "6A0259238"
       }
     ],
@@ -2926,12 +2926,12 @@
         "warrantNumber": "6A0264754"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T11:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "289508-20260928090500",
@@ -3582,12 +3582,12 @@
         "warrantNumber": "6A0346399"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T11:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "400601-20260922133000",
