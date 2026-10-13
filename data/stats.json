@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T03:17:16",
+  "generatedAt": "2026-10-13T03:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 178,
-    "bookingsObserved": 29,
+    "bookingsTracked": 179,
+    "bookingsObserved": 30,
     "releasesObserved": 18,
-    "inCustody": 160,
-    "uniquePeople": 177
+    "inCustody": 161,
+    "uniquePeople": 178
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 13,
+      "booked": 14,
       "released": 13
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 49,
-      "pct": 27.5,
+      "pct": 27.4,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
-      "count": 40,
-      "pct": 22.5,
+      "count": 41,
+      "pct": 22.9,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 39,
-      "pct": 21.9,
+      "pct": 21.8,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 14,
-      "pct": 7.9,
+      "pct": 7.8,
       "label": "Washington State Patrol"
     },
     {
@@ -485,15 +485,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 21.9,
-    "currentLongestDaysHeld": 765.4
+    "currentMedianDaysHeld": 21.7,
+    "currentLongestDaysHeld": 765.5
   },
   "bond": {
     "withBond": 90,
-    "noBond": 70,
+    "noBond": 71,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14327650
   },
-  "chargesPerBooking": 2.6
+  "chargesPerBooking": 2.5
 }
