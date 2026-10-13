@@ -1,5 +1,39 @@
 [
   {
+    "id": "88280-20261013104600",
+    "inmateNumber": "88280",
+    "name": "CALDWELL, KEITH DAVID",
+    "bookedAt": "2026-10-13T10:46:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND/>750",
+        "arrestDate": "2026-10-13T10:46:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "INTERFERE HEALTH CARE FACILITY",
+        "arrestDate": "2026-10-13T10:46:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": "LCSC",
+        "bondType": "Referred",
+        "bondAmount": null,
+        "warrantNumber": "REFERRED"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T12:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "136843-20261012232000",
     "inmateNumber": "136843",
     "name": "MCGOWEN, ADAM ISAIAH",
