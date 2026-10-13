@@ -184,12 +184,12 @@
         "warrantNumber": "W"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T01:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T15:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422742-20261012165500",
