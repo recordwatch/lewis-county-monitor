@@ -1,5 +1,29 @@
 [
   {
+    "id": "43303-20261012183300",
+    "inmateNumber": "43303",
+    "name": "BINGISSER, KODY DEVIN",
+    "bookedAt": "2026-10-12T18:33:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARRASSMENT-DEATH THREAT",
+        "arrestDate": "2026-10-12T18:33:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T01:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422742-20261012165500",
     "inmateNumber": "422742",
     "name": "BAKER, RANDALL LYNN",
