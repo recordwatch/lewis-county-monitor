@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T19:49:15",
+  "generatedAt": "2026-10-12T20:17:12",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 170,
     "bookingsObserved": 21,
-    "releasesObserved": 16,
-    "inCustody": 154,
+    "releasesObserved": 18,
+    "inCustody": 152,
     "uniquePeople": 169
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-12",
       "booked": 5,
-      "released": 11
+      "released": 13
     }
   ],
   "topCharges": [
@@ -389,13 +389,13 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 15,
-      "pct": 93.8
+      "count": 17,
+      "pct": 94.4
     },
     {
       "name": "KITTITAS",
       "count": 1,
-      "pct": 6.3
+      "pct": 5.6
     }
   ],
   "bondTypes": [
@@ -456,8 +456,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 16,
-    "medianDays": 1.4,
+    "releasedCount": 18,
+    "medianDays": 1.8,
     "meanDays": 2.4,
     "buckets": [
       {
@@ -466,11 +466,11 @@
       },
       {
         "label": "1–3 days",
-        "count": 8
+        "count": 9
       },
       {
         "label": "3–7 days",
-        "count": 0
+        "count": 1
       },
       {
         "label": "1–4 weeks",
@@ -485,15 +485,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 23.8,
-    "currentLongestDaysHeld": 765.1
+    "currentMedianDaysHeld": 24.9,
+    "currentLongestDaysHeld": 765.2
   },
   "bond": {
-    "withBond": 87,
+    "withBond": 85,
     "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14327050
+    "totalBond": 14307050
   },
   "chargesPerBooking": 2.6
 }
