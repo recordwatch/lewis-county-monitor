@@ -1,5 +1,29 @@
 [
   {
+    "id": "253912-20261012140200",
+    "inmateNumber": "253912",
+    "name": "SUTHERLAND, MASON JAMES",
+    "bookedAt": "2026-10-12T14:02:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-10-12T14:02:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T21:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "6125-20261012115000",
     "inmateNumber": "6125",
     "name": "LARSON, JEFFERY TODD",
@@ -21,7 +45,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-12T21:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "416433-20261012112000",
