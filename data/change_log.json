@@ -91,8 +91,8 @@
         "arrestingAgency": "LCSO",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Appearance Bond",
-        "bondAmount": 4000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "5A0932918"
       }
     ],
@@ -1786,13 +1786,33 @@
     "bondTotal": 5000,
     "charges": [
       {
+        "description": "DUI",
+        "arrestDate": "2026-10-05T16:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "4A0310327"
+      },
+      {
+        "description": "NVOL - Without ID",
+        "arrestDate": "2026-10-05T16:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "4A0310327"
+      },
+      {
         "description": "THEFT 3RD DEG",
         "arrestDate": "2026-10-05T16:45:00",
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6A0403648"
       },
       {
@@ -1801,7 +1821,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "6A0403648"
       }
