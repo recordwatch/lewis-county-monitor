@@ -18,12 +18,70 @@
         "warrantNumber": "6A0416974"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T20:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T21:20:40",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
+  },
+  {
+    "id": "324441-20261013181100",
+    "inmateNumber": "324441",
+    "name": "ROSANDER, JEFFREY EARL",
+    "bookedAt": "2026-10-13T18:11:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-13T18:11:00",
+        "arrestingAgency": "WINL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T21:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "392567-20261013170200",
+    "inmateNumber": "392567",
+    "name": "KNAPP, CASEY V",
+    "bookedAt": "2026-10-13T17:02:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-13T17:02:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-13T17:02:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T21:49:13",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "422764-20261013153400",
@@ -37,6 +95,32 @@
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-10-13T15:34:00",
         "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0419414"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T21:32:14",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "292635-20261013144100",
+    "inmateNumber": "292635",
+    "name": "MAYER, MICHAEL THOMAS",
+    "bookedAt": "2026-10-13T14:41:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-13T14:41:00",
+        "arrestingAgency": "CENT",
         "court": null,
         "billingAgency": null,
         "bondType": null,
@@ -45,7 +129,7 @@
       }
     ],
     "status": "in_custody",
-    "firstSeen": "2026-10-13T21:32:14",
+    "firstSeen": "2026-10-13T21:49:13",
     "releasedAt": null,
     "baseline": false
   },
