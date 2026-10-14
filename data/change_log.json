@@ -1281,8 +1281,8 @@
         "arrestingAgency": "LCSO",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "PA2600037"
       }
     ],
@@ -1359,8 +1359,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2350,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "6A0426616"
       }
     ],
@@ -4371,7 +4371,7 @@
     "name": "BERNSTEIN, WILLIAM BENJAMIN",
     "bookedAt": "2026-09-22T06:30:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 77500,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
@@ -4459,7 +4459,7 @@
         "arrestingAgency": "CENT",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "5Z0194593"
       },
@@ -4469,8 +4469,8 @@
         "arrestingAgency": "CENT",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "5A0584446"
       },
       {
@@ -4627,7 +4627,7 @@
         "arrestingAgency": "CENT",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0333282"
       },
@@ -4637,7 +4637,7 @@
         "arrestingAgency": "CENT",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0307350"
       },
