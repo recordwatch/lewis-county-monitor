@@ -1,5 +1,39 @@
 [
   {
+    "id": "392567-20261014134416",
+    "inmateNumber": "392567",
+    "name": "KNAPP, CASEY V",
+    "bookedAt": "2026-10-14T13:44:16",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-14T13:44:16",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0427742"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-14T13:44:16",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0427742"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T14:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "376635-20261014103000",
     "inmateNumber": "376635",
     "name": "GRAHAM, DESMOND DARLENE",
@@ -90,12 +124,12 @@
         "warrantNumber": "5A0858443"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T11:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "128923-20261014005700",
@@ -408,12 +442,12 @@
         "warrantNumber": "6A0427742"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T21:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T14:17:15",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "observed"
   },
   {
     "id": "422764-20261013153400",
