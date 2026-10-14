@@ -1,5 +1,29 @@
 [
   {
+    "id": "406408-20261013142500",
+    "inmateNumber": "406408",
+    "name": "KINKADE, KELLI LEE",
+    "bookedAt": "2026-10-13T14:25:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Viol Prev Conviction",
+        "arrestDate": "2026-10-13T14:25:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T20:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "407428-20261013120600",
     "inmateNumber": "407428",
     "name": "TAYLOR, SHAWN LOREN",
