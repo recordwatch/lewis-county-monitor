@@ -18,12 +18,56 @@
         "warrantNumber": "5A0395326"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T14:17:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
+  },
+  {
+    "id": "196307-20261013115300",
+    "inmateNumber": "196307",
+    "name": "DAVIS, TJ CARSON LEE",
+    "bookedAt": "2026-10-13T11:53:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 11000,
+    "charges": [
+      {
+        "description": "RECKLS BURN 2ND DEG/FTA",
+        "arrestDate": "2026-10-13T11:53:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 11000,
+        "warrantNumber": "4A0864101"
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-13T11:53:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Poss Drug Paraphernalia/FTA",
+        "arrestDate": "2026-10-13T11:53:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T19:17:17",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "88280-20261013104600",
@@ -308,12 +352,12 @@
         "warrantNumber": "2510049721"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T21:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "416433-20261012112000",
