@@ -339,7 +339,7 @@
     "name": "GRIFFITH, WAYNE ANTHONY",
     "bookedAt": "2026-10-13T18:04:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 15200,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "ASLT 4TH/FTA",
@@ -348,7 +348,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondAmount": 1000,
         "warrantNumber": "6A0272257"
       },
       {
@@ -358,7 +358,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondAmount": 1000,
         "warrantNumber": "6A0306930"
       },
       {
@@ -447,7 +447,7 @@
     "name": "MAYER, MICHAEL THOMAS",
     "bookedAt": "2026-10-13T14:41:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 15300,
+    "bondTotal": 10200,
     "charges": [
       {
         "description": "DWLS 2ND DEGREE/FTA",
@@ -455,8 +455,8 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "3A0244851"
       },
       {
