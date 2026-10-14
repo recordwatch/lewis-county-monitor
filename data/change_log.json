@@ -1,5 +1,73 @@
 [
   {
+    "id": "128923-20261014005700",
+    "inmateNumber": "128923",
+    "name": "SUITTER, JASON CHARLES",
+    "bookedAt": "2026-10-14T00:57:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-14T00:57:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "4A0502293"
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-14T00:57:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T02:32:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "408297-20261013225600",
+    "inmateNumber": "408297",
+    "name": "FARKAS, FRANK JOSEPH",
+    "bookedAt": "2026-10-13T22:56:00",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATT TO ELUDE/FTA",
+        "arrestDate": "2026-10-13T22:56:00",
+        "arrestingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510030021"
+      },
+      {
+        "description": "DUI/FTA",
+        "arrestDate": "2026-10-13T22:56:00",
+        "arrestingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510030021"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T02:32:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "111120-20261013195800",
     "inmateNumber": "111120",
     "name": "GODSEY, MICHAEL NEIL",
@@ -457,7 +525,7 @@
         "billingAgency": "LC",
         "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "5A0571032LCSCT"
+        "warrantNumber": "5A0571032"
       }
     ],
     "status": "in_custody",
