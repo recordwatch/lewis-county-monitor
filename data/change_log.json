@@ -1,5 +1,29 @@
 [
   {
+    "id": "113567-20261014043700",
+    "inmateNumber": "113567",
+    "name": "REICHERT, ROSS MICHAEL",
+    "bookedAt": "2026-10-14T04:37:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-14T04:37:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "5A0858443"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T11:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "128923-20261014005700",
     "inmateNumber": "128923",
     "name": "SUITTER, JASON CHARLES",
