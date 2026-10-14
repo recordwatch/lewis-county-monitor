@@ -47,11 +47,11 @@
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
         "arrestDate": "2026-10-13T11:53:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "4A0864101"
       },
       {
         "description": "Poss Drug Paraphernalia/FTA",
@@ -67,7 +67,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-13T19:17:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "88280-20261013104600",
@@ -104,6 +106,30 @@
     "baseline": false,
     "releasedTo": "SELF",
     "releaseSource": "official"
+  },
+  {
+    "id": "8332-20261013095500",
+    "inmateNumber": "8332",
+    "name": "RICHARDSON, DAVID GEORGE",
+    "bookedAt": "2026-10-13T09:55:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "PHYSICAL CONTROL",
+        "arrestDate": "2026-10-13T09:55:00",
+        "arrestingAgency": "JAIL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T19:32:16",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "136843-20261012232000",
