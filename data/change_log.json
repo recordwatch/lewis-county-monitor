@@ -59,7 +59,7 @@
         "arrestingAgency": null,
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2510030021"
       },
@@ -69,7 +69,7 @@
         "arrestingAgency": null,
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2510030021"
       }
@@ -241,7 +241,7 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 10100,
-        "warrantNumber": "26WA1577"
+        "warrantNumber": "6A0272257"
       },
       {
         "description": "Criminal Trespass 1st/ FTA",
@@ -251,7 +251,7 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 5100,
-        "warrantNumber": "26WA1588"
+        "warrantNumber": "6A0306930"
       },
       {
         "description": "ASLT 4TH/FTA",
@@ -261,7 +261,7 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "26WA1577"
+        "warrantNumber": "6A0272257"
       }
     ],
     "status": "in_custody",
