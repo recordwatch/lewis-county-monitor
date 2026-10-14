@@ -31,7 +31,7 @@
     "name": "DAVIS, TJ CARSON LEE",
     "bookedAt": "2026-10-13T11:53:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 11000,
+    "bondTotal": 16000,
     "charges": [
       {
         "description": "RECKLS BURN 2ND DEG/FTA",
@@ -57,11 +57,21 @@
         "description": "Poss Drug Paraphernalia/FTA",
         "arrestDate": "2026-10-13T11:53:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "6A0011378"
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-13T11:53:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0011378"
       }
     ],
     "status": "in_custody",
@@ -119,17 +129,19 @@
         "description": "PHYSICAL CONTROL",
         "arrestDate": "2026-10-13T09:55:00",
         "arrestingAgency": "JAIL",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "5A0571032LCSCT"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T19:32:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "136843-20261012232000",

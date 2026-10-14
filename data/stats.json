@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T19:32:16",
+  "generatedAt": "2026-10-13T19:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 183,
@@ -179,7 +179,7 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 17,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -198,8 +198,8 @@
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 9,
-      "pct": 1.9
+      "count": 10,
+      "pct": 2.1
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 243,
-      "pct": 53.2,
+      "pct": 52.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 132,
+      "count": 133,
       "pct": 28.9,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 28,
-      "pct": 6.1,
+      "count": 30,
+      "pct": 6.5,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
       "count": 25,
-      "pct": 5.5,
+      "pct": 5.4,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "WLM",
       "count": 8,
-      "pct": 1.8,
+      "pct": 1.7,
       "label": "Winlock Municipal Court"
     },
     {
@@ -411,23 +411,23 @@
   "bondTypes": [
     {
       "name": "Included",
-      "count": 119,
-      "pct": 25.8
+      "count": 120,
+      "pct": 25.9
     },
     {
       "name": "Cash or Bond",
       "count": 114,
-      "pct": 24.7
+      "pct": 24.6
     },
     {
       "name": "Serving Time",
-      "count": 101,
-      "pct": 21.9
+      "count": 102,
+      "pct": 22
     },
     {
       "name": "No Bail",
       "count": 47,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "Released by Court",
@@ -442,12 +442,12 @@
     {
       "name": "Referred",
       "count": 9,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "Appearance Bond",
-      "count": 5,
-      "pct": 1.1
+      "count": 6,
+      "pct": 1.3
     },
     {
       "name": "Released Time Served",
@@ -500,7 +500,7 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 24.2,
+    "currentMedianDaysHeld": 24.3,
     "currentLongestDaysHeld": 766.1
   },
   "bond": {
@@ -508,7 +508,7 @@
     "noBond": 70,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14302650
+    "totalBond": 14307650
   },
   "chargesPerBooking": 2.5
 }
