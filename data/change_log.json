@@ -37,17 +37,19 @@
         "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-10-13T18:11:00",
         "arrestingAgency": "WINL",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "854882 10-13-26"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T21:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "392567-20261013170200",
@@ -55,33 +57,35 @@
     "name": "KNAPP, CASEY V",
     "bookedAt": "2026-10-13T17:02:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "Drive w/o req ignition intrlck",
         "arrestDate": "2026-10-13T17:02:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0427742"
       },
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-10-13T17:02:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0427742"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T21:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422764-20261013153400",
@@ -96,8 +100,8 @@
         "arrestDate": "2026-10-13T15:34:00",
         "arrestingAgency": "CHEH",
         "court": "CSM",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0419414"
       }
@@ -115,23 +119,45 @@
     "name": "MAYER, MICHAEL THOMAS",
     "bookedAt": "2026-10-13T14:41:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 15300,
     "charges": [
       {
-        "description": "OTHER AGENCY HOLD",
+        "description": "DWLS 2ND DEGREE/FTA",
         "arrestDate": "2026-10-13T14:41:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "3A0244851"
+      },
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-13T14:41:00",
+        "arrestingAgency": "CENT",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "3A0041336"
+      },
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-13T14:41:00",
+        "arrestingAgency": "CENT",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "3A0330796"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T21:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "406408-20261013142500",
