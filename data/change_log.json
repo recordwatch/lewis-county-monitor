@@ -5,23 +5,25 @@
     "name": "GODSEY, MICHAEL NEIL",
     "bookedAt": "2026-10-13T19:58:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-10-13T19:58:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0416974"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T20:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "406408-20261013142500",

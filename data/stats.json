@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:49:13",
+  "generatedAt": "2026-10-13T21:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 185,
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 244,
-      "pct": 52.9,
+      "pct": 52.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 133,
-      "pct": 28.9,
+      "pct": 28.8,
       "label": "Lewis County District Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 25,
-      "pct": 5.4,
+      "count": 26,
+      "pct": 5.6,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "NMC",
       "count": 3,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "Napavine Municipal Court"
     },
     {
@@ -416,8 +416,8 @@
     },
     {
       "name": "Cash or Bond",
-      "count": 114,
-      "pct": 24.5
+      "count": 115,
+      "pct": 24.7
     },
     {
       "name": "Serving Time",
@@ -437,7 +437,7 @@
     {
       "name": "Amended",
       "count": 10,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "Referred",
@@ -500,15 +500,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 23,
+    "currentMedianDaysHeld": 23.1,
     "currentLongestDaysHeld": 766.2
   },
   "bond": {
-    "withBond": 85,
-    "noBond": 72,
+    "withBond": 86,
+    "noBond": 71,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14307650
+    "totalBond": 14308150
   },
   "chargesPerBooking": 2.5
 }
