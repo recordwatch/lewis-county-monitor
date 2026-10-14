@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-13T23:49:12",
+  "generatedAt": "2026-10-14T00:17:12",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 192,
     "bookingsObserved": 43,
-    "releasesObserved": 30,
-    "inCustody": 162,
+    "releasesObserved": 31,
+    "inCustody": 161,
     "uniquePeople": 191
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-14",
-      "booked": 2,
-      "released": 0
-    },
     {
       "date": "2026-09-15",
       "booked": 3,
@@ -158,6 +153,11 @@
       "date": "2026-10-13",
       "booked": 13,
       "released": 11
+    },
+    {
+      "date": "2026-10-14",
+      "booked": 0,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 245,
-      "pct": 51.6,
+      "count": 248,
+      "pct": 51.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 138,
-      "pct": 29.1,
+      "pct": 28.9,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 35,
-      "pct": 7.4,
+      "pct": 7.3,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
       "count": 27,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -364,7 +364,7 @@
     {
       "name": "ODC",
       "count": 5,
-      "pct": 1.1,
+      "pct": 1,
       "label": "ODC"
     },
     {
@@ -390,39 +390,39 @@
     {
       "name": "SELF",
       "count": 27,
-      "pct": 90
+      "pct": 87.1
+    },
+    {
+      "name": "KITTITAS",
+      "count": 2,
+      "pct": 6.5
     },
     {
       "name": "MOBILE CRISIS",
       "count": 1,
-      "pct": 3.3
-    },
-    {
-      "name": "KITTITAS",
-      "count": 1,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "FRIENDSHIP",
       "count": 1,
-      "pct": 3.3
+      "pct": 3.2
     }
   ],
   "bondTypes": [
     {
-      "name": "Included",
-      "count": 122,
+      "name": "Cash or Bond",
+      "count": 123,
       "pct": 25.5
     },
     {
-      "name": "Cash or Bond",
-      "count": 120,
-      "pct": 25.1
+      "name": "Included",
+      "count": 122,
+      "pct": 25.3
     },
     {
       "name": "Serving Time",
       "count": 103,
-      "pct": 21.5
+      "pct": 21.4
     },
     {
       "name": "No Bail",
@@ -432,7 +432,7 @@
     {
       "name": "Released by Court",
       "count": 43,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Amended",
@@ -471,8 +471,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 30,
-    "medianDays": 1.5,
+    "releasedCount": 31,
+    "medianDays": 1.6,
     "meanDays": 3.6,
     "buckets": [
       {
@@ -481,7 +481,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 10
+        "count": 11
       },
       {
         "label": "3–7 days",
@@ -500,15 +500,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 22.2,
+    "currentMedianDaysHeld": 22.5,
     "currentLongestDaysHeld": 766.3
   },
   "bond": {
     "withBond": 88,
-    "noBond": 74,
+    "noBond": 73,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14342450
+    "totalBond": 14352750
   },
   "chargesPerBooking": 2.5
 }

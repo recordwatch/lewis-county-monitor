@@ -47,7 +47,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-13T23:49:12",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "340713-20261013183900",
@@ -147,37 +149,37 @@
     "name": "GRIFFITH, WAYNE ANTHONY",
     "bookedAt": "2026-10-13T18:04:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 25300,
     "charges": [
       {
         "description": "ASLT 4TH/FTA",
         "arrestDate": "2026-10-13T18:04:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "26WA1577"
       },
       {
         "description": "Criminal Trespass 1st/ FTA",
         "arrestDate": "2026-10-13T18:04:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "26WA1588"
       },
       {
         "description": "ASLT 4TH/FTA",
         "arrestDate": "2026-10-13T18:04:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "26WA1577"
       }
     ],
     "status": "in_custody",
@@ -774,12 +776,12 @@
         "warrantNumber": "CC2024028"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T08:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "KITTITAS",
+    "releaseSource": "official"
   },
   {
     "id": "212802-20261012081200",
