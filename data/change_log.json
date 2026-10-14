@@ -111,8 +111,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "4A0502293"
       },
       {
@@ -121,8 +121,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "3A0704561"
       }
     ],
@@ -465,8 +465,8 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "3A0041336"
       },
       {
@@ -475,8 +475,8 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "3A0330796"
       }
     ],
@@ -506,12 +506,12 @@
         "warrantNumber": "W"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T20:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "407428-20261013120600",
