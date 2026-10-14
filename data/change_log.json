@@ -118,6 +118,50 @@
     "releaseSource": null
   },
   {
+    "id": "190216-20261013180400",
+    "inmateNumber": "190216",
+    "name": "GRIFFITH, WAYNE ANTHONY",
+    "bookedAt": "2026-10-13T18:04:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASLT 4TH/FTA",
+        "arrestDate": "2026-10-13T18:04:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Criminal Trespass 1st/ FTA",
+        "arrestDate": "2026-10-13T18:04:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "ASLT 4TH/FTA",
+        "arrestDate": "2026-10-13T18:04:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T23:32:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "392567-20261013170200",
     "inmateNumber": "392567",
     "name": "KNAPP, CASEY V",
