@@ -142,6 +142,16 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "MAKE FALSE STATEMENT",
+        "arrestDate": "2026-10-13T19:00:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610055021"
+      },
+      {
         "description": "THEFT 2ND DEG>250",
         "arrestDate": "2026-10-13T19:00:00",
         "arrestingAgency": "CHEH",
@@ -149,7 +159,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610055021"
       }
     ],
     "status": "in_custody",
