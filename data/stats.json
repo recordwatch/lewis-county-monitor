@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T15:17:14",
+  "generatedAt": "2026-10-14T15:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 198,
-    "bookingsObserved": 49,
+    "bookingsTracked": 199,
+    "bookingsObserved": 50,
     "releasesObserved": 37,
-    "inCustody": 161,
-    "uniquePeople": 196
+    "inCustody": 162,
+    "uniquePeople": 197
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 5,
+      "booked": 6,
       "released": 8
     }
   ],
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "JAIL",
-      "count": 54,
-      "pct": 27.4,
+      "count": 55,
+      "pct": 27.8,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 46,
-      "pct": 23.4,
+      "pct": 23.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 43,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 28,
-      "pct": 14.2,
+      "pct": 14.1,
       "label": "Chehalis Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 252,
-      "pct": 51.3,
+      "pct": 51.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 146,
-      "pct": 29.7,
+      "count": 147,
+      "pct": 29.9,
       "label": "Lewis County District Court"
     },
     {
@@ -417,12 +417,12 @@
     {
       "name": "Included",
       "count": 129,
-      "pct": 26.1
+      "pct": 26
     },
     {
       "name": "Cash or Bond",
-      "count": 122,
-      "pct": 24.6
+      "count": 123,
+      "pct": 24.8
     },
     {
       "name": "Serving Time",
@@ -505,15 +505,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 23.2,
-    "currentLongestDaysHeld": 766.9
+    "currentMedianDaysHeld": 22.8,
+    "currentLongestDaysHeld": 767
   },
   "bond": {
-    "withBond": 88,
+    "withBond": 89,
     "noBond": 73,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14268550
+    "totalBond": 14283650
   },
   "chargesPerBooking": 2.5
 }

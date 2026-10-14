@@ -62,6 +62,30 @@
     "releaseSource": null
   },
   {
+    "id": "98288-20261014103000",
+    "inmateNumber": "98288",
+    "name": "WHITMIRE, GALEN ROBERT",
+    "bookedAt": "2026-10-14T10:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 15100,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV/FTA",
+        "arrestDate": "2026-10-14T10:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 15100,
+        "warrantNumber": "26Y000141"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T15:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "409251-20261014085500",
     "inmateNumber": "409251",
     "name": "LAVERS, RYAN PAUL ROBERT",
