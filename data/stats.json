@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T23:32:20",
+  "generatedAt": "2026-10-13T23:49:12",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 191,
-    "bookingsObserved": 42,
-    "releasesObserved": 29,
+    "bookingsTracked": 192,
+    "bookingsObserved": 43,
+    "releasesObserved": 30,
     "inCustody": 162,
-    "uniquePeople": 190
+    "uniquePeople": 191
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 12,
+      "booked": 13,
       "released": 11
     }
   ],
@@ -217,6 +217,11 @@
       "pct": 1.4
     },
     {
+      "name": "THEFT 2ND DEG>250",
+      "count": 6,
+      "pct": 1.2
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 6,
       "pct": 1.2
@@ -252,11 +257,6 @@
       "pct": 1
     },
     {
-      "name": "THEFT 2ND DEG>250",
-      "count": 5,
-      "pct": 1
-    },
-    {
       "name": "RAPE 2ND",
       "count": 5,
       "pct": 1
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 51,
-      "pct": 26.7,
+      "pct": 26.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 44,
-      "pct": 23,
+      "pct": 22.9,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 43,
-      "pct": 22.5,
+      "pct": 22.4,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 27,
-      "pct": 14.1,
+      "count": 28,
+      "pct": 14.6,
       "label": "Chehalis Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 244,
-      "pct": 51.5,
+      "count": 245,
+      "pct": 51.6,
       "label": "Lewis County Superior Court"
     },
     {
@@ -389,23 +389,23 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 26,
-      "pct": 89.7
+      "count": 27,
+      "pct": 90
     },
     {
       "name": "MOBILE CRISIS",
       "count": 1,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "KITTITAS",
       "count": 1,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "FRIENDSHIP",
       "count": 1,
-      "pct": 3.4
+      "pct": 3.3
     }
   ],
   "bondTypes": [
@@ -426,8 +426,8 @@
     },
     {
       "name": "No Bail",
-      "count": 49,
-      "pct": 10.3
+      "count": 50,
+      "pct": 10.4
     },
     {
       "name": "Released by Court",
@@ -471,9 +471,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 29,
-    "medianDays": 1.3,
-    "meanDays": 3.5,
+    "releasedCount": 30,
+    "medianDays": 1.5,
+    "meanDays": 3.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -485,7 +485,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 2
+        "count": 3
       },
       {
         "label": "1–4 weeks",
@@ -500,7 +500,7 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 22.1,
+    "currentMedianDaysHeld": 22.2,
     "currentLongestDaysHeld": 766.3
   },
   "bond": {

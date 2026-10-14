@@ -26,6 +26,30 @@
     "releaseSource": "official"
   },
   {
+    "id": "422771-20261013190000",
+    "inmateNumber": "422771",
+    "name": "SINGH, KIRANDEEP",
+    "bookedAt": "2026-10-13T19:00:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 2ND DEG>250",
+        "arrestDate": "2026-10-13T19:00:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T23:49:12",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "340713-20261013183900",
     "inmateNumber": "340713",
     "name": "GOMEZ-MORENO, AMY ROSELYNN",
@@ -159,7 +183,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-13T23:32:20",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "392567-20261013170200",
@@ -1932,12 +1958,12 @@
         "warrantNumber": "4A0333601"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "18864-20261007173000",
