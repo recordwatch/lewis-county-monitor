@@ -2196,12 +2196,12 @@
         "warrantNumber": "398650 100626"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T11:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "3088-20261006154000",
