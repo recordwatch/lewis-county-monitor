@@ -273,7 +273,7 @@
     "name": "SINGH, KIRANDEEP",
     "bookedAt": "2026-10-13T19:00:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "MAKE FALSE STATEMENT",
@@ -291,8 +291,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
         "warrantNumber": "2610055021"
       }
     ],
