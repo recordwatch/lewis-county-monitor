@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:58:21",
+  "generatedAt": "2026-10-14T16:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 199,
@@ -421,8 +421,8 @@
     },
     {
       "name": "Cash or Bond",
-      "count": 123,
-      "pct": 24.8
+      "count": 122,
+      "pct": 24.6
     },
     {
       "name": "Serving Time",
@@ -436,8 +436,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 43,
-      "pct": 8.7
+      "count": 44,
+      "pct": 8.9
     },
     {
       "name": "Amended",
@@ -513,7 +513,7 @@
     "noBond": 72,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14283650
+    "totalBond": 14281150
   },
   "chargesPerBooking": 2.5
 }

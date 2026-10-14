@@ -4371,7 +4371,7 @@
     "name": "BERNSTEIN, WILLIAM BENJAMIN",
     "bookedAt": "2026-09-22T06:30:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 80000,
+    "bondTotal": 77500,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
@@ -4449,8 +4449,8 @@
         "arrestingAgency": "CENT",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "5Z0194593"
       },
       {
