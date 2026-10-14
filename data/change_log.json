@@ -22,7 +22,7 @@
         "arrestDate": "2026-10-14T00:57:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
+        "billingAgency": "LC",
         "bondType": "Cash or Bond",
         "bondAmount": 5100,
         "warrantNumber": "3A0704561"
