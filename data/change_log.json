@@ -1,5 +1,29 @@
 [
   {
+    "id": "376635-20261014103000",
+    "inmateNumber": "376635",
+    "name": "GRAHAM, DESMOND DARLENE",
+    "bookedAt": "2026-10-14T10:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG/FTA",
+        "arrestDate": "2026-10-14T10:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "2A0078242"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T12:49:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "409251-20261014085500",
     "inmateNumber": "409251",
     "name": "LAVERS, RYAN PAUL ROBERT",
@@ -41,7 +65,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-14T12:32:18",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "113567-20261014043700",
