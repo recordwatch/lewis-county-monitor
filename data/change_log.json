@@ -1,5 +1,49 @@
 [
   {
+    "id": "409251-20261014085500",
+    "inmateNumber": "409251",
+    "name": "LAVERS, RYAN PAUL ROBERT",
+    "bookedAt": "2026-10-14T08:55:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Identity Theft/FTA",
+        "arrestDate": "2026-10-14T08:55:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510063321"
+      },
+      {
+        "description": "THEFT 1ST DEG>1500/FTA",
+        "arrestDate": "2026-10-14T08:55:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2510063321"
+      },
+      {
+        "description": "FORGERY/FTA",
+        "arrestDate": "2026-10-14T08:55:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2510063321"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T12:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "113567-20261014043700",
     "inmateNumber": "113567",
     "name": "REICHERT, ROSS MICHAEL",
