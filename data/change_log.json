@@ -26,6 +26,50 @@
     "releaseSource": "official"
   },
   {
+    "id": "340713-20261013183900",
+    "inmateNumber": "340713",
+    "name": "GOMEZ-MORENO, AMY ROSELYNN",
+    "bookedAt": "2026-10-13T18:39:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG/FTA",
+        "arrestDate": "2026-10-13T18:39:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-10-13T18:39:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-13T18:39:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T22:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "324441-20261013181100",
     "inmateNumber": "324441",
     "name": "ROSANDER, JEFFREY EARL",
