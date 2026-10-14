@@ -1,5 +1,29 @@
 [
   {
+    "id": "111120-20261013195800",
+    "inmateNumber": "111120",
+    "name": "GODSEY, MICHAEL NEIL",
+    "bookedAt": "2026-10-13T19:58:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-13T19:58:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T20:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "406408-20261013142500",
     "inmateNumber": "406408",
     "name": "KINKADE, KELLI LEE",
@@ -21,7 +45,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-13T20:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "407428-20261013120600",
