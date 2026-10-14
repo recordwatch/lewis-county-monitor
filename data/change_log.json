@@ -5,7 +5,7 @@
     "name": "SUITTER, JASON CHARLES",
     "bookedAt": "2026-10-14T00:57:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 5100,
+    "bondTotal": 10200,
     "charges": [
       {
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -21,17 +21,19 @@
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
         "arrestDate": "2026-10-14T00:57:00",
         "arrestingAgency": "LCSO",
-        "court": null,
+        "court": "LCD",
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "3A0704561"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T02:32:19",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "408297-20261013225600",
@@ -60,12 +62,24 @@
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "2510030021"
+      },
+      {
+        "description": "RECKLESS DRIVING/FTA",
+        "arrestDate": "2026-10-13T22:56:00",
+        "arrestingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510030021"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T02:32:19",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "111120-20261013195800",
@@ -217,7 +231,7 @@
     "name": "GRIFFITH, WAYNE ANTHONY",
     "bookedAt": "2026-10-13T18:04:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 25300,
+    "bondTotal": 15200,
     "charges": [
       {
         "description": "ASLT 4TH/FTA",
@@ -245,8 +259,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "26WA1577"
       }
     ],
