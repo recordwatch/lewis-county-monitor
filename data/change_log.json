@@ -5417,7 +5417,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "19Y000151"
       },
@@ -5427,7 +5427,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "19Y000151"
       },
@@ -5437,7 +5437,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "19Y000151"
       },
