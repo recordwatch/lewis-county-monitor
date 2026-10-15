@@ -201,7 +201,7 @@
     "name": "FARKAS, FRANK JOSEPH",
     "bookedAt": "2026-10-13T22:56:00",
     "arrestingAgency": null,
-    "bondTotal": null,
+    "bondTotal": 150000,
     "charges": [
       {
         "description": "ATT TO ELUDE/FTA",
@@ -209,8 +209,8 @@
         "arrestingAgency": null,
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 150000,
         "warrantNumber": "2510030021"
       },
       {
