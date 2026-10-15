@@ -47,21 +47,21 @@
         "description": "RESIDENTIAL BURGLARY",
         "arrestDate": "2026-10-14T18:21:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "ASSLT 3rd DEGREE (nurse,physician,HC pro",
         "arrestDate": "2026-10-14T18:21:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "HARASSMENT",
@@ -97,7 +97,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-14T23:17:12",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422789-20261014153000",
