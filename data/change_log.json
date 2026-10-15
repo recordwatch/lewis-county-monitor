@@ -67,7 +67,7 @@
     "name": "GOBLE, DERRICK ELLISON",
     "bookedAt": "2026-10-14T20:22:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 5200,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -76,7 +76,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2600,
+        "bondAmount": 2500,
         "warrantNumber": "6A0171709"
       },
       {
@@ -86,7 +86,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2600,
+        "bondAmount": 2500,
         "warrantNumber": "6A0239944"
       },
       {
@@ -401,7 +401,7 @@
     "name": "WHITMIRE, GALEN ROBERT",
     "bookedAt": "2026-10-14T10:30:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 15100,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "ASSAULT 4TH DV/FTA",
@@ -410,7 +410,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 15100,
+        "bondAmount": 2500,
         "warrantNumber": "26Y000141"
       }
     ],
@@ -1832,12 +1832,12 @@
         "warrantNumber": "2610053521"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T22:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "36515-20261010203000",

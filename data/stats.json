@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T13:32:16",
+  "generatedAt": "2026-10-15T13:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 208,
     "bookingsObserved": 59,
-    "releasesObserved": 51,
-    "inCustody": 157,
+    "releasesObserved": 52,
+    "inCustody": 156,
     "uniquePeople": 205
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-15",
       "booked": 2,
-      "released": 5
+      "released": 6
     }
   ],
   "topCharges": [
@@ -389,13 +389,13 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 45,
-      "pct": 90
+      "count": 46,
+      "pct": 90.2
     },
     {
       "name": "KITTITAS",
       "count": 2,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "MOBILE CRISIS",
@@ -476,8 +476,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 51,
-    "medianDays": 1.8,
+    "releasedCount": 52,
+    "medianDays": 1.9,
     "meanDays": 4.4,
     "buckets": [
       {
@@ -490,7 +490,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 5
+        "count": 6
       },
       {
         "label": "1–4 weeks",
@@ -505,15 +505,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 24.6,
+    "currentMedianDaysHeld": 24.7,
     "currentLongestDaysHeld": 767.9
   },
   "bond": {
     "withBond": 91,
-    "noBond": 66,
+    "noBond": 65,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14522350
+    "totalBond": 14509550
   },
   "chargesPerBooking": 2.5
 }
