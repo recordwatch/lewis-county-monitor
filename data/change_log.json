@@ -496,12 +496,12 @@
         "warrantNumber": "6A0419414"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T21:32:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T18:57:57",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "292635-20261013144100",
@@ -738,12 +738,12 @@
         "warrantNumber": "6A0427424"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T03:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T19:13:41",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "417212-20261012230200",
@@ -4868,12 +4868,12 @@
         "warrantNumber": "5A0374558"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T19:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "407793-20260915193200",
