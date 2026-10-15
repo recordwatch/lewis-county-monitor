@@ -1,5 +1,29 @@
 [
   {
+    "id": "210823-20261014140000",
+    "inmateNumber": "210823",
+    "name": "ARMITAGE, JARED STEVEN",
+    "bookedAt": "2026-10-14T14:00:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT CHILD 3RD DEGREE",
+        "arrestDate": "2026-10-14T14:00:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T20:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "392567-20261014134416",
     "inmateNumber": "392567",
     "name": "KNAPP, CASEY V",
