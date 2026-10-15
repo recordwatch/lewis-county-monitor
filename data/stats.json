@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T09:49:16",
+  "generatedAt": "2026-10-15T10:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 206,
-    "bookingsObserved": 57,
-    "releasesObserved": 49,
+    "bookingsTracked": 207,
+    "bookingsObserved": 58,
+    "releasesObserved": 50,
     "inCustody": 157,
-    "uniquePeople": 203
+    "uniquePeople": 204
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 0,
-      "released": 3
+      "booked": 1,
+      "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 29,
-      "pct": 5.6
+      "count": 30,
+      "pct": 5.8
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -204,7 +204,7 @@
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 9,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DUI/FTA",
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 57,
-      "pct": 27.8,
+      "pct": 27.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
-      "count": 48,
-      "pct": 23.4,
+      "count": 49,
+      "pct": 23.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 45,
-      "pct": 22,
+      "pct": 21.8,
       "label": "Centralia Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 256,
-      "pct": 50.7,
+      "pct": 50.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 152,
-      "pct": 30.1,
+      "count": 153,
+      "pct": 30.2,
       "label": "Lewis County District Court"
     },
     {
@@ -389,28 +389,28 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 43,
-      "pct": 89.6
+      "count": 44,
+      "pct": 89.8
     },
     {
       "name": "KITTITAS",
       "count": 2,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "MOBILE CRISIS",
       "count": 1,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "FRIENDSHIP",
       "count": 1,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "DOC",
       "count": 1,
-      "pct": 2.1
+      "pct": 2
     }
   ],
   "bondTypes": [
@@ -431,8 +431,8 @@
     },
     {
       "name": "No Bail",
-      "count": 52,
-      "pct": 10.2
+      "count": 53,
+      "pct": 10.4
     },
     {
       "name": "Released by Court",
@@ -476,13 +476,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 49,
-    "medianDays": 2,
-    "meanDays": 4.6,
+    "releasedCount": 50,
+    "medianDays": 1.9,
+    "meanDays": 4.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 16
+        "count": 17
       },
       {
         "label": "1–3 days",
@@ -509,11 +509,11 @@
     "currentLongestDaysHeld": 767.7
   },
   "bond": {
-    "withBond": 91,
-    "noBond": 66,
+    "withBond": 90,
+    "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14447850
+    "totalBond": 14445850
   },
   "chargesPerBooking": 2.5
 }
