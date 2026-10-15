@@ -1,5 +1,29 @@
 [
   {
+    "id": "170415-20261015083700",
+    "inmateNumber": "170415",
+    "name": "CRAIG, TREVOR KENNETH",
+    "bookedAt": "2026-10-15T08:37:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-15T08:37:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 3000,
+        "warrantNumber": "CR29680"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T11:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "378080-20261015044400",
     "inmateNumber": "378080",
     "name": "PETERS, TRENTON LEE",
