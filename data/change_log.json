@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-14T20:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "392567-20261014134416",
@@ -58,6 +60,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "48017-20261014125800",
+    "inmateNumber": "48017",
+    "name": "SANCHEZ, TREVOR BRENT",
+    "bookedAt": "2026-10-14T12:58:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "INDECENT LIBERTIES/FORCE",
+        "arrestDate": "2026-10-14T12:58:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T20:32:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "376635-20261014103000",
