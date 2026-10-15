@@ -1,5 +1,29 @@
 [
   {
+    "id": "422789-20261014153000",
+    "inmateNumber": "422789",
+    "name": "MARTINEZ BENITEZ, RAUL",
+    "bookedAt": "2026-10-14T15:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 25000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-14T15:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
+        "warrantNumber": "6A0336570"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T21:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "210823-20261014140000",
     "inmateNumber": "210823",
     "name": "ARMITAGE, JARED STEVEN",
@@ -75,7 +99,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": null,
+        "bondType": "Transport Order",
         "bondAmount": null,
         "warrantNumber": null
       }
