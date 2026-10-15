@@ -195,21 +195,31 @@
         "description": "DISORDERLY CONDUCT",
         "arrestDate": "2026-10-14T18:21:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610055221"
       },
       {
         "description": "INTERFERE HEALTH CARE FACILITY",
         "arrestDate": "2026-10-14T18:21:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610055221"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-10-14T18:21:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610055221"
       }
     ],
     "status": "in_custody",
@@ -6973,7 +6983,7 @@
     "name": "JOHNSON, JENNIFER JO",
     "bookedAt": "2026-07-03T01:31:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 6500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "Antiharassment Protection Order Viol",
@@ -6981,8 +6991,8 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1500,
+        "bondType": "Dismissed",
+        "bondAmount": null,
         "warrantNumber": "6a0233055"
       },
       {
@@ -7002,6 +7012,26 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610030721"
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-07-03T01:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610030721"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "arrestDate": "2026-07-03T01:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610030721"
       }
