@@ -6390,12 +6390,12 @@
         "warrantNumber": "2519321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T14:54:26",
     "baseline": true,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "official"
   },
   {
     "id": "178122-20260811094500",
