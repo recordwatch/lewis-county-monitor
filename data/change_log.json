@@ -437,7 +437,7 @@
     "name": "LAVERS, RYAN PAUL ROBERT",
     "bookedAt": "2026-10-14T08:55:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "Identity Theft/FTA",
@@ -445,8 +445,8 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
         "warrantNumber": "2510063321"
       },
       {
@@ -2425,7 +2425,7 @@
     "name": "MACKEY, DANIEL JOSEPH",
     "bookedAt": "2026-10-08T14:01:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 11000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -2433,8 +2433,8 @@
         "arrestingAgency": "WINL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0309106"
       },
       {
