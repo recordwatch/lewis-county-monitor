@@ -169,7 +169,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610055221"
       },
       {
         "description": "ASSLT 3rd DEGREE (nurse,physician,HC pro",
@@ -177,19 +177,19 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Amended",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "AMEND"
       },
       {
         "description": "HARASSMENT",
         "arrestDate": "2026-10-14T18:21:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610055221"
       },
       {
         "description": "DISORDERLY CONDUCT",
