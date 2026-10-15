@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T23:07:54",
+  "generatedAt": "2026-10-14T23:17:12",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 203,
-    "bookingsObserved": 54,
+    "bookingsTracked": 204,
+    "bookingsObserved": 55,
     "releasesObserved": 46,
-    "inCustody": 157,
-    "uniquePeople": 201
+    "inCustody": 158,
+    "uniquePeople": 202
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 10,
+      "booked": 11,
       "released": 17
     }
   ],
@@ -164,32 +164,32 @@
     {
       "name": "DUI",
       "count": 29,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 28,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 19,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 17,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "POSS of Controlled Substance",
       "count": 17,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 16,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 57,
-      "pct": 28.2,
+      "pct": 28.1,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
-      "count": 46,
-      "pct": 22.8,
+      "count": 47,
+      "pct": 23.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 44,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 29,
-      "pct": 14.4,
+      "pct": 14.3,
       "label": "Chehalis Police"
     },
     {
@@ -505,12 +505,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 24,
+    "currentMedianDaysHeld": 23.8,
     "currentLongestDaysHeld": 767.3
   },
   "bond": {
     "withBond": 90,
-    "noBond": 67,
+    "noBond": 68,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14444150

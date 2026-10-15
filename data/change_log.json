@@ -36,6 +36,70 @@
     "releaseSource": null
   },
   {
+    "id": "422793-20261014182100",
+    "inmateNumber": "422793",
+    "name": "KELLEY, DANIEL WAYNE",
+    "bookedAt": "2026-10-14T18:21:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "arrestDate": "2026-10-14T18:21:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "ASSLT 3rd DEGREE (nurse,physician,HC pro",
+        "arrestDate": "2026-10-14T18:21:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "HARASSMENT",
+        "arrestDate": "2026-10-14T18:21:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "arrestDate": "2026-10-14T18:21:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "INTERFERE HEALTH CARE FACILITY",
+        "arrestDate": "2026-10-14T18:21:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T23:17:12",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422789-20261014153000",
     "inmateNumber": "422789",
     "name": "MARTINEZ BENITEZ, RAUL",
