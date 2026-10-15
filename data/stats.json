@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:17:16",
+  "generatedAt": "2026-10-15T16:32:19",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 208,
@@ -421,8 +421,8 @@
     },
     {
       "name": "Cash or Bond",
-      "count": 129,
-      "pct": 24.9
+      "count": 130,
+      "pct": 25.1
     },
     {
       "name": "Serving Time",

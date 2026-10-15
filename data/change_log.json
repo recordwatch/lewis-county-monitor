@@ -2443,7 +2443,7 @@
         "arrestingAgency": "WINL",
         "court": "WLM",
         "billingAgency": "TOL",
-        "bondType": "Released on Bond",
+        "bondType": "Cash or Bond",
         "bondAmount": 1000,
         "warrantNumber": "6A0259238"
       }
