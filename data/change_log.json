@@ -5,7 +5,7 @@
     "name": "JENSEN, JOHN SAMUEL",
     "bookedAt": "2026-10-14T18:56:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 500,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 1ST DEGREE",
@@ -22,9 +22,9 @@
         "arrestDate": "2026-10-14T18:56:00",
         "arrestingAgency": "CHEH",
         "court": "CSM",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
         "warrantNumber": "6A0428356"
       }
     ],
