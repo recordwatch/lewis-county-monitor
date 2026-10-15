@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:17:15",
+  "generatedAt": "2026-10-15T11:32:18",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 208,
@@ -222,6 +222,11 @@
       "pct": 1.4
     },
     {
+      "name": "USE PARAPHERNALIA/FTA",
+      "count": 6,
+      "pct": 1.2
+    },
+    {
       "name": "THEFT 2ND DEG>250",
       "count": 6,
       "pct": 1.2
@@ -248,11 +253,6 @@
     },
     {
       "name": "THEFT 3RD DEG/FTA",
-      "count": 5,
-      "pct": 1
-    },
-    {
-      "name": "USE PARAPHERNALIA/FTA",
       "count": 5,
       "pct": 1
     },
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 256,
-      "pct": 50.5,
+      "pct": 50.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 153,
-      "pct": 30.2,
+      "pct": 30.1,
       "label": "Lewis County District Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 31,
-      "pct": 6.1,
+      "count": 32,
+      "pct": 6.3,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -416,8 +416,8 @@
   "bondTypes": [
     {
       "name": "Included",
-      "count": 131,
-      "pct": 25.6
+      "count": 132,
+      "pct": 25.8
     },
     {
       "name": "Cash or Bond",

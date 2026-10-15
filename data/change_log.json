@@ -16,12 +16,24 @@
         "bondType": "Cash or Bond",
         "bondAmount": 3000,
         "warrantNumber": "CR29680"
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-10-15T08:37:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "CR29680"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T11:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "378080-20261015044400",
