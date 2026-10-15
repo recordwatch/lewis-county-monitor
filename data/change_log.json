@@ -1,5 +1,59 @@
 [
   {
+    "id": "17043-20261014202200",
+    "inmateNumber": "17043",
+    "name": "GOBLE, DERRICK ELLISON",
+    "bookedAt": "2026-10-14T20:22:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 5200,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-14T20:22:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "6A0171709"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND/FTA",
+        "arrestDate": "2026-10-14T20:22:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "6A0239944"
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-14T20:22:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0239944"
+      },
+      {
+        "description": "DANGEROUS WEAPON/FTA",
+        "arrestDate": "2026-10-14T20:22:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0239944"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T00:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "72139-20261014185600",
     "inmateNumber": "72139",
     "name": "JENSEN, JOHN SAMUEL",
@@ -152,6 +206,40 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "159092-20261014140000",
+    "inmateNumber": "159092",
+    "name": "DRIVER, DONNIE DAVID",
+    "bookedAt": "2026-10-14T14:00:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-10-14T14:00:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0418536"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-14T14:00:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0418536"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T00:17:13",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "392567-20261014134416",
