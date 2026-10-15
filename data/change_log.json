@@ -5,33 +5,35 @@
     "name": "JENSEN, JOHN SAMUEL",
     "bookedAt": "2026-10-14T18:56:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 1ST DEGREE",
         "arrestDate": "2026-10-14T18:56:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0428356"
       },
       {
         "description": "Drive w/o req ignition intrlck",
         "arrestDate": "2026-10-14T18:56:00",
         "arrestingAgency": "CHEH",
-        "court": null,
+        "court": "CSM",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0428356"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T21:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422789-20261014153000",
@@ -137,7 +139,7 @@
         "billingAgency": "LCSC",
         "bondType": "Transport Order",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2310004021"
       }
     ],
     "status": "in_custody",
@@ -408,12 +410,12 @@
         "warrantNumber": "2610055021"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T23:49:12",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T22:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "340713-20261013183900",

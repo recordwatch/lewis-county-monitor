@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T21:32:17",
+  "generatedAt": "2026-10-14T21:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 203,
     "bookingsObserved": 54,
-    "releasesObserved": 45,
-    "inCustody": 158,
+    "releasesObserved": 46,
+    "inCustody": 157,
     "uniquePeople": 201
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-14",
       "booked": 10,
-      "released": 16
+      "released": 17
     }
   ],
   "topCharges": [
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 254,
-      "pct": 51.3,
+      "pct": 51.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 148,
-      "pct": 29.9,
+      "pct": 29.8,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 35,
-      "pct": 7.1,
+      "pct": 7,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
-      "count": 28,
-      "pct": 5.7,
+      "count": 30,
+      "pct": 6,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -389,40 +389,40 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 39,
-      "pct": 88.6
+      "count": 40,
+      "pct": 88.9
     },
     {
       "name": "KITTITAS",
       "count": 2,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "MOBILE CRISIS",
       "count": 1,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "FRIENDSHIP",
       "count": 1,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "DOC",
       "count": 1,
-      "pct": 2.3
+      "pct": 2.2
     }
   ],
   "bondTypes": [
     {
       "name": "Included",
       "count": 128,
-      "pct": 25.7
+      "pct": 25.6
     },
     {
       "name": "Cash or Bond",
-      "count": 122,
-      "pct": 24.4
+      "count": 123,
+      "pct": 24.6
     },
     {
       "name": "Serving Time",
@@ -476,9 +476,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 45,
+    "releasedCount": 46,
     "medianDays": 1.8,
-    "meanDays": 4.6,
+    "meanDays": 4.5,
     "buckets": [
       {
         "label": "< 1 day",
@@ -486,7 +486,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 16
+        "count": 17
       },
       {
         "label": "3–7 days",
@@ -505,15 +505,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 23.7,
+    "currentMedianDaysHeld": 24,
     "currentLongestDaysHeld": 767.2
   },
   "bond": {
     "withBond": 90,
-    "noBond": 68,
+    "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14467650
+    "totalBond": 14443150
   },
   "chargesPerBooking": 2.5
 }
