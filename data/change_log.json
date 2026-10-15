@@ -1,5 +1,39 @@
 [
   {
+    "id": "72139-20261014185600",
+    "inmateNumber": "72139",
+    "name": "JENSEN, JOHN SAMUEL",
+    "bookedAt": "2026-10-14T18:56:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 1ST DEGREE",
+        "arrestDate": "2026-10-14T18:56:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-14T18:56:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T21:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422789-20261014153000",
     "inmateNumber": "422789",
     "name": "MARTINEZ BENITEZ, RAUL",
@@ -21,7 +55,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-14T21:17:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "210823-20261014140000",
