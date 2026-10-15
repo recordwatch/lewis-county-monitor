@@ -11,11 +11,11 @@
         "description": "ASSAULT CHILD 3RD DEGREE",
         "arrestDate": "2026-10-14T14:00:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
@@ -83,7 +83,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-14T20:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "376635-20261014103000",
