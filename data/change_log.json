@@ -107,7 +107,7 @@
         "billingAgency": "WINL",
         "bondType": "Cash or Bond",
         "bondAmount": 2500,
-        "warrantNumber": "6A0283186"
+        "warrantNumber": "5A0283186"
       },
       {
         "description": "Fail to Transfer - late penalty",
@@ -117,7 +117,7 @@
         "billingAgency": "WINL",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "6A0283186"
+        "warrantNumber": "5A0283186"
       }
     ],
     "status": "in_custody",
