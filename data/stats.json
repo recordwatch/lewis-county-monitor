@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:49:13",
+  "generatedAt": "2026-10-16T03:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 215,
@@ -415,14 +415,14 @@
   ],
   "bondTypes": [
     {
-      "name": "Cash or Bond",
-      "count": 138,
-      "pct": 26
-    },
-    {
       "name": "Included",
       "count": 137,
       "pct": 25.8
+    },
+    {
+      "name": "Cash or Bond",
+      "count": 136,
+      "pct": 25.7
     },
     {
       "name": "Serving Time",
@@ -440,14 +440,14 @@
       "pct": 9.2
     },
     {
-      "name": "Amended",
+      "name": "Appearance Bond",
       "count": 11,
       "pct": 2.1
     },
     {
-      "name": "Appearance Bond",
-      "count": 9,
-      "pct": 1.7
+      "name": "Amended",
+      "count": 11,
+      "pct": 2.1
     },
     {
       "name": "Referred",
