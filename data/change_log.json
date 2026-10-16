@@ -470,12 +470,12 @@
         "warrantNumber": "2510063321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T12:32:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T19:45:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "113567-20261014043700",
