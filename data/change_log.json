@@ -87,7 +87,7 @@
     "name": "SCHALETZKE, WILLIAM ARTHUR",
     "bookedAt": "2026-10-15T17:50:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 1000,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "Protection Order Violation",
@@ -104,8 +104,18 @@
         "arrestDate": "2026-10-15T17:50:00",
         "arrestingAgency": "CENT",
         "court": "WLM",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0283186"
+      },
+      {
+        "description": "Fail to Transfer - late penalty",
+        "arrestDate": "2026-10-15T17:50:00",
+        "arrestingAgency": "CENT",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0283186"
       }
@@ -221,7 +231,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-16T01:49:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "380186-20261015161200",
