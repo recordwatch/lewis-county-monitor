@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:49:13",
+  "generatedAt": "2026-10-15T23:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 211,
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 263,
-      "pct": 51,
+      "count": 265,
+      "pct": 51.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 154,
-      "pct": 29.8,
+      "pct": 29.7,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 37,
-      "pct": 7.2,
+      "pct": 7.1,
       "label": "Centralia Municipal Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "WLM",
       "count": 8,
-      "pct": 1.6,
+      "pct": 1.5,
       "label": "Winlock Municipal Court"
     },
     {
@@ -416,28 +416,28 @@
   "bondTypes": [
     {
       "name": "Included",
-      "count": 135,
-      "pct": 26
+      "count": 136,
+      "pct": 26.1
     },
     {
       "name": "Cash or Bond",
       "count": 132,
-      "pct": 25.4
+      "pct": 25.3
     },
     {
       "name": "Serving Time",
       "count": 109,
-      "pct": 21
+      "pct": 20.9
+    },
+    {
+      "name": "No Bail",
+      "count": 49,
+      "pct": 9.4
     },
     {
       "name": "Released by Court",
       "count": 49,
       "pct": 9.4
-    },
-    {
-      "name": "No Bail",
-      "count": 48,
-      "pct": 9.2
     },
     {
       "name": "Amended",
@@ -462,7 +462,7 @@
     {
       "name": "Dismissed",
       "count": 6,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "Transferred to Prison",

@@ -37,27 +37,29 @@
         "description": "FORGERY",
         "arrestDate": "2026-10-15T16:55:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "THEFT 2ND DEG>250",
         "arrestDate": "2026-10-15T16:55:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T22:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "380186-20261015161200",
