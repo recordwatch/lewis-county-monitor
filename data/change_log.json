@@ -363,7 +363,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0264563"
       }
@@ -686,12 +686,12 @@
         "warrantNumber": "2310004021"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T20:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T15:15:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "376635-20261014103000",
