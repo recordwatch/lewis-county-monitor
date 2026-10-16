@@ -1,5 +1,29 @@
 [
   {
+    "id": "329356-20261015165900",
+    "inmateNumber": "329356",
+    "name": "JOHNSON, LANDON STUART",
+    "bookedAt": "2026-10-15T16:59:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-15T16:59:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00885721"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T22:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "380186-20261015161200",
     "inmateNumber": "380186",
     "name": "HIGHAM, SHAUN PAUL",
