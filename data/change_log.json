@@ -1,5 +1,117 @@
 [
   {
+    "id": "422822-20261016193900",
+    "inmateNumber": "422822",
+    "name": "UNDERWOOD, KERRY LEE",
+    "bookedAt": "2026-10-16T19:39:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-16T19:39:00",
+        "arrestingAgency": "CHEH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "1A0679493"
+      },
+      {
+        "description": "Trip Permit Vio/FTA",
+        "arrestDate": "2026-10-16T19:39:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T01:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "289751-20261016165300",
+    "inmateNumber": "289751",
+    "name": "MEDINA SANCHEZ, MIGUEL ANGEL",
+    "bookedAt": "2026-10-16T16:53:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-16T16:53:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Poss Drug Paraphernalia/FTA",
+        "arrestDate": "2026-10-16T16:53:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "USE PARAPHERNALIA",
+        "arrestDate": "2026-10-16T16:53:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T01:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "405880-20261015175000",
+    "inmateNumber": "405880",
+    "name": "SCHALETZKE, WILLIAM ARTHUR",
+    "bookedAt": "2026-10-15T17:50:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-10-15T17:50:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0418540"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-15T17:50:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T01:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "329356-20261015165900",
     "inmateNumber": "329356",
     "name": "JOHNSON, LANDON STUART",
@@ -49,7 +161,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
       }
