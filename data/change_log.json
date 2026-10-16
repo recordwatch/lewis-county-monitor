@@ -82,6 +82,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "187296-20261015205500",
+    "inmateNumber": "187296",
+    "name": "BRENNAN, SHILA KATHLEEN",
+    "bookedAt": "2026-10-15T20:55:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-15T20:55:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T10:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422822-20261015193900",
     "inmateNumber": "422822",
     "name": "UNDERWOOD, KERRY LEE",
