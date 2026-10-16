@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "362903-20261015165500",
+    "inmateNumber": "362903",
+    "name": "WELCH, BRIAN DOUGLAS",
+    "bookedAt": "2026-10-15T16:55:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FORGERY",
+        "arrestDate": "2026-10-15T16:55:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "THEFT 2ND DEG>250",
+        "arrestDate": "2026-10-15T16:55:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T22:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "380186-20261015161200",
     "inmateNumber": "380186",
     "name": "HIGHAM, SHAUN PAUL",
