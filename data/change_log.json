@@ -28,12 +28,12 @@
         "warrantNumber": "1A0679493"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T01:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T05:49:15",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "observed"
   },
   {
     "id": "289751-20261016165300",
@@ -80,6 +80,40 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": "observed"
+  },
+  {
+    "id": "422822-20261015193900",
+    "inmateNumber": "422822",
+    "name": "UNDERWOOD, KERRY LEE",
+    "bookedAt": "2026-10-15T19:39:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-15T19:39:00",
+        "arrestingAgency": "CHEH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "1A0679493"
+      },
+      {
+        "description": "Trip Permit Vio/FTA",
+        "arrestDate": "2026-10-15T19:39:00",
+        "arrestingAgency": "CHEH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "1A0679493"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T05:49:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "405880-20261015175000",
