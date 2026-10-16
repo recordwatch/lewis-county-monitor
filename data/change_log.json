@@ -98,16 +98,6 @@
         "bondType": "Cash or Bond",
         "bondAmount": 1000,
         "warrantNumber": "1A0679493"
-      },
-      {
-        "description": "Trip Permit Vio/FTA",
-        "arrestDate": "2026-10-15T19:39:00",
-        "arrestingAgency": "CHEH",
-        "court": "ODC",
-        "billingAgency": "OTAG",
-        "bondType": "Included",
-        "bondAmount": null,
-        "warrantNumber": "1A0679493"
       }
     ],
     "status": "in_custody",

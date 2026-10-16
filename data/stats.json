@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:07:37",
+  "generatedAt": "2026-10-16T08:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 216,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 265,
-      "pct": 50.2,
+      "pct": 50.3,
       "label": "Lewis County Superior Court"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "ODC",
-      "count": 9,
-      "pct": 1.7,
+      "count": 8,
+      "pct": 1.5,
       "label": "ODC"
     },
     {
@@ -420,12 +420,12 @@
   ],
   "bondTypes": [
     {
-      "name": "Included",
-      "count": 138,
-      "pct": 25.9
+      "name": "Cash or Bond",
+      "count": 137,
+      "pct": 25.8
     },
     {
-      "name": "Cash or Bond",
+      "name": "Included",
       "count": 137,
       "pct": 25.8
     },
