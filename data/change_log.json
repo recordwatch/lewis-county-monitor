@@ -7995,7 +7995,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2610009721"
       },
@@ -8005,7 +8005,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2610009721"
       },
@@ -8015,7 +8015,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "2610009721"
       }

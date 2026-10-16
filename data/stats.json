@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:49:15",
+  "generatedAt": "2026-10-16T14:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 217,
@@ -426,8 +426,8 @@
     },
     {
       "name": "Included",
-      "count": 137,
-      "pct": 25.8
+      "count": 135,
+      "pct": 25.4
     },
     {
       "name": "Serving Time",
@@ -436,13 +436,13 @@
     },
     {
       "name": "No Bail",
-      "count": 51,
-      "pct": 9.6
+      "count": 50,
+      "pct": 9.4
     },
     {
       "name": "Released by Court",
-      "count": 49,
-      "pct": 9.2
+      "count": 50,
+      "pct": 9.4
     },
     {
       "name": "Appearance Bond",
@@ -471,8 +471,8 @@
     },
     {
       "name": "Transferred to Prison",
-      "count": 2,
-      "pct": 0.4
+      "count": 4,
+      "pct": 0.8
     },
     {
       "name": "Released PR Bond",
