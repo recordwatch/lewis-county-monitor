@@ -82,6 +82,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "143503-20261016162342",
+    "inmateNumber": "143503",
+    "name": "HYLTON, GARRETT ALLEN",
+    "bookedAt": "2026-10-16T16:23:42",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-16T16:23:42",
+        "arrestingAgency": "CENT",
+        "court": "DOC",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "361178"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T16:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "187296-20261015205500",
     "inmateNumber": "187296",
     "name": "BRENNAN, SHILA KATHLEEN",

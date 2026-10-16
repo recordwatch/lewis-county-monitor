@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T16:32:15",
+  "generatedAt": "2026-10-16T16:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 217,
-    "bookingsObserved": 68,
+    "bookingsTracked": 218,
+    "bookingsObserved": 69,
     "releasesObserved": 67,
-    "inCustody": 150,
-    "uniquePeople": 212
+    "inCustody": 151,
+    "uniquePeople": 213
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 2,
+      "booked": 3,
       "released": 9
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 21,
-      "pct": 3.9
+      "count": 22,
+      "pct": 4.1
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -184,7 +184,7 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 18,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 57,
-      "pct": 26.4,
+      "pct": 26.3,
       "label": "Lewis County Jail"
+    },
+    {
+      "name": "CENT",
+      "count": 50,
+      "pct": 23,
+      "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 50,
-      "pct": 23.1,
+      "pct": 23,
       "label": "Lewis County Sheriff's Office"
-    },
-    {
-      "name": "CENT",
-      "count": 49,
-      "pct": 22.7,
-      "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 33,
-      "pct": 15.3,
+      "pct": 15.2,
       "label": "Chehalis Police"
     },
     {
@@ -328,31 +328,31 @@
     {
       "name": "SUP",
       "count": 265,
-      "pct": 50.2,
+      "pct": 50.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 154,
-      "pct": 29.2,
+      "pct": 29.1,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 42,
-      "pct": 8,
+      "pct": 7.9,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
       "count": 32,
-      "pct": 6.1,
+      "pct": 6,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "DOC",
-      "count": 11,
-      "pct": 2.1,
+      "count": 12,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -515,7 +515,7 @@
   },
   "bond": {
     "withBond": 91,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14595550
