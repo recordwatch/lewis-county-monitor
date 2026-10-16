@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:32:17",
+  "generatedAt": "2026-10-16T04:49:25",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 215,
@@ -172,14 +172,14 @@
       "pct": 5.2
     },
     {
-      "name": "DWLS 3RD DEGREE/FTA",
+      "name": "OTHER AGENCY HOLD",
       "count": 20,
       "pct": 3.7
     },
     {
-      "name": "OTHER AGENCY HOLD",
-      "count": 19,
-      "pct": 3.6
+      "name": "DWLS 3RD DEGREE/FTA",
+      "count": 20,
+      "pct": 3.7
     },
     {
       "name": "POSS of Controlled Substance",
