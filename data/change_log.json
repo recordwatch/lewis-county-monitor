@@ -167,7 +167,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Released PR Bond",
         "bondAmount": null,
         "warrantNumber": "2610055221"
       },
@@ -261,7 +261,7 @@
     "name": "ARMITAGE, JARED STEVEN",
     "bookedAt": "2026-10-14T14:00:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "ASSAULT CHILD 3RD DEGREE",
@@ -269,8 +269,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "2610055121"
       }
     ],
@@ -346,12 +346,12 @@
         "warrantNumber": "6A0427742"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T14:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "48017-20261014125800",
@@ -816,10 +816,10 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-13T21:49:13",
-    "releasedAt": "2026-10-14T14:17:15",
+    "releasedAt": "2026-10-15T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": "observed"
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422764-20261013153400",
@@ -1656,12 +1656,12 @@
         "warrantNumber": "6A0398319"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T19:32:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "418267-20261011151100",
@@ -1891,7 +1891,7 @@
     "name": "DUNIVIN, ROBERT LOYD",
     "bookedAt": "2026-10-10T18:59:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 64000,
+    "bondTotal": 19000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
@@ -1910,7 +1910,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 60000,
+        "bondAmount": 15000,
         "warrantNumber": "2610054521"
       },
       {
@@ -2281,7 +2281,7 @@
     "name": "CLARK, DOUGLAS RAY",
     "bookedAt": "2026-10-09T06:58:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "RAPE CHILD 2CD",
@@ -2289,8 +2289,8 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
         "warrantNumber": "2210069221"
       },
       {
@@ -2299,7 +2299,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2210069221"
       }
