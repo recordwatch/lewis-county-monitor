@@ -21,17 +21,19 @@
         "description": "Trip Permit Vio/FTA",
         "arrestDate": "2026-10-16T19:39:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "1A0679493"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T01:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "289751-20261016165300",
@@ -75,7 +77,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-16T01:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "405880-20261015175000",
@@ -109,7 +113,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-16T01:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "329356-20261015165900",
