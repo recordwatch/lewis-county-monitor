@@ -196,8 +196,8 @@
         "arrestDate": "2026-10-16T14:20:00",
         "arrestingAgency": "JAIL",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "T00235990"
       }
@@ -205,7 +205,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-16T23:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "415774-20261016135800",

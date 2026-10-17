@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:32:17",
+  "generatedAt": "2026-10-16T23:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 224,
@@ -427,7 +427,7 @@
     {
       "name": "Included",
       "count": 140,
-      "pct": 25.8
+      "pct": 25.7
     },
     {
       "name": "Cash or Bond",
@@ -446,8 +446,8 @@
     },
     {
       "name": "No Bail",
-      "count": 49,
-      "pct": 9
+      "count": 50,
+      "pct": 9.2
     },
     {
       "name": "Appearance Bond",
