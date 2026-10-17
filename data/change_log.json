@@ -286,12 +286,12 @@
         "warrantNumber": "W"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T22:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T18:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "289751-20261015165300",
@@ -2655,8 +2655,8 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "Released on Bond",
+        "bondAmount": null,
         "warrantNumber": "2210069221"
       },
       {
@@ -5989,7 +5989,7 @@
     "name": "REED, CORY D",
     "bookedAt": "2026-09-02T10:25:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 11000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
@@ -6007,8 +6007,8 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "24-1-00658-21"
       }
     ],
