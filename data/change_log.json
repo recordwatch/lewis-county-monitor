@@ -246,6 +246,30 @@
     "releaseSource": "official"
   },
   {
+    "id": "73648-20261016114500",
+    "inmateNumber": "73648",
+    "name": "THAYER, DONALD LEEROY",
+    "bookedAt": "2026-10-16T11:45:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-16T11:45:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0419420"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T00:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "64122-20261016113700",
     "inmateNumber": "64122",
     "name": "CHRISTIANSEN, ANGELYNNE KAYE",
