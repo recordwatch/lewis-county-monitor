@@ -64,7 +64,7 @@
         "arrestDate": "2026-10-16T21:30:00",
         "arrestingAgency": "CENT",
         "court": "CNM",
-        "billingAgency": null,
+        "billingAgency": "CENT",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0013381"
