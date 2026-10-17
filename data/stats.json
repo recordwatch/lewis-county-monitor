@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T08:32:16",
+  "generatedAt": "2026-10-17T08:49:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 228,
-    "bookingsObserved": 79,
+    "bookingsTracked": 229,
+    "bookingsObserved": 80,
     "releasesObserved": 72,
-    "inCustody": 156,
-    "uniquePeople": 221
+    "inCustody": 157,
+    "uniquePeople": 222
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 1,
+      "booked": 2,
       "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 32,
-      "pct": 5.7
+      "count": 33,
+      "pct": 5.9
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -189,7 +189,7 @@
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 17,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -266,31 +266,31 @@
     {
       "name": "JAIL",
       "count": 58,
-      "pct": 25.6,
+      "pct": 25.4,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 54,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 52,
-      "pct": 22.9,
+      "pct": 22.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CHEH",
       "count": 34,
-      "pct": 15,
+      "pct": 14.9,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
-      "count": 16,
-      "pct": 7,
+      "count": 17,
+      "pct": 7.5,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 158,
-      "pct": 28.9,
+      "count": 159,
+      "pct": 29,
       "label": "Lewis County District Court"
     },
     {
@@ -441,8 +441,8 @@
     },
     {
       "name": "No Bail",
-      "count": 56,
-      "pct": 10.2
+      "count": 57,
+      "pct": 10.4
     },
     {
       "name": "Released by Court",
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.9,
+    "currentMedianDaysHeld": 24.8,
     "currentLongestDaysHeld": 769.7
   },
   "bond": {
     "withBond": 94,
-    "noBond": 62,
+    "noBond": 63,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14637550

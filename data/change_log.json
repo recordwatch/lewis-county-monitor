@@ -1,5 +1,29 @@
 [
   {
+    "id": "316864-20261017024900",
+    "inmateNumber": "316864",
+    "name": "CHAIREZ, EDGAR B",
+    "bookedAt": "2026-10-17T02:49:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-17T02:49:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00801735"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T08:49:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "395281-20261017010000",
     "inmateNumber": "395281",
     "name": "BROWN, SARAH MARIE",
