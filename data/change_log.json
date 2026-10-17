@@ -226,6 +226,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610050521"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-16T08:40:00",
+        "arrestingAgency": "LCSO",
+        "court": "DOC",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "10/16/26 407559"
       }
     ],
     "status": "in_custody",

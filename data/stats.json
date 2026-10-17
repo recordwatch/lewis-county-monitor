@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:32:16",
+  "generatedAt": "2026-10-16T21:46:56",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 222,
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 23,
-      "pct": 4.2
+      "count": 24,
+      "pct": 4.4
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 270,
-      "pct": 50.3,
+      "pct": 50.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 154,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Lewis County District Court"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "CSM",
       "count": 32,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "DOC",
-      "count": 13,
-      "pct": 2.4,
+      "count": 14,
+      "pct": 2.6,
       "label": "Dept. of Corrections"
     },
     {
