@@ -100,8 +100,34 @@
         "warrantNumber": "361178"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T16:49:14",
+    "releasedAt": "2026-10-16T17:06:30",
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": "observed"
+  },
+  {
+    "id": "143503-20261016001900",
+    "inmateNumber": "143503",
+    "name": "HYLTON, GARRETT ALLEN",
+    "bookedAt": "2026-10-16T00:19:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-16T00:19:00",
+        "arrestingAgency": "CENT",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "361178 10162026"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T17:06:30",
     "releasedAt": null,
     "baseline": false
   },
@@ -330,12 +356,12 @@
         "warrantNumber": "W"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T20:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T16:42:49",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "170415-20261015083700",
