@@ -1,5 +1,29 @@
 [
   {
+    "id": "395281-20261017010000",
+    "inmateNumber": "395281",
+    "name": "BROWN, SARAH MARIE",
+    "bookedAt": "2026-10-17T01:00:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-17T01:00:00",
+        "arrestingAgency": "CENT",
+        "court": "OSC",
+        "billingAgency": "OTAG",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "26-1-00002-34"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T02:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "286697-20261016230000",
     "inmateNumber": "286697",
     "name": "BROCKMOLLER, MARIAH KAITLEN",
