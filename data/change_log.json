@@ -108,6 +108,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "415774-20261016135800",
+    "inmateNumber": "415774",
+    "name": "NAPLE, THOMAS MATTHEW",
+    "bookedAt": "2026-10-16T13:58:00",
+    "arrestingAgency": "TOLE",
+    "bondTotal": 2600,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-16T13:58:00",
+        "arrestingAgency": "TOLE",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "6A0047867"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T20:32:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "143503-20261016001900",
     "inmateNumber": "143503",
     "name": "HYLTON, GARRETT ALLEN",
