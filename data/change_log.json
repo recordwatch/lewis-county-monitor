@@ -3668,6 +3668,16 @@
         "warrantNumber": "2610054121"
       },
       {
+        "description": "ASSAULT 2ND DV",
+        "arrestDate": "2026-10-05T11:11:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
         "description": "VIOL NO HARASSMENT ORDER;NCO preconvicti",
         "arrestDate": "2026-10-05T11:11:00",
         "arrestingAgency": "LCSO",
