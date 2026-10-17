@@ -1,5 +1,29 @@
 [
   {
+    "id": "286697-20261016230000",
+    "inmateNumber": "286697",
+    "name": "BROCKMOLLER, MARIAH KAITLEN",
+    "bookedAt": "2026-10-16T23:00:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-16T23:00:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00929129"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T01:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360526-20261016213000",
     "inmateNumber": "360526",
     "name": "IRONS, MAKAYLA RAE",
@@ -85,7 +109,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
       },
@@ -95,7 +119,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
       },
