@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T21:49:16",
+  "generatedAt": "2026-10-16T22:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 222,
-    "bookingsObserved": 73,
+    "bookingsTracked": 223,
+    "bookingsObserved": 74,
     "releasesObserved": 71,
-    "inCustody": 151,
-    "uniquePeople": 215
+    "inCustody": 152,
+    "uniquePeople": 216
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 7,
+      "booked": 8,
       "released": 13
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 31,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 57,
-      "pct": 25.8,
+      "pct": 25.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 52,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
-      "count": 51,
-      "pct": 23.1,
+      "count": 52,
+      "pct": 23.4,
       "label": "Centralia Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 270,
-      "pct": 50.2,
+      "pct": 50.1,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 42,
-      "pct": 7.8,
+      "count": 43,
+      "pct": 8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -425,19 +425,19 @@
   ],
   "bondTypes": [
     {
+      "name": "Cash or Bond",
+      "count": 139,
+      "pct": 25.7
+    },
+    {
       "name": "Included",
       "count": 139,
       "pct": 25.7
     },
     {
-      "name": "Cash or Bond",
-      "count": 138,
-      "pct": 25.6
-    },
-    {
       "name": "Serving Time",
       "count": 111,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "Released by Court",
@@ -515,15 +515,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 26,
+    "currentMedianDaysHeld": 25.7,
     "currentLongestDaysHeld": 769.2
   },
   "bond": {
-    "withBond": 92,
+    "withBond": 93,
     "noBond": 59,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14635550
+    "totalBond": 14636550
   },
   "chargesPerBooking": 2.5
 }

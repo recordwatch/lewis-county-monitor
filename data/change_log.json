@@ -200,6 +200,30 @@
     "releaseSource": "official"
   },
   {
+    "id": "64122-20261016113700",
+    "inmateNumber": "64122",
+    "name": "CHRISTIANSEN, ANGELYNNE KAYE",
+    "bookedAt": "2026-10-16T11:37:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "Criminal Trespass 2",
+        "arrestDate": "2026-10-16T11:37:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0418541"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T22:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "253270-20261016084000",
     "inmateNumber": "253270",
     "name": "CHAVEZ, GAVIN RAY",
@@ -232,7 +256,7 @@
         "arrestDate": "2026-10-16T08:40:00",
         "arrestingAgency": "LCSO",
         "court": "DOC",
-        "billingAgency": null,
+        "billingAgency": "OTAG",
         "bondType": null,
         "bondAmount": null,
         "warrantNumber": "10/16/26 407559"
