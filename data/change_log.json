@@ -13,7 +13,7 @@
         "arrestingAgency": "CHEH",
         "court": null,
         "billingAgency": "LCSC",
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": null
       }
