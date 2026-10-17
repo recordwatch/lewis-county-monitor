@@ -47,31 +47,31 @@
         "description": "RESIDENTIAL BURGLARY",
         "arrestDate": "2026-10-16T17:15:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "Theft of Firearm",
         "arrestDate": "2026-10-16T17:15:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "Felony Telephone Harassment",
         "arrestDate": "2026-10-16T17:15:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "VIOL PROTECTION ORD",
@@ -87,7 +87,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-16T20:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "289751-20261016165300",
@@ -190,12 +192,12 @@
         "warrantNumber": "6A0047867"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T20:32:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T20:51:13",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FREEDOM BAIL BONDS",
+    "releaseSource": "official"
   },
   {
     "id": "253270-20261016084000",
@@ -229,7 +231,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-16T20:49:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "143503-20261016001900",
