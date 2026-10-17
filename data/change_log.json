@@ -164,6 +164,50 @@
     "releaseSource": "observed"
   },
   {
+    "id": "263001-20261016142000",
+    "inmateNumber": "263001",
+    "name": "BUSS, KATLYN REBECCA",
+    "bookedAt": "2026-10-16T14:20:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-16T14:20:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0398162"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-16T14:20:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0398163"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-16T14:20:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "T00235990"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T23:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "415774-20261016135800",
     "inmateNumber": "415774",
     "name": "NAPLE, THOMAS MATTHEW",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T23:17:13",
+  "generatedAt": "2026-10-16T23:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 223,
-    "bookingsObserved": 74,
+    "bookingsTracked": 224,
+    "bookingsObserved": 75,
     "releasesObserved": 71,
-    "inCustody": 152,
-    "uniquePeople": 216
+    "inCustody": 153,
+    "uniquePeople": 217
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 8,
+      "booked": 9,
       "released": 13
     }
   ],
@@ -168,13 +168,13 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 28,
-      "pct": 5.1
+      "count": 30,
+      "pct": 5.4
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 24,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -183,8 +183,8 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 18,
-      "pct": 3.3
+      "count": 19,
+      "pct": 3.4
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -265,32 +265,32 @@
   "topAgencies": [
     {
       "name": "JAIL",
-      "count": 57,
-      "pct": 25.7,
+      "count": 58,
+      "pct": 26,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 52,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 52,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 33,
-      "pct": 14.9,
+      "pct": 14.8,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 15,
-      "pct": 6.8,
+      "pct": 6.7,
       "label": "Washington State Patrol"
     },
     {
@@ -302,25 +302,25 @@
     {
       "name": "DOC",
       "count": 3,
-      "pct": 1.4,
+      "pct": 1.3,
       "label": "Dept. of Corrections"
     },
     {
       "name": "TOLE",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "TOLE"
     },
     {
       "name": "TCSO",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "Thurston County Sheriff's Office"
     },
     {
       "name": "MORT",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.4,
       "label": "Morton Police"
     }
   ],
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 270,
-      "pct": 50.1,
+      "pct": 49.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 154,
-      "pct": 28.6,
+      "count": 157,
+      "pct": 29,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 43,
-      "pct": 8,
+      "pct": 7.9,
       "label": "Centralia Municipal Court"
     },
     {
@@ -425,19 +425,19 @@
   ],
   "bondTypes": [
     {
-      "name": "Cash or Bond",
-      "count": 139,
-      "pct": 25.7
+      "name": "Included",
+      "count": 140,
+      "pct": 25.8
     },
     {
-      "name": "Included",
+      "name": "Cash or Bond",
       "count": 139,
-      "pct": 25.7
+      "pct": 25.6
     },
     {
       "name": "Serving Time",
       "count": 111,
-      "pct": 20.5
+      "pct": 20.4
     },
     {
       "name": "Released by Court",
@@ -446,8 +446,8 @@
     },
     {
       "name": "No Bail",
-      "count": 48,
-      "pct": 8.9
+      "count": 49,
+      "pct": 9
     },
     {
       "name": "Appearance Bond",
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 25.8,
+    "currentMedianDaysHeld": 25.5,
     "currentLongestDaysHeld": 769.3
   },
   "bond": {
     "withBond": 93,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14636550
