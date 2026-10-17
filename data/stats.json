@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T11:49:15",
+  "generatedAt": "2026-10-17T12:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 230,
-    "bookingsObserved": 81,
+    "bookingsTracked": 231,
+    "bookingsObserved": 82,
     "releasesObserved": 72,
-    "inCustody": 158,
-    "uniquePeople": 223
+    "inCustody": 159,
+    "uniquePeople": 224
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 58,
-      "pct": 25.3,
+      "pct": 25.2,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 54,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 52,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 18,
-      "pct": 7.9,
+      "pct": 7.8,
       "label": "Washington State Patrol"
     },
     {
@@ -306,6 +306,12 @@
       "label": "Dept. of Corrections"
     },
     {
+      "name": "MORT",
+      "count": 2,
+      "pct": 0.9,
+      "label": "Morton Police"
+    },
+    {
       "name": "TOLE",
       "count": 1,
       "pct": 0.4,
@@ -316,19 +322,13 @@
       "count": 1,
       "pct": 0.4,
       "label": "Thurston County Sheriff's Office"
-    },
-    {
-      "name": "MORT",
-      "count": 1,
-      "pct": 0.4,
-      "label": "Morton Police"
     }
   ],
   "courts": [
     {
       "name": "SUP",
       "count": 271,
-      "pct": 49.4,
+      "pct": 49.3,
       "label": "Lewis County Superior Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "DOC",
       "count": 14,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Dept. of Corrections"
     },
     {
@@ -368,16 +368,16 @@
       "label": "ODC"
     },
     {
+      "name": "NMC",
+      "count": 4,
+      "pct": 0.7,
+      "label": "Napavine Municipal Court"
+    },
+    {
       "name": "OSC",
       "count": 3,
       "pct": 0.5,
       "label": "OSC"
-    },
-    {
-      "name": "NMC",
-      "count": 3,
-      "pct": 0.5,
-      "label": "Napavine Municipal Court"
     },
     {
       "name": "USM",
@@ -441,13 +441,13 @@
     },
     {
       "name": "No Bail",
-      "count": 58,
-      "pct": 10.5
+      "count": 59,
+      "pct": 10.7
     },
     {
       "name": "Released by Court",
       "count": 51,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "Appearance Bond",
@@ -467,7 +467,7 @@
     {
       "name": "Released Time Served",
       "count": 8,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Dismissed",
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.5,
+    "currentMedianDaysHeld": 24.1,
     "currentLongestDaysHeld": 769.8
   },
   "bond": {
     "withBond": 94,
-    "noBond": 64,
+    "noBond": 65,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14637550

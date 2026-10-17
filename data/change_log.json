@@ -1,5 +1,29 @@
 [
   {
+    "id": "393273-20261017062800",
+    "inmateNumber": "393273",
+    "name": "FUNK, ERIC WILLIAM",
+    "bookedAt": "2026-10-17T06:28:00",
+    "arrestingAgency": "MORT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Violation Restrain",
+        "arrestDate": "2026-10-17T06:28:00",
+        "arrestingAgency": "MORT",
+        "court": "NMC",
+        "billingAgency": "NAPA",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0413199"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T12:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422864-20261017040200",
     "inmateNumber": "422864",
     "name": "MORIN, RYAN ANDREW",
