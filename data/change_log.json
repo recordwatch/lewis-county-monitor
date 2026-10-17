@@ -36,6 +36,60 @@
     "releaseSource": "observed"
   },
   {
+    "id": "133477-20261016171500",
+    "inmateNumber": "133477",
+    "name": "DIBBLE, DENISE MICHELLE",
+    "bookedAt": "2026-10-16T17:15:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Theft of Firearm",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Felony Telephone Harassment",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "VIOL PROTECTION ORD",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T20:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "289751-20261016165300",
     "inmateNumber": "289751",
     "name": "MEDINA SANCHEZ, MIGUEL ANGEL",
@@ -124,10 +178,56 @@
         "bondType": "Cash or Bond",
         "bondAmount": 2600,
         "warrantNumber": "6A0047867"
+      },
+      {
+        "description": "Drive w/o req intrlck/FTA",
+        "arrestDate": "2026-10-16T13:58:00",
+        "arrestingAgency": "TOLE",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0047867"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T20:32:13",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "253270-20261016084000",
+    "inmateNumber": "253270",
+    "name": "CHAVEZ, GAVIN RAY",
+    "bookedAt": "2026-10-16T08:40:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "ESC COMMUNITY CUSTODY",
+        "arrestDate": "2026-10-16T08:40:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
+        "warrantNumber": "2610050521"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-10-16T08:40:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610050521"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T20:49:13",
     "releasedAt": null,
     "baseline": false
   },

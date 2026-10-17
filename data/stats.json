@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T20:32:13",
+  "generatedAt": "2026-10-16T20:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 220,
-    "bookingsObserved": 71,
+    "bookingsTracked": 222,
+    "bookingsObserved": 73,
     "releasesObserved": 70,
-    "inCustody": 150,
-    "uniquePeople": 214
+    "inCustody": 152,
+    "uniquePeople": 215
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 5,
+      "booked": 7,
       "released": 12
     }
   ],
@@ -169,17 +169,17 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 28,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 23,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 21,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "POSS of Controlled Substance",
@@ -194,22 +194,22 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 16,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 15,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "Protection Order Violation",
       "count": 9,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 9,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "THEFT 2ND DEG>250",
@@ -257,7 +257,7 @@
       "pct": 1.1
     },
     {
-      "name": "BURGLARY 2ND",
+      "name": "Drive w/o req intrlck/FTA",
       "count": 5,
       "pct": 0.9
     }
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 57,
-      "pct": 26,
+      "pct": 25.8,
       "label": "Lewis County Jail"
+    },
+    {
+      "name": "LCSO",
+      "count": 52,
+      "pct": 23.5,
+      "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 51,
-      "pct": 23.3,
+      "pct": 23.1,
       "label": "Centralia Police"
-    },
-    {
-      "name": "LCSO",
-      "count": 50,
-      "pct": 22.8,
-      "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CHEH",
       "count": 33,
-      "pct": 15.1,
+      "pct": 14.9,
       "label": "Chehalis Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 265,
-      "pct": 49.9,
+      "count": 267,
+      "pct": 50,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 154,
-      "pct": 29,
+      "pct": 28.8,
       "label": "Lewis County District Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "WLM",
-      "count": 11,
-      "pct": 2.1,
+      "count": 12,
+      "pct": 2.2,
       "label": "Winlock Municipal Court"
     },
     {
@@ -421,23 +421,23 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 137,
+      "count": 138,
       "pct": 25.7
     },
     {
       "name": "Included",
-      "count": 135,
-      "pct": 25.3
+      "count": 137,
+      "pct": 25.5
     },
     {
       "name": "Serving Time",
       "count": 111,
-      "pct": 20.8
+      "pct": 20.7
     },
     {
       "name": "Released by Court",
       "count": 51,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "No Bail",
@@ -447,12 +447,12 @@
     {
       "name": "Appearance Bond",
       "count": 11,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "Amended",
       "count": 11,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "Referred",
@@ -510,15 +510,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 26,
+    "currentMedianDaysHeld": 25.7,
     "currentLongestDaysHeld": 769.2
   },
   "bond": {
-    "withBond": 92,
-    "noBond": 58,
+    "withBond": 93,
+    "noBond": 59,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14588150
+    "totalBond": 14638150
   },
   "chargesPerBooking": 2.5
 }
