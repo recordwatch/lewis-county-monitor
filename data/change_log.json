@@ -1,5 +1,29 @@
 [
   {
+    "id": "422864-20261017040200",
+    "inmateNumber": "422864",
+    "name": "MORIN, RYAN ANDREW",
+    "bookedAt": "2026-10-17T04:02:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-17T04:02:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00874628"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T09:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "316864-20261017024900",
     "inmateNumber": "316864",
     "name": "CHAIREZ, EDGAR B",
