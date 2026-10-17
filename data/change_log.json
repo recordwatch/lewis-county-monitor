@@ -1,5 +1,29 @@
 [
   {
+    "id": "360526-20261016213000",
+    "inmateNumber": "360526",
+    "name": "IRONS, MAKAYLA RAE",
+    "bookedAt": "2026-10-16T21:30:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-10-16T21:30:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": null,
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0013381"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T01:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422822-20261016193900",
     "inmateNumber": "422822",
     "name": "UNDERWOOD, KERRY LEE",
@@ -6050,12 +6074,12 @@
         "warrantNumber": "5A0858448"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-17T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "194787-20260906232200",
