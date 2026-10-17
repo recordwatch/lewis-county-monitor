@@ -263,7 +263,7 @@
     "name": "WELCH, BRIAN DOUGLAS",
     "bookedAt": "2026-10-15T16:55:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "FORGERY",
@@ -271,7 +271,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "W"
       },
@@ -281,8 +281,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "W"
       }
     ],
