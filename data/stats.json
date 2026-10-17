@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T13:32:15",
+  "generatedAt": "2026-10-17T13:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 231,
-    "bookingsObserved": 82,
+    "bookingsTracked": 232,
+    "bookingsObserved": 83,
     "releasesObserved": 72,
-    "inCustody": 159,
-    "uniquePeople": 224
+    "inCustody": 160,
+    "uniquePeople": 225
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 4,
+      "booked": 5,
       "released": 1
     }
   ],
@@ -164,22 +164,22 @@
     {
       "name": "DUI",
       "count": 34,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 30,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 25,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 21,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -194,7 +194,7 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 16,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -214,22 +214,27 @@
     {
       "name": "THEFT 2ND DEG>250",
       "count": 7,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "DUI/FTA",
       "count": 7,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "HARRASSMENT-DEATH THREAT",
       "count": 7,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "ASSAULT 2ND DV",
       "count": 7,
-      "pct": 1.3
+      "pct": 1.2
+    },
+    {
+      "name": "BURGLARY 2ND",
+      "count": 6,
+      "pct": 1.1
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
@@ -255,36 +260,31 @@
       "name": "ASSAULT 2ND",
       "count": 6,
       "pct": 1.1
-    },
-    {
-      "name": "Drive w/o req intrlck/FTA",
-      "count": 5,
-      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "JAIL",
       "count": 58,
-      "pct": 25.2,
+      "pct": 25.1,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 54,
-      "pct": 23.5,
+      "count": 55,
+      "pct": 23.8,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 52,
-      "pct": 22.6,
+      "pct": 22.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CHEH",
       "count": 34,
-      "pct": 14.8,
+      "pct": 14.7,
       "label": "Chehalis Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 271,
-      "pct": 49.3,
+      "count": 274,
+      "pct": 49.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 160,
-      "pct": 29.1,
+      "pct": 28.9,
       "label": "Lewis County District Court"
     },
     {
@@ -364,7 +364,7 @@
     {
       "name": "ODC",
       "count": 8,
-      "pct": 1.5,
+      "pct": 1.4,
       "label": "ODC"
     },
     {
@@ -425,24 +425,24 @@
   ],
   "bondTypes": [
     {
-      "name": "Cash or Bond",
+      "name": "Included",
       "count": 140,
-      "pct": 25.4
+      "pct": 25.2
     },
     {
-      "name": "Included",
-      "count": 138,
-      "pct": 25
+      "name": "Cash or Bond",
+      "count": 140,
+      "pct": 25.2
     },
     {
       "name": "Serving Time",
       "count": 111,
-      "pct": 20.1
+      "pct": 20
     },
     {
       "name": "No Bail",
-      "count": 59,
-      "pct": 10.7
+      "count": 60,
+      "pct": 10.8
     },
     {
       "name": "Released by Court",
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.2,
+    "currentMedianDaysHeld": 24.1,
     "currentLongestDaysHeld": 769.9
   },
   "bond": {
     "withBond": 94,
-    "noBond": 65,
+    "noBond": 66,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14637550

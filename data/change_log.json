@@ -78,6 +78,50 @@
     "releaseSource": null
   },
   {
+    "id": "221814-20261017022300",
+    "inmateNumber": "221814",
+    "name": "CLINE, ZACHARY SEBASTIAN",
+    "bookedAt": "2026-10-17T02:23:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "arrestDate": "2026-10-17T02:23:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "w"
+      },
+      {
+        "description": "BURGLARY 2ND",
+        "arrestDate": "2026-10-17T02:23:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "w"
+      },
+      {
+        "description": "Identity Theft 2nd",
+        "arrestDate": "2026-10-17T02:23:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "w"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T13:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "395281-20261017010000",
     "inmateNumber": "395281",
     "name": "BROWN, SARAH MARIE",
