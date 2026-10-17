@@ -1,5 +1,29 @@
 [
   {
+    "id": "422389-20261017123800",
+    "inmateNumber": "422389",
+    "name": "WARNER, TINA MARIE",
+    "bookedAt": "2026-10-17T12:38:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 3RD",
+        "arrestDate": "2026-10-17T12:38:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": "LCSC",
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T14:11:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "393273-20261017062800",
     "inmateNumber": "393273",
     "name": "FUNK, ERIC WILLIAM",
@@ -119,7 +143,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-17T13:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "395281-20261017010000",
