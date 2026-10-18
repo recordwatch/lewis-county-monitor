@@ -1,5 +1,29 @@
 [
   {
+    "id": "294354-20261017192900",
+    "inmateNumber": "294354",
+    "name": "DERRICK, JENIFER IRENE",
+    "bookedAt": "2026-10-17T19:29:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-17T19:29:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0199169"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T22:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422389-20261017123800",
     "inmateNumber": "422389",
     "name": "WARNER, TINA MARIE",
