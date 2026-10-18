@@ -1,5 +1,29 @@
 [
   {
+    "id": "422878-20261018012800",
+    "inmateNumber": "422878",
+    "name": "MOORE, BILLY BRETT",
+    "bookedAt": "2026-10-18T01:28:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURG 2ND/FTA",
+        "arrestDate": "2026-10-18T01:28:00",
+        "arrestingAgency": "CHEH",
+        "court": "OSC",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "26-1-00683-34"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T11:13:48",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "225260-20261018010300",
     "inmateNumber": "225260",
     "name": "MCDRUMMOND, NATHANIEL SETH",
