@@ -12,8 +12,8 @@
         "arrestDate": "2026-10-18T01:03:00",
         "arrestingAgency": "CENT",
         "court": "CNM",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0403655"
       }
@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-18T08:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "402697-20261017221300",
@@ -36,8 +38,8 @@
         "arrestDate": "2026-10-17T22:13:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0381970"
       },
@@ -55,7 +57,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-18T08:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "294354-20261017192900",
