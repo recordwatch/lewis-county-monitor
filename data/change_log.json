@@ -75,7 +75,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
       }

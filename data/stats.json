@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:32:16",
+  "generatedAt": "2026-10-18T11:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 240,
@@ -427,7 +427,7 @@
     {
       "name": "Included",
       "count": 140,
-      "pct": 24.9
+      "pct": 24.8
     },
     {
       "name": "Cash or Bond",
@@ -461,8 +461,8 @@
     },
     {
       "name": "Referred",
-      "count": 9,
-      "pct": 1.6
+      "count": 10,
+      "pct": 1.8
     },
     {
       "name": "Released Time Served",
