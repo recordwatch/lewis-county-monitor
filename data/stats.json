@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:32:14",
+  "generatedAt": "2026-10-17T17:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 233,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 274,
-      "pct": 49.5,
+      "count": 275,
+      "pct": 49.6,
       "label": "Lewis County Superior Court"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "CNM",
       "count": 44,
-      "pct": 8,
+      "pct": 7.9,
       "label": "Centralia Municipal Court"
     },
     {
@@ -516,7 +516,7 @@
       }
     ],
     "currentMedianDaysHeld": 24.1,
-    "currentLongestDaysHeld": 770
+    "currentLongestDaysHeld": 770.1
   },
   "bond": {
     "withBond": 94,

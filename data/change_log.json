@@ -11,11 +11,11 @@
         "description": "ASSAULT 3RD",
         "arrestDate": "2026-10-17T12:38:00",
         "arrestingAgency": "CHEH",
-        "court": null,
+        "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "w"
       }
     ],
     "status": "in_custody",
