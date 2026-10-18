@@ -1,5 +1,63 @@
 [
   {
+    "id": "225260-20261018010300",
+    "inmateNumber": "225260",
+    "name": "MCDRUMMOND, NATHANIEL SETH",
+    "bookedAt": "2026-10-18T01:03:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-10-18T01:03:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0403655"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T08:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "402697-20261017221300",
+    "inmateNumber": "402697",
+    "name": "LOMKER, CRYSTAL DAWN",
+    "bookedAt": "2026-10-17T22:13:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-17T22:13:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0381970"
+      },
+      {
+        "description": "HARASSMENT",
+        "arrestDate": "2026-10-17T22:13:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T08:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "294354-20261017192900",
     "inmateNumber": "294354",
     "name": "DERRICK, JENIFER IRENE",
