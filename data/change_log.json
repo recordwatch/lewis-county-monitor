@@ -939,7 +939,7 @@
     "name": "MEDINA SANCHEZ, MIGUEL ANGEL",
     "bookedAt": "2026-10-15T16:53:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 12500,
+    "bondTotal": 12000,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
@@ -967,8 +967,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0403654"
       }
     ],
