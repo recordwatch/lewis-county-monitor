@@ -8,11 +8,11 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "BURG 2ND/FTA",
+        "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-10-18T01:28:00",
         "arrestingAgency": "CHEH",
         "court": "OSC",
-        "billingAgency": "CHEH",
+        "billingAgency": "OTAG",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "26-1-00683-34"
@@ -63,9 +63,9 @@
         "description": "HARRASSMENT-DEATH THREAT",
         "arrestDate": "2026-10-17T23:06:00",
         "arrestingAgency": "WASH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
       }
