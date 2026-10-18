@@ -1,5 +1,49 @@
 [
   {
+    "id": "417183-20261018142800",
+    "inmateNumber": "417183",
+    "name": "CLOUD, MEGAN ELIZABETH ANN",
+    "bookedAt": "2026-10-18T14:28:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 20200,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-18T14:28:00",
+        "arrestingAgency": "WINL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "T00701676"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-18T14:28:00",
+        "arrestingAgency": "WINL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "6A0239954"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-18T14:28:00",
+        "arrestingAgency": "WINL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T15:32:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422878-20261018012800",
     "inmateNumber": "422878",
     "name": "MOORE, BILLY BRETT",
