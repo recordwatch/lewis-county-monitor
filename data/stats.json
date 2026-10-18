@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T13:56:45",
+  "generatedAt": "2026-10-18T14:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 240,
-    "bookingsObserved": 91,
+    "bookingsTracked": 241,
+    "bookingsObserved": 92,
     "releasesObserved": 74,
-    "inCustody": 166,
-    "uniquePeople": 233
+    "inCustody": 167,
+    "uniquePeople": 234
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 11,
+      "booked": 12,
       "released": 1
     },
     {
@@ -212,6 +212,11 @@
       "pct": 1.6
     },
     {
+      "name": "HARRASSMENT-DEATH THREAT",
+      "count": 8,
+      "pct": 1.4
+    },
+    {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 8,
       "pct": 1.4
@@ -233,11 +238,6 @@
     },
     {
       "name": "DUI/FTA",
-      "count": 7,
-      "pct": 1.2
-    },
-    {
-      "name": "HARRASSMENT-DEATH THREAT",
       "count": 7,
       "pct": 1.2
     },
@@ -266,31 +266,31 @@
     {
       "name": "JAIL",
       "count": 58,
-      "pct": 24.3,
+      "pct": 24.2,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 56,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 54,
-      "pct": 22.6,
+      "pct": 22.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CHEH",
       "count": 38,
-      "pct": 15.9,
+      "pct": 15.8,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
-      "count": 18,
-      "pct": 7.5,
+      "count": 19,
+      "pct": 7.9,
       "label": "Washington State Patrol"
     },
     {
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.4,
+    "currentMedianDaysHeld": 24.2,
     "currentLongestDaysHeld": 770.9
   },
   "bond": {
     "withBond": 96,
-    "noBond": 70,
+    "noBond": 71,
     "medianBond": 27500,
     "maxBond": 3000000,
     "totalBond": 14749450

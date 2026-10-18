@@ -52,6 +52,30 @@
     "releaseSource": null
   },
   {
+    "id": "422877-20261017230600",
+    "inmateNumber": "422877",
+    "name": "WILLIAM, JOEY C",
+    "bookedAt": "2026-10-17T23:06:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARRASSMENT-DEATH THREAT",
+        "arrestDate": "2026-10-17T23:06:00",
+        "arrestingAgency": "WASH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T14:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "402697-20261017221300",
     "inmateNumber": "402697",
     "name": "LOMKER, CRYSTAL DAWN",
