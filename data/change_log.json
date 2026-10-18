@@ -26,6 +26,30 @@
     "releaseSource": null
   },
   {
+    "id": "422855-20261017123300",
+    "inmateNumber": "422855",
+    "name": "SKAIFE, MICHAEL R",
+    "bookedAt": "2026-10-17T12:33:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "arrestDate": "2026-10-17T12:33:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0429096"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T21:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "393273-20261017062800",
     "inmateNumber": "393273",
     "name": "FUNK, ERIC WILLIAM",
