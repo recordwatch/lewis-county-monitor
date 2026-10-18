@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T13:17:13",
+  "generatedAt": "2026-10-18T13:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 240,
@@ -425,14 +425,14 @@
   ],
   "bondTypes": [
     {
+      "name": "Cash or Bond",
+      "count": 142,
+      "pct": 25.2
+    },
+    {
       "name": "Included",
       "count": 140,
       "pct": 24.8
-    },
-    {
-      "name": "Cash or Bond",
-      "count": 139,
-      "pct": 24.6
     },
     {
       "name": "Serving Time",
@@ -441,8 +441,8 @@
     },
     {
       "name": "No Bail",
-      "count": 67,
-      "pct": 11.9
+      "count": 64,
+      "pct": 11.3
     },
     {
       "name": "Released by Court",
@@ -519,11 +519,11 @@
     "currentLongestDaysHeld": 770.9
   },
   "bond": {
-    "withBond": 94,
-    "noBond": 72,
-    "medianBond": 25000,
+    "withBond": 96,
+    "noBond": 70,
+    "medianBond": 27500,
     "maxBond": 3000000,
-    "totalBond": 14659450
+    "totalBond": 14749450
   },
   "chargesPerBooking": 2.4
 }

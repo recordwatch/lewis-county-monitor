@@ -119,7 +119,7 @@
     "name": "HARPER, VICKIE LOU",
     "bookedAt": "2026-10-17T16:13:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -127,8 +127,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "W"
       },
       {
@@ -311,7 +311,7 @@
     "name": "CLINE, ZACHARY SEBASTIAN",
     "bookedAt": "2026-10-17T02:23:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 30000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -319,8 +319,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 30000,
         "warrantNumber": "w"
       },
       {
@@ -4007,7 +4007,7 @@
     "name": "NAHINU, PUNIKAILANI K",
     "bookedAt": "2026-10-05T11:11:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 10000,
+    "bondTotal": 60000,
     "charges": [
       {
         "description": "SEX-FAIL TO REG AS SEX OFFENDER <2 prior",
@@ -4025,8 +4025,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
         "warrantNumber": "W"
       },
       {
