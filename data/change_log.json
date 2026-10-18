@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "281156-20261017161300",
+    "inmateNumber": "281156",
+    "name": "HARPER, VICKIE LOU",
+    "bookedAt": "2026-10-17T16:13:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND",
+        "arrestDate": "2026-10-17T16:13:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-10-17T16:13:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T03:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "300260-20261017154400",
     "inmateNumber": "300260",
     "name": "GLEASON, JESSICA MICHELLE",

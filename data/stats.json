@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T02:49:15",
+  "generatedAt": "2026-10-18T03:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 236,
-    "bookingsObserved": 87,
+    "bookingsTracked": 237,
+    "bookingsObserved": 88,
     "releasesObserved": 72,
-    "inCustody": 164,
-    "uniquePeople": 229
+    "inCustody": 165,
+    "uniquePeople": 230
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 9,
+      "booked": 10,
       "released": 1
     },
     {
@@ -217,6 +217,16 @@
       "pct": 1.2
     },
     {
+      "name": "BURGLARY 2ND",
+      "count": 7,
+      "pct": 1.2
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 7,
+      "pct": 1.2
+    },
+    {
       "name": "THEFT 2ND DEG>250",
       "count": 7,
       "pct": 1.2
@@ -237,17 +247,7 @@
       "pct": 1.2
     },
     {
-      "name": "BURGLARY 2ND",
-      "count": 6,
-      "pct": 1.1
-    },
-    {
       "name": "USE PARAPHERNALIA/FTA",
-      "count": 6,
-      "pct": 1.1
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
       "count": 6,
       "pct": 1.1
     },
@@ -266,37 +266,37 @@
     {
       "name": "JAIL",
       "count": 58,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 55,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 53,
-      "pct": 22.6,
+      "pct": 22.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CHEH",
-      "count": 36,
-      "pct": 15.3,
+      "count": 37,
+      "pct": 15.7,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 18,
-      "pct": 7.7,
+      "pct": 7.6,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
       "count": 6,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Winlock Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 275,
-      "pct": 49.4,
+      "count": 276,
+      "pct": 49.5,
       "label": "Lewis County Superior Court"
     },
     {
@@ -432,17 +432,17 @@
     {
       "name": "Cash or Bond",
       "count": 139,
-      "pct": 24.9
+      "pct": 24.8
     },
     {
       "name": "Serving Time",
       "count": 110,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "No Bail",
-      "count": 64,
-      "pct": 11.4
+      "count": 65,
+      "pct": 11.6
     },
     {
       "name": "Released by Court",
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.3,
+    "currentMedianDaysHeld": 24.1,
     "currentLongestDaysHeld": 770.4
   },
   "bond": {
     "withBond": 94,
-    "noBond": 70,
+    "noBond": 71,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14637550
