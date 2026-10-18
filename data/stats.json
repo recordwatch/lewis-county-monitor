@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T01:32:14",
+  "generatedAt": "2026-10-18T01:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 235,
-    "bookingsObserved": 86,
+    "bookingsTracked": 236,
+    "bookingsObserved": 87,
     "releasesObserved": 72,
-    "inCustody": 163,
-    "uniquePeople": 228
+    "inCustody": 164,
+    "uniquePeople": 229
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 8,
+      "booked": 9,
       "released": 1
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 15,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "Protection Order Violation",
@@ -266,13 +266,13 @@
     {
       "name": "JAIL",
       "count": 58,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 55,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Centralia Police"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CHEH",
       "count": 36,
-      "pct": 15.4,
+      "pct": 15.3,
       "label": "Chehalis Police"
     },
     {
@@ -300,16 +300,16 @@
       "label": "Winlock Police"
     },
     {
+      "name": "MORT",
+      "count": 3,
+      "pct": 1.3,
+      "label": "Morton Police"
+    },
+    {
       "name": "DOC",
       "count": 3,
       "pct": 1.3,
       "label": "Dept. of Corrections"
-    },
-    {
-      "name": "MORT",
-      "count": 2,
-      "pct": 0.9,
-      "label": "Morton Police"
     },
     {
       "name": "TOLE",
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.5,
+    "currentMedianDaysHeld": 24.3,
     "currentLongestDaysHeld": 770.4
   },
   "bond": {
     "withBond": 94,
-    "noBond": 69,
+    "noBond": 70,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14637550
