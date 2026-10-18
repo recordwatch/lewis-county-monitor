@@ -1,0 +1,529 @@
+{
+  "generatedAt": "2026-10-17T17:32:14",
+  "monitoringSince": "2026-10-10T15:40:09",
+  "totals": {
+    "bookingsTracked": 233,
+    "bookingsObserved": 84,
+    "releasesObserved": 72,
+    "inCustody": 161,
+    "uniquePeople": 226
+  },
+  "bookingsByDay": [
+    {
+      "date": "2026-09-18",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-19",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-20",
+      "booked": 2,
+      "released": 0
+    },
+    {
+      "date": "2026-09-21",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-22",
+      "booked": 4,
+      "released": 0
+    },
+    {
+      "date": "2026-09-23",
+      "booked": 4,
+      "released": 0
+    },
+    {
+      "date": "2026-09-24",
+      "booked": 2,
+      "released": 0
+    },
+    {
+      "date": "2026-09-25",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-26",
+      "booked": 0,
+      "released": 0
+    },
+    {
+      "date": "2026-09-27",
+      "booked": 2,
+      "released": 0
+    },
+    {
+      "date": "2026-09-28",
+      "booked": 2,
+      "released": 0
+    },
+    {
+      "date": "2026-09-29",
+      "booked": 7,
+      "released": 0
+    },
+    {
+      "date": "2026-09-30",
+      "booked": 2,
+      "released": 0
+    },
+    {
+      "date": "2026-10-01",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-10-02",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-10-03",
+      "booked": 2,
+      "released": 0
+    },
+    {
+      "date": "2026-10-04",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-10-05",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-10-06",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-10-07",
+      "booked": 3,
+      "released": 0
+    },
+    {
+      "date": "2026-10-08",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-10-09",
+      "booked": 7,
+      "released": 0
+    },
+    {
+      "date": "2026-10-10",
+      "booked": 7,
+      "released": 1
+    },
+    {
+      "date": "2026-10-11",
+      "booked": 10,
+      "released": 4
+    },
+    {
+      "date": "2026-10-12",
+      "booked": 14,
+      "released": 13
+    },
+    {
+      "date": "2026-10-13",
+      "booked": 14,
+      "released": 11
+    },
+    {
+      "date": "2026-10-14",
+      "booked": 13,
+      "released": 16
+    },
+    {
+      "date": "2026-10-15",
+      "booked": 9,
+      "released": 13
+    },
+    {
+      "date": "2026-10-16",
+      "booked": 12,
+      "released": 13
+    },
+    {
+      "date": "2026-10-17",
+      "booked": 6,
+      "released": 1
+    }
+  ],
+  "topCharges": [
+    {
+      "name": "DUI",
+      "count": 34,
+      "pct": 6
+    },
+    {
+      "name": "DWLS 3RD DEGREE",
+      "count": 30,
+      "pct": 5.3
+    },
+    {
+      "name": "OTHER AGENCY HOLD",
+      "count": 25,
+      "pct": 4.4
+    },
+    {
+      "name": "DWLS 3RD DEGREE/FTA",
+      "count": 21,
+      "pct": 3.7
+    },
+    {
+      "name": "POSS of Controlled Substance",
+      "count": 20,
+      "pct": 3.5
+    },
+    {
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+      "count": 17,
+      "pct": 3
+    },
+    {
+      "name": "Drive w/o req ignition intrlck",
+      "count": 16,
+      "pct": 2.8
+    },
+    {
+      "name": "THEFT 3RD DEG",
+      "count": 15,
+      "pct": 2.7
+    },
+    {
+      "name": "Protection Order Violation",
+      "count": 10,
+      "pct": 1.8
+    },
+    {
+      "name": "OBSTRUCTING A LAW ENFORCE OFCR",
+      "count": 9,
+      "pct": 1.6
+    },
+    {
+      "name": "THEFT 2ND DEG>250",
+      "count": 7,
+      "pct": 1.2
+    },
+    {
+      "name": "DUI/FTA",
+      "count": 7,
+      "pct": 1.2
+    },
+    {
+      "name": "HARRASSMENT-DEATH THREAT",
+      "count": 7,
+      "pct": 1.2
+    },
+    {
+      "name": "ASSAULT 2ND DV",
+      "count": 7,
+      "pct": 1.2
+    },
+    {
+      "name": "BURGLARY 2ND",
+      "count": 6,
+      "pct": 1.1
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE/DV",
+      "count": 6,
+      "pct": 1.1
+    },
+    {
+      "name": "USE PARAPHERNALIA/FTA",
+      "count": 6,
+      "pct": 1.1
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 6,
+      "pct": 1.1
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 6,
+      "pct": 1.1
+    },
+    {
+      "name": "ASSAULT 2ND",
+      "count": 6,
+      "pct": 1.1
+    }
+  ],
+  "topAgencies": [
+    {
+      "name": "JAIL",
+      "count": 58,
+      "pct": 25,
+      "label": "Lewis County Jail"
+    },
+    {
+      "name": "CENT",
+      "count": 55,
+      "pct": 23.7,
+      "label": "Centralia Police"
+    },
+    {
+      "name": "LCSO",
+      "count": 52,
+      "pct": 22.4,
+      "label": "Lewis County Sheriff's Office"
+    },
+    {
+      "name": "CHEH",
+      "count": 35,
+      "pct": 15.1,
+      "label": "Chehalis Police"
+    },
+    {
+      "name": "WASH",
+      "count": 18,
+      "pct": 7.8,
+      "label": "Washington State Patrol"
+    },
+    {
+      "name": "WINL",
+      "count": 6,
+      "pct": 2.6,
+      "label": "Winlock Police"
+    },
+    {
+      "name": "DOC",
+      "count": 3,
+      "pct": 1.3,
+      "label": "Dept. of Corrections"
+    },
+    {
+      "name": "MORT",
+      "count": 2,
+      "pct": 0.9,
+      "label": "Morton Police"
+    },
+    {
+      "name": "TOLE",
+      "count": 1,
+      "pct": 0.4,
+      "label": "TOLE"
+    },
+    {
+      "name": "TCSO",
+      "count": 1,
+      "pct": 0.4,
+      "label": "Thurston County Sheriff's Office"
+    }
+  ],
+  "courts": [
+    {
+      "name": "SUP",
+      "count": 274,
+      "pct": 49.5,
+      "label": "Lewis County Superior Court"
+    },
+    {
+      "name": "LCD",
+      "count": 160,
+      "pct": 28.9,
+      "label": "Lewis County District Court"
+    },
+    {
+      "name": "CNM",
+      "count": 44,
+      "pct": 8,
+      "label": "Centralia Municipal Court"
+    },
+    {
+      "name": "CSM",
+      "count": 33,
+      "pct": 6,
+      "label": "Chehalis Municipal Court"
+    },
+    {
+      "name": "DOC",
+      "count": 14,
+      "pct": 2.5,
+      "label": "Dept. of Corrections"
+    },
+    {
+      "name": "WLM",
+      "count": 12,
+      "pct": 2.2,
+      "label": "Winlock Municipal Court"
+    },
+    {
+      "name": "ODC",
+      "count": 8,
+      "pct": 1.4,
+      "label": "ODC"
+    },
+    {
+      "name": "NMC",
+      "count": 4,
+      "pct": 0.7,
+      "label": "Napavine Municipal Court"
+    },
+    {
+      "name": "OSC",
+      "count": 3,
+      "pct": 0.5,
+      "label": "OSC"
+    },
+    {
+      "name": "USM",
+      "count": 1,
+      "pct": 0.2,
+      "label": "USM"
+    }
+  ],
+  "releasedTo": [
+    {
+      "name": "SELF",
+      "count": 60,
+      "pct": 88.2
+    },
+    {
+      "name": "DOC",
+      "count": 2,
+      "pct": 2.9
+    },
+    {
+      "name": "KITTITAS",
+      "count": 2,
+      "pct": 2.9
+    },
+    {
+      "name": "FREEDOM BAIL BONDS",
+      "count": 1,
+      "pct": 1.5
+    },
+    {
+      "name": "MOBILE CRISIS",
+      "count": 1,
+      "pct": 1.5
+    },
+    {
+      "name": "FRIENDSHIP",
+      "count": 1,
+      "pct": 1.5
+    },
+    {
+      "name": "RELEASED TO WCC",
+      "count": 1,
+      "pct": 1.5
+    }
+  ],
+  "bondTypes": [
+    {
+      "name": "Included",
+      "count": 140,
+      "pct": 25.2
+    },
+    {
+      "name": "Cash or Bond",
+      "count": 140,
+      "pct": 25.2
+    },
+    {
+      "name": "Serving Time",
+      "count": 111,
+      "pct": 20
+    },
+    {
+      "name": "No Bail",
+      "count": 61,
+      "pct": 11
+    },
+    {
+      "name": "Released by Court",
+      "count": 51,
+      "pct": 9.2
+    },
+    {
+      "name": "Appearance Bond",
+      "count": 11,
+      "pct": 2
+    },
+    {
+      "name": "Amended",
+      "count": 11,
+      "pct": 2
+    },
+    {
+      "name": "Referred",
+      "count": 9,
+      "pct": 1.6
+    },
+    {
+      "name": "Released Time Served",
+      "count": 8,
+      "pct": 1.4
+    },
+    {
+      "name": "Dismissed",
+      "count": 7,
+      "pct": 1.3
+    },
+    {
+      "name": "Transferred to Prison",
+      "count": 4,
+      "pct": 0.7
+    },
+    {
+      "name": "Released PR Bond",
+      "count": 1,
+      "pct": 0.2
+    }
+  ],
+  "stay": {
+    "releasedCount": 70,
+    "medianDays": 2,
+    "meanDays": 8.9,
+    "buckets": [
+      {
+        "label": "< 1 day",
+        "count": 21
+      },
+      {
+        "label": "1–3 days",
+        "count": 24
+      },
+      {
+        "label": "3–7 days",
+        "count": 8
+      },
+      {
+        "label": "1–4 weeks",
+        "count": 12
+      },
+      {
+        "label": "1–3 months",
+        "count": 4
+      },
+      {
+        "label": "3+ months",
+        "count": 1
+      }
+    ],
+    "currentMedianDaysHeld": 24.1,
+    "currentLongestDaysHeld": 770
+  },
+  "bond": {
+    "withBond": 94,
+    "noBond": 67,
+    "medianBond": 25000,
+    "maxBond": 3000000,
+    "totalBond": 14637550
+  },
+  "chargesPerBooking": 2.4
+}
