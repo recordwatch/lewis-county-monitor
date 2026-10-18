@@ -37,17 +37,19 @@
         "description": "ASSAULT 4TH DV",
         "arrestDate": "2026-10-17T15:44:00",
         "arrestingAgency": "MORT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "NMC",
+        "billingAgency": "NAPA",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0321193"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-18T01:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422389-20261017123800",

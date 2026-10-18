@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:49:15",
+  "generatedAt": "2026-10-18T02:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 236,
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 275,
-      "pct": 49.5,
+      "pct": 49.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 161,
-      "pct": 29,
+      "pct": 28.9,
       "label": "Lewis County District Court"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "NMC",
-      "count": 4,
-      "pct": 0.7,
+      "count": 5,
+      "pct": 0.9,
       "label": "Napavine Municipal Court"
     },
     {
@@ -427,7 +427,7 @@
     {
       "name": "Included",
       "count": 140,
-      "pct": 25.1
+      "pct": 25
     },
     {
       "name": "Cash or Bond",
@@ -441,8 +441,8 @@
     },
     {
       "name": "No Bail",
-      "count": 63,
-      "pct": 11.3
+      "count": 64,
+      "pct": 11.4
     },
     {
       "name": "Released by Court",
