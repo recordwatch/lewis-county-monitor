@@ -15,7 +15,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "w"
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
@@ -2249,8 +2249,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 25000,
+        "bondType": "Released on Bond",
+        "bondAmount": null,
         "warrantNumber": "T00801732"
       },
       {
