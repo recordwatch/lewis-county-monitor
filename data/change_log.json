@@ -181,7 +181,7 @@
     "name": "WARNER, TINA MARIE",
     "bookedAt": "2026-10-17T12:38:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 30000,
     "charges": [
       {
         "description": "ASSAULT 3RD",
@@ -189,8 +189,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 30000,
         "warrantNumber": "W"
       }
     ],
