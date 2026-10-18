@@ -188,7 +188,7 @@
         "arrestDate": "2026-10-17T15:44:00",
         "arrestingAgency": "MORT",
         "court": "NMC",
-        "billingAgency": "NAPA",
+        "billingAgency": "MORT",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0321193"
@@ -266,7 +266,7 @@
         "arrestDate": "2026-10-17T06:28:00",
         "arrestingAgency": "MORT",
         "court": "NMC",
-        "billingAgency": "NAPA",
+        "billingAgency": "MORT",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0413199"
