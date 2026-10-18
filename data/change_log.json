@@ -2078,12 +2078,12 @@
         "warrantNumber": "7Z0711112"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T01:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-18T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "380996-20261012185300",

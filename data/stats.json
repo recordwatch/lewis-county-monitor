@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T03:49:15",
+  "generatedAt": "2026-10-18T04:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 237,
     "bookingsObserved": 88,
-    "releasesObserved": 72,
-    "inCustody": 165,
+    "releasesObserved": 73,
+    "inCustody": 164,
     "uniquePeople": 230
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-18",
       "booked": 0,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 60,
-      "pct": 88.2
+      "count": 61,
+      "pct": 88.4
     },
     {
       "name": "DOC",
@@ -405,22 +405,22 @@
     {
       "name": "FREEDOM BAIL BONDS",
       "count": 1,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "MOBILE CRISIS",
       "count": 1,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "FRIENDSHIP",
       "count": 1,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "RELEASED TO WCC",
       "count": 1,
-      "pct": 1.5
+      "pct": 1.4
     }
   ],
   "bondTypes": [
@@ -486,8 +486,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 70,
-    "medianDays": 2,
+    "releasedCount": 71,
+    "medianDays": 2.1,
     "meanDays": 8.9,
     "buckets": [
       {
@@ -500,7 +500,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 8
+        "count": 9
       },
       {
         "label": "1–4 weeks",
@@ -515,15 +515,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.2,
+    "currentMedianDaysHeld": 24.4,
     "currentLongestDaysHeld": 770.5
   },
   "bond": {
-    "withBond": 94,
+    "withBond": 93,
     "noBond": 71,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14637550
+    "totalBond": 14629950
   },
   "chargesPerBooking": 2.4
 }
