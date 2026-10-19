@@ -318,12 +318,12 @@
         "warrantNumber": "6A0199169"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T22:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "281156-20261017161300",
