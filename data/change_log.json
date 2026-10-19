@@ -292,12 +292,12 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T08:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:00:23",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "294354-20261017192900",
@@ -406,12 +406,12 @@
         "warrantNumber": "W"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T14:11:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422855-20261017123300",
@@ -432,12 +432,12 @@
         "warrantNumber": "6A0429096"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T21:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "393273-20261017062800",
@@ -1298,12 +1298,12 @@
         "warrantNumber": "6A0264563"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T10:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP",
+    "releaseSource": "official"
   },
   {
     "id": "17043-20261014202200",
@@ -2698,12 +2698,12 @@
         "warrantNumber": "T00801733"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T10:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP",
+    "releaseSource": "official"
   },
   {
     "id": "323997-20261012015100",
