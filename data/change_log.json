@@ -253,7 +253,57 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610056021"
+      },
+      {
+        "description": "INTIMID PUBL SERVANT",
+        "arrestDate": "2026-10-17T23:06:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610056021"
+      },
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-17T23:06:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610056021"
+      },
+      {
+        "description": "RECKLESS ENDANGER 2CD",
+        "arrestDate": "2026-10-17T23:06:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610056021"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-10-17T23:06:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610056021"
+      },
+      {
+        "description": "INTERFERE HEALTH CARE FACILITY",
+        "arrestDate": "2026-10-17T23:06:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610056021"
       }
     ],
     "status": "in_custody",

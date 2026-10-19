@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:49:13",
+  "generatedAt": "2026-10-19T16:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 247,
@@ -163,18 +163,18 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 37,
-      "pct": 6.3
+      "count": 38,
+      "pct": 6.5
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 32,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 26,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -199,7 +199,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 15,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "Protection Order Violation",
@@ -217,17 +217,17 @@
       "pct": 1.4
     },
     {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 8,
+      "pct": 1.4
+    },
+    {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 8,
       "pct": 1.4
     },
     {
       "name": "BURGLARY 2ND",
-      "count": 7,
-      "pct": 1.2
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
       "count": 7,
       "pct": 1.2
     },
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 279,
-      "pct": 48.8,
+      "count": 284,
+      "pct": 49.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 169,
-      "pct": 29.5,
+      "pct": 29.3,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 45,
-      "pct": 7.9,
+      "pct": 7.8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -437,22 +437,22 @@
     {
       "name": "Cash or Bond",
       "count": 149,
-      "pct": 25.9
+      "pct": 25.6
     },
     {
       "name": "Included",
-      "count": 141,
-      "pct": 24.5
+      "count": 146,
+      "pct": 25.1
     },
     {
       "name": "Serving Time",
       "count": 112,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "No Bail",
       "count": 66,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "Released by Court",
@@ -477,7 +477,7 @@
     {
       "name": "Released Time Served",
       "count": 9,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "Dismissed",
