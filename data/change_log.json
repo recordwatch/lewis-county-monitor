@@ -1,5 +1,39 @@
 [
   {
+    "id": "323997-20261019000800",
+    "inmateNumber": "323997",
+    "name": "HAHN, JAMES JON",
+    "bookedAt": "2026-10-19T00:08:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-19T00:08:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00801745"
+      },
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-19T00:08:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00801745"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T01:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "108201-20261018194800",
     "inmateNumber": "108201",
     "name": "LEE, ROBERT JAMES",
