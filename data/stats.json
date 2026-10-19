@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T10:49:16",
+  "generatedAt": "2026-10-19T11:11:43",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 247,
     "bookingsObserved": 98,
-    "releasesObserved": 79,
-    "inCustody": 168,
+    "releasesObserved": 81,
+    "inCustody": 166,
     "uniquePeople": 239
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-19",
       "booked": 2,
-      "released": 5
+      "released": 7
     }
   ],
   "topCharges": [
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 278,
-      "pct": 48.7,
+      "count": 279,
+      "pct": 48.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 169,
-      "pct": 29.6,
+      "pct": 29.5,
       "label": "Lewis County District Court"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "CSM",
       "count": 34,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "DOC",
       "count": 14,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "Dept. of Corrections"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "NMC",
       "count": 6,
-      "pct": 1.1,
+      "pct": 1,
       "label": "Napavine Municipal Court"
     },
     {
@@ -389,23 +389,23 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 64,
-      "pct": 85.3
+      "count": 66,
+      "pct": 85.7
     },
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "DOC",
       "count": 2,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "KITTITAS",
       "count": 2,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "FREEDOM BAIL BONDS",
@@ -432,7 +432,7 @@
     {
       "name": "Cash or Bond",
       "count": 146,
-      "pct": 25.4
+      "pct": 25.3
     },
     {
       "name": "Included",
@@ -442,12 +442,12 @@
     {
       "name": "Serving Time",
       "count": 112,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "No Bail",
-      "count": 68,
-      "pct": 11.8
+      "count": 69,
+      "pct": 12
     },
     {
       "name": "Released by Court",
@@ -491,9 +491,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 77,
+    "releasedCount": 79,
     "medianDays": 2.2,
-    "meanDays": 8.6,
+    "meanDays": 8.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -501,7 +501,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 28
+        "count": 30
       },
       {
         "label": "3–7 days",
@@ -520,15 +520,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 23.7,
+    "currentMedianDaysHeld": 25.2,
     "currentLongestDaysHeld": 771.8
   },
   "bond": {
-    "withBond": 98,
-    "noBond": 70,
+    "withBond": 97,
+    "noBond": 69,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 14773750
+    "totalBond": 14773250
   },
   "chargesPerBooking": 2.4
 }

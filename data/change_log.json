@@ -458,12 +458,12 @@
         "warrantNumber": "6A0413199"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T12:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422864-20261017040200",
@@ -932,12 +932,12 @@
         "warrantNumber": "6A0418541"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T22:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "253270-20261016084000",
@@ -6248,6 +6248,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610049721"
+      },
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "arrestDate": "2026-09-20T21:57:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610055721"
       },
       {
         "description": "Cust Aslt Adult Corr",
