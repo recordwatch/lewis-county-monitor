@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-19T01:32:18",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "108201-20261018194800",
@@ -4748,12 +4750,12 @@
         "warrantNumber": "PA-2400058"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "420740-20261002073500",
