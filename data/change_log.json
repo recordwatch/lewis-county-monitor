@@ -341,17 +341,17 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 10000,
-        "warrantNumber": "W"
+        "warrantNumber": "2610055621"
       },
       {
         "description": "ASSAULT 4TH DEGREE",
         "arrestDate": "2026-10-17T16:13:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610055621"
       }
     ],
     "status": "in_custody",
