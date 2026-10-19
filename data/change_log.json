@@ -178,12 +178,12 @@
         "warrantNumber": "26-1-00683-34"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T11:13:48",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "THURSTON COUNTY JAIL",
+    "releaseSource": "official"
   },
   {
     "id": "225260-20261018010300",
