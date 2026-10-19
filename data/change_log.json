@@ -1,5 +1,29 @@
 [
   {
+    "id": "422892-20261019050600",
+    "inmateNumber": "422892",
+    "name": "REEVES, MASON JOSEPH",
+    "bookedAt": "2026-10-19T05:06:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-19T05:06:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00874641"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T09:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "323997-20261019000800",
     "inmateNumber": "323997",
     "name": "HAHN, JAMES JON",
