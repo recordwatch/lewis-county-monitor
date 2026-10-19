@@ -786,6 +786,36 @@
         "warrantNumber": "2610055921"
       },
       {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0390105"
+      },
+      {
+        "description": "MAL MISCH 3RD DV",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "26Y325"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "26Y325"
+      },
+      {
         "description": "RESIDENTIAL BURGLARY",
         "arrestDate": "2026-10-16T17:15:00",
         "arrestingAgency": "LCSO",
@@ -4959,7 +4989,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2210000921"
       },
@@ -4969,7 +4999,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2210000921"
       },
@@ -4979,7 +5009,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2210000921"
       }
