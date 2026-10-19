@@ -634,12 +634,12 @@
         "warrantNumber": "6A0013381"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T01:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422822-20261016193900",
