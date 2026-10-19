@@ -304,6 +304,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610056021"
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-10-17T23:06:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610056021"
       }
     ],
     "status": "in_custody",
@@ -583,7 +593,7 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 30000,
-        "warrantNumber": "w"
+        "warrantNumber": "2610055821"
       },
       {
         "description": "BURGLARY 2ND",
@@ -593,7 +603,7 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "w"
+        "warrantNumber": "2610055821"
       },
       {
         "description": "Identity Theft 2nd",
@@ -603,7 +613,37 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "w"
+        "warrantNumber": "2610055821"
+      },
+      {
+        "description": "MAK-HAV BURGLAR TOOL",
+        "arrestDate": "2026-10-17T02:23:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610055821"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-17T02:23:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610055821"
+      },
+      {
+        "description": "POSS STL PROP 3/<250",
+        "arrestDate": "2026-10-17T02:23:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610055821"
       }
     ],
     "status": "in_custody",
@@ -736,6 +776,16 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "UNLAW POSS FRARM 2",
+        "arrestDate": "2026-10-16T17:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610055921"
+      },
+      {
         "description": "RESIDENTIAL BURGLARY",
         "arrestDate": "2026-10-16T17:15:00",
         "arrestingAgency": "LCSO",
@@ -743,7 +793,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610055921"
       },
       {
         "description": "Theft of Firearm",
@@ -751,9 +801,9 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610055921"
       },
       {
         "description": "Felony Telephone Harassment",
@@ -761,19 +811,19 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610055921"
       },
       {
         "description": "VIOL PROTECTION ORD",
         "arrestDate": "2026-10-16T17:15:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610055921"
       }
     ],
     "status": "in_custody",

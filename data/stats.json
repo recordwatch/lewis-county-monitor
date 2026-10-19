@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:17:15",
+  "generatedAt": "2026-10-19T16:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 247,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 38,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -183,13 +183,13 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 20,
-      "pct": 3.4
+      "count": 21,
+      "pct": 3.5
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 18,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -202,29 +202,29 @@
       "pct": 2.5
     },
     {
+      "name": "OBSTRUCTING A LAW ENFORCE OFCR",
+      "count": 10,
+      "pct": 1.7
+    },
+    {
       "name": "Protection Order Violation",
       "count": 10,
       "pct": 1.7
     },
     {
-      "name": "OBSTRUCTING A LAW ENFORCE OFCR",
-      "count": 9,
-      "pct": 1.5
-    },
-    {
       "name": "HARRASSMENT-DEATH THREAT",
       "count": 8,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 8,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 8,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "BURGLARY 2ND",
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 284,
-      "pct": 49.2,
+      "count": 290,
+      "pct": 49.7,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 169,
-      "pct": 29.3,
+      "pct": 29,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 45,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
       "count": 34,
-      "pct": 5.9,
+      "pct": 5.8,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -435,29 +435,29 @@
   ],
   "bondTypes": [
     {
-      "name": "Cash or Bond",
-      "count": 149,
-      "pct": 25.6
+      "name": "Included",
+      "count": 154,
+      "pct": 26.2
     },
     {
-      "name": "Included",
-      "count": 146,
-      "pct": 25.1
+      "name": "Cash or Bond",
+      "count": 149,
+      "pct": 25.4
     },
     {
       "name": "Serving Time",
       "count": 112,
-      "pct": 19.3
+      "pct": 19.1
     },
     {
       "name": "No Bail",
-      "count": 66,
-      "pct": 11.4
+      "count": 64,
+      "pct": 10.9
     },
     {
       "name": "Released by Court",
       "count": 52,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Appearance Bond",
@@ -525,7 +525,7 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 27.4,
+    "currentMedianDaysHeld": 27.5,
     "currentLongestDaysHeld": 772
   },
   "bond": {
