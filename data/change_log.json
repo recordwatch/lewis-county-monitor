@@ -1,5 +1,29 @@
 [
   {
+    "id": "422891-20261018190300",
+    "inmateNumber": "422891",
+    "name": "IDINI-GRUNWALD, JESSICA J",
+    "bookedAt": "2026-10-18T19:03:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-18T19:03:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00801743"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T20:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "376551-20261018155300",
     "inmateNumber": "376551",
     "name": "PAVONE DOYL, DEVIN TYLER",
