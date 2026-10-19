@@ -556,12 +556,12 @@
         "warrantNumber": "26-1-00002-34"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T02:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "THURSTON COUNTY JAIL",
+    "releaseSource": "official"
   },
   {
     "id": "286697-20261016230000",
@@ -1030,12 +1030,12 @@
         "warrantNumber": "1A0679493"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T05:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "THURSTON COUNTY JAIL",
+    "releaseSource": "official"
   },
   {
     "id": "405880-20261015175000",
