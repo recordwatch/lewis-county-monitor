@@ -5,7 +5,7 @@
     "name": "REEVES, MASON JOSEPH",
     "bookedAt": "2026-10-19T05:06:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -13,8 +13,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "T00874641"
       }
     ],
@@ -106,12 +106,12 @@
         "warrantNumber": "T00801743"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T20:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "376551-20261018155300",
@@ -269,7 +269,7 @@
     "name": "LOMKER, CRYSTAL DAWN",
     "bookedAt": "2026-10-17T22:13:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE/DV",
@@ -277,8 +277,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "6A0381970"
       },
       {
@@ -416,7 +416,7 @@
   {
     "id": "422855-20261017123300",
     "inmateNumber": "422855",
-    "name": "SKAIFE, MICHAEL R",
+    "name": "SKAIFE, MICHAEL ROY",
     "bookedAt": "2026-10-17T12:33:00",
     "arrestingAgency": "CHEH",
     "bondTotal": null,
@@ -497,7 +497,7 @@
     "name": "CHAIREZ, EDGAR B",
     "bookedAt": "2026-10-17T02:49:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "DUI",
@@ -505,8 +505,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 20000,
         "warrantNumber": "T00801735"
       }
     ],
