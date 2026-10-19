@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:49:15",
+  "generatedAt": "2026-10-19T08:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 246,
@@ -437,12 +437,12 @@
     {
       "name": "Included",
       "count": 140,
-      "pct": 24.5
+      "pct": 24.4
     },
     {
       "name": "Serving Time",
-      "count": 111,
-      "pct": 19.4
+      "count": 112,
+      "pct": 19.5
     },
     {
       "name": "No Bail",
@@ -521,7 +521,7 @@
       }
     ],
     "currentMedianDaysHeld": 23.6,
-    "currentLongestDaysHeld": 771.6
+    "currentLongestDaysHeld": 771.7
   },
   "bond": {
     "withBond": 98,

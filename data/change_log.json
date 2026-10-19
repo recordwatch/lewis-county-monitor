@@ -946,8 +946,8 @@
         "arrestDate": "2026-10-16T08:40:00",
         "arrestingAgency": "LCSO",
         "court": "DOC",
-        "billingAgency": "OTAG",
-        "bondType": null,
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "10/16/26 407559"
       }
