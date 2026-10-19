@@ -1210,12 +1210,12 @@
         "warrantNumber": "6A0403654"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T01:49:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T11:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CHEHALIS TRIBAL",
+    "releaseSource": "official"
   },
   {
     "id": "380186-20261015161200",

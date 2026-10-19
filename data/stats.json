@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T11:17:16",
+  "generatedAt": "2026-10-19T11:32:18",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 247,
     "bookingsObserved": 98,
-    "releasesObserved": 81,
-    "inCustody": 166,
+    "releasesObserved": 82,
+    "inCustody": 165,
     "uniquePeople": 239
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-19",
       "booked": 2,
-      "released": 7
+      "released": 8
     }
   ],
   "topCharges": [
@@ -390,12 +390,12 @@
     {
       "name": "SELF",
       "count": 66,
-      "pct": 85.7
+      "pct": 84.6
     },
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "DOC",
@@ -409,6 +409,11 @@
     },
     {
       "name": "FREEDOM BAIL BONDS",
+      "count": 1,
+      "pct": 1.3
+    },
+    {
+      "name": "CHEHALIS TRIBAL",
       "count": 1,
       "pct": 1.3
     },
@@ -491,9 +496,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 79,
+    "releasedCount": 80,
     "medianDays": 2.2,
-    "meanDays": 8.4,
+    "meanDays": 8.3,
     "buckets": [
       {
         "label": "< 1 day",
@@ -505,7 +510,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 10
+        "count": 11
       },
       {
         "label": "1–4 weeks",
@@ -520,15 +525,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 25.2,
+    "currentMedianDaysHeld": 25.5,
     "currentLongestDaysHeld": 771.8
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 96,
     "noBond": 69,
-    "medianBond": 25000,
+    "medianBond": 27500,
     "maxBond": 3000000,
-    "totalBond": 14773250
+    "totalBond": 14761250
   },
   "chargesPerBooking": 2.4
 }
