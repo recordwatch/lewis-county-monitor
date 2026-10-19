@@ -1,5 +1,29 @@
 [
   {
+    "id": "108201-20261018194800",
+    "inmateNumber": "108201",
+    "name": "LEE, ROBERT JAMES",
+    "bookedAt": "2026-10-18T19:48:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-18T19:48:00",
+        "arrestingAgency": "JAIL",
+        "court": "NMC",
+        "billingAgency": "NAPA",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "3A0563757"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T21:49:12",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422891-20261018190300",
     "inmateNumber": "422891",
     "name": "IDINI-GRUNWALD, JESSICA J",

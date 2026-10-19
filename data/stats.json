@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T21:32:14",
+  "generatedAt": "2026-10-18T21:49:12",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 244,
-    "bookingsObserved": 95,
+    "bookingsTracked": 245,
+    "bookingsObserved": 96,
     "releasesObserved": 74,
-    "inCustody": 170,
-    "uniquePeople": 237
+    "inCustody": 171,
+    "uniquePeople": 238
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 31,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -184,12 +184,12 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 20,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 17,
-      "pct": 2.9
+      "count": 18,
+      "pct": 3.1
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "JAIL",
-      "count": 58,
-      "pct": 23.9,
+      "count": 59,
+      "pct": 24.2,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 57,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 54,
-      "pct": 22.2,
+      "pct": 22.1,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "CNM",
       "count": 45,
-      "pct": 8,
+      "pct": 7.9,
       "label": "Centralia Municipal Court"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "NMC",
-      "count": 5,
-      "pct": 0.9,
+      "count": 6,
+      "pct": 1.1,
       "label": "Napavine Municipal Court"
     },
     {
@@ -427,7 +427,7 @@
     {
       "name": "Cash or Bond",
       "count": 145,
-      "pct": 25.5
+      "pct": 25.4
     },
     {
       "name": "Included",
@@ -436,8 +436,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 110,
-      "pct": 19.3
+      "count": 111,
+      "pct": 19.5
     },
     {
       "name": "No Bail",
@@ -515,12 +515,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 21.4,
+    "currentMedianDaysHeld": 21,
     "currentLongestDaysHeld": 771.2
   },
   "bond": {
     "withBond": 98,
-    "noBond": 72,
+    "noBond": 73,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 14774250
