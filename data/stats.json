@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T13:32:15",
+  "generatedAt": "2026-10-19T13:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 247,
     "bookingsObserved": 98,
-    "releasesObserved": 82,
-    "inCustody": 165,
+    "releasesObserved": 83,
+    "inCustody": 164,
     "uniquePeople": 239
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-19",
       "booked": 2,
-      "released": 8
+      "released": 9
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 66,
-      "pct": 84.6
+      "count": 67,
+      "pct": 84.8
     },
     {
       "name": "THURSTON COUNTY JAIL",
@@ -400,12 +400,12 @@
     {
       "name": "DOC",
       "count": 2,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "KITTITAS",
       "count": 2,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "FREEDOM BAIL BONDS",
@@ -496,7 +496,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 80,
+    "releasedCount": 81,
     "medianDays": 2.2,
     "meanDays": 8.3,
     "buckets": [
@@ -506,7 +506,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 30
+        "count": 31
       },
       {
         "label": "3–7 days",
@@ -525,12 +525,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 25.6,
+    "currentMedianDaysHeld": 25.8,
     "currentLongestDaysHeld": 771.9
   },
   "bond": {
     "withBond": 96,
-    "noBond": 69,
+    "noBond": 68,
     "medianBond": 27500,
     "maxBond": 3000000,
     "totalBond": 14761250
