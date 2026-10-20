@@ -165,27 +165,27 @@
     "name": "OGLESBY, GERALD LEE",
     "bookedAt": "2026-10-20T02:00:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
-        "description": "BURG 2ND/NIGHT/NO FORCE",
+        "description": "RESIDENTIAL BURGLARY",
         "arrestDate": "2026-10-20T02:00:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
-        "warrantNumber": "W"
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
+        "warrantNumber": "2610056221"
       },
       {
         "description": "VIOL PROTECTION ORD",
         "arrestDate": "2026-10-20T02:00:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610056221"
       }
     ],
     "status": "in_custody",
