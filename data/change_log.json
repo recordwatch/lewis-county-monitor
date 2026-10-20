@@ -1,5 +1,49 @@
 [
   {
+    "id": "10635-20261019193900",
+    "inmateNumber": "10635",
+    "name": "KAUFMAN, LEE REID",
+    "bookedAt": "2026-10-19T19:39:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "arrestDate": "2026-10-19T19:39:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-19T19:39:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-19T19:39:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T02:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "155424-20261019192500",
     "inmateNumber": "155424",
     "name": "HEMENWAY, STEPHEN BLAINE",
