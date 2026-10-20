@@ -229,7 +229,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "DRC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2510072421"
       }
