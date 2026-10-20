@@ -80,12 +80,12 @@
         "warrantNumber": "3A0563757"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T21:49:12",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T20:12:24",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422891-20261018190300",
