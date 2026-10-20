@@ -243,7 +243,7 @@
     "name": "WILLIAM, JOEY C",
     "bookedAt": "2026-10-17T23:06:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "HARRASSMENT-DEATH THREAT",
@@ -251,8 +251,8 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "2610056021"
       },
       {
@@ -583,7 +583,7 @@
     "name": "CLINE, ZACHARY SEBASTIAN",
     "bookedAt": "2026-10-17T02:23:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 30000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -592,7 +592,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 30000,
+        "bondAmount": 10000,
         "warrantNumber": "2610055821"
       },
       {
@@ -773,7 +773,7 @@
     "name": "DIBBLE, DENISE MICHELLE",
     "bookedAt": "2026-10-16T17:15:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 500000,
     "charges": [
       {
         "description": "UNLAW POSS FRARM 2",
@@ -821,8 +821,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500000,
         "warrantNumber": "2610055921"
       },
       {
@@ -6317,7 +6317,7 @@
     "name": "WEBB, ANDREW JAMES",
     "bookedAt": "2026-09-20T21:57:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 11000,
+    "bondTotal": 111000,
     "charges": [
       {
         "description": "MAL MISCH 2ND/>750",
@@ -6385,8 +6385,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "2610055721"
       },
       {
