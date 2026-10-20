@@ -1,5 +1,29 @@
 [
   {
+    "id": "363161-20261020094000",
+    "inmateNumber": "363161",
+    "name": "WEAVER, ANTHONY JOESEPH SR",
+    "bookedAt": "2026-10-20T09:40:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-20T09:40:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "5A0630033"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T12:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422920-20261020055000",
     "inmateNumber": "422920",
     "name": "KILBY, MICHAEL A",
