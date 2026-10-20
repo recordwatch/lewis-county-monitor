@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-20T03:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422911-20261019203700",
@@ -49,7 +51,7 @@
         "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "T00873678"
       }
     ],
     "status": "in_custody",
@@ -101,7 +103,7 @@
     "name": "KAUFMAN, LEE REID",
     "bookedAt": "2026-10-19T19:39:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 1500,
+    "bondTotal": 6500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -128,9 +130,9 @@
         "arrestDate": "2026-10-19T19:39:00",
         "arrestingAgency": "LCSO",
         "court": "ODC",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "25-M00400 TCP"
       }
     ],
