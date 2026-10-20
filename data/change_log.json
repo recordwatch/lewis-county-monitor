@@ -1,5 +1,39 @@
 [
   {
+    "id": "129135-20261020130300",
+    "inmateNumber": "129135",
+    "name": "BEAMAN, STEPHAN ROGER",
+    "bookedAt": "2026-10-20T13:03:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-20T13:03:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "NEG DRIVING 1ST/CRIMINAL",
+        "arrestDate": "2026-10-20T13:03:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T16:16:46",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "77365-20261020101500",
     "inmateNumber": "77365",
     "name": "KOS, NICHOLAS RAY",
