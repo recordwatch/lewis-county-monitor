@@ -5,31 +5,57 @@
     "name": "HEMENWAY, STEPHEN BLAINE",
     "bookedAt": "2026-10-19T19:25:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
         "arrestDate": "2026-10-19T19:25:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0427747"
       },
       {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-10-19T19:25:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0427747"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-19T23:49:13",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "94483-20261019165800",
+    "inmateNumber": "94483",
+    "name": "FORD, BILLIE LOURAINE",
+    "bookedAt": "2026-10-19T16:58:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-10-19T16:58:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "DRC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510072421"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T00:17:15",
     "releasedAt": null,
     "baseline": false
   },
