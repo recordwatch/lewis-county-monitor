@@ -126,12 +126,12 @@
         "warrantNumber": "T00873678"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T02:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "218220-20261019194100",
@@ -162,12 +162,12 @@
         "warrantNumber": "6A0427745"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T03:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "10635-20261019193900",
@@ -175,7 +175,7 @@
     "name": "KAUFMAN, LEE REID",
     "bookedAt": "2026-10-19T19:39:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 6500,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -184,7 +184,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 5000,
         "warrantNumber": "6A0427746"
       },
       {
@@ -193,8 +193,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0427746"
       },
       {
@@ -244,12 +244,12 @@
         "warrantNumber": "6A0427747"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T23:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "298792-20261019192500",
@@ -257,7 +257,7 @@
     "name": "DUGGER, CASSAUNDRA LOUISE",
     "bookedAt": "2026-10-19T19:25:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 1500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -266,7 +266,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 2500,
         "warrantNumber": "6A0427744"
       },
       {
@@ -275,8 +275,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0427744"
       }
     ],
@@ -420,12 +420,12 @@
         "warrantNumber": "T00879485"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T21:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422892-20261019050600",
