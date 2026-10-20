@@ -1,5 +1,49 @@
 [
   {
+    "id": "422920-20261020055000",
+    "inmateNumber": "422920",
+    "name": "KILBY, MICHAEL A",
+    "bookedAt": "2026-10-20T05:50:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-20T05:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00874648"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-20T05:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00874650"
+      },
+      {
+        "description": "POSS DRUG PARAPHERNALIA USED",
+        "arrestDate": "2026-10-20T05:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00874650"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T10:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "421225-20261020020000",
     "inmateNumber": "421225",
     "name": "OGLESBY, GERALD LEE",
@@ -6276,6 +6320,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0398309"
+      },
+      {
+        "description": "DUI",
+        "arrestDate": "2026-09-23T14:30:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "25Y287"
       }
     ],
     "status": "in_custody",
