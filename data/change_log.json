@@ -1,5 +1,29 @@
 [
   {
+    "id": "335258-20261019125500",
+    "inmateNumber": "335258",
+    "name": "FEATHERSTON, SCOTT MERRILL",
+    "bookedAt": "2026-10-19T12:55:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-10-19T12:55:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T21:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "97958-20261019113400",
     "inmateNumber": "97958",
     "name": "ROBINETTE, JAMES CLAY",
@@ -171,7 +195,7 @@
     "name": "CLOUD, MEGAN ELIZABETH ANN",
     "bookedAt": "2026-10-18T14:28:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 20000,
+    "bondTotal": 20200,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
@@ -180,7 +204,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondAmount": 10100,
         "warrantNumber": "T00701676"
       },
       {
@@ -190,7 +214,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondAmount": 10100,
         "warrantNumber": "6A0239954"
       },
       {
