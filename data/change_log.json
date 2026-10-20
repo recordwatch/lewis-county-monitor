@@ -1,5 +1,53 @@
 [
   {
+    "id": "77365-20261020101500",
+    "inmateNumber": "77365",
+    "name": "KOS, NICHOLAS RAY",
+    "bookedAt": "2026-10-20T10:15:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-20T10:15:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "6A0131909"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:32:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "400246-20261020100300",
+    "inmateNumber": "400246",
+    "name": "JORDAN, ANDREW LEE",
+    "bookedAt": "2026-10-20T10:03:00",
+    "arrestingAgency": "MORT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-10-20T10:03:00",
+        "arrestingAgency": "MORT",
+        "court": "NMC",
+        "billingAgency": "MORT",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0413200"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:32:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "363161-20261020094000",
     "inmateNumber": "363161",
     "name": "WEAVER, ANTHONY JOESEPH SR",
