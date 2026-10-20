@@ -1,5 +1,63 @@
 [
   {
+    "id": "12753-20261019164500",
+    "inmateNumber": "12753",
+    "name": "ANDERSON, WILLIAM F",
+    "bookedAt": "2026-10-19T16:45:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-19T16:45:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "1A0394273"
+      },
+      {
+        "description": "HIT RUN UNATTENDED PROPERTY",
+        "arrestDate": "2026-10-19T16:45:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "1A0394273"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T22:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "94467-20261019144300",
+    "inmateNumber": "94467",
+    "name": "CLARK, CHRISTOPHER WILLIAM",
+    "bookedAt": "2026-10-19T14:43:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-19T14:43:00",
+        "arrestingAgency": "LCSO",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "5A0244397"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T22:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "335258-20261019125500",
     "inmateNumber": "335258",
     "name": "FEATHERSTON, SCOTT MERRILL",
