@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T03:17:13",
+  "generatedAt": "2026-10-20T03:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 257,
-    "bookingsObserved": 108,
+    "bookingsTracked": 258,
+    "bookingsObserved": 109,
     "releasesObserved": 99,
-    "inCustody": 158,
+    "inCustody": 159,
     "uniquePeople": 249
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -184,7 +184,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 23,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -264,21 +264,21 @@
   ],
   "topAgencies": [
     {
-      "name": "JAIL",
+      "name": "LCSO",
       "count": 61,
-      "pct": 23.8,
-      "label": "Lewis County Jail"
+      "pct": 23.7,
+      "label": "Lewis County Sheriff's Office"
     },
     {
-      "name": "LCSO",
-      "count": 60,
-      "pct": 23.4,
-      "label": "Lewis County Sheriff's Office"
+      "name": "JAIL",
+      "count": 61,
+      "pct": 23.7,
+      "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 57,
-      "pct": 22.3,
+      "pct": 22.2,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 24,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "Washington State Patrol"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 291,
+      "count": 292,
       "pct": 48.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 185,
-      "pct": 30.8,
+      "pct": 30.7,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 34,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "ODC",
-      "count": 8,
-      "pct": 1.3,
+      "count": 9,
+      "pct": 1.5,
       "label": "ODC"
     },
     {
@@ -451,8 +451,8 @@
     },
     {
       "name": "No Bail",
-      "count": 64,
-      "pct": 10.6
+      "count": 65,
+      "pct": 10.7
     },
     {
       "name": "Released by Court",
@@ -525,12 +525,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 27.2,
-    "currentLongestDaysHeld": 772.4
+    "currentMedianDaysHeld": 26.8,
+    "currentLongestDaysHeld": 772.5
   },
   "bond": {
     "withBond": 98,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15392750
