@@ -1,5 +1,29 @@
 [
   {
+    "id": "97958-20261019113400",
+    "inmateNumber": "97958",
+    "name": "ROBINETTE, JAMES CLAY",
+    "bookedAt": "2026-10-19T11:34:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "arrestDate": "2026-10-19T11:34:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00879485"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T21:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422892-20261019050600",
     "inmateNumber": "422892",
     "name": "REEVES, MASON JOSEPH",
@@ -1952,12 +1976,12 @@
         "warrantNumber": "2510030021"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T02:32:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T21:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "111120-20261013195800",

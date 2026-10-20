@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T20:49:15",
+  "generatedAt": "2026-10-19T21:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 247,
-    "bookingsObserved": 98,
-    "releasesObserved": 98,
+    "bookingsTracked": 248,
+    "bookingsObserved": 99,
+    "releasesObserved": 99,
     "inCustody": 149,
-    "uniquePeople": 239
+    "uniquePeople": 240
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 2,
-      "released": 24
+      "booked": 3,
+      "released": 25
     }
   ],
   "topCharges": [
@@ -174,12 +174,12 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 26,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 23,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "POSS of Controlled Substance",
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 59,
-      "pct": 24,
+      "pct": 23.9,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 57,
-      "pct": 23.2,
+      "pct": 23.1,
       "label": "Centralia Police"
     },
     {
       "name": "LCSO",
       "count": 54,
-      "pct": 22,
+      "pct": 21.9,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 22,
-      "pct": 8.9,
+      "count": 23,
+      "pct": 9.3,
       "label": "Washington State Patrol"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 290,
-      "pct": 49.5,
+      "pct": 49.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 172,
-      "pct": 29.4,
+      "count": 173,
+      "pct": 29.5,
       "label": "Lewis County District Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 80,
-      "pct": 85.1
+      "count": 81,
+      "pct": 85.3
     },
     {
       "name": "THURSTON COUNTY JAIL",
@@ -437,17 +437,17 @@
     {
       "name": "Included",
       "count": 155,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "Cash or Bond",
-      "count": 151,
-      "pct": 25.6
+      "count": 152,
+      "pct": 25.7
     },
     {
       "name": "Serving Time",
       "count": 113,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "No Bail",
@@ -496,7 +496,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 96,
+    "releasedCount": 97,
     "medianDays": 2.1,
     "meanDays": 7.4,
     "buckets": [
@@ -510,7 +510,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 12
+        "count": 13
       },
       {
         "label": "1–4 weeks",
@@ -531,9 +531,9 @@
   "bond": {
     "withBond": 94,
     "noBond": 55,
-    "medianBond": 32500,
+    "medianBond": 27500,
     "maxBond": 3000000,
-    "totalBond": 15535550
+    "totalBond": 15386550
   },
   "chargesPerBooking": 2.4
 }
