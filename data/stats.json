@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T23:32:17",
+  "generatedAt": "2026-10-19T23:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 251,
-    "bookingsObserved": 102,
+    "bookingsTracked": 252,
+    "bookingsObserved": 103,
     "releasesObserved": 99,
-    "inCustody": 152,
-    "uniquePeople": 243
+    "inCustody": 153,
+    "uniquePeople": 244
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 6,
+      "booked": 7,
       "released": 25
     }
   ],
@@ -183,18 +183,18 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 21,
-      "pct": 3.5
+      "count": 22,
+      "pct": 3.6
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 19,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 16,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,25 +266,25 @@
     {
       "name": "JAIL",
       "count": 60,
-      "pct": 24,
+      "pct": 23.9,
       "label": "Lewis County Jail"
+    },
+    {
+      "name": "LCSO",
+      "count": 57,
+      "pct": 22.7,
+      "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
       "count": 57,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "Centralia Police"
-    },
-    {
-      "name": "LCSO",
-      "count": 56,
-      "pct": 22.4,
-      "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CHEH",
       "count": 38,
-      "pct": 15.2,
+      "pct": 15.1,
       "label": "Chehalis Police"
     },
     {
@@ -525,12 +525,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 28.1,
+    "currentMedianDaysHeld": 27.8,
     "currentLongestDaysHeld": 772.3
   },
   "bond": {
     "withBond": 94,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 27500,
     "maxBond": 3000000,
     "totalBond": 15386750

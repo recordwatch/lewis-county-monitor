@@ -1,5 +1,39 @@
 [
   {
+    "id": "155424-20261019192500",
+    "inmateNumber": "155424",
+    "name": "HEMENWAY, STEPHEN BLAINE",
+    "bookedAt": "2026-10-19T19:25:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "arrestDate": "2026-10-19T19:25:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-19T19:25:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T23:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "12753-20261019164500",
     "inmateNumber": "12753",
     "name": "ANDERSON, WILLIAM F",
