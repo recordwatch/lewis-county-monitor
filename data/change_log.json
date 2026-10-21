@@ -766,12 +766,12 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T15:32:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T21:35:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422878-20261018012800",
