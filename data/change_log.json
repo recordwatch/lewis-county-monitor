@@ -298,7 +298,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondAmount": 2500,
         "warrantNumber": "T00874648"
       },
       {
@@ -307,8 +307,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Included",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "T00874650"
       },
       {
@@ -5012,6 +5012,16 @@
         "warrantNumber": "2610053621"
       },
       {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-05T12:07:00",
+        "arrestingAgency": "CENT",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "5A0118482"
+      },
+      {
         "description": "DANGEROUS WEAPON",
         "arrestDate": "2026-10-05T12:07:00",
         "arrestingAgency": "CENT",
@@ -5339,7 +5349,7 @@
     "name": "NAM, CAMROEUM",
     "bookedAt": "2026-10-03T16:15:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 11500,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -5347,8 +5357,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0398311"
       },
       {
@@ -5357,8 +5367,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0398312"
       },
       {
@@ -5367,7 +5377,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0398312"
       },

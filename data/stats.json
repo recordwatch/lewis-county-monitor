@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:49:15",
+  "generatedAt": "2026-10-21T16:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 268,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 44,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -172,14 +172,14 @@
       "pct": 5.2
     },
     {
-      "name": "OTHER AGENCY HOLD",
+      "name": "POSS of Controlled Substance",
       "count": 27,
       "pct": 4.3
     },
     {
-      "name": "POSS of Controlled Substance",
-      "count": 26,
-      "pct": 4.1
+      "name": "OTHER AGENCY HOLD",
+      "count": 27,
+      "pct": 4.3
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 296,
-      "pct": 47.6,
+      "pct": 47.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 194,
-      "pct": 31.2,
+      "count": 195,
+      "pct": 31.3,
       "label": "Lewis County District Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "DOC",
       "count": 14,
-      "pct": 2.3,
+      "pct": 2.2,
       "label": "Dept. of Corrections"
     },
     {
@@ -446,18 +446,18 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 164,
-      "pct": 26.2
-    },
-    {
-      "name": "Included",
       "count": 163,
       "pct": 26
     },
     {
+      "name": "Included",
+      "count": 161,
+      "pct": 25.7
+    },
+    {
       "name": "Serving Time",
-      "count": 121,
-      "pct": 19.3
+      "count": 122,
+      "pct": 19.5
     },
     {
       "name": "No Bail",
@@ -466,8 +466,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 52,
-      "pct": 8.3
+      "count": 55,
+      "pct": 8.8
     },
     {
       "name": "Appearance Bond",
@@ -543,7 +543,7 @@
     "noBond": 59,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15457150
+    "totalBond": 15447150
   },
   "chargesPerBooking": 2.4
 }
