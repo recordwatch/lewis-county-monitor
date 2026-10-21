@@ -621,7 +621,7 @@
         "arrestingAgency": "LCSO",
         "court": "WLM",
         "billingAgency": "WINL",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "5A0244397"
       }
@@ -2813,8 +2813,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6A0272257"
       },
       {
@@ -2823,8 +2823,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6A0306930"
       },
       {
@@ -2833,7 +2833,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "6A272257"
       }
@@ -6959,8 +6959,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 250000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "2610050021"
       },
       {
@@ -6969,7 +6969,7 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610050021"
       }
@@ -8449,7 +8449,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2510047221"
       },
@@ -8459,7 +8459,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2510047221"
       }
