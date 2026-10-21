@@ -1748,12 +1748,12 @@
         "warrantNumber": "361178 10162026"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T17:06:30",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T09:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "187296-20261015205500",
@@ -2720,12 +2720,12 @@
         "warrantNumber": "854882 10-13-26"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T21:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T09:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "190216-20261013180400",
@@ -5829,8 +5829,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "T00134379"
       }
     ],
