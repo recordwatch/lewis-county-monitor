@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T21:17:14",
+  "generatedAt": "2026-10-20T21:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 264,
-    "bookingsObserved": 115,
+    "bookingsTracked": 265,
+    "bookingsObserved": 116,
     "releasesObserved": 104,
-    "inCustody": 160,
-    "uniquePeople": 255
+    "inCustody": 161,
+    "uniquePeople": 256
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 7,
+      "booked": 8,
       "released": 5
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 26,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -188,8 +188,8 @@
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 19,
-      "pct": 3
+      "count": 20,
+      "pct": 3.2
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -232,6 +232,11 @@
       "pct": 1.3
     },
     {
+      "name": "USE PARAPHERNALIA/FTA",
+      "count": 7,
+      "pct": 1.1
+    },
+    {
       "name": "CRIM TRESPASS 2ND",
       "count": 7,
       "pct": 1.1
@@ -255,30 +260,25 @@
       "name": "ASSAULT 2ND DV",
       "count": 7,
       "pct": 1.1
-    },
-    {
-      "name": "RESIDENTIAL BURGLARY",
-      "count": 6,
-      "pct": 1
     }
   ],
   "topAgencies": [
     {
-      "name": "JAIL",
+      "name": "LCSO",
       "count": 63,
-      "pct": 24,
-      "label": "Lewis County Jail"
+      "pct": 23.9,
+      "label": "Lewis County Sheriff's Office"
     },
     {
-      "name": "LCSO",
-      "count": 62,
-      "pct": 23.6,
-      "label": "Lewis County Sheriff's Office"
+      "name": "JAIL",
+      "count": 63,
+      "pct": 23.9,
+      "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 57,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "Centralia Police"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 294,
-      "pct": 47.9,
+      "pct": 47.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 193,
-      "pct": 31.4,
+      "pct": 31.3,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 45,
-      "pct": 7.3,
+      "count": 48,
+      "pct": 7.8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -376,7 +376,7 @@
     {
       "name": "OSC",
       "count": 4,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "OSC"
     },
     {
@@ -437,22 +437,22 @@
     {
       "name": "Cash or Bond",
       "count": 164,
-      "pct": 26.5
+      "pct": 26.4
     },
     {
       "name": "Included",
-      "count": 157,
-      "pct": 25.4
+      "count": 159,
+      "pct": 25.6
     },
     {
       "name": "Serving Time",
       "count": 119,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "No Bail",
       "count": 66,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "Released by Court",
@@ -461,8 +461,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 11,
-      "pct": 1.8
+      "count": 12,
+      "pct": 1.9
     },
     {
       "name": "Amended",
@@ -477,7 +477,7 @@
     {
       "name": "Released Time Served",
       "count": 9,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Dismissed",
@@ -525,15 +525,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 27.4,
+    "currentMedianDaysHeld": 27.3,
     "currentLongestDaysHeld": 773.2
   },
   "bond": {
-    "withBond": 98,
+    "withBond": 99,
     "noBond": 62,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15429750
+    "totalBond": 15431750
   },
   "chargesPerBooking": 2.4
 }

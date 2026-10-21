@@ -1,5 +1,49 @@
 [
   {
+    "id": "137793-20261020190200",
+    "inmateNumber": "137793",
+    "name": "OFFICER, JASON ANTHONY",
+    "bookedAt": "2026-10-20T19:02:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-10-20T19:02:00",
+        "arrestingAgency": "LCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "5A0889282"
+      },
+      {
+        "description": "POSS MARIJ <40 G/FTA",
+        "arrestDate": "2026-10-20T19:02:00",
+        "arrestingAgency": "LCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "5A0889282"
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-20T19:02:00",
+        "arrestingAgency": "LCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "5A0889282"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T21:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "129135-20261020130300",
     "inmateNumber": "129135",
     "name": "BEAMAN, STEPHAN ROGER",
