@@ -36,6 +36,30 @@
     "releaseSource": "official"
   },
   {
+    "id": "268002-20261020121500",
+    "inmateNumber": "268002",
+    "name": "FODGE, JAMES ALLEN",
+    "bookedAt": "2026-10-20T12:15:00",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOSA Violation",
+        "arrestDate": "2026-10-20T12:15:00",
+        "arrestingAgency": "DOC",
+        "court": "SUP",
+        "billingAgency": "SCON",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510064221"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T20:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "77365-20261020101500",
     "inmateNumber": "77365",
     "name": "KOS, NICHOLAS RAY",
