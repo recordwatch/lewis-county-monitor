@@ -276,12 +276,12 @@
         "warrantNumber": "5A0630033"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T12:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422920-20261020055000",
