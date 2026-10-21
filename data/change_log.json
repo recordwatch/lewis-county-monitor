@@ -8823,8 +8823,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 25000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "2610038221"
       },
       {
@@ -8833,7 +8833,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "2610038221"
       }
