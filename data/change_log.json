@@ -12,7 +12,7 @@
         "arrestDate": "2026-10-21T12:45:00",
         "arrestingAgency": "CHEH",
         "court": "CSM",
-        "billingAgency": null,
+        "billingAgency": "CHEH",
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0414395"
@@ -564,12 +564,12 @@
         "warrantNumber": "2510072421"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T00:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DRUG COURT",
+    "releaseSource": "official"
   },
   {
     "id": "12753-20261019164500",
