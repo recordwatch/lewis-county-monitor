@@ -1,5 +1,29 @@
 [
   {
+    "id": "277168-20261021124500",
+    "inmateNumber": "277168",
+    "name": "BEDORTHA, JUSTIN BRIAN",
+    "bookedAt": "2026-10-21T12:45:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "Fail to Transfer - late penalty",
+        "arrestDate": "2026-10-21T12:45:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0414395"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T13:32:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "413827-20261021093400",
     "inmateNumber": "413827",
     "name": "WOLPH, ANGEL ROSE",
@@ -253,7 +277,7 @@
     "name": "KILBY, MICHAEL A",
     "bookedAt": "2026-10-20T05:50:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 1500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -261,8 +285,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "T00874648"
       },
       {
@@ -271,8 +295,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00874650"
       },
       {
@@ -281,8 +305,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00874650"
       }
     ],
