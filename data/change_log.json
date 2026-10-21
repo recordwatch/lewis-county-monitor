@@ -2065,7 +2065,7 @@
     "name": "CRAIG, TREVOR KENNETH",
     "bookedAt": "2026-10-15T08:37:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 3000,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -2086,6 +2086,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "CR29680"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "arrestDate": "2026-10-15T08:37:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0418555"
       }
     ],
     "status": "in_custody",
@@ -7147,8 +7157,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 25000,
+        "bondType": "Dismissed",
+        "bondAmount": null,
         "warrantNumber": "2610049521"
       },
       {
@@ -7157,7 +7167,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610049521"
       },
@@ -7167,7 +7177,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610049521"
       }
@@ -7569,8 +7579,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 25000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "2610038121"
       },
       {
@@ -7579,7 +7589,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610038121"
       },
