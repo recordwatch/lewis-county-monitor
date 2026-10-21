@@ -8,6 +8,16 @@
     "bondTotal": 500,
     "charges": [
       {
+        "description": "NVOL W/O ID AID/ABET",
+        "arrestDate": "2026-10-21T12:45:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0414395"
+      },
+      {
         "description": "Fail to Transfer - late penalty",
         "arrestDate": "2026-10-21T12:45:00",
         "arrestingAgency": "CHEH",
@@ -21,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-21T13:32:19",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "413827-20261021093400",

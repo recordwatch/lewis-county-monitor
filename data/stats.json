@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:32:19",
+  "generatedAt": "2026-10-21T13:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 268,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 296,
-      "pct": 47.7,
+      "pct": 47.6,
       "label": "Lewis County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 35,
-      "pct": 5.6,
+      "count": 36,
+      "pct": 5.8,
       "label": "Chehalis Municipal Court"
     },
     {
