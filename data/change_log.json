@@ -1,5 +1,39 @@
 [
   {
+    "id": "413827-20261021093400",
+    "inmateNumber": "413827",
+    "name": "WOLPH, ANGEL ROSE",
+    "bookedAt": "2026-10-21T09:34:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FORGERY/FTA",
+        "arrestDate": "2026-10-21T09:34:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "THEFT 2ND DEG>250/FTA",
+        "arrestDate": "2026-10-21T09:34:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T10:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422936-20261020213600",
     "inmateNumber": "422936",
     "name": "SAVAGE, RODNEY EARL",
@@ -5484,12 +5518,12 @@
         "warrantNumber": "6A0341015"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T11:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "7021-20261002164500",

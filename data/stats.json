@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T09:49:15",
+  "generatedAt": "2026-10-21T10:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 266,
-    "bookingsObserved": 117,
-    "releasesObserved": 108,
+    "bookingsTracked": 267,
+    "bookingsObserved": 118,
+    "releasesObserved": 109,
     "inCustody": 158,
-    "uniquePeople": 257
+    "uniquePeople": 258
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 0,
-      "released": 3
+      "booked": 1,
+      "released": 4
     }
   ],
   "topCharges": [
@@ -184,7 +184,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 23,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 63,
-      "pct": 23.8,
+      "count": 64,
+      "pct": 24.1,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 63,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 57,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "Centralia Police"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 87,
-      "pct": 83.7
+      "count": 88,
+      "pct": 83.8
     },
     {
       "name": "DOC",
@@ -501,9 +501,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 106,
+    "releasedCount": 107,
     "medianDays": 2.1,
-    "meanDays": 7.4,
+    "meanDays": 7.5,
     "buckets": [
       {
         "label": "< 1 day",
@@ -519,7 +519,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 16
+        "count": 17
       },
       {
         "label": "1–3 months",
@@ -534,11 +534,11 @@
     "currentLongestDaysHeld": 773.7
   },
   "bond": {
-    "withBond": 98,
-    "noBond": 60,
+    "withBond": 97,
+    "noBond": 61,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15411050
+    "totalBond": 15410050
   },
   "chargesPerBooking": 2.4
 }
