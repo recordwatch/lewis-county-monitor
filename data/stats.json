@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:49:53",
+  "generatedAt": "2026-10-21T11:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 267,
@@ -441,8 +441,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 165,
-      "pct": 26.4
+      "count": 164,
+      "pct": 26.3
     },
     {
       "name": "Included",
@@ -451,8 +451,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 120,
-      "pct": 19.2
+      "count": 121,
+      "pct": 19.4
     },
     {
       "name": "No Bail",

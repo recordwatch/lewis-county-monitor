@@ -5105,8 +5105,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "T00874613"
       },
       {
