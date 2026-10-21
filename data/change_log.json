@@ -5,33 +5,35 @@
     "name": "WOLPH, ANGEL ROSE",
     "bookedAt": "2026-10-21T09:34:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "FORGERY/FTA",
         "arrestDate": "2026-10-21T09:34:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
+        "warrantNumber": "2610051521"
       },
       {
         "description": "THEFT 2ND DEG>250/FTA",
         "arrestDate": "2026-10-21T09:34:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610051521"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T10:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422936-20261020213600",
@@ -98,12 +100,12 @@
         "warrantNumber": "5A0889282"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T21:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "129135-20261020130300",
