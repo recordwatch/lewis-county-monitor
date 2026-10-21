@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T23:32:19",
+  "generatedAt": "2026-10-20T23:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 265,
-    "bookingsObserved": 116,
+    "bookingsTracked": 266,
+    "bookingsObserved": 117,
     "releasesObserved": 106,
-    "inCustody": 159,
-    "uniquePeople": 256
+    "inCustody": 160,
+    "uniquePeople": 257
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 8,
+      "booked": 9,
       "released": 6
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 32,
-      "pct": 5.1
+      "count": 33,
+      "pct": 5.2
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -204,7 +204,7 @@
     {
       "name": "Protection Order Violation",
       "count": 11,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -266,37 +266,37 @@
     {
       "name": "LCSO",
       "count": 63,
-      "pct": 23.9,
+      "pct": 23.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 63,
-      "pct": 23.9,
+      "pct": 23.8,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 57,
-      "pct": 21.6,
+      "pct": 21.5,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 38,
-      "pct": 14.4,
+      "pct": 14.3,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
-      "count": 25,
-      "pct": 9.5,
+      "count": 26,
+      "pct": 9.8,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
       "count": 7,
-      "pct": 2.7,
+      "pct": 2.6,
       "label": "Winlock Police"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 193,
-      "pct": 31.3,
+      "count": 194,
+      "pct": 31.4,
       "label": "Lewis County District Court"
     },
     {
@@ -441,8 +441,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 164,
-      "pct": 26.4
+      "count": 165,
+      "pct": 26.5
     },
     {
       "name": "Included",
@@ -452,7 +452,7 @@
     {
       "name": "Serving Time",
       "count": 119,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "No Bail",
@@ -534,11 +534,11 @@
     "currentLongestDaysHeld": 773.3
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 98,
     "noBond": 62,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15410550
+    "totalBond": 15411050
   },
   "chargesPerBooking": 2.4
 }

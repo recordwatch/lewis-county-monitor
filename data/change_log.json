@@ -1,5 +1,29 @@
 [
   {
+    "id": "422936-20261020213600",
+    "inmateNumber": "422936",
+    "name": "SAVAGE, RODNEY EARL",
+    "bookedAt": "2026-10-20T21:36:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-20T21:36:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00801754"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T23:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "137793-20261020190200",
     "inmateNumber": "137793",
     "name": "OFFICER, JASON ANTHONY",
