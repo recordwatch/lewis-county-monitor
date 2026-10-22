@@ -1,37 +1,97 @@
 [
   {
+    "id": "295917-20261021133800",
+    "inmateNumber": "295917",
+    "name": "DENETCLAW, LEGRAND LAFEL",
+    "bookedAt": "2026-10-21T13:38:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "arrestDate": "2026-10-21T13:38:00",
+        "arrestingAgency": "CENT",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0070236"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-10-21T13:38:00",
+        "arrestingAgency": "CENT",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0070236"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T20:21:58",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "31608-20261021133000",
+    "inmateNumber": "31608",
+    "name": "NOZSAR, LAJOSKA FLOYD",
+    "bookedAt": "2026-10-21T13:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CHILD MOLEST 1ST",
+        "arrestDate": "2026-10-21T13:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610028321"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T20:21:58",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "364086-20261021132700",
     "inmateNumber": "364086",
     "name": "KIBLER, LYNN LIONELL",
     "bookedAt": "2026-10-21T13:27:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 20200,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
         "arrestDate": "2026-10-21T13:27:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 15100,
+        "warrantNumber": "5A0533546"
       },
       {
         "description": "DWLS 3RD DEGREE/FTA",
         "arrestDate": "2026-10-21T13:27:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "5A05221929"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T19:54:30",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "277168-20261021124500",
@@ -85,13 +145,25 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
+        "warrantNumber": "26C8817"
+      },
+      {
+        "description": "SEX OFF FAIL REG/FELONY",
+        "arrestDate": "2026-10-21T11:00:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "26C13389"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T19:54:30",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "219637-20261021101600",
@@ -115,7 +187,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-21T19:54:30",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "419480-20261021095000",
