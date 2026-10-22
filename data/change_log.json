@@ -8,7 +8,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "ASSAULT 2ND",
+        "description": "ASSAULT 2(Substantial bodily harm) DV",
         "arrestDate": "2026-10-22T06:30:00",
         "arrestingAgency": "CHEH",
         "court": "SUP",
@@ -184,44 +184,44 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "BURG 2ND/DAY/NO FORCE",
+        "description": "RESIDENTIAL BURGLARY",
         "arrestDate": "2026-10-21T15:05:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610056921"
       },
       {
         "description": "RESISTING ARREST",
         "arrestDate": "2026-10-21T15:05:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610056921"
       },
       {
         "description": "Protection Order Violation",
         "arrestDate": "2026-10-21T15:05:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610056921"
       },
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR",
         "arrestDate": "2026-10-21T15:05:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610056921"
       }
     ],
     "status": "in_custody",
@@ -523,9 +523,9 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610056821"
       },
       {
         "description": "SEX OFF FAIL REG/FELONY",
@@ -535,7 +535,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610056821"
       }
     ],
     "status": "in_custody",
