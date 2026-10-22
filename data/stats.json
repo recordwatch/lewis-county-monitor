@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T22:17:14",
+  "generatedAt": "2026-10-21T22:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 276,
-    "bookingsObserved": 127,
+    "bookingsTracked": 277,
+    "bookingsObserved": 128,
     "releasesObserved": 112,
-    "inCustody": 164,
-    "uniquePeople": 266
+    "inCustody": 165,
+    "uniquePeople": 267
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 10,
+      "booked": 11,
       "released": 7
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 67,
-      "pct": 24.4,
+      "pct": 24.3,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 66,
-      "pct": 24,
+      "pct": 23.9,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 58,
-      "pct": 21.1,
+      "count": 59,
+      "pct": 21.4,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 26,
-      "pct": 9.5,
+      "pct": 9.4,
       "label": "Washington State Patrol"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "DOC",
       "count": 4,
-      "pct": 1.5,
+      "pct": 1.4,
       "label": "Dept. of Corrections"
     },
     {
       "name": "MORT",
       "count": 4,
-      "pct": 1.5,
+      "pct": 1.4,
       "label": "Morton Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 300,
-      "pct": 47,
+      "pct": 46.9,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 48,
-      "pct": 7.5,
+      "count": 49,
+      "pct": 7.7,
       "label": "Centralia Municipal Court"
     },
     {
@@ -446,8 +446,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 166,
-      "pct": 25.9
+      "count": 167,
+      "pct": 26
     },
     {
       "name": "Included",
@@ -535,15 +535,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 27.7,
-    "currentLongestDaysHeld": 774.2
+    "currentMedianDaysHeld": 27.5,
+    "currentLongestDaysHeld": 774.3
   },
   "bond": {
-    "withBond": 101,
+    "withBond": 102,
     "noBond": 63,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15484450
+    "totalBond": 15485450
   },
-  "chargesPerBooking": 2.4
+  "chargesPerBooking": 2.3
 }

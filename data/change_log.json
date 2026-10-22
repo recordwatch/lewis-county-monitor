@@ -46,6 +46,30 @@
     "releaseSource": null
   },
   {
+    "id": "171715-20261021143100",
+    "inmateNumber": "171715",
+    "name": "ROBINSON, JOSEPH MATTHEW",
+    "bookedAt": "2026-10-21T14:31:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-10-21T14:31:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0431724"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T22:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "48106-20261021142000",
     "inmateNumber": "48106",
     "name": "TRENT, WINSTON CLIFFORD",
