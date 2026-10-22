@@ -397,7 +397,7 @@
     "name": "TRENT, WINSTON CLIFFORD",
     "bookedAt": "2026-10-21T14:20:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 3000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
@@ -416,7 +416,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 2500,
         "warrantNumber": "6A0413592"
       }
     ],
@@ -972,12 +972,12 @@
         "warrantNumber": "2610056221"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T03:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FAMILY/FRIEND",
+    "releaseSource": "official"
   },
   {
     "id": "422911-20261019203700",
