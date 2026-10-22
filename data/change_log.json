@@ -1,5 +1,39 @@
 [
   {
+    "id": "364086-20261021132700",
+    "inmateNumber": "364086",
+    "name": "KIBLER, LYNN LIONELL",
+    "bookedAt": "2026-10-21T13:27:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-21T13:27:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-21T13:27:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T19:54:30",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "277168-20261021124500",
     "inmateNumber": "277168",
     "name": "BEDORTHA, JUSTIN BRIAN",
@@ -34,6 +68,54 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "289751-20261021110000",
+    "inmateNumber": "289751",
+    "name": "MEDINA SANCHEZ, MIGUEL ANGEL",
+    "bookedAt": "2026-10-21T11:00:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "SEX OFF FAIL REG/FELONY",
+        "arrestDate": "2026-10-21T11:00:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "26C13389"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T19:54:30",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "219637-20261021101600",
+    "inmateNumber": "219637",
+    "name": "MELTON, KRISTAL LYNN",
+    "bookedAt": "2026-10-21T10:16:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND/FTA",
+        "arrestDate": "2026-10-21T10:16:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "24Y000321"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T19:54:30",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "419480-20261021095000",
