@@ -1,5 +1,83 @@
 [
   {
+    "id": "371131-20261021155500",
+    "inmateNumber": "371131",
+    "name": "ADDISON, RAECHEL MARIE",
+    "bookedAt": "2026-10-21T15:55:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-21T15:55:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0217547"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T23:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "171439-20261021150500",
+    "inmateNumber": "171439",
+    "name": "GUENTHER, KAYCEE CHRISTOPHER",
+    "bookedAt": "2026-10-21T15:05:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURG 2ND/DAY/NO FORCE",
+        "arrestDate": "2026-10-21T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "26C13447"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-10-21T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Referred",
+        "bondAmount": null,
+        "warrantNumber": "26C13447"
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-10-21T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Referred",
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-10-21T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Referred",
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T23:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "335673-20261021143600",
     "inmateNumber": "335673",
     "name": "WHITEPLUME, RONAN LEE",

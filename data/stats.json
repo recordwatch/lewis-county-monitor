@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T22:49:13",
+  "generatedAt": "2026-10-21T23:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 277,
-    "bookingsObserved": 128,
+    "bookingsTracked": 279,
+    "bookingsObserved": 130,
     "releasesObserved": 112,
-    "inCustody": 165,
-    "uniquePeople": 267
+    "inCustody": 167,
+    "uniquePeople": 269
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 11,
+      "booked": 13,
       "released": 7
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 44,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -174,12 +174,12 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 27,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 27,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -188,8 +188,8 @@
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 20,
-      "pct": 3.1
+      "count": 21,
+      "pct": 3.2
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -203,13 +203,13 @@
     },
     {
       "name": "Protection Order Violation",
-      "count": 11,
-      "pct": 1.7
+      "count": 12,
+      "pct": 1.8
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
-      "count": 10,
-      "pct": 1.5
+      "count": 11,
+      "pct": 1.7
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -237,6 +237,11 @@
       "pct": 1.2
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 7,
+      "pct": 1.1
+    },
+    {
       "name": "HARASSMENT",
       "count": 7,
       "pct": 1.1
@@ -255,36 +260,31 @@
       "name": "THEFT 2ND DEG>250",
       "count": 7,
       "pct": 1.1
-    },
-    {
-      "name": "DUI/FTA",
-      "count": 7,
-      "pct": 1.1
     }
   ],
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 67,
-      "pct": 24.3,
+      "count": 68,
+      "pct": 24.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 66,
-      "pct": 23.9,
+      "count": 67,
+      "pct": 24.1,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 59,
-      "pct": 21.4,
+      "pct": 21.2,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 40,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Chehalis Police"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 300,
-      "pct": 46.9,
+      "count": 301,
+      "pct": 47,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 200,
-      "pct": 31.3,
+      "count": 201,
+      "pct": 31.4,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 49,
-      "pct": 7.7,
+      "pct": 7.6,
       "label": "Centralia Municipal Court"
     },
     {
@@ -447,27 +447,32 @@
     {
       "name": "Cash or Bond",
       "count": 167,
-      "pct": 26
+      "pct": 25.8
     },
     {
       "name": "Included",
       "count": 156,
-      "pct": 24.3
+      "pct": 24.1
     },
     {
       "name": "Serving Time",
       "count": 133,
-      "pct": 20.7
+      "pct": 20.5
     },
     {
       "name": "No Bail",
-      "count": 68,
-      "pct": 10.6
+      "count": 70,
+      "pct": 10.8
     },
     {
       "name": "Released by Court",
       "count": 55,
-      "pct": 8.6
+      "pct": 8.5
+    },
+    {
+      "name": "Referred",
+      "count": 13,
+      "pct": 2
     },
     {
       "name": "Appearance Bond",
@@ -478,11 +483,6 @@
       "name": "Amended",
       "count": 11,
       "pct": 1.7
-    },
-    {
-      "name": "Referred",
-      "count": 10,
-      "pct": 1.6
     },
     {
       "name": "Dismissed",
@@ -535,12 +535,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 27.5,
+    "currentMedianDaysHeld": 24.9,
     "currentLongestDaysHeld": 774.3
   },
   "bond": {
     "withBond": 102,
-    "noBond": 63,
+    "noBond": 65,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15485450
