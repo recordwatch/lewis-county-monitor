@@ -83,7 +83,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-22T14:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "380996-20261021235500",
@@ -287,7 +289,7 @@
     "name": "WHITEPLUME, RONAN LEE",
     "bookedAt": "2026-10-21T14:36:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 5500,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "THEFT 3RD DEG/FTA",
@@ -305,8 +307,8 @@
         "arrestingAgency": "CHEH",
         "court": "NMC",
         "billingAgency": "NAPA",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0324415"
       },
       {
@@ -862,12 +864,12 @@
         "warrantNumber": "6A0413200"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T15:32:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "363161-20261020094000",

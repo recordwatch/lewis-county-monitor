@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T14:17:16",
+  "generatedAt": "2026-10-22T14:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 287,
     "bookingsObserved": 138,
-    "releasesObserved": 121,
-    "inCustody": 166,
+    "releasesObserved": 122,
+    "inCustody": 165,
     "uniquePeople": 276
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-22",
       "booked": 3,
-      "released": 9
+      "released": 10
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 94,
-      "pct": 80.3
+      "count": 95,
+      "pct": 80.5
     },
     {
       "name": "DOC",
@@ -405,12 +405,12 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "KITTITAS",
@@ -420,39 +420,39 @@
     {
       "name": "DRUG COURT",
       "count": 1,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "FRIENDSHIP DIVERSON",
       "count": 1,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "FREEDOM BAIL BONDS",
       "count": 1,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "CHEHALIS TRIBAL",
       "count": 1,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "MOBILE CRISIS",
       "count": 1,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "RELEASED TO WCC",
       "count": 1,
-      "pct": 0.9
+      "pct": 0.8
     }
   ],
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 168,
-      "pct": 25.5
+      "count": 167,
+      "pct": 25.3
     },
     {
       "name": "Included",
@@ -471,8 +471,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 57,
-      "pct": 8.6
+      "count": 58,
+      "pct": 8.8
     },
     {
       "name": "Appearance Bond",
@@ -511,8 +511,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 119,
-    "medianDays": 2.1,
+    "releasedCount": 120,
+    "medianDays": 2.2,
     "meanDays": 9.4,
     "buckets": [
       {
@@ -521,7 +521,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 45
+        "count": 46
       },
       {
         "label": "3–7 days",
@@ -545,10 +545,10 @@
   },
   "bond": {
     "withBond": 97,
-    "noBond": 69,
+    "noBond": 68,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15339350
+    "totalBond": 15336850
   },
   "chargesPerBooking": 2.3
 }
