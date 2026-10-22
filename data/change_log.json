@@ -36,6 +36,30 @@
     "releaseSource": null
   },
   {
+    "id": "419480-20261021095000",
+    "inmateNumber": "419480",
+    "name": "FRISTAD, CHASE JASON",
+    "bookedAt": "2026-10-21T09:50:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSLT 3rd DEGREE (Subs pain/suffering)",
+        "arrestDate": "2026-10-21T09:50:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610032321"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T18:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "413827-20261021093400",
     "inmateNumber": "413827",
     "name": "WOLPH, ANGEL ROSE",

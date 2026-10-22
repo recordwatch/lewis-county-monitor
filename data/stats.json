@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T18:17:14",
+  "generatedAt": "2026-10-21T18:32:18",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 268,
-    "bookingsObserved": 119,
+    "bookingsTracked": 269,
+    "bookingsObserved": 120,
     "releasesObserved": 112,
-    "inCustody": 156,
-    "uniquePeople": 259
+    "inCustody": 157,
+    "uniquePeople": 260
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 2,
+      "booked": 3,
       "released": 7
     }
   ],
@@ -174,12 +174,12 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 27,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 27,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -264,16 +264,16 @@
   ],
   "topAgencies": [
     {
-      "name": "LCSO",
+      "name": "JAIL",
       "count": 64,
-      "pct": 24,
-      "label": "Lewis County Sheriff's Office"
+      "pct": 23.9,
+      "label": "Lewis County Jail"
     },
     {
-      "name": "JAIL",
-      "count": 63,
-      "pct": 23.6,
-      "label": "Lewis County Jail"
+      "name": "LCSO",
+      "count": 64,
+      "pct": 23.9,
+      "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 296,
-      "pct": 47.4,
+      "count": 297,
+      "pct": 47.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 195,
-      "pct": 31.3,
+      "pct": 31.2,
       "label": "Lewis County District Court"
     },
     {
@@ -452,12 +452,12 @@
     {
       "name": "Included",
       "count": 155,
-      "pct": 24.7
+      "pct": 24.6
     },
     {
       "name": "Serving Time",
-      "count": 132,
-      "pct": 21
+      "count": 133,
+      "pct": 21.1
     },
     {
       "name": "No Bail",
@@ -467,7 +467,7 @@
     {
       "name": "Released by Court",
       "count": 55,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "Appearance Bond",
@@ -477,7 +477,7 @@
     {
       "name": "Amended",
       "count": 11,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "Referred",
@@ -535,12 +535,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 28.8,
+    "currentMedianDaysHeld": 28.4,
     "currentLongestDaysHeld": 774.1
   },
   "bond": {
     "withBond": 97,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15448150
