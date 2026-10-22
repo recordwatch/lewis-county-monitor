@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T10:49:15",
+  "generatedAt": "2026-10-22T11:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 284,
     "bookingsObserved": 135,
-    "releasesObserved": 118,
-    "inCustody": 166,
+    "releasesObserved": 119,
+    "inCustody": 165,
     "uniquePeople": 273
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-22",
       "booked": 0,
-      "released": 6
+      "released": 7
     }
   ],
   "topCharges": [
@@ -390,7 +390,7 @@
     {
       "name": "SELF",
       "count": 92,
-      "pct": 80.7
+      "pct": 80
     },
     {
       "name": "DOC",
@@ -415,10 +415,15 @@
     {
       "name": "KITTITAS",
       "count": 2,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DRUG COURT",
+      "count": 1,
+      "pct": 0.9
+    },
+    {
+      "name": "FRIENDSHIP DIVERSON",
       "count": 1,
       "pct": 0.9
     },
@@ -439,11 +444,6 @@
     },
     {
       "name": "RELEASED TO WCC",
-      "count": 1,
-      "pct": 0.9
-    },
-    {
-      "name": "RELAY",
       "count": 1,
       "pct": 0.9
     }
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 116,
+    "releasedCount": 117,
     "medianDays": 2.2,
     "meanDays": 9.6,
     "buckets": [
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 14
+        "count": 15
       },
       {
         "label": "1–4 weeks",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 774.8
   },
   "bond": {
-    "withBond": 99,
+    "withBond": 98,
     "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15366950
+    "totalBond": 15346950
   },
   "chargesPerBooking": 2.3
 }

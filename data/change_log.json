@@ -1782,12 +1782,12 @@
         "warrantNumber": "T00801735"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T08:49:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "221814-20261017022300",
