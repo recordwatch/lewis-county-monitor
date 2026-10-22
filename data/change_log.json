@@ -317,7 +317,7 @@
         "arrestingAgency": "CHEH",
         "court": "NMC",
         "billingAgency": "NAPA",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0324415"
       }
