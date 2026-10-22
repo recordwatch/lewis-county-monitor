@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:17:14",
+  "generatedAt": "2026-10-21T21:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 276,
@@ -169,15 +169,15 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 34,
-      "pct": 5.3
-    },
-    {
-      "name": "OTHER AGENCY HOLD",
-      "count": 28,
-      "pct": 4.3
+      "pct": 5.2
     },
     {
       "name": "POSS of Controlled Substance",
+      "count": 27,
+      "pct": 4.2
+    },
+    {
+      "name": "OTHER AGENCY HOLD",
       "count": 27,
       "pct": 4.2
     },
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 300,
-      "pct": 47.2,
+      "pct": 47,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 200,
-      "pct": 31.5,
+      "pct": 31.3,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 48,
-      "pct": 7.6,
+      "pct": 7.5,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
-      "count": 39,
-      "pct": 6.1,
+      "count": 42,
+      "pct": 6.6,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -446,18 +446,18 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 164,
-      "pct": 25.7
+      "count": 166,
+      "pct": 25.9
     },
     {
       "name": "Included",
-      "count": 155,
+      "count": 156,
       "pct": 24.3
     },
     {
       "name": "Serving Time",
       "count": 133,
-      "pct": 20.8
+      "pct": 20.7
     },
     {
       "name": "No Bail",
@@ -539,11 +539,11 @@
     "currentLongestDaysHeld": 774.2
   },
   "bond": {
-    "withBond": 100,
-    "noBond": 64,
+    "withBond": 101,
+    "noBond": 63,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15478950
+    "totalBond": 15484450
   },
-  "chargesPerBooking": 2.3
+  "chargesPerBooking": 2.4
 }

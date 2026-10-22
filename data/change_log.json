@@ -5,23 +5,45 @@
     "name": "WHITEPLUME, RONAN LEE",
     "bookedAt": "2026-10-21T14:36:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 5500,
     "charges": [
       {
-        "description": "OTHER AGENCY HOLD",
+        "description": "THEFT 3RD DEG/FTA",
         "arrestDate": "2026-10-21T14:36:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 3000,
+        "warrantNumber": "6A0416975"
+      },
+      {
+        "description": "DISORDERLY CONDUCT/FTA",
+        "arrestDate": "2026-10-21T14:36:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0324415"
+      },
+      {
+        "description": "RESISTING ARREST/FTA",
+        "arrestDate": "2026-10-21T14:36:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0324415"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T21:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "48106-20261021142000",
