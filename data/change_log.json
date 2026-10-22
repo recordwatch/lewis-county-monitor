@@ -296,12 +296,12 @@
         "warrantNumber": "6A0431724"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T22:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "48106-20261021142000",
@@ -7708,12 +7708,12 @@
         "warrantNumber": "2610049521"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T09:54:48",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "414102-20260919134700",
@@ -8220,12 +8220,12 @@
         "warrantNumber": "4A0874000"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T09:48:20",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "15513-20260905225500",
@@ -9554,12 +9554,12 @@
         "warrantNumber": "2610038221"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T09:39:18",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "267769-20260710095000",
@@ -9672,12 +9672,12 @@
         "warrantNumber": "2610030721"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T09:43:47",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "229240-20260701090000",
