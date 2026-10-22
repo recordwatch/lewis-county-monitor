@@ -1,5 +1,29 @@
 [
   {
+    "id": "380057-20261021165200",
+    "inmateNumber": "380057",
+    "name": "SCHLECHT, BLAKE L",
+    "bookedAt": "2026-10-21T16:52:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-21T16:52:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0309107"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T23:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "371131-20261021155500",
     "inmateNumber": "371131",
     "name": "ADDISON, RAECHEL MARIE",
@@ -203,7 +227,7 @@
         "arrestingAgency": "CENT",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0070236"
       },
