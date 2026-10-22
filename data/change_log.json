@@ -1,5 +1,39 @@
 [
   {
+    "id": "48106-20261021142000",
+    "inmateNumber": "48106",
+    "name": "TRENT, WINSTON CLIFFORD",
+    "bookedAt": "2026-10-21T14:20:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-21T14:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-21T14:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T20:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "295917-20261021133800",
     "inmateNumber": "295917",
     "name": "DENETCLAW, LEGRAND LAFEL",
@@ -31,7 +65,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-21T20:21:58",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "31608-20261021133000",
@@ -55,7 +91,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-21T20:21:58",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "364086-20261021132700",
