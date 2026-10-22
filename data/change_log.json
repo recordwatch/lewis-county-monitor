@@ -233,7 +233,7 @@
     "name": "GUENTHER, KAYCEE CHRISTOPHER",
     "bookedAt": "2026-10-21T15:05:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -241,8 +241,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
         "warrantNumber": "2610056921"
       },
       {
@@ -567,7 +567,7 @@
     "name": "MEDINA SANCHEZ, MIGUEL ANGEL",
     "bookedAt": "2026-10-21T11:00:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "SEX OFF FAIL REG/FELONY",
@@ -585,8 +585,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 20000,
         "warrantNumber": "2610056821"
       }
     ],
