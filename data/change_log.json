@@ -52,6 +52,30 @@
     "releaseSource": null
   },
   {
+    "id": "52905-20261021154900",
+    "inmateNumber": "52905",
+    "name": "INGALSBE, JUSTIN SHANE",
+    "bookedAt": "2026-10-21T15:49:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-21T15:49:00",
+        "arrestingAgency": "WINL",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "DOC 303114 10/21/2026"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T01:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "171439-20261021150500",
     "inmateNumber": "171439",
     "name": "GUENTHER, KAYCEE CHRISTOPHER",

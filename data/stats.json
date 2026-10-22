@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T00:49:12",
+  "generatedAt": "2026-10-22T01:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 280,
-    "bookingsObserved": 131,
+    "bookingsTracked": 281,
+    "bookingsObserved": 132,
     "releasesObserved": 112,
-    "inCustody": 168,
-    "uniquePeople": 270
+    "inCustody": 169,
+    "uniquePeople": 271
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 14,
+      "booked": 15,
       "released": 7
     },
     {
@@ -172,12 +172,12 @@
       "pct": 5.2
     },
     {
-      "name": "POSS of Controlled Substance",
-      "count": 27,
-      "pct": 4.1
+      "name": "OTHER AGENCY HOLD",
+      "count": 28,
+      "pct": 4.3
     },
     {
-      "name": "OTHER AGENCY HOLD",
+      "name": "POSS of Controlled Substance",
       "count": 27,
       "pct": 4.1
     },
@@ -266,13 +266,13 @@
     {
       "name": "JAIL",
       "count": 68,
-      "pct": 24.4,
+      "pct": 24.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 68,
-      "pct": 24.4,
+      "pct": 24.3,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WINL",
-      "count": 7,
-      "pct": 2.5,
+      "count": 8,
+      "pct": 2.9,
       "label": "Winlock Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 301,
-      "pct": 46.9,
+      "pct": 46.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 202,
-      "pct": 31.5,
+      "pct": 31.4,
       "label": "Lewis County District Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "DOC",
-      "count": 14,
-      "pct": 2.2,
+      "count": 15,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -447,7 +447,7 @@
     {
       "name": "Cash or Bond",
       "count": 168,
-      "pct": 25.9
+      "pct": 25.8
     },
     {
       "name": "Included",
@@ -456,8 +456,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 133,
-      "pct": 20.5
+      "count": 134,
+      "pct": 20.6
     },
     {
       "name": "No Bail",
@@ -535,12 +535,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 24.5,
-    "currentLongestDaysHeld": 774.3
+    "currentMedianDaysHeld": 24.2,
+    "currentLongestDaysHeld": 774.4
   },
   "bond": {
     "withBond": 103,
-    "noBond": 65,
+    "noBond": 66,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15490550
