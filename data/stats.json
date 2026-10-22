@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:49:14",
+  "generatedAt": "2026-10-22T00:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 280,
@@ -9,11 +9,6 @@
     "uniquePeople": 270
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-22",
-      "booked": 4,
-      "released": 0
-    },
     {
       "date": "2026-09-23",
       "booked": 4,
@@ -158,6 +153,11 @@
       "date": "2026-10-21",
       "booked": 14,
       "released": 7
+    },
+    {
+      "date": "2026-10-22",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -446,8 +446,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 167,
-      "pct": 25.8
+      "count": 168,
+      "pct": 25.9
     },
     {
       "name": "Included",
@@ -477,7 +477,7 @@
     {
       "name": "Appearance Bond",
       "count": 12,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "Amended",
@@ -539,11 +539,11 @@
     "currentLongestDaysHeld": 774.3
   },
   "bond": {
-    "withBond": 102,
-    "noBond": 66,
+    "withBond": 103,
+    "noBond": 65,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15485450
+    "totalBond": 15490550
   },
   "chargesPerBooking": 2.3
 }

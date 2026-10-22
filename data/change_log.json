@@ -5,7 +5,7 @@
     "name": "SCHLECHT, BLAKE L",
     "bookedAt": "2026-10-21T16:52:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 5100,
     "charges": [
       {
         "description": "DWLS 2ND DEGREE/FTA",
@@ -13,15 +13,17 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": null,
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
         "warrantNumber": "6A0309107"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T23:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "371131-20261021155500",
@@ -363,7 +365,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "26C8817"
+        "warrantNumber": "W"
       },
       {
         "description": "SEX OFF FAIL REG/FELONY",
@@ -373,7 +375,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "26C13389"
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
