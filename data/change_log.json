@@ -247,7 +247,7 @@
     "name": "UNDERWOOD, JENNY DEE",
     "bookedAt": "2026-10-21T14:36:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 10000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -265,8 +265,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0325463"
       }
     ],
