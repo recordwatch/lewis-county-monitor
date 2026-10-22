@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-22T03:17:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422958-20261021230700",
@@ -261,7 +263,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-22T03:17:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "171715-20261021143100",
