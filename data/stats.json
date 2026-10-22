@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T10:32:17",
+  "generatedAt": "2026-10-22T10:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 284,
     "bookingsObserved": 135,
-    "releasesObserved": 117,
-    "inCustody": 167,
+    "releasesObserved": 118,
+    "inCustody": 166,
     "uniquePeople": 273
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-22",
       "booked": 0,
-      "released": 5
+      "released": 6
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 91,
-      "pct": 80.5
+      "count": 92,
+      "pct": 80.7
     },
     {
       "name": "DOC",
@@ -405,12 +405,12 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "KITTITAS",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 115,
-    "medianDays": 2.1,
-    "meanDays": 9.5,
+    "releasedCount": 116,
+    "medianDays": 2.2,
+    "meanDays": 9.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -529,7 +529,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 17
+        "count": 18
       },
       {
         "label": "1–3 months",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 774.8
   },
   "bond": {
-    "withBond": 100,
+    "withBond": 99,
     "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15417050
+    "totalBond": 15366950
   },
   "chargesPerBooking": 2.3
 }
