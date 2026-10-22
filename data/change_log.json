@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-22T02:17:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "380057-20261021165200",
@@ -179,8 +181,8 @@
         "description": "DISORDERLY CONDUCT/FTA",
         "arrestDate": "2026-10-21T14:36:00",
         "arrestingAgency": "CHEH",
-        "court": "CSM",
-        "billingAgency": "CHEH",
+        "court": "NMC",
+        "billingAgency": "NAPA",
         "bondType": "Cash or Bond",
         "bondAmount": 2500,
         "warrantNumber": "6A0324415"
@@ -189,8 +191,8 @@
         "description": "RESISTING ARREST/FTA",
         "arrestDate": "2026-10-21T14:36:00",
         "arrestingAgency": "CHEH",
-        "court": "CSM",
-        "billingAgency": "CHEH",
+        "court": "NMC",
+        "billingAgency": "NAPA",
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0324415"

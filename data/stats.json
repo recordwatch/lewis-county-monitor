@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:17:13",
+  "generatedAt": "2026-10-22T02:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 282,
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 42,
-      "pct": 6.5,
+      "count": 40,
+      "pct": 6.2,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -362,16 +362,16 @@
       "label": "Winlock Municipal Court"
     },
     {
+      "name": "NMC",
+      "count": 9,
+      "pct": 1.4,
+      "label": "Napavine Municipal Court"
+    },
+    {
       "name": "ODC",
       "count": 9,
       "pct": 1.4,
       "label": "ODC"
-    },
-    {
-      "name": "NMC",
-      "count": 7,
-      "pct": 1.1,
-      "label": "Napavine Municipal Court"
     },
     {
       "name": "OSC",
