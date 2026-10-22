@@ -1,5 +1,29 @@
 [
   {
+    "id": "358469-20261022093500",
+    "inmateNumber": "358469",
+    "name": "PROSSER, NATALIE JESSI",
+    "bookedAt": "2026-10-22T09:35:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-22T09:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "4A0579657"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T13:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422569-20261022063000",
     "inmateNumber": "422569",
     "name": "HANSON, JORDAN PAUL",
