@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T20:49:12",
+  "generatedAt": "2026-10-21T21:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 275,
-    "bookingsObserved": 126,
+    "bookingsTracked": 276,
+    "bookingsObserved": 127,
     "releasesObserved": 112,
-    "inCustody": 163,
-    "uniquePeople": 265
+    "inCustody": 164,
+    "uniquePeople": 266
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 9,
+      "booked": 10,
       "released": 7
     }
   ],
@@ -172,12 +172,12 @@
       "pct": 5.3
     },
     {
-      "name": "POSS of Controlled Substance",
-      "count": 27,
-      "pct": 4.2
+      "name": "OTHER AGENCY HOLD",
+      "count": 28,
+      "pct": 4.3
     },
     {
-      "name": "OTHER AGENCY HOLD",
+      "name": "POSS of Controlled Substance",
       "count": 27,
       "pct": 4.2
     },
@@ -266,25 +266,25 @@
     {
       "name": "LCSO",
       "count": 67,
-      "pct": 24.5,
+      "pct": 24.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 66,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 58,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 39,
-      "pct": 14.2,
+      "count": 40,
+      "pct": 14.5,
       "label": "Chehalis Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WINL",
       "count": 7,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Winlock Police"
     },
     {
@@ -535,12 +535,12 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 27.9,
+    "currentMedianDaysHeld": 27.7,
     "currentLongestDaysHeld": 774.2
   },
   "bond": {
     "withBond": 100,
-    "noBond": 63,
+    "noBond": 64,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15478950
