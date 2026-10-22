@@ -1,5 +1,39 @@
 [
   {
+    "id": "422569-20261022063000",
+    "inmateNumber": "422569",
+    "name": "HANSON, JORDAN PAUL",
+    "bookedAt": "2026-10-22T06:30:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND",
+        "arrestDate": "2026-10-22T06:30:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "INTERFERRING DV-REPORTING",
+        "arrestDate": "2026-10-22T06:30:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T11:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "380996-20261021235500",
     "inmateNumber": "380996",
     "name": "MORTON, SHERRIE IRENE",
