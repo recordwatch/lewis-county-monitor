@@ -84,8 +84,8 @@
         "arrestDate": "2026-10-22T17:39:00",
         "arrestingAgency": "CENT",
         "court": "SUP",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
       }
