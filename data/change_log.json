@@ -1,5 +1,39 @@
 [
   {
+    "id": "170469-20261023101500",
+    "inmateNumber": "170469",
+    "name": "JACOBSEN, AUDREY CARMEN",
+    "bookedAt": "2026-10-23T10:15:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-23T10:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0430394"
+      },
+      {
+        "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-10-23T10:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0430394"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T15:32:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "289430-20261022191900",
     "inmateNumber": "289430",
     "name": "FETTERS, SETH AUSTIN",
@@ -391,17 +425,17 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610057021"
       },
       {
         "description": "INTERFERRING DV-REPORTING",
         "arrestDate": "2026-10-22T06:30:00",
         "arrestingAgency": "CHEH",
         "court": "SUP",
-        "billingAgency": null,
-        "bondType": "Referred",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "Referred"
+        "warrantNumber": "2610057021"
       }
     ],
     "status": "in_custody",
