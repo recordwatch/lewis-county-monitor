@@ -73,27 +73,29 @@
         "description": "HARRASSMENT-DEATH THREAT",
         "arrestDate": "2026-10-22T17:39:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "HARRASSMENT-DEATH THREAT",
         "arrestDate": "2026-10-22T17:39:00",
         "arrestingAgency": "CENT",
-        "court": null,
+        "court": "SUP",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T09:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "411320-20261022163300",
