@@ -23,8 +23,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0398168"
       }
     ],
@@ -90,12 +90,12 @@
         "warrantNumber": "W"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T09:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "411320-20261022163300",
@@ -410,12 +410,12 @@
         "warrantNumber": "6A0306931"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T14:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "380996-20261021235500",
