@@ -6514,12 +6514,12 @@
         "warrantNumber": "2210000921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T08:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "WCC",
+    "releaseSource": "official"
   },
   {
     "id": "175207-20260930064400",
@@ -9268,12 +9268,12 @@
         "warrantNumber": "2510047221"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T08:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "WCC",
+    "releaseSource": "official"
   },
   {
     "id": "58010-20260813132000",
