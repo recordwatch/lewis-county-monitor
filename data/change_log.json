@@ -52,6 +52,50 @@
     "releaseSource": null
   },
   {
+    "id": "207351-20261022120900",
+    "inmateNumber": "207351",
+    "name": "MOORE, RAYNE ALEXANDER",
+    "bookedAt": "2026-10-22T12:09:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 1ST DEGREE",
+        "arrestDate": "2026-10-22T12:09:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-22T12:09:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-22T12:09:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T22:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358469-20261022093500",
     "inmateNumber": "358469",
     "name": "PROSSER, NATALIE JESSI",
