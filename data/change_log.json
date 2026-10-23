@@ -342,10 +342,10 @@
         "arrestDate": "2026-10-22T06:30:00",
         "arrestingAgency": "CHEH",
         "court": "SUP",
-        "billingAgency": "LCSC",
-        "bondType": "Included",
+        "billingAgency": null,
+        "bondType": "Referred",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "Referred"
       }
     ],
     "status": "in_custody",
