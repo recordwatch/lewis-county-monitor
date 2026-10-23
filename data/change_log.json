@@ -181,8 +181,18 @@
     "name": "VERDECIA-ROMERO, EULOGIO",
     "bookedAt": "2026-10-22T13:55:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 750,
+    "bondTotal": 2250,
     "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-22T13:55:00",
+        "arrestingAgency": "WINL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
+        "warrantNumber": "6A0398165"
+      },
       {
         "description": "THEFT 3RD DEG",
         "arrestDate": "2026-10-22T13:55:00",
@@ -215,8 +225,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0430388"
       },
       {
@@ -225,8 +235,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0430388"
       },
       {
@@ -235,9 +245,19 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0430389"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-22T12:09:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0269263"
       }
     ],
     "status": "in_custody",
@@ -315,7 +335,7 @@
     "name": "CARSONER-GARCIA, CLAIRE J",
     "bookedAt": "2026-10-22T08:45:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 6500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -323,8 +343,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0350448"
       },
       {
@@ -333,8 +353,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0350448"
       },
       {
@@ -1482,12 +1502,12 @@
         "warrantNumber": "6A0427744"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T01:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "94483-20261019165800",

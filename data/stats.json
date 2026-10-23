@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T14:49:17",
+  "generatedAt": "2026-10-23T15:17:19",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 297,
     "bookingsObserved": 148,
-    "releasesObserved": 135,
-    "inCustody": 162,
+    "releasesObserved": 136,
+    "inCustody": 161,
     "uniquePeople": 286
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-23",
       "booked": 0,
-      "released": 10
+      "released": 11
     }
   ],
   "topCharges": [
@@ -168,13 +168,13 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 35,
-      "pct": 5.1
+      "count": 36,
+      "pct": 5.3
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 31,
-      "pct": 4.5
+      "count": 32,
+      "pct": 4.7
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 309,
-      "pct": 46,
+      "pct": 45.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 214,
-      "pct": 31.8,
+      "count": 216,
+      "pct": 32,
       "label": "Lewis County District Court"
     },
     {
@@ -389,18 +389,18 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 104,
-      "pct": 79.4
+      "count": 105,
+      "pct": 79.5
     },
     {
       "name": "DOC",
       "count": 4,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "ABHS",
       "count": 4,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "THURSTON COUNTY JAIL",
@@ -451,28 +451,28 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 180,
-      "pct": 26.6
+      "count": 176,
+      "pct": 26
     },
     {
       "name": "Included",
       "count": 161,
-      "pct": 23.8
+      "pct": 23.7
     },
     {
       "name": "Serving Time",
       "count": 139,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "No Bail",
-      "count": 71,
-      "pct": 10.5
+      "count": 72,
+      "pct": 10.6
     },
     {
       "name": "Released by Court",
-      "count": 60,
-      "pct": 8.9
+      "count": 65,
+      "pct": 9.6
     },
     {
       "name": "Appearance Bond",
@@ -511,8 +511,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 133,
-    "medianDays": 2.1,
+    "releasedCount": 134,
+    "medianDays": 2.2,
     "meanDays": 11.5,
     "buckets": [
       {
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 15
+        "count": 16
       },
       {
         "label": "1–4 weeks",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 24,
+    "currentMedianDaysHeld": 24.3,
     "currentLongestDaysHeld": 775.9
   },
   "bond": {
-    "withBond": 101,
+    "withBond": 100,
     "noBond": 61,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15354900
+    "totalBond": 15352400
   },
   "chargesPerBooking": 2.3
 }
