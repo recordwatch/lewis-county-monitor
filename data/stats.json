@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T20:49:14",
+  "generatedAt": "2026-10-22T21:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 289,
-    "bookingsObserved": 140,
+    "bookingsTracked": 290,
+    "bookingsObserved": 141,
     "releasesObserved": 125,
-    "inCustody": 164,
-    "uniquePeople": 278
+    "inCustody": 165,
+    "uniquePeople": 279
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 5,
+      "booked": 6,
       "released": 13
     }
   ],
@@ -198,8 +198,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 15,
-      "pct": 2.2
+      "count": 16,
+      "pct": 2.4
     },
     {
       "name": "Protection Order Violation",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 71,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 70,
-      "pct": 24.3,
+      "pct": 24.2,
       "label": "Lewis County Jail"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CHEH",
       "count": 42,
-      "pct": 14.6,
+      "pct": 14.5,
       "label": "Chehalis Police"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WINL",
-      "count": 8,
-      "pct": 2.8,
+      "count": 9,
+      "pct": 3.1,
       "label": "Winlock Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 307,
-      "pct": 46.6,
+      "pct": 46.5,
       "label": "Lewis County Superior Court"
     },
     {
@@ -350,16 +350,16 @@
       "label": "Chehalis Municipal Court"
     },
     {
+      "name": "WLM",
+      "count": 15,
+      "pct": 2.3,
+      "label": "Winlock Municipal Court"
+    },
+    {
       "name": "DOC",
       "count": 15,
       "pct": 2.3,
       "label": "Dept. of Corrections"
-    },
-    {
-      "name": "WLM",
-      "count": 14,
-      "pct": 2.1,
-      "label": "Winlock Municipal Court"
     },
     {
       "name": "NMC",
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 172,
-      "pct": 25.9
+      "count": 173,
+      "pct": 26.1
     },
     {
       "name": "Included",
@@ -462,7 +462,7 @@
     {
       "name": "Serving Time",
       "count": 137,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "No Bail",
@@ -540,15 +540,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 24,
+    "currentMedianDaysHeld": 23.5,
     "currentLongestDaysHeld": 775.2
   },
   "bond": {
-    "withBond": 97,
+    "withBond": 98,
     "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15339850
+    "totalBond": 15340600
   },
   "chargesPerBooking": 2.3
 }

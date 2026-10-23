@@ -21,6 +21,32 @@
     "status": "in_custody",
     "firstSeen": "2026-10-22T20:49:14",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "402261-20261022135500",
+    "inmateNumber": "402261",
+    "name": "VERDECIA-ROMERO, EULOGIO",
+    "bookedAt": "2026-10-22T13:55:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 750,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-10-22T13:55:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 750,
+        "warrantNumber": "6A0129523"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T21:17:15",
+    "releasedAt": null,
     "baseline": false
   },
   {
