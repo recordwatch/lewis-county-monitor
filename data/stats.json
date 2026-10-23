@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T20:32:14",
+  "generatedAt": "2026-10-22T20:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 288,
-    "bookingsObserved": 139,
+    "bookingsTracked": 289,
+    "bookingsObserved": 140,
     "releasesObserved": 125,
-    "inCustody": 163,
-    "uniquePeople": 277
+    "inCustody": 164,
+    "uniquePeople": 278
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 4,
+      "booked": 5,
       "released": 13
     }
   ],
@@ -271,14 +271,14 @@
     },
     {
       "name": "JAIL",
-      "count": 69,
-      "pct": 24,
+      "count": 70,
+      "pct": 24.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 60,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 26,
-      "pct": 9.1,
+      "pct": 9,
       "label": "Washington State Patrol"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 306,
-      "pct": 46.5,
+      "count": 307,
+      "pct": 46.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 207,
-      "pct": 31.5,
+      "pct": 31.4,
       "label": "Lewis County District Court"
     },
     {
@@ -452,17 +452,17 @@
     {
       "name": "Cash or Bond",
       "count": 172,
-      "pct": 26
+      "pct": 25.9
     },
     {
       "name": "Included",
       "count": 162,
-      "pct": 24.5
+      "pct": 24.4
     },
     {
       "name": "Serving Time",
-      "count": 136,
-      "pct": 20.5
+      "count": 137,
+      "pct": 20.7
     },
     {
       "name": "No Bail",
@@ -540,12 +540,12 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 24.5,
+    "currentMedianDaysHeld": 24,
     "currentLongestDaysHeld": 775.2
   },
   "bond": {
     "withBond": 97,
-    "noBond": 66,
+    "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15339850

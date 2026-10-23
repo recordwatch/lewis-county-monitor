@@ -1,5 +1,29 @@
 [
   {
+    "id": "229668-20261022141200",
+    "inmateNumber": "229668",
+    "name": "LAWRENCE, MAKAILA COLLEEN",
+    "bookedAt": "2026-10-22T14:12:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Mental Health Sanctions",
+        "arrestDate": "2026-10-22T14:12:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610002221"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T20:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358469-20261022093500",
     "inmateNumber": "358469",
     "name": "PROSSER, NATALIE JESSI",
