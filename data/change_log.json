@@ -31,33 +31,45 @@
     "name": "CARSONER-GARCIA, CLAIRE J",
     "bookedAt": "2026-10-22T08:45:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 6500,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-10-22T08:45:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0350448"
       },
       {
         "description": "RESISTING ARREST",
         "arrestDate": "2026-10-22T08:45:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0350448"
+      },
+      {
+        "description": "NVOL - Without ID",
+        "arrestDate": "2026-10-22T08:45:00",
+        "arrestingAgency": "LCSO",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "6A0259228"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-22T19:17:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422569-20261022063000",
