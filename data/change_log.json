@@ -704,12 +704,12 @@
         "warrantNumber": "T00801754"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T23:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "137793-20261020190200",
