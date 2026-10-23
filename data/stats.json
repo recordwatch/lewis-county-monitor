@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:17:15",
+  "generatedAt": "2026-10-23T08:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 296,
@@ -277,14 +277,14 @@
     },
     {
       "name": "CENT",
-      "count": 60,
-      "pct": 20.3,
+      "count": 59,
+      "pct": 20,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 42,
-      "pct": 14.2,
+      "count": 43,
+      "pct": 14.6,
       "label": "Chehalis Police"
     },
     {

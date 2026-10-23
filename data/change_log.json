@@ -726,13 +726,13 @@
     "inmateNumber": "295917",
     "name": "DENETCLAW, LEGRAND LAFEL",
     "bookedAt": "2026-10-21T13:38:00",
-    "arrestingAgency": "CENT",
+    "arrestingAgency": "CHEH",
     "bondTotal": null,
     "charges": [
       {
         "description": "HARASSMENT",
         "arrestDate": "2026-10-21T13:38:00",
-        "arrestingAgency": "CENT",
+        "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Included",
@@ -742,7 +742,7 @@
       {
         "description": "ASSAULT 4TH DEGREE",
         "arrestDate": "2026-10-21T13:38:00",
-        "arrestingAgency": "CENT",
+        "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "No Bail",
