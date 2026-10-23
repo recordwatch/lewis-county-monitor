@@ -62,6 +62,40 @@
     "releaseSource": null
   },
   {
+    "id": "224187-20261022173900",
+    "inmateNumber": "224187",
+    "name": "GARRETT, ERICK LANE",
+    "bookedAt": "2026-10-22T17:39:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARRASSMENT-DEATH THREAT",
+        "arrestDate": "2026-10-22T17:39:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "HARRASSMENT-DEATH THREAT",
+        "arrestDate": "2026-10-22T17:39:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T09:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "411320-20261022163300",
     "inmateNumber": "411320",
     "name": "ZUNIGA, RAESHAWN JAMES",
