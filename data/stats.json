@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T22:49:13",
+  "generatedAt": "2026-10-22T23:13:31",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 291,
-    "bookingsObserved": 142,
+    "bookingsTracked": 292,
+    "bookingsObserved": 143,
     "releasesObserved": 125,
-    "inCustody": 166,
-    "uniquePeople": 280
+    "inCustody": 167,
+    "uniquePeople": 281
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 7,
+      "booked": 8,
       "released": 13
     }
   ],
@@ -168,23 +168,23 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 34,
-      "pct": 5
+      "count": 35,
+      "pct": 5.2
     },
     {
       "name": "POSS of Controlled Substance",
       "count": 30,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 28,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 26,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -193,8 +193,8 @@
     },
     {
       "name": "Drive w/o req ignition intrlck",
-      "count": 18,
-      "pct": 2.7
+      "count": 19,
+      "pct": 2.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 72,
-      "pct": 24.8,
+      "count": 73,
+      "pct": 25.1,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,19 +278,19 @@
     {
       "name": "CENT",
       "count": 60,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 42,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 26,
-      "pct": 9,
+      "pct": 8.9,
       "label": "Washington State Patrol"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 307,
-      "pct": 46.5,
+      "pct": 46.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 207,
-      "pct": 31.4,
+      "count": 212,
+      "pct": 31.9,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 50,
-      "pct": 7.6,
+      "pct": 7.5,
       "label": "Centralia Municipal Court"
     },
     {
@@ -451,28 +451,28 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 173,
-      "pct": 26.1
+      "count": 178,
+      "pct": 26.6
     },
     {
       "name": "Included",
       "count": 162,
-      "pct": 24.4
+      "pct": 24.2
     },
     {
       "name": "Serving Time",
       "count": 137,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "No Bail",
       "count": 69,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "Released by Court",
       "count": 59,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "Appearance Bond",
@@ -482,7 +482,7 @@
     {
       "name": "Amended",
       "count": 11,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Referred",
@@ -492,17 +492,17 @@
     {
       "name": "Dismissed",
       "count": 9,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "Transferred to Prison",
       "count": 9,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "Released Time Served",
       "count": 9,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "Released on Bond",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 775.3
   },
   "bond": {
-    "withBond": 98,
-    "noBond": 68,
+    "withBond": 100,
+    "noBond": 67,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15340600
+    "totalBond": 15344600
   },
   "chargesPerBooking": 2.3
 }
