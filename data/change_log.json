@@ -1,5 +1,29 @@
 [
   {
+    "id": "396709-20261022153500",
+    "inmateNumber": "396709",
+    "name": "KINNEY, ANDREA LYNN",
+    "bookedAt": "2026-10-22T15:35:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "HIT RUN UNAT/FTA",
+        "arrestDate": "2026-10-22T15:35:00",
+        "arrestingAgency": "LCSO",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "PA2600031"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T01:32:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "229668-20261022141200",
     "inmateNumber": "229668",
     "name": "LAWRENCE, MAKAILA COLLEEN",

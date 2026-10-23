@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T01:17:15",
+  "generatedAt": "2026-10-23T01:32:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 292,
-    "bookingsObserved": 143,
+    "bookingsTracked": 293,
+    "bookingsObserved": 144,
     "releasesObserved": 129,
-    "inCustody": 163,
-    "uniquePeople": 281
+    "inCustody": 164,
+    "uniquePeople": 282
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 8,
+      "booked": 9,
       "released": 13
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 47,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 73,
-      "pct": 25.1,
+      "count": 74,
+      "pct": 25.3,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 70,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 60,
-      "pct": 20.6,
+      "pct": 20.5,
       "label": "Centralia Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 307,
-      "pct": 46.2,
+      "pct": 46.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 212,
-      "pct": 31.9,
+      "pct": 31.8,
       "label": "Lewis County District Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 43,
-      "pct": 6.5,
+      "count": 44,
+      "pct": 6.6,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 178,
-      "pct": 26.6
+      "count": 179,
+      "pct": 26.7
     },
     {
       "name": "Included",
@@ -462,7 +462,7 @@
     {
       "name": "Serving Time",
       "count": 137,
-      "pct": 20.5
+      "pct": 20.4
     },
     {
       "name": "No Bail",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 23.2,
+    "currentMedianDaysHeld": 23.1,
     "currentLongestDaysHeld": 775.4
   },
   "bond": {
-    "withBond": 100,
+    "withBond": 101,
     "noBond": 63,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15344600
+    "totalBond": 15347100
   },
   "chargesPerBooking": 2.3
 }
