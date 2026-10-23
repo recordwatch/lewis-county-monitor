@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "222838-20261022084500",
+    "inmateNumber": "222838",
+    "name": "CARSONER-GARCIA, CLAIRE J",
+    "bookedAt": "2026-10-22T08:45:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-22T08:45:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-10-22T08:45:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T19:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422569-20261022063000",
     "inmateNumber": "422569",
     "name": "HANSON, JORDAN PAUL",
