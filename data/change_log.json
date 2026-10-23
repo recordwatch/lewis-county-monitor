@@ -1,5 +1,29 @@
 [
   {
+    "id": "207694-20261022181200",
+    "inmateNumber": "207694",
+    "name": "EMBUM, COLE RILEY GENE",
+    "bookedAt": "2026-10-22T18:12:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 10300,
+    "charges": [
+      {
+        "description": "ASLT 4TH/FTA",
+        "arrestDate": "2026-10-22T18:12:00",
+        "arrestingAgency": "LCSO",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10300,
+        "warrantNumber": "5A0463130"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T03:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "411320-20261022163300",
     "inmateNumber": "411320",
     "name": "ZUNIGA, RAESHAWN JAMES",
