@@ -41,23 +41,25 @@
     "name": "ARMAND, ROSLYN A",
     "bookedAt": "2026-10-23T17:42:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-10-23T17:42:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "OSC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "261105959"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T23:17:13",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "408295-20261023143300",
