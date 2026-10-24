@@ -1,5 +1,49 @@
 [
   {
+    "id": "249819-20261024043500",
+    "inmateNumber": "249819",
+    "name": "PAULUS, JASON MICHAEL",
+    "bookedAt": "2026-10-24T04:35:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-24T04:35:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00892619"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-24T04:35:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00892621"
+      },
+      {
+        "description": "USE PARAPHERNALIA",
+        "arrestDate": "2026-10-24T04:35:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00892621"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T10:49:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423041-20261024033800",
     "inmateNumber": "423041",
     "name": "HOPKINS, NEVAEH LAURA",
@@ -21,7 +65,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-24T10:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "282447-20261024031000",
