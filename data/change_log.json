@@ -1,5 +1,53 @@
 [
   {
+    "id": "408295-20261023143300",
+    "inmateNumber": "408295",
+    "name": "WHITE, GILMORE THOMAS FRANK",
+    "bookedAt": "2026-10-23T14:33:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-23T14:33:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0427750"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T22:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "422544-20261023140400",
+    "inmateNumber": "422544",
+    "name": "OBRIEN, MATTHEW CAREY",
+    "bookedAt": "2026-10-23T14:04:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 2600,
+    "charges": [
+      {
+        "description": "HIT RUN UNAT/FTA",
+        "arrestDate": "2026-10-23T14:04:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "6A0350442"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T22:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "350448-20261023113500",
     "inmateNumber": "350448",
     "name": "REGIAN, LUCAS ANTHONY",
