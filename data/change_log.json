@@ -1,5 +1,29 @@
 [
   {
+    "id": "423041-20261024033800",
+    "inmateNumber": "423041",
+    "name": "HOPKINS, NEVAEH LAURA",
+    "bookedAt": "2026-10-24T03:38:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD DV",
+        "arrestDate": "2026-10-24T03:38:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0011395"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T10:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "282447-20261024031000",
     "inmateNumber": "282447",
     "name": "MILLER, KAMERON CHRISTOPHER",
