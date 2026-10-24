@@ -64,12 +64,12 @@
         "warrantNumber": "6A0430394"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T15:32:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T19:28:33",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "NORTHWEST SURETY",
+    "releaseSource": "official"
   },
   {
     "id": "376515-20261023023300",
@@ -172,12 +172,12 @@
         "warrantNumber": "5A0463130"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T03:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T19:22:16",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "224187-20261022173900",
