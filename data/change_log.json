@@ -1,5 +1,29 @@
 [
   {
+    "id": "164917-20261024094500",
+    "inmateNumber": "164917",
+    "name": "HADEEN-SPEER, GARRETT MICHAEL",
+    "bookedAt": "2026-10-24T09:45:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND/FTA",
+        "arrestDate": "2026-10-24T09:45:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T14:01:43",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "249819-20261024043500",
     "inmateNumber": "249819",
     "name": "PAULUS, JASON MICHAEL",
