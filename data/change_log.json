@@ -14,7 +14,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": null,
         "warrantNumber": "6A0398072"
       },
       {
@@ -24,7 +24,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": null,
         "warrantNumber": "6A0398072"
       },
       {
@@ -34,7 +34,7 @@
         "court": "CSM",
         "billingAgency": "NAPA",
         "bondType": "Cash or Bond",
-        "bondAmount": 2600,
+        "bondAmount": null,
         "warrantNumber": "9Z0909507"
       }
     ],
