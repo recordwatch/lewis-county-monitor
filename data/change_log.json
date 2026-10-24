@@ -26,6 +26,30 @@
     "releaseSource": null
   },
   {
+    "id": "133335-20261023203100",
+    "inmateNumber": "133335",
+    "name": "CAIN-CONKLIN, CORRINA JEAN",
+    "bookedAt": "2026-10-23T20:31:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-23T20:31:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0013382"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T01:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "153344-20261023190400",
     "inmateNumber": "153344",
     "name": "CYR, JOHNNY RAY",
@@ -38,7 +62,7 @@
         "arrestDate": "2026-10-23T19:04:00",
         "arrestingAgency": "JAIL",
         "court": "SUP",
-        "billingAgency": null,
+        "billingAgency": "DRC",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610037921"
@@ -50,6 +74,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "57964-20261023190400",
+    "inmateNumber": "57964",
+    "name": "HART, BRADLEY WAYNE",
+    "bookedAt": "2026-10-23T19:04:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-10-23T19:04:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "DRC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "25-1-00513-21"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T01:49:14",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "423025-20261023182000",

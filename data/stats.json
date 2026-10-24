@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T01:32:14",
+  "generatedAt": "2026-10-24T01:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 307,
-    "bookingsObserved": 158,
+    "bookingsTracked": 309,
+    "bookingsObserved": 160,
     "releasesObserved": 141,
-    "inCustody": 166,
-    "uniquePeople": 295
+    "inCustody": 168,
+    "uniquePeople": 297
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 10,
+      "booked": 12,
       "released": 15
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 32,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -212,6 +212,11 @@
       "pct": 1.6
     },
     {
+      "name": "ASSAULT 4TH DEGREE/DV",
+      "count": 10,
+      "pct": 1.4
+    },
+    {
       "name": "HARRASSMENT-DEATH THREAT",
       "count": 10,
       "pct": 1.4
@@ -222,9 +227,9 @@
       "pct": 1.3
     },
     {
-      "name": "ASSAULT 4TH DEGREE/DV",
-      "count": 9,
-      "pct": 1.3
+      "name": "DRUG COURT SANCTIONS",
+      "count": 8,
+      "pct": 1.1
     },
     {
       "name": "RESISTING ARREST",
@@ -240,11 +245,6 @@
       "name": "CRIM TRESPASS 2ND",
       "count": 8,
       "pct": 1.1
-    },
-    {
-      "name": "DRUG COURT SANCTIONS",
-      "count": 7,
-      "pct": 1
     },
     {
       "name": "THEFT 3RD DEG/FTA",
@@ -266,31 +266,31 @@
     {
       "name": "LCSO",
       "count": 82,
-      "pct": 26.8,
+      "pct": 26.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 72,
-      "pct": 23.5,
+      "count": 73,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 61,
-      "pct": 19.9,
+      "count": 62,
+      "pct": 20.1,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 44,
-      "pct": 14.4,
+      "pct": 14.3,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 26,
-      "pct": 8.5,
+      "pct": 8.4,
       "label": "Washington State Patrol"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "TOLE",
       "count": 2,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "TOLE"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 310,
+      "count": 311,
       "pct": 44.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 223,
-      "pct": 32.3,
+      "pct": 32.2,
       "label": "Lewis County District Court"
     },
     {
@@ -452,27 +452,27 @@
     {
       "name": "Cash or Bond",
       "count": 191,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "Included",
       "count": 162,
-      "pct": 23.3
+      "pct": 23.2
     },
     {
       "name": "Serving Time",
-      "count": 141,
-      "pct": 20.3
+      "count": 142,
+      "pct": 20.4
     },
     {
       "name": "No Bail",
-      "count": 72,
-      "pct": 10.4
+      "count": 73,
+      "pct": 10.5
     },
     {
       "name": "Released by Court",
       "count": 65,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "Appearance Bond",
@@ -540,12 +540,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 22.9,
+    "currentMedianDaysHeld": 21.6,
     "currentLongestDaysHeld": 776.4
   },
   "bond": {
     "withBond": 105,
-    "noBond": 61,
+    "noBond": 63,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15858200
