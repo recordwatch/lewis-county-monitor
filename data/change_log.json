@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-23T16:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "170469-20261023101500",
@@ -68,6 +70,50 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "376515-20261023023300",
+    "inmateNumber": "376515",
+    "name": "MARTINEZ BACA, INGRID VANESSA",
+    "bookedAt": "2026-10-23T02:33:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-23T02:33:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-23T02:33:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0403657"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-23T02:33:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0403657"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T17:17:14",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "289430-20261022191900",
