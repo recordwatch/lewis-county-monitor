@@ -15,13 +15,15 @@
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
         "bondAmount": 500,
-        "warrantNumber": null
+        "warrantNumber": "6A0264564"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-24T04:17:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "167078-20261023213000",
