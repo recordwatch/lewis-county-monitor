@@ -1,5 +1,29 @@
 [
   {
+    "id": "369631-20261024115100",
+    "inmateNumber": "369631",
+    "name": "HUGHES, BRIAN DAVID",
+    "bookedAt": "2026-10-24T11:51:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND/FTA",
+        "arrestDate": "2026-10-24T11:51:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T16:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "164917-20261024094500",
     "inmateNumber": "164917",
     "name": "HADEEN-SPEER, GARRETT MICHAEL",
