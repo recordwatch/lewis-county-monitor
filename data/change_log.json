@@ -11,17 +11,19 @@
         "description": "CRIM TRESPASS 2ND/FTA",
         "arrestDate": "2026-10-24T09:45:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
         "bondType": "Cash or Bond",
         "bondAmount": 5000,
-        "warrantNumber": null
+        "warrantNumber": "6A0326999"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-24T14:01:43",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "249819-20261024043500",
