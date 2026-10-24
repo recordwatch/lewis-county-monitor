@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:32:16",
+  "generatedAt": "2026-10-24T09:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 311,
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 55,
-      "pct": 7.9,
+      "count": 56,
+      "pct": 8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -457,7 +457,7 @@
     {
       "name": "Included",
       "count": 162,
-      "pct": 23.2
+      "pct": 23.1
     },
     {
       "name": "Serving Time",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 75,
-      "pct": 10.7
+      "count": 76,
+      "pct": 10.9
     },
     {
       "name": "Released by Court",

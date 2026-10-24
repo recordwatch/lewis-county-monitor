@@ -21,17 +21,19 @@
         "description": "MAL MISCH 3RD DV",
         "arrestDate": "2026-10-24T03:10:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0403659"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-24T09:32:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423038-20261024020900",
