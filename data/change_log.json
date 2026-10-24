@@ -38,12 +38,12 @@
         "warrantNumber": "9Z0909507"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T20:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T20:50:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "190545-20261023104400",
