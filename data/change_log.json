@@ -13,8 +13,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "6A0264564"
       }
     ],
