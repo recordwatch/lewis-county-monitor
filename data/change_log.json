@@ -1,27 +1,63 @@
 [
   {
+    "id": "423025-20261023182000",
+    "inmateNumber": "423025",
+    "name": "NJOROGE, AMOS GIKANGA",
+    "bookedAt": "2026-10-23T18:20:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-23T18:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-23T18:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T22:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "408295-20261023143300",
     "inmateNumber": "408295",
     "name": "WHITE, GILMORE THOMAS FRANK",
     "bookedAt": "2026-10-23T14:33:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-10-23T14:33:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "6A0427750"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T22:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422544-20261023140400",
@@ -45,7 +81,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-23T22:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "350448-20261023113500",
@@ -7292,12 +7330,12 @@
         "warrantNumber": "6A0098877"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-24T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "321793-20260927205300",

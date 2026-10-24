@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T22:32:15",
+  "generatedAt": "2026-10-23T22:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 303,
-    "bookingsObserved": 154,
-    "releasesObserved": 140,
+    "bookingsTracked": 304,
+    "bookingsObserved": 155,
+    "releasesObserved": 141,
     "inCustody": 163,
-    "uniquePeople": 291
+    "uniquePeople": 292
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 6,
+      "booked": 7,
       "released": 15
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 39,
-      "pct": 5.6
+      "count": 40,
+      "pct": 5.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -179,7 +179,7 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 29,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -188,8 +188,8 @@
     },
     {
       "name": "Drive w/o req ignition intrlck",
-      "count": 22,
-      "pct": 3.2
+      "count": 23,
+      "pct": 3.3
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 80,
-      "pct": 26.5,
+      "count": 81,
+      "pct": 26.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 70,
-      "pct": 23.2,
+      "pct": 23.1,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 61,
-      "pct": 20.2,
+      "pct": 20.1,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 44,
-      "pct": 14.6,
+      "pct": 14.5,
       "label": "Chehalis Police"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 107,
-      "pct": 78.7
+      "count": 108,
+      "pct": 78.8
     },
     {
       "name": "DOC",
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 187,
-      "pct": 27.1
+      "count": 188,
+      "pct": 27.2
     },
     {
       "name": "Included",
@@ -462,7 +462,7 @@
     {
       "name": "Serving Time",
       "count": 139,
-      "pct": 20.2
+      "pct": 20.1
     },
     {
       "name": "No Bail",
@@ -487,7 +487,7 @@
     {
       "name": "Referred",
       "count": 10,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Dismissed",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 138,
+    "releasedCount": 139,
     "medianDays": 2.1,
-    "meanDays": 11.1,
+    "meanDays": 11.2,
     "buckets": [
       {
         "label": "< 1 day",
@@ -529,7 +529,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 20
+        "count": 21
       },
       {
         "label": "1–3 months",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 24.1,
+    "currentMedianDaysHeld": 23.9,
     "currentLongestDaysHeld": 776.3
   },
   "bond": {
-    "withBond": 102,
-    "noBond": 61,
+    "withBond": 103,
+    "noBond": 60,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15846200
+    "totalBond": 15846700
   },
   "chargesPerBooking": 2.3
 }
