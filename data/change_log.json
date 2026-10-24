@@ -4220,12 +4220,12 @@
         "warrantNumber": "6A272257"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T23:32:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-24T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "392567-20261013170200",
