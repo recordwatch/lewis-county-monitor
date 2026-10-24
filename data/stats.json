@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T19:49:20",
+  "generatedAt": "2026-10-23T20:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 300,
-    "bookingsObserved": 151,
+    "bookingsTracked": 301,
+    "bookingsObserved": 152,
     "releasesObserved": 139,
-    "inCustody": 161,
-    "uniquePeople": 289
+    "inCustody": 162,
+    "uniquePeople": 290
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 3,
+      "booked": 4,
       "released": 14
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 37,
-      "pct": 5.3
+      "count": 38,
+      "pct": 5.5
     },
     {
       "name": "POSS of Controlled Substance",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
-      "count": 26,
-      "pct": 3.8
+      "count": 27,
+      "pct": 3.9
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -266,25 +266,25 @@
     {
       "name": "LCSO",
       "count": 78,
-      "pct": 26.1,
+      "pct": 26,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 70,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 61,
-      "pct": 20.4,
+      "pct": 20.3,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 43,
-      "pct": 14.4,
+      "count": 44,
+      "pct": 14.7,
       "label": "Chehalis Police"
     },
     {
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 309,
-      "pct": 45.4,
+      "pct": 45.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 218,
-      "pct": 32,
+      "pct": 31.9,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 53,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
-      "count": 45,
-      "pct": 6.6,
+      "count": 48,
+      "pct": 7,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -451,33 +451,33 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 182,
-      "pct": 26.6
+      "count": 186,
+      "pct": 27
     },
     {
       "name": "Included",
       "count": 162,
-      "pct": 23.6
+      "pct": 23.5
     },
     {
       "name": "Serving Time",
       "count": 139,
-      "pct": 20.3
+      "pct": 20.2
     },
     {
       "name": "No Bail",
-      "count": 73,
-      "pct": 10.7
+      "count": 72,
+      "pct": 10.5
     },
     {
       "name": "Released by Court",
       "count": 65,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "Appearance Bond",
       "count": 12,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "Amended",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 24.5,
-    "currentLongestDaysHeld": 776.1
+    "currentMedianDaysHeld": 24.2,
+    "currentLongestDaysHeld": 776.2
   },
   "bond": {
-    "withBond": 100,
-    "noBond": 61,
+    "withBond": 102,
+    "noBond": 60,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15343600
+    "totalBond": 15847700
   },
   "chargesPerBooking": 2.3
 }

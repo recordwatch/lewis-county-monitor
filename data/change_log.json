@@ -1,5 +1,49 @@
 [
   {
+    "id": "350448-20261023113500",
+    "inmateNumber": "350448",
+    "name": "REGIAN, LUCAS ANTHONY",
+    "bookedAt": "2026-10-23T11:35:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 4100,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-23T11:35:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0398072"
+      },
+      {
+        "description": "HIT AND RUN",
+        "arrestDate": "2026-10-23T11:35:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0398072"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-23T11:35:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "NAPA",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "9Z0909507"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T20:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "190545-20261023104400",
     "inmateNumber": "190545",
     "name": "SWANSON, FORREST CAVE",
@@ -499,7 +543,7 @@
     "name": "HANSON, JORDAN PAUL",
     "bookedAt": "2026-10-22T06:30:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 500000,
     "charges": [
       {
         "description": "ASSAULT 2(Substantial bodily harm) DV",
@@ -507,8 +551,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500000,
         "warrantNumber": "2610057021"
       },
       {
