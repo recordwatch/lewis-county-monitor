@@ -1,5 +1,53 @@
 [
   {
+    "id": "167078-20261023213000",
+    "inmateNumber": "167078",
+    "name": "KINSWA, DAWSON LEONARD",
+    "bookedAt": "2026-10-23T21:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-10-23T21:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "DRC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "T00122292"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T01:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "153344-20261023190400",
+    "inmateNumber": "153344",
+    "name": "CYR, JOHNNY RAY",
+    "bookedAt": "2026-10-23T19:04:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-10-23T19:04:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": null,
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610037921"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T01:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423025-20261023182000",
     "inmateNumber": "423025",
     "name": "NJOROGE, AMOS GIKANGA",
