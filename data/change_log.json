@@ -8,11 +8,11 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "DRUG COURT SANCTIONS",
+        "description": "DUI",
         "arrestDate": "2026-10-23T21:30:00",
         "arrestingAgency": "JAIL",
         "court": "LCD",
-        "billingAgency": "DRC",
+        "billingAgency": "WSP",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "T00122292"
@@ -37,7 +37,7 @@
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-10-23T20:31:00",
         "arrestingAgency": "CENT",
-        "court": null,
+        "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "No Bail",
         "bondAmount": null,
@@ -47,7 +47,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-24T01:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "153344-20261023190400",
@@ -97,7 +99,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-24T01:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423025-20261023182000",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:49:14",
+  "generatedAt": "2026-10-24T02:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 309,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 48,
-      "pct": 6.8
+      "count": 49,
+      "pct": 7
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -227,11 +227,6 @@
       "pct": 1.3
     },
     {
-      "name": "DRUG COURT SANCTIONS",
-      "count": 8,
-      "pct": 1.1
-    },
-    {
       "name": "RESISTING ARREST",
       "count": 8,
       "pct": 1.1
@@ -245,6 +240,11 @@
       "name": "CRIM TRESPASS 2ND",
       "count": 8,
       "pct": 1.1
+    },
+    {
+      "name": "DRUG COURT SANCTIONS",
+      "count": 7,
+      "pct": 1
     },
     {
       "name": "THEFT 3RD DEG/FTA",
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 53,
-      "pct": 7.7,
+      "count": 54,
+      "pct": 7.8,
       "label": "Centralia Municipal Court"
     },
     {
