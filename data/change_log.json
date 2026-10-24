@@ -5,17 +5,17 @@
     "name": "HUGHES, BRIAN DAVID",
     "bookedAt": "2026-10-24T11:51:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND/FTA",
         "arrestDate": "2026-10-24T11:51:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0426623"
       }
     ],
     "status": "in_custody",
