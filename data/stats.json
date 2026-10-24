@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:17:14",
+  "generatedAt": "2026-10-23T17:32:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 300,
@@ -334,13 +334,13 @@
     {
       "name": "LCD",
       "count": 218,
-      "pct": 32.1,
+      "pct": 32,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 52,
-      "pct": 7.6,
+      "count": 53,
+      "pct": 7.8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "DOC",
       "count": 16,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {

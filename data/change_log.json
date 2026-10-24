@@ -83,11 +83,11 @@
         "description": "DUI",
         "arrestDate": "2026-10-23T02:33:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0403657"
       },
       {
         "description": "DWLS 3RD DEGREE",
@@ -113,7 +113,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-23T17:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "289430-20261022191900",
