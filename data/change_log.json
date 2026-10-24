@@ -1,5 +1,39 @@
 [
   {
+    "id": "282447-20261024031000",
+    "inmateNumber": "282447",
+    "name": "MILLER, KAMERON CHRISTOPHER",
+    "bookedAt": "2026-10-24T03:10:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-10-24T03:10:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6a0403659"
+      },
+      {
+        "description": "MAL MISCH 3RD DV",
+        "arrestDate": "2026-10-24T03:10:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T09:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423038-20261024020900",
     "inmateNumber": "423038",
     "name": "STONE, MARK ALLYN",
