@@ -1,5 +1,29 @@
 [
   {
+    "id": "423038-20261024020900",
+    "inmateNumber": "423038",
+    "name": "STONE, MARK ALLYN",
+    "bookedAt": "2026-10-24T02:09:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "PHYSIC CONT W INTOX",
+        "arrestDate": "2026-10-24T02:09:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T04:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "167078-20261023213000",
     "inmateNumber": "167078",
     "name": "KINSWA, DAWSON LEONARD",
