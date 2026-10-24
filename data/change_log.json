@@ -5,21 +5,47 @@
     "name": "NJOROGE, AMOS GIKANGA",
     "bookedAt": "2026-10-23T18:20:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-10-23T18:20:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0413915"
       },
       {
         "description": "Drive w/o req ignition intrlck",
         "arrestDate": "2026-10-23T18:20:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0413915"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T22:49:15",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "422754-20261023174200",
+    "inmateNumber": "422754",
+    "name": "ARMAND, ROSLYN A",
+    "bookedAt": "2026-10-23T17:42:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-23T17:42:00",
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
@@ -29,7 +55,7 @@
       }
     ],
     "status": "in_custody",
-    "firstSeen": "2026-10-23T22:49:15",
+    "firstSeen": "2026-10-23T23:17:13",
     "releasedAt": null,
     "baseline": false
   },
