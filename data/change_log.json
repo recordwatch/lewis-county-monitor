@@ -1,5 +1,29 @@
 [
   {
+    "id": "290115-20261025152500",
+    "inmateNumber": "290115",
+    "name": "CARLSON, RICHARD LEE",
+    "bookedAt": "2026-10-25T15:25:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD/<50/OTHER LOCATIONS",
+        "arrestDate": "2026-10-25T15:25:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0406865"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T16:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423079-20261025081133",
     "inmateNumber": "423079",
     "name": "LEBOEUF, BENJAMIN THOMAS",
