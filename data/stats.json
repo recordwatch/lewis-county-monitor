@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:32:15",
+  "generatedAt": "2026-10-25T10:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 323,
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 197,
-      "pct": 27.5
+      "count": 195,
+      "pct": 27.2
     },
     {
       "name": "Included",
@@ -481,8 +481,8 @@
     },
     {
       "name": "Referred",
-      "count": 11,
-      "pct": 1.5
+      "count": 13,
+      "pct": 1.8
     },
     {
       "name": "Amended",
@@ -548,7 +548,7 @@
     "noBond": 67,
     "medianBond": 23800,
     "maxBond": 3000000,
-    "totalBond": 15880300
+    "totalBond": 15885300
   },
   "chargesPerBooking": 2.2
 }

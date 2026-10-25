@@ -323,8 +323,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Referred",
+        "bondAmount": null,
         "warrantNumber": "T00892621"
       },
       {
@@ -333,8 +333,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Referred",
+        "bondAmount": null,
         "warrantNumber": "T00892621"
       }
     ],
@@ -605,7 +605,7 @@
     "name": "WHITE, GILMORE THOMAS FRANK",
     "bookedAt": "2026-10-23T14:33:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 500,
+    "bondTotal": 5500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -614,7 +614,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 5500,
         "warrantNumber": "6A0427750"
       }
     ],
