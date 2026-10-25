@@ -5,23 +5,25 @@
     "name": "ROBBINS, TYLER MATTHEW",
     "bookedAt": "2026-10-25T16:08:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 2600,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
         "arrestDate": "2026-10-25T16:08:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "6A0398302"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-25T16:49:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "290115-20261025152500",
