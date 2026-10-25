@@ -351,7 +351,7 @@
     "name": "HOPKINS, NEVAEH LAURA",
     "bookedAt": "2026-10-24T03:38:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "MAL MISCH 3RD DV",
@@ -359,8 +359,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
         "warrantNumber": "6A0011395"
       }
     ],
