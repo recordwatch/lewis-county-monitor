@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T08:17:14",
+  "generatedAt": "2026-10-25T08:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 321,
-    "bookingsObserved": 172,
+    "bookingsTracked": 322,
+    "bookingsObserved": 173,
     "releasesObserved": 145,
-    "inCustody": 176,
-    "uniquePeople": 309
+    "inCustody": 177,
+    "uniquePeople": 310
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 52,
-      "pct": 7.2
+      "count": 53,
+      "pct": 7.3
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -179,7 +179,7 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 30,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -266,31 +266,31 @@
     {
       "name": "LCSO",
       "count": 84,
-      "pct": 26.3,
+      "pct": 26.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 73,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 67,
-      "pct": 20.9,
+      "count": 68,
+      "pct": 21.2,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 14.4,
+      "pct": 14.3,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 29,
-      "pct": 9.1,
+      "pct": 9,
       "label": "Washington State Patrol"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "DOC",
       "count": 4,
-      "pct": 1.3,
+      "pct": 1.2,
       "label": "Dept. of Corrections"
     },
     {
       "name": "MORT",
       "count": 4,
-      "pct": 1.3,
+      "pct": 1.2,
       "label": "Morton Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 21.3,
+    "currentMedianDaysHeld": 21,
     "currentLongestDaysHeld": 777.7
   },
   "bond": {
     "withBond": 110,
-    "noBond": 66,
+    "noBond": 67,
     "medianBond": 23800,
     "maxBond": 3000000,
     "totalBond": 15880300

@@ -1,5 +1,39 @@
 [
   {
+    "id": "423079-20261025081133",
+    "inmateNumber": "423079",
+    "name": "LEBOEUF, BENJAMIN THOMAS",
+    "bookedAt": "2026-10-25T08:11:33",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-25T08:11:33",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "HIT AND RUN/INJ",
+        "arrestDate": "2026-10-25T08:11:33",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T08:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "284423-20261024232300",
     "inmateNumber": "284423",
     "name": "CLINE, SCOTT ROBERT",
