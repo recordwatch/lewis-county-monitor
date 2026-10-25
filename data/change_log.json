@@ -1,5 +1,29 @@
 [
   {
+    "id": "284423-20261024232300",
+    "inmateNumber": "284423",
+    "name": "CLINE, SCOTT ROBERT",
+    "bookedAt": "2026-10-24T23:23:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-24T23:23:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "25Y000384"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T03:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423070-20261024220900",
     "inmateNumber": "423070",
     "name": "MARTINEZ, MARIA CRUZ",
