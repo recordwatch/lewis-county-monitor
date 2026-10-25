@@ -323,7 +323,7 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Referred",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "T00892621"
       },
@@ -333,7 +333,7 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Referred",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "T00892621"
       }
@@ -543,7 +543,7 @@
     "name": "NJOROGE, AMOS GIKANGA",
     "bookedAt": "2026-10-23T18:20:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 1500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -552,7 +552,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 5000,
         "warrantNumber": "6A0413915"
       },
       {
@@ -561,8 +561,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0413915"
       }
     ],
@@ -605,7 +605,7 @@
     "name": "WHITE, GILMORE THOMAS FRANK",
     "bookedAt": "2026-10-23T14:33:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 5500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -614,7 +614,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 5500,
+        "bondAmount": 5000,
         "warrantNumber": "6A0427750"
       }
     ],
