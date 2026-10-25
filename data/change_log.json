@@ -28,12 +28,12 @@
         "warrantNumber": "6A0415831"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T18:17:21",
-    "releasedAt": null,
+    "releasedAt": "2026-10-24T19:33:07",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "369631-20261024115100",
