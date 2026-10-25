@@ -5,7 +5,7 @@
     "name": "CARBAUGH, TYLER JAY",
     "bookedAt": "2026-10-24T20:00:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 1000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "ASLT 4TH/FTA",
@@ -13,15 +13,17 @@
         "arrestingAgency": "CHEH",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Appearance Bond",
+        "bondAmount": 10000,
         "warrantNumber": "5A0941955"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-24T23:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "44740-20261024162800",
@@ -62,7 +64,7 @@
   {
     "id": "423055-20261024152000",
     "inmateNumber": "423055",
-    "name": "FIREY, ALAN",
+    "name": "FIREY, ALAN CLIVE",
     "bookedAt": "2026-10-24T15:20:00",
     "arrestingAgency": "WASH",
     "bondTotal": null,
