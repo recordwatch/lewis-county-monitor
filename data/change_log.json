@@ -1,5 +1,29 @@
 [
   {
+    "id": "423070-20261024220900",
+    "inmateNumber": "423070",
+    "name": "MARTINEZ, MARIA CRUZ",
+    "bookedAt": "2026-10-24T22:09:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-24T22:09:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00837776"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T02:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "190685-20261024200000",
     "inmateNumber": "190685",
     "name": "CARBAUGH, TYLER JAY",
