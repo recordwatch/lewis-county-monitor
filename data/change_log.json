@@ -36,6 +36,54 @@
     "releaseSource": "official"
   },
   {
+    "id": "423055-20261024152000",
+    "inmateNumber": "423055",
+    "name": "FIREY, ALAN",
+    "bookedAt": "2026-10-24T15:20:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-24T15:20:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00802547"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T21:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "379790-20261024132100",
+    "inmateNumber": "379790",
+    "name": "DICUS, CALIOPE STAR",
+    "bookedAt": "2026-10-24T13:21:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/FTC",
+        "arrestDate": "2026-10-24T13:21:00",
+        "arrestingAgency": "CENT",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "5A0244402"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T21:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "369631-20261024115100",
     "inmateNumber": "369631",
     "name": "HUGHES, BRIAN DAVID",
