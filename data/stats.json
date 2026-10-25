@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T16:32:15",
+  "generatedAt": "2026-10-25T16:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 324,
-    "bookingsObserved": 175,
+    "bookingsTracked": 325,
+    "bookingsObserved": 176,
     "releasesObserved": 146,
-    "inCustody": 178,
-    "uniquePeople": 311
+    "inCustody": 179,
+    "uniquePeople": 312
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
-      "count": 27,
-      "pct": 3.7
+      "count": 28,
+      "pct": 3.9
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 84,
-      "pct": 26,
+      "count": 85,
+      "pct": 26.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 73,
-      "pct": 22.6,
+      "pct": 22.5,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 70,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "Centralia Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 21.2,
+    "currentMedianDaysHeld": 21.1,
     "currentLongestDaysHeld": 778
   },
   "bond": {
     "withBond": 112,
-    "noBond": 66,
+    "noBond": 67,
     "medianBond": 21400,
     "maxBond": 3000000,
     "totalBond": 15890300
