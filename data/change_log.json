@@ -8,6 +8,16 @@
     "bondTotal": 10000,
     "charges": [
       {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-24T20:00:00",
+        "arrestingAgency": "CHEH",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "5A0941955"
+      },
+      {
         "description": "ASLT 4TH/FTA",
         "arrestDate": "2026-10-24T20:00:00",
         "arrestingAgency": "CHEH",

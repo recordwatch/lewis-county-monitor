@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:17:14",
+  "generatedAt": "2026-10-25T01:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 319,
@@ -193,8 +193,8 @@
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 21,
-      "pct": 2.9
+      "count": 22,
+      "pct": 3.1
     },
     {
       "name": "THEFT 3RD DEG",
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 311,
-      "pct": 44,
+      "pct": 43.9,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 61,
-      "pct": 8.6,
+      "count": 62,
+      "pct": 8.8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -452,22 +452,22 @@
     {
       "name": "Cash or Bond",
       "count": 196,
-      "pct": 27.6
+      "pct": 27.5
     },
     {
       "name": "Included",
-      "count": 162,
-      "pct": 22.8
+      "count": 163,
+      "pct": 22.9
     },
     {
       "name": "Serving Time",
       "count": 142,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "No Bail",
       "count": 80,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "Released by Court",
@@ -540,7 +540,7 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 21.6,
+    "currentMedianDaysHeld": 21.7,
     "currentLongestDaysHeld": 777.4
   },
   "bond": {
