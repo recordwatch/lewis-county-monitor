@@ -318,12 +318,12 @@
         "warrantNumber": "25-1-00513-21"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T01:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-24T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423025-20261023182000",
