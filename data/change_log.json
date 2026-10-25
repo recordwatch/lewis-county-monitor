@@ -1,5 +1,29 @@
 [
   {
+    "id": "190685-20261024200000",
+    "inmateNumber": "190685",
+    "name": "CARBAUGH, TYLER JAY",
+    "bookedAt": "2026-10-24T20:00:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASLT 4TH/FTA",
+        "arrestDate": "2026-10-24T20:00:00",
+        "arrestingAgency": "CHEH",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "5A0941955"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T23:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "44740-20261024162800",
     "inmateNumber": "44740",
     "name": "DUNCAN, JENNIFER LYNN",
