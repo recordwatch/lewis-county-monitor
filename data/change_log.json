@@ -395,7 +395,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0403659"
       }
@@ -793,8 +793,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0403657"
       },
       {
@@ -803,8 +803,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0403657"
       }
     ],
