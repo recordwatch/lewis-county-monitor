@@ -28,8 +28,44 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T08:32:16",
+    "releasedAt": "2026-10-25T08:49:14",
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": "observed"
+  },
+  {
+    "id": "423079-20261025070900",
+    "inmateNumber": "423079",
+    "name": "LEBOEUF, BENJAMIN THOMAS",
+    "bookedAt": "2026-10-25T07:09:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-25T07:09:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Referred",
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "HIT AND RUN/INJ",
+        "arrestDate": "2026-10-25T07:09:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T08:49:14",
     "releasedAt": null,
     "baseline": false
   },
