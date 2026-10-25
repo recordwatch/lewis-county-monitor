@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:32:16",
+  "generatedAt": "2026-10-24T17:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 315,
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 195,
-      "pct": 27.6
+      "count": 194,
+      "pct": 27.5
     },
     {
       "name": "Included",
@@ -476,8 +476,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 12,
-      "pct": 1.7
+      "count": 13,
+      "pct": 1.8
     },
     {
       "name": "Amended",
@@ -541,7 +541,7 @@
       }
     ],
     "currentMedianDaysHeld": 21.7,
-    "currentLongestDaysHeld": 777
+    "currentLongestDaysHeld": 777.1
   },
   "bond": {
     "withBond": 108,

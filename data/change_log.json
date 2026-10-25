@@ -39,7 +39,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
+        "bondType": "Appearance Bond",
         "bondAmount": 5000,
         "warrantNumber": "6A0326999"
       }
