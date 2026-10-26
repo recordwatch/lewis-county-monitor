@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T14:32:16",
+  "generatedAt": "2026-10-26T14:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 329,
     "bookingsObserved": 180,
-    "releasesObserved": 155,
-    "inCustody": 174,
+    "releasesObserved": 158,
+    "inCustody": 171,
     "uniquePeople": 315
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-26",
       "booked": 1,
-      "released": 6
+      "released": 9
     }
   ],
   "topCharges": [
@@ -389,18 +389,18 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 120,
-      "pct": 80
+      "count": 123,
+      "pct": 80.4
     },
     {
       "name": "DOC",
       "count": 4,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "ABHS",
       "count": 4,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "THURSTON COUNTY JAIL",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 153,
+    "releasedCount": 156,
     "medianDays": 2.1,
-    "meanDays": 11,
+    "meanDays": 10.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -521,7 +521,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 57
+        "count": 60
       },
       {
         "label": "3–7 days",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 22.1,
+    "currentMedianDaysHeld": 23.5,
     "currentLongestDaysHeld": 778.9
   },
   "bond": {
-    "withBond": 109,
+    "withBond": 106,
     "noBond": 65,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15891400
+    "totalBond": 15875800
   },
   "chargesPerBooking": 2.2
 }
