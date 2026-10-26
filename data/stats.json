@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T15:32:17",
+  "generatedAt": "2026-10-26T15:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 329,
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 40,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "POSS of Controlled Substance",
@@ -178,8 +178,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 30,
-      "pct": 4.1
+      "count": 31,
+      "pct": 4.2
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 315,
-      "pct": 43.9,
+      "pct": 43.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 231,
-      "pct": 32.2,
+      "pct": 32.1,
       "label": "Lewis County District Court"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "USM",
-      "count": 1,
-      "pct": 0.1,
+      "count": 2,
+      "pct": 0.3,
       "label": "USM"
     }
   ],
@@ -451,28 +451,28 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 196,
-      "pct": 27.1
+      "count": 195,
+      "pct": 26.9
     },
     {
       "name": "Included",
       "count": 172,
-      "pct": 23.8
+      "pct": 23.7
     },
     {
       "name": "Serving Time",
       "count": 143,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "No Bail",
-      "count": 81,
-      "pct": 11.2
+      "count": 82,
+      "pct": 11.3
     },
     {
       "name": "Released by Court",
-      "count": 65,
-      "pct": 9
+      "count": 66,
+      "pct": 9.1
     },
     {
       "name": "Appearance Bond",

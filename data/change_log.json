@@ -4269,8 +4269,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 25000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0336570"
       }
     ],
@@ -7094,6 +7094,16 @@
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "T00559722"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-05T08:50:00",
+        "arrestingAgency": "JAIL",
+        "court": "USM",
+        "billingAgency": "OTAG",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "MJ26-658"
       }
     ],
     "status": "in_custody",
