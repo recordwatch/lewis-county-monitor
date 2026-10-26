@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T13:32:16",
+  "generatedAt": "2026-10-26T13:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 329,
     "bookingsObserved": 180,
-    "releasesObserved": 151,
-    "inCustody": 178,
+    "releasesObserved": 152,
+    "inCustody": 177,
     "uniquePeople": 315
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-26",
       "booked": 1,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 117,
-      "pct": 80.1
+      "count": 118,
+      "pct": 80.3
     },
     {
       "name": "DOC",
@@ -405,17 +405,17 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "WCC",
       "count": 3,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "NORTHWEST SURETY",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 149,
+    "releasedCount": 150,
     "medianDays": 2.1,
-    "meanDays": 11.2,
+    "meanDays": 11.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 16
+        "count": 17
       },
       {
         "label": "1–4 weeks",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 778.9
   },
   "bond": {
-    "withBond": 111,
+    "withBond": 110,
     "noBond": 67,
-    "medianBond": 22600,
+    "medianBond": 23800,
     "maxBond": 3000000,
-    "totalBond": 15899500
+    "totalBond": 15898000
   },
   "chargesPerBooking": 2.2
 }

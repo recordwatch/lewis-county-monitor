@@ -984,12 +984,12 @@
         "warrantNumber": "6A0403657"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T17:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T13:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "289430-20261022191900",
