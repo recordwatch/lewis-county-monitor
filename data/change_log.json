@@ -77,17 +77,17 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610057221"
       },
       {
         "description": "RESISTING ARREST",
         "arrestDate": "2026-10-25T20:03:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610057221"
       }
     ],
     "status": "in_custody",
@@ -223,11 +223,11 @@
         "description": "DUI",
         "arrestDate": "2026-10-25T07:09:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610057121"
       },
       {
         "description": "HIT AND RUN/INJ",
@@ -235,9 +235,9 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610057121"
       }
     ],
     "status": "in_custody",
@@ -576,12 +576,12 @@
         "warrantNumber": "6A0403659"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T09:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CSO, TRIBAL XFER",
+    "releaseSource": "official"
   },
   {
     "id": "423038-20261024020900",
@@ -807,7 +807,7 @@
     "name": "OBRIEN, MATTHEW CAREY",
     "bookedAt": "2026-10-23T14:04:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 2600,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "HIT RUN UNAT/FTA",
@@ -816,7 +816,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2600,
+        "bondAmount": 1000,
         "warrantNumber": "6A0350442"
       }
     ],
