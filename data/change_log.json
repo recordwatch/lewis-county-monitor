@@ -292,12 +292,12 @@
         "warrantNumber": "T00837776"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T02:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "190685-20261024200000",
@@ -468,12 +468,12 @@
         "warrantNumber": "6A0326999"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T14:01:43",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CHEHALIS TRIBAL",
+    "releaseSource": "official"
   },
   {
     "id": "249819-20261024043500",
@@ -514,12 +514,12 @@
         "warrantNumber": "T00892621"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T10:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423041-20261024033800",
@@ -742,12 +742,12 @@
         "warrantNumber": "6A0413915"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T22:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422754-20261023174200",
