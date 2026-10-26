@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T14:17:15",
+  "generatedAt": "2026-10-26T14:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 329,
     "bookingsObserved": 180,
-    "releasesObserved": 153,
-    "inCustody": 176,
+    "releasesObserved": 155,
+    "inCustody": 174,
     "uniquePeople": 315
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-26",
       "booked": 1,
-      "released": 4
+      "released": 6
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 118,
-      "pct": 79.7
+      "count": 120,
+      "pct": 80
     },
     {
       "name": "DOC",
@@ -420,12 +420,12 @@
     {
       "name": "NORTHWEST SURETY",
       "count": 2,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "KITTITAS",
       "count": 2,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "CSO, TRIBAL XFER",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 151,
+    "releasedCount": 153,
     "medianDays": 2.1,
-    "meanDays": 11.1,
+    "meanDays": 11,
     "buckets": [
       {
         "label": "< 1 day",
@@ -521,11 +521,11 @@
       },
       {
         "label": "1–3 days",
-        "count": 56
+        "count": 57
       },
       {
         "label": "3–7 days",
-        "count": 17
+        "count": 18
       },
       {
         "label": "1–4 weeks",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 21.8,
+    "currentMedianDaysHeld": 22.1,
     "currentLongestDaysHeld": 778.9
   },
   "bond": {
-    "withBond": 110,
-    "noBond": 66,
-    "medianBond": 23800,
+    "withBond": 109,
+    "noBond": 65,
+    "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15896400
+    "totalBond": 15891400
   },
   "chargesPerBooking": 2.2
 }
