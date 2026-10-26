@@ -21,6 +21,42 @@
     "status": "in_custody",
     "firstSeen": "2026-10-25T22:17:16",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "423084-20261025200300",
+    "inmateNumber": "423084",
+    "name": "CHOYCE, BRITTANY CARONE",
+    "bookedAt": "2026-10-25T20:03:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND/>750",
+        "arrestDate": "2026-10-25T20:03:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-10-25T20:03:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T22:32:16",
+    "releasedAt": null,
     "baseline": false
   },
   {

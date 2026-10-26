@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T22:17:16",
+  "generatedAt": "2026-10-25T22:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 327,
-    "bookingsObserved": 178,
+    "bookingsTracked": 328,
+    "bookingsObserved": 179,
     "releasesObserved": 148,
-    "inCustody": 179,
-    "uniquePeople": 313
+    "inCustody": 180,
+    "uniquePeople": 314
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 6,
+      "booked": 7,
       "released": 3
     }
   ],
@@ -194,7 +194,7 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 23,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "THEFT 3RD DEG",
@@ -222,6 +222,11 @@
       "pct": 1.4
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 9,
+      "pct": 1.2
+    },
+    {
       "name": "ASSAULT 4TH DV",
       "count": 9,
       "pct": 1.2
@@ -233,11 +238,6 @@
     },
     {
       "name": "CRIM TRESPASS 2ND/FTA",
-      "count": 8,
-      "pct": 1.1
-    },
-    {
-      "name": "RESISTING ARREST",
       "count": 8,
       "pct": 1.1
     },
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 85,
-      "pct": 26.1,
+      "count": 86,
+      "pct": 26.3,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 74,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 71,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "Centralia Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 312,
-      "pct": 43.6,
+      "count": 313,
+      "pct": 43.7,
       "label": "Lewis County Superior Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 49,
-      "pct": 6.9,
+      "pct": 6.8,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -452,12 +452,12 @@
     {
       "name": "Cash or Bond",
       "count": 195,
-      "pct": 27.1
+      "pct": 27
     },
     {
       "name": "Included",
       "count": 169,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "Serving Time",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 81,
-      "pct": 11.3
+      "count": 82,
+      "pct": 11.4
     },
     {
       "name": "Released by Court",
@@ -497,12 +497,12 @@
     {
       "name": "Dismissed",
       "count": 9,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "Transferred to Prison",
       "count": 9,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "Released on Bond",
@@ -540,12 +540,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 21.3,
-    "currentLongestDaysHeld": 778.2
+    "currentMedianDaysHeld": 21.2,
+    "currentLongestDaysHeld": 778.3
   },
   "bond": {
     "withBond": 112,
-    "noBond": 67,
+    "noBond": 68,
     "medianBond": 21400,
     "maxBond": 3000000,
     "totalBond": 15891900
