@@ -1,5 +1,29 @@
 [
   {
+    "id": "108201-20261025190000",
+    "inmateNumber": "108201",
+    "name": "LEE, ROBERT JAMES",
+    "bookedAt": "2026-10-25T19:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-25T19:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "NMC",
+        "billingAgency": "NAPA",
+        "bondType": "Released Time Served",
+        "bondAmount": null,
+        "warrantNumber": "3A0563757"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T21:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "333975-20261025160800",
     "inmateNumber": "333975",
     "name": "ROBBINS, TYLER MATTHEW",
