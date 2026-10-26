@@ -1,5 +1,29 @@
 [
   {
+    "id": "95035-20261025211800",
+    "inmateNumber": "95035",
+    "name": "BUCK, HUNTER WILLIAM",
+    "bookedAt": "2026-10-25T21:18:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ESC COMMUNITY CUSTODY",
+        "arrestDate": "2026-10-25T21:18:00",
+        "arrestingAgency": "CENT",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "DOC888428 10/25/2026"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T22:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "108201-20261025190000",
     "inmateNumber": "108201",
     "name": "LEE, ROBERT JAMES",
@@ -21,7 +45,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-25T21:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "333975-20261025160800",
