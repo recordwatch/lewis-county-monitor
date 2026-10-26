@@ -1,5 +1,39 @@
 [
   {
+    "id": "380342-20261026102600",
+    "inmateNumber": "380342",
+    "name": "ATKINS, TRAVIS EUGENE",
+    "bookedAt": "2026-10-26T10:26:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 10100,
+    "charges": [
+      {
+        "description": "RESISTING ARREST/FTA",
+        "arrestDate": "2026-10-26T10:26:00",
+        "arrestingAgency": "JAIL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-10-26T10:26:00",
+        "arrestingAgency": "JAIL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T13:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "95035-20261025211800",
     "inmateNumber": "95035",
     "name": "BUCK, HUNTER WILLIAM",

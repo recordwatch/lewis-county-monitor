@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T12:49:15",
+  "generatedAt": "2026-10-26T13:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 328,
-    "bookingsObserved": 179,
+    "bookingsTracked": 329,
+    "bookingsObserved": 180,
     "releasesObserved": 151,
-    "inCustody": 177,
-    "uniquePeople": 314
+    "inCustody": 178,
+    "uniquePeople": 315
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 0,
+      "booked": 1,
       "released": 2
     }
   ],
@@ -188,8 +188,8 @@
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 24,
-      "pct": 3.3
+      "count": 25,
+      "pct": 3.4
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -266,37 +266,37 @@
     {
       "name": "LCSO",
       "count": 86,
-      "pct": 26.3,
+      "pct": 26.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 74,
-      "pct": 22.6,
+      "count": 75,
+      "pct": 22.9,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 71,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 14.1,
+      "pct": 14,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 29,
-      "pct": 8.9,
+      "pct": 8.8,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
       "count": 9,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Winlock Police"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 195,
-      "pct": 27
+      "count": 196,
+      "pct": 27.1
     },
     {
       "name": "Included",
-      "count": 169,
-      "pct": 23.4
+      "count": 170,
+      "pct": 23.5
     },
     {
       "name": "Serving Time",
@@ -541,14 +541,14 @@
       }
     ],
     "currentMedianDaysHeld": 21.6,
-    "currentLongestDaysHeld": 778.8
+    "currentLongestDaysHeld": 778.9
   },
   "bond": {
-    "withBond": 110,
+    "withBond": 111,
     "noBond": 67,
-    "medianBond": 23800,
+    "medianBond": 22600,
     "maxBond": 3000000,
-    "totalBond": 15889400
+    "totalBond": 15899500
   },
   "chargesPerBooking": 2.2
 }
