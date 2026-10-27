@@ -534,10 +534,10 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T08:32:16",
-    "releasedAt": "2026-10-25T08:49:14",
+    "releasedAt": "2026-10-27T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": "observed"
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "423079-20261025070900",
@@ -568,12 +568,12 @@
         "warrantNumber": "2610057121"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T08:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "284423-20261024232300",
@@ -4576,12 +4576,12 @@
         "warrantNumber": "2610055221"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T23:17:12",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "422789-20261014153000",
@@ -4602,12 +4602,12 @@
         "warrantNumber": "6A0336570"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T21:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSION",
+    "releaseSource": "official"
   },
   {
     "id": "210823-20261014140000",
