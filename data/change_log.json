@@ -100,12 +100,12 @@
         "warrantNumber": "2610057221"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T22:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T20:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "108201-20261025190000",
@@ -152,12 +152,12 @@
         "warrantNumber": "6A0398302"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T16:49:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T20:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "290115-20261025152500",
