@@ -103,7 +103,7 @@
     "name": "TAYLOR, HEATHER NICOLE",
     "bookedAt": "2026-10-26T19:26:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 1000,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "DUI",
@@ -111,8 +111,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
         "warrantNumber": "6A0019490"
       }
     ],
@@ -331,8 +331,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "5A0348361"
       },
       {
