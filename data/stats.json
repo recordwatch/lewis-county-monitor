@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T14:49:14",
+  "generatedAt": "2026-10-27T15:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 337,
-    "bookingsObserved": 188,
+    "bookingsTracked": 338,
+    "bookingsObserved": 189,
     "releasesObserved": 180,
-    "inCustody": 157,
-    "uniquePeople": 323
+    "inCustody": 158,
+    "uniquePeople": 324
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 1,
+      "booked": 2,
       "released": 12
     }
   ],
@@ -168,8 +168,13 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 41,
-      "pct": 5.4
+      "count": 42,
+      "pct": 5.5
+    },
+    {
+      "name": "OTHER AGENCY HOLD",
+      "count": 34,
+      "pct": 4.5
     },
     {
       "name": "POSS of Controlled Substance",
@@ -177,14 +182,14 @@
       "pct": 4.5
     },
     {
-      "name": "OTHER AGENCY HOLD",
-      "count": 33,
-      "pct": 4.4
-    },
-    {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 29,
       "pct": 3.8
+    },
+    {
+      "name": "Drive w/o req ignition intrlck",
+      "count": 25,
+      "pct": 3.3
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -192,14 +197,9 @@
       "pct": 3.3
     },
     {
-      "name": "Drive w/o req ignition intrlck",
-      "count": 24,
-      "pct": 3.2
-    },
-    {
       "name": "THEFT 3RD DEG",
       "count": 17,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "Protection Order Violation",
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 89,
-      "pct": 26.5,
+      "pct": 26.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 13.7,
+      "pct": 13.6,
       "label": "Chehalis Police"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WINL",
-      "count": 9,
-      "pct": 2.7,
+      "count": 10,
+      "pct": 3,
       "label": "Winlock Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 315,
-      "pct": 42.5,
+      "pct": 42.3,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 241,
-      "pct": 32.5,
+      "pct": 32.4,
       "label": "Lewis County District Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "WLM",
-      "count": 21,
-      "pct": 2.8,
+      "count": 23,
+      "pct": 3.1,
       "label": "Winlock Municipal Court"
     },
     {
@@ -362,16 +362,16 @@
       "label": "Dept. of Corrections"
     },
     {
+      "name": "ODC",
+      "count": 10,
+      "pct": 1.3,
+      "label": "ODC"
+    },
+    {
       "name": "NMC",
       "count": 10,
       "pct": 1.3,
       "label": "Napavine Municipal Court"
-    },
-    {
-      "name": "ODC",
-      "count": 9,
-      "pct": 1.2,
-      "label": "ODC"
     },
     {
       "name": "OSC",
@@ -451,23 +451,23 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 202,
-      "pct": 27.1
+      "count": 205,
+      "pct": 27.4
     },
     {
       "name": "Included",
-      "count": 175,
-      "pct": 23.5
+      "count": 174,
+      "pct": 23.3
     },
     {
       "name": "Serving Time",
-      "count": 143,
-      "pct": 19.2
+      "count": 145,
+      "pct": 19.4
     },
     {
       "name": "No Bail",
-      "count": 85,
-      "pct": 11.4
+      "count": 82,
+      "pct": 11
     },
     {
       "name": "Released by Court",
@@ -481,8 +481,8 @@
     },
     {
       "name": "Released Time Served",
-      "count": 11,
-      "pct": 1.5
+      "count": 12,
+      "pct": 1.6
     },
     {
       "name": "Amended",
@@ -496,8 +496,8 @@
     },
     {
       "name": "Dismissed",
-      "count": 9,
-      "pct": 1.2
+      "count": 10,
+      "pct": 1.3
     },
     {
       "name": "Transferred to Prison",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 27.8,
+    "currentMedianDaysHeld": 27.7,
     "currentLongestDaysHeld": 779.9
   },
   "bond": {
-    "withBond": 99,
-    "noBond": 58,
+    "withBond": 101,
+    "noBond": 57,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15825200
+    "totalBond": 15808600
   },
   "chargesPerBooking": 2.2
 }

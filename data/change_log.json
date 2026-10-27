@@ -1,11 +1,55 @@
 [
   {
+    "id": "96796-20261027091400",
+    "inmateNumber": "96796",
+    "name": "KENNEDY, NATHAN JAMES",
+    "bookedAt": "2026-10-27T09:14:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-27T09:14:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0386996"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-27T09:14:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0386996"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-27T09:14:00",
+        "arrestingAgency": "WINL",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "2A0114239"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T15:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423119-20261027030400",
     "inmateNumber": "423119",
     "name": "HAYNES, ELIANA GRACE",
     "bookedAt": "2026-10-27T03:04:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -13,8 +57,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "T00958884"
       }
     ],
@@ -221,7 +265,7 @@
     "name": "PHELAN, JOSEPH RYAN",
     "bookedAt": "2026-10-26T13:20:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 30100,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "Fail to Transfer - late penalty",
@@ -239,8 +283,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 25100,
+        "bondType": "Released Time Served",
+        "bondAmount": null,
         "warrantNumber": "6A0289216"
       },
       {
@@ -10071,7 +10115,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "T00306329"
       },
@@ -10081,7 +10125,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "T00306331"
       },
@@ -10091,7 +10135,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Included",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "T00306331"
       }
