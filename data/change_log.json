@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-27T00:17:19",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "229155-20261026192600",
@@ -111,7 +113,7 @@
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
         "bondAmount": 1000,
-        "warrantNumber": "6A0012090"
+        "warrantNumber": "6A0021090"
       },
       {
         "description": "DWLS 3RD DEGREE/FTA",
