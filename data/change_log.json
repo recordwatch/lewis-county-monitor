@@ -1,5 +1,49 @@
 [
   {
+    "id": "352107-20261026132000",
+    "inmateNumber": "352107",
+    "name": "PHELAN, JOSEPH RYAN",
+    "bookedAt": "2026-10-26T13:20:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Trip Permit Vio/FTA",
+        "arrestDate": "2026-10-26T13:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "THEFT 3RD DEG/FTA",
+        "arrestDate": "2026-10-26T13:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "NVOL - Without ID/fta",
+        "arrestDate": "2026-10-26T13:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T21:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "380342-20261026102600",
     "inmateNumber": "380342",
     "name": "ATKINS, TRAVIS EUGENE",
@@ -235,7 +279,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610057121"
       },
@@ -245,7 +289,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Released PR Bond with Cosigner",
         "bondAmount": null,
         "warrantNumber": "2610057121"
       }

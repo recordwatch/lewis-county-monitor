@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T20:49:14",
+  "generatedAt": "2026-10-26T21:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 329,
-    "bookingsObserved": 180,
+    "bookingsTracked": 330,
+    "bookingsObserved": 181,
     "releasesObserved": 169,
-    "inCustody": 160,
-    "uniquePeople": 315
+    "inCustody": 161,
+    "uniquePeople": 316
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 1,
+      "booked": 2,
       "released": 20
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 32,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -237,6 +237,11 @@
       "pct": 1.2
     },
     {
+      "name": "THEFT 3RD DEG/FTA",
+      "count": 8,
+      "pct": 1.1
+    },
+    {
       "name": "CRIM TRESPASS 2ND/FTA",
       "count": 8,
       "pct": 1.1
@@ -249,30 +254,25 @@
     {
       "name": "DRUG COURT SANCTIONS",
       "count": 7,
-      "pct": 1
-    },
-    {
-      "name": "THEFT 3RD DEG/FTA",
-      "count": 7,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "RESIDENTIAL BURGLARY",
       "count": 7,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 86,
-      "pct": 26.2,
+      "count": 87,
+      "pct": 26.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 75,
-      "pct": 22.9,
+      "pct": 22.8,
       "label": "Lewis County Jail"
     },
     {
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 83,
-      "pct": 11.4
+      "count": 82,
+      "pct": 11.3
     },
     {
       "name": "Released by Court",
@@ -545,7 +545,7 @@
   },
   "bond": {
     "withBond": 100,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15851000
