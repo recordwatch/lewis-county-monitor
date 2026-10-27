@@ -7870,12 +7870,12 @@
         "warrantNumber": "6A0149837"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T16:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "399366-20261002184600",
