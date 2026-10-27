@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T21:32:16",
+  "generatedAt": "2026-10-26T21:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 331,
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 315,
-      "pct": 43.6,
+      "pct": 43.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 233,
-      "pct": 32.2,
+      "count": 234,
+      "pct": 32.3,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 64,
-      "pct": 8.9,
+      "pct": 8.8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -351,14 +351,14 @@
     },
     {
       "name": "WLM",
-      "count": 18,
-      "pct": 2.5,
+      "count": 19,
+      "pct": 2.6,
       "label": "Winlock Municipal Court"
     },
     {
       "name": "DOC",
       "count": 17,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -540,7 +540,7 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 26.7,
+    "currentMedianDaysHeld": 26.8,
     "currentLongestDaysHeld": 779.2
   },
   "bond": {

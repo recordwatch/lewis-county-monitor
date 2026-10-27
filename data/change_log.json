@@ -11,21 +11,21 @@
         "description": "Trip Permit Vio/FTA",
         "arrestDate": "2026-10-26T13:20:00",
         "arrestingAgency": "LCSO",
-        "court": null,
+        "court": "LCD",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0289216"
       },
       {
         "description": "THEFT 3RD DEG/FTA",
         "arrestDate": "2026-10-26T13:20:00",
         "arrestingAgency": "LCSO",
-        "court": null,
+        "court": "WLM",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "5A0161502"
       },
       {
         "description": "NVOL - Without ID/fta",
@@ -77,7 +77,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-26T21:32:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "380342-20261026102600",
