@@ -1,5 +1,29 @@
 [
   {
+    "id": "248156-20261026194200",
+    "inmateNumber": "248156",
+    "name": "GARCIA, ADRIAN",
+    "bookedAt": "2026-10-26T19:42:00",
+    "arrestingAgency": "TUMW",
+    "bondTotal": 6000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION/FTA",
+        "arrestDate": "2026-10-26T19:42:00",
+        "arrestingAgency": "TUMW",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 6000,
+        "warrantNumber": "4A0351309"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T00:17:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "229155-20261026192600",
     "inmateNumber": "229155",
     "name": "TAYLOR, HEATHER NICOLE",
