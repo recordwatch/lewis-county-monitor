@@ -1,5 +1,59 @@
 [
   {
+    "id": "42828-20261026150500",
+    "inmateNumber": "42828",
+    "name": "ROUDABUSH, KENNETH EMIL",
+    "bookedAt": "2026-10-26T15:05:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0021090"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T22:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "352107-20261026132000",
     "inmateNumber": "352107",
     "name": "PHELAN, JOSEPH RYAN",
