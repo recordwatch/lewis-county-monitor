@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T05:32:19",
+  "generatedAt": "2026-10-27T05:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 337,
     "bookingsObserved": 188,
-    "releasesObserved": 171,
-    "inCustody": 166,
+    "releasesObserved": 172,
+    "inCustody": 165,
     "uniquePeople": 323
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-27",
       "booked": 1,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -390,7 +390,7 @@
     {
       "name": "SELF",
       "count": 135,
-      "pct": 81.3
+      "pct": 80.8
     },
     {
       "name": "DOC",
@@ -438,12 +438,12 @@
       "pct": 0.6
     },
     {
-      "name": "FAMILY/FRIEND",
+      "name": "PICKUP BY KING COUNT",
       "count": 1,
       "pct": 0.6
     },
     {
-      "name": "DRUG COURT",
+      "name": "FAMILY/FRIEND",
       "count": 1,
       "pct": 0.6
     }
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 169,
+    "releasedCount": 170,
     "medianDays": 2.2,
     "meanDays": 10.2,
     "buckets": [
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 22
+        "count": 23
       },
       {
         "label": "1–4 weeks",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 24.8,
-    "currentLongestDaysHeld": 779.5
+    "currentMedianDaysHeld": 25.2,
+    "currentLongestDaysHeld": 779.6
   },
   "bond": {
-    "withBond": 105,
+    "withBond": 104,
     "noBond": 61,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15898200
+    "totalBond": 15888200
   },
   "chargesPerBooking": 2.2
 }
