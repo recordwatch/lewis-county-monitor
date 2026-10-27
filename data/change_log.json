@@ -1,5 +1,49 @@
 [
   {
+    "id": "416805-20261026232100",
+    "inmateNumber": "416805",
+    "name": "RONK, SARAH ELIZABETH",
+    "bookedAt": "2026-10-26T23:21:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-26T23:21:00",
+        "arrestingAgency": "CENT",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "10/26/2026 DOC 454305"
+      },
+      {
+        "description": "POSS DRUG PARAPHERNALIA USED",
+        "arrestDate": "2026-10-26T23:21:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0403660"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-10-26T23:21:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0403660"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T02:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "248156-20261026194200",
     "inmateNumber": "248156",
     "name": "GARCIA, ADRIAN",
@@ -39,8 +83,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "6A0019490"
       }
     ],
@@ -152,6 +196,16 @@
     "bondTotal": 30100,
     "charges": [
       {
+        "description": "Fail to Transfer - late penalty",
+        "arrestDate": "2026-10-26T13:20:00",
+        "arrestingAgency": "LCSO",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0259246"
+      },
+      {
         "description": "Trip Permit Vio/FTA",
         "arrestDate": "2026-10-26T13:20:00",
         "arrestingAgency": "LCSO",
@@ -198,6 +252,16 @@
     "bondTotal": 8000,
     "charges": [
       {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-10-26T11:46:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0350462"
+      },
+      {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-10-26T11:46:00",
         "arrestingAgency": "CENT",
@@ -205,7 +269,7 @@
         "billingAgency": "CENT",
         "bondType": "Appearance Bond",
         "bondAmount": 4000,
-        "warrantNumber": "26CR81103"
+        "warrantNumber": "6A0350462"
       },
       {
         "description": "Criminal Trespass 1st/ FTA",
