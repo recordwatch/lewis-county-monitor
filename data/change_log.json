@@ -830,12 +830,12 @@
         "warrantNumber": "6A0350442"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T22:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T20:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "350448-20261023113500",
