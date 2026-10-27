@@ -41,7 +41,7 @@
         "billingAgency": "SCON",
         "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "10/26/2026 DOC 454305"
+        "warrantNumber": "454305 102626"
       },
       {
         "description": "POSS DRUG PARAPHERNALIA USED",
@@ -49,8 +49,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0403660"
       },
       {
@@ -59,8 +59,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0403660"
       }
     ],
