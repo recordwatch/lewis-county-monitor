@@ -5,16 +5,16 @@
     "name": "PHELAN, JOSEPH RYAN",
     "bookedAt": "2026-10-26T13:20:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 30100,
     "charges": [
       {
         "description": "Trip Permit Vio/FTA",
         "arrestDate": "2026-10-26T13:20:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 25100,
         "warrantNumber": "6A0289216"
       },
       {
@@ -22,20 +22,20 @@
         "arrestDate": "2026-10-26T13:20:00",
         "arrestingAgency": "LCSO",
         "court": "WLM",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "5A0161502"
       },
       {
         "description": "NVOL - Without ID/fta",
         "arrestDate": "2026-10-26T13:20:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0259246"
       }
     ],
     "status": "in_custody",
@@ -57,11 +57,11 @@
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-10-26T11:46:00",
         "arrestingAgency": "CENT",
-        "court": null,
+        "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "Appearance Bond",
         "bondAmount": 4000,
-        "warrantNumber": null
+        "warrantNumber": "26CR81103"
       },
       {
         "description": "Criminal Trespass 1st/ FTA",
