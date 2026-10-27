@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T21:17:14",
+  "generatedAt": "2026-10-26T21:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 330,
-    "bookingsObserved": 181,
+    "bookingsTracked": 331,
+    "bookingsObserved": 182,
     "releasesObserved": 169,
-    "inCustody": 161,
-    "uniquePeople": 316
+    "inCustody": 162,
+    "uniquePeople": 317
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 2,
+      "booked": 3,
       "released": 20
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 33,
-      "pct": 4.5
+      "count": 34,
+      "pct": 4.6
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -272,19 +272,19 @@
     {
       "name": "JAIL",
       "count": 75,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 71,
-      "pct": 21.6,
+      "count": 72,
+      "pct": 21.8,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 14,
+      "pct": 13.9,
       "label": "Chehalis Police"
     },
     {
@@ -334,13 +334,13 @@
     {
       "name": "LCD",
       "count": 233,
-      "pct": 32.3,
+      "pct": 32.2,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 63,
-      "pct": 8.7,
+      "count": 64,
+      "pct": 8.9,
       "label": "Centralia Municipal Court"
     },
     {
@@ -452,17 +452,17 @@
     {
       "name": "Cash or Bond",
       "count": 195,
-      "pct": 26.9
+      "pct": 26.8
     },
     {
       "name": "Included",
       "count": 172,
-      "pct": 23.7
+      "pct": 23.6
     },
     {
       "name": "Serving Time",
       "count": 143,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "No Bail",
@@ -476,8 +476,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 14,
-      "pct": 1.9
+      "count": 16,
+      "pct": 2.2
     },
     {
       "name": "Amended",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 26.9,
+    "currentMedianDaysHeld": 26.7,
     "currentLongestDaysHeld": 779.2
   },
   "bond": {
-    "withBond": 100,
+    "withBond": 101,
     "noBond": 61,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15851000
+    "totalBond": 15859000
   },
   "chargesPerBooking": 2.2
 }

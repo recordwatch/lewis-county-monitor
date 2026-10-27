@@ -41,6 +41,42 @@
     "status": "in_custody",
     "firstSeen": "2026-10-26T21:17:14",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "148802-20261026114600",
+    "inmateNumber": "148802",
+    "name": "BRENNAN, TARA ALLISON",
+    "bookedAt": "2026-10-26T11:46:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 8000,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-26T11:46:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 4000,
+        "warrantNumber": null
+      },
+      {
+        "description": "Criminal Trespass 1st/ FTA",
+        "arrestDate": "2026-10-26T11:46:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 4000,
+        "warrantNumber": "6A0221757"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T21:32:16",
+    "releasedAt": null,
     "baseline": false
   },
   {
