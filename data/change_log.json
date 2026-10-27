@@ -126,12 +126,12 @@
         "warrantNumber": "3A0563757"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T21:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "333975-20261025160800",
@@ -4922,12 +4922,12 @@
         "warrantNumber": "3A0330796"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T21:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T18:45:29",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "406408-20261013142500",
