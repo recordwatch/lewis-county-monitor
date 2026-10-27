@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T22:53:13",
+  "generatedAt": "2026-10-26T23:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 334,
     "bookingsObserved": 185,
-    "releasesObserved": 170,
-    "inCustody": 164,
+    "releasesObserved": 171,
+    "inCustody": 163,
     "uniquePeople": 320
   },
   "bookingsByDay": [
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 315,
-      "pct": 43,
+      "pct": 42.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 239,
-      "pct": 32.6,
+      "count": 240,
+      "pct": 32.7,
       "label": "Lewis County District Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 134,
-      "pct": 81.2
+      "count": 135,
+      "pct": 81.3
     },
     {
       "name": "DOC",
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 202,
-      "pct": 27.4
+      "count": 203,
+      "pct": 27.5
     },
     {
       "name": "Included",
       "count": 173,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "Serving Time",
@@ -467,12 +467,12 @@
     {
       "name": "No Bail",
       "count": 83,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "Released by Court",
       "count": 66,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Appearance Bond",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 168,
+    "releasedCount": 169,
     "medianDays": 2.2,
-    "meanDays": 10.3,
+    "meanDays": 10.2,
     "buckets": [
       {
         "label": "< 1 day",
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 21
+        "count": 22
       },
       {
         "label": "1–4 weeks",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 25.8,
+    "currentMedianDaysHeld": 26.7,
     "currentLongestDaysHeld": 779.3
   },
   "bond": {
     "withBond": 103,
-    "noBond": 61,
+    "noBond": 60,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15895300
+    "totalBond": 15891200
   },
   "chargesPerBooking": 2.2
 }
