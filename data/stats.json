@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T22:32:17",
+  "generatedAt": "2026-10-26T22:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 332,
-    "bookingsObserved": 183,
-    "releasesObserved": 169,
-    "inCustody": 163,
-    "uniquePeople": 318
+    "bookingsTracked": 334,
+    "bookingsObserved": 185,
+    "releasesObserved": 170,
+    "inCustody": 164,
+    "uniquePeople": 320
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 4,
+      "booked": 6,
       "released": 20
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 54,
-      "pct": 7.3
+      "count": 55,
+      "pct": 7.4
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -189,7 +189,7 @@
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 25,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -207,14 +207,14 @@
       "pct": 1.6
     },
     {
-      "name": "OBSTRUCTING A LAW ENFORCE OFCR",
+      "name": "ASSAULT 4TH DEGREE/DV",
       "count": 11,
       "pct": 1.5
     },
     {
-      "name": "ASSAULT 4TH DEGREE/DV",
-      "count": 10,
-      "pct": 1.3
+      "name": "OBSTRUCTING A LAW ENFORCE OFCR",
+      "count": 11,
+      "pct": 1.5
     },
     {
       "name": "HARRASSMENT-DEATH THREAT",
@@ -265,32 +265,32 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 88,
-      "pct": 26.6,
+      "count": 89,
+      "pct": 26.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 75,
-      "pct": 22.7,
+      "pct": 22.5,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 72,
-      "pct": 21.8,
+      "count": 73,
+      "pct": 21.9,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 13.9,
+      "pct": 13.8,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 29,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "Washington State Patrol"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 315,
-      "pct": 43.3,
+      "pct": 43,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 235,
-      "pct": 32.3,
+      "count": 239,
+      "pct": 32.6,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 65,
-      "pct": 8.9,
+      "count": 66,
+      "pct": 9,
       "label": "Centralia Municipal Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 133,
-      "pct": 81.1
+      "count": 134,
+      "pct": 81.2
     },
     {
       "name": "DOC",
@@ -451,23 +451,23 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 198,
-      "pct": 27.1
+      "count": 202,
+      "pct": 27.4
     },
     {
       "name": "Included",
-      "count": 172,
+      "count": 173,
       "pct": 23.5
     },
     {
       "name": "Serving Time",
       "count": 143,
-      "pct": 19.6
+      "pct": 19.4
     },
     {
       "name": "No Bail",
-      "count": 82,
-      "pct": 11.2
+      "count": 83,
+      "pct": 11.3
     },
     {
       "name": "Released by Court",
@@ -511,8 +511,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 167,
-    "medianDays": 2.1,
+    "releasedCount": 168,
+    "medianDays": 2.2,
     "meanDays": 10.3,
     "buckets": [
       {
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 20
+        "count": 21
       },
       {
         "label": "1–4 weeks",
@@ -540,15 +540,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 26.7,
+    "currentMedianDaysHeld": 25.8,
     "currentLongestDaysHeld": 779.3
   },
   "bond": {
-    "withBond": 102,
+    "withBond": 103,
     "noBond": 61,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15889100
+    "totalBond": 15895300
   },
   "chargesPerBooking": 2.2
 }

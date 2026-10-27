@@ -1,45 +1,15 @@
 [
   {
-    "id": "42828-20261026150500",
-    "inmateNumber": "42828",
-    "name": "ROUDABUSH, KENNETH EMIL",
-    "bookedAt": "2026-10-26T15:05:00",
+    "id": "229155-20261026192600",
+    "inmateNumber": "229155",
+    "name": "TAYLOR, HEATHER NICOLE",
+    "bookedAt": "2026-10-26T19:26:00",
     "arrestingAgency": "LCSO",
     "bondTotal": null,
     "charges": [
       {
-        "description": "DWLS 3RD DEGREE",
-        "arrestDate": "2026-10-26T15:05:00",
-        "arrestingAgency": "LCSO",
-        "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": "6A0021090"
-      },
-      {
-        "description": "Drive w/o req ignition intrlck",
-        "arrestDate": "2026-10-26T15:05:00",
-        "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
-      },
-      {
-        "description": "DWLS 3RD DEGREE/FTA",
-        "arrestDate": "2026-10-26T15:05:00",
-        "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
-      },
-      {
-        "description": "DWLS 2ND DEGREE/FTA",
-        "arrestDate": "2026-10-26T15:05:00",
+        "description": "DUI",
+        "arrestDate": "2026-10-26T19:26:00",
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
@@ -49,9 +19,99 @@
       }
     ],
     "status": "in_custody",
-    "firstSeen": "2026-10-26T22:32:17",
+    "firstSeen": "2026-10-26T22:49:17",
     "releasedAt": null,
     "baseline": false
+  },
+  {
+    "id": "36009-20261026183000",
+    "inmateNumber": "36009",
+    "name": "NORMAN, MATTHEW EUGENE",
+    "bookedAt": "2026-10-26T18:30:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-26T18:30:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0433563"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T22:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "42828-20261026150500",
+    "inmateNumber": "42828",
+    "name": "ROUDABUSH, KENNETH EMIL",
+    "bookedAt": "2026-10-26T15:05:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 6200,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2100,
+        "warrantNumber": "XZ0282024"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0021090"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0012090"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "1A0725148"
+      },
+      {
+        "description": "Drive w/o req intrlck/FTA",
+        "arrestDate": "2026-10-26T15:05:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "1A0725148"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T22:32:17",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "352107-20261026132000",
@@ -1460,12 +1520,12 @@
         "warrantNumber": "4A0579657"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T13:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "222838-20261022084500",
