@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T19:49:15",
+  "generatedAt": "2026-10-27T20:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 339,
-    "bookingsObserved": 190,
+    "bookingsTracked": 341,
+    "bookingsObserved": 192,
     "releasesObserved": 183,
-    "inCustody": 156,
-    "uniquePeople": 325
+    "inCustody": 158,
+    "uniquePeople": 327
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 3,
+      "booked": 5,
       "released": 15
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 56,
-      "pct": 7.4
+      "count": 57,
+      "pct": 7.5
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 35,
-      "pct": 4.6
+      "count": 34,
+      "pct": 4.5
     },
     {
       "name": "POSS of Controlled Substance",
@@ -209,12 +209,12 @@
     {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 11,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 11,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "RESISTING ARREST",
@@ -227,6 +227,16 @@
       "pct": 1.3
     },
     {
+      "name": "CRIM TRESPASS 2ND/FTA",
+      "count": 9,
+      "pct": 1.2
+    },
+    {
+      "name": "THEFT 3RD DEG/FTA",
+      "count": 9,
+      "pct": 1.2
+    },
+    {
       "name": "ASSAULT 4TH DV",
       "count": 9,
       "pct": 1.2
@@ -237,24 +247,14 @@
       "pct": 1.2
     },
     {
-      "name": "THEFT 3RD DEG/FTA",
-      "count": 8,
-      "pct": 1.1
-    },
-    {
       "name": "USE PARAPHERNALIA/FTA",
       "count": 8,
-      "pct": 1.1
-    },
-    {
-      "name": "CRIM TRESPASS 2ND/FTA",
-      "count": 8,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 8,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "DRUG COURT SANCTIONS",
@@ -266,37 +266,37 @@
     {
       "name": "LCSO",
       "count": 89,
-      "pct": 26.3,
+      "pct": 26.2,
       "label": "Lewis County Sheriff's Office"
+    },
+    {
+      "name": "JAIL",
+      "count": 77,
+      "pct": 22.6,
+      "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 75,
-      "pct": 22.2,
+      "pct": 22.1,
       "label": "Centralia Police"
-    },
-    {
-      "name": "JAIL",
-      "count": 75,
-      "pct": 22.2,
-      "label": "Lewis County Jail"
     },
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 30,
-      "pct": 8.9,
+      "pct": 8.8,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
       "count": 10,
-      "pct": 3,
+      "pct": 2.9,
       "label": "Winlock Police"
     },
     {
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 315,
-      "pct": 42.3,
+      "pct": 42,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 241,
+      "count": 243,
       "pct": 32.4,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 70,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
-      "count": 49,
-      "pct": 6.6,
+      "count": 53,
+      "pct": 7.1,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -451,28 +451,28 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 205,
-      "pct": 27.4
+      "count": 209,
+      "pct": 27.7
     },
     {
       "name": "Included",
       "count": 174,
-      "pct": 23.3
+      "pct": 23.1
     },
     {
       "name": "Serving Time",
-      "count": 145,
-      "pct": 19.4
+      "count": 147,
+      "pct": 19.5
     },
     {
       "name": "No Bail",
       "count": 82,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "Released by Court",
       "count": 68,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "Appearance Bond",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 28.2,
-    "currentLongestDaysHeld": 780.1
+    "currentMedianDaysHeld": 27.9,
+    "currentLongestDaysHeld": 780.2
   },
   "bond": {
-    "withBond": 99,
-    "noBond": 57,
+    "withBond": 100,
+    "noBond": 58,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15798600
+    "totalBond": 15804600
   },
   "chargesPerBooking": 2.2
 }

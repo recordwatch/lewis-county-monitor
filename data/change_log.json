@@ -5,23 +5,55 @@
     "name": "OCAMPO DIAZ, RAFAEL",
     "bookedAt": "2026-10-27T14:25:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 6000,
     "charges": [
       {
-        "description": "OTHER AGENCY HOLD",
+        "description": "CRIM TRESPASS 2ND/FTA",
         "arrestDate": "2026-10-27T14:25:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
+        "warrantNumber": "28497"
+      },
+      {
+        "description": "THEFT 3RD DEG/FTA",
+        "arrestDate": "2026-10-27T14:25:00",
+        "arrestingAgency": "CENT",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
+        "warrantNumber": "29010"
+      },
+      {
+        "description": "Criminal Trespass 1st/ FTA",
+        "arrestDate": "2026-10-27T14:25:00",
+        "arrestingAgency": "CENT",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
+        "warrantNumber": "29084"
+      },
+      {
+        "description": "POSS STL PROP 3/FTA",
+        "arrestDate": "2026-10-27T14:25:00",
+        "arrestingAgency": "CENT",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
+        "warrantNumber": "XZ0520734"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-27T19:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "96796-20261027091400",
@@ -68,6 +100,54 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "25289-20261027091000",
+    "inmateNumber": "25289",
+    "name": "POGUE, JOANNE CORINE",
+    "bookedAt": "2026-10-27T09:10:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-27T09:10:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "4A0928156"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T20:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "284338-20261027085400",
+    "inmateNumber": "284338",
+    "name": "NELSON, PHILIP JAMES",
+    "bookedAt": "2026-10-27T08:54:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Assault 4th Degree",
+        "arrestDate": "2026-10-27T08:54:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "5A0348523"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T20:17:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "423119-20261027030400",
