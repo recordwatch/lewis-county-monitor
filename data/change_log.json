@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "280030-20261028103000",
+    "inmateNumber": "280030",
+    "name": "ROBERTSON, STEPHANIE LYNN",
+    "bookedAt": "2026-10-28T10:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-10-28T10:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "5A0858442"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-28T10:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "5A0521933"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T15:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "409701-20261028085500",
     "inmateNumber": "409701",
     "name": "ORELLANA ALFARO, WILMAN ARIEL",
@@ -11253,8 +11287,8 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 75000,
+        "bondType": "Transferred to Prison",
+        "bondAmount": null,
         "warrantNumber": "2610041421"
       },
       {
@@ -11263,7 +11297,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2610041421"
       },
@@ -11273,7 +11307,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2610041421"
       },
@@ -11283,7 +11317,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "2610041421"
       },
@@ -11293,7 +11327,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "2610041421"
       }
