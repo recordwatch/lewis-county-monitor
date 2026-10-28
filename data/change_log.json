@@ -1,5 +1,29 @@
 [
   {
+    "id": "382644-20261027191200",
+    "inmateNumber": "382644",
+    "name": "REDD, DIALLO RAYMOND",
+    "bookedAt": "2026-10-27T19:12:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 10100,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-27T19:12:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "2A0631958"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T00:17:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "417555-20261027190800",
     "inmateNumber": "417555",
     "name": "SALCEDA-VAZQUEZ, SERGIO S",
@@ -97,7 +121,7 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "26-1-00423-21"
+        "warrantNumber": "2610042321"
       }
     ],
     "status": "in_custody",
