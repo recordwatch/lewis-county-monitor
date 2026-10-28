@@ -73,8 +73,8 @@
         "description": "RECKLESS ENDANGER 2CD",
         "arrestDate": "2026-10-27T14:58:00",
         "arrestingAgency": "LCSO",
-        "court": "LCD",
-        "billingAgency": "LC",
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 50000,
         "warrantNumber": "26-1-00423-21"
@@ -83,8 +83,8 @@
         "description": "HARRASSMENT-DEATH THREAT",
         "arrestDate": "2026-10-27T14:58:00",
         "arrestingAgency": "LCSO",
-        "court": "LCD",
-        "billingAgency": "LC",
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "26-1-00423-21"
@@ -93,8 +93,8 @@
         "description": "CARY/EXH/DRA DANG WE",
         "arrestDate": "2026-10-27T14:58:00",
         "arrestingAgency": "LCSO",
-        "court": "LCD",
-        "billingAgency": "LC",
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "26-1-00423-21"
@@ -103,7 +103,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-27T22:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "358051-20261027142500",
