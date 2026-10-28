@@ -57,7 +57,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-28T15:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "409701-20261028085500",
@@ -7557,8 +7559,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 22600,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6A0270764"
       },
       {
@@ -7567,7 +7569,7 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "6A0270764"
       }
@@ -10799,8 +10801,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "Amended",
+        "bondAmount": null,
         "warrantNumber": "2610045121"
       },
       {
@@ -10809,7 +10811,27 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Amended",
+        "bondAmount": null,
+        "warrantNumber": "2610045121"
+      },
+      {
+        "description": "ASSLT 3rd DEGREE (Subs pain/suffering)",
+        "arrestDate": "2026-08-22T04:58:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610045121"
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-08-22T04:58:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610045121"
       }
