@@ -11,11 +11,11 @@
         "description": "DUI",
         "arrestDate": "2026-10-28T11:05:00",
         "arrestingAgency": "WASH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "T00802550"
       }
     ],
     "status": "in_custody",
@@ -495,7 +495,7 @@
     "name": "ROUDABUSH, KENNETH EMIL",
     "bookedAt": "2026-10-26T15:05:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 7600,
+    "bondTotal": 7500,
     "charges": [
       {
         "description": "DWLS 2ND DEGREE/FTA",
@@ -534,7 +534,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2600,
+        "bondAmount": 2500,
         "warrantNumber": "1A0725148"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:49:15",
+  "generatedAt": "2026-10-28T14:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 347,
@@ -333,7 +333,7 @@
     },
     {
       "name": "LCD",
-      "count": 246,
+      "count": 247,
       "pct": 32.5,
       "label": "Lewis County District Court"
     },
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 84,
-      "pct": 11
+      "count": 85,
+      "pct": 11.1
     },
     {
       "name": "Released by Court",
@@ -540,7 +540,7 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 28.5,
+    "currentMedianDaysHeld": 28.6,
     "currentLongestDaysHeld": 780.9
   },
   "bond": {
@@ -548,7 +548,7 @@
     "noBond": 56,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15839100
+    "totalBond": 15839000
   },
   "chargesPerBooking": 2.2
 }
