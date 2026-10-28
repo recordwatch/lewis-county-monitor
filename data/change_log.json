@@ -670,12 +670,12 @@
         "warrantNumber": "DOC888428 10/25/2026"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T22:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T09:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC RELOCATE",
+    "releaseSource": "official"
   },
   {
     "id": "423084-20261025200300",
@@ -1636,12 +1636,12 @@
         "warrantNumber": "6A0398168"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T04:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T09:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC RELOCATE",
+    "releaseSource": "official"
   },
   {
     "id": "207694-20261022181200",
@@ -2178,12 +2178,12 @@
         "warrantNumber": "DOC 303114 10/21/2026"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T01:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T09:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "171439-20261021150500",
@@ -2770,12 +2770,12 @@
         "warrantNumber": "2510064221"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T20:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "77365-20261020101500",
@@ -10666,12 +10666,12 @@
         "warrantNumber": "383619 08/24"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T09:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC RELOCATE",
+    "releaseSource": "official"
   },
   {
     "id": "112570-20260824091400",
