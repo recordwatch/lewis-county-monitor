@@ -1,5 +1,29 @@
 [
   {
+    "id": "423146-20261028110500",
+    "inmateNumber": "423146",
+    "name": "BAUTISTA PEREZ, DANIEL",
+    "bookedAt": "2026-10-28T11:05:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-28T11:05:00",
+        "arrestingAgency": "WASH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T13:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "409701-20261028085500",
     "inmateNumber": "409701",
     "name": "ORELLANA ALFARO, WILMAN ARIEL",
@@ -469,7 +493,7 @@
     "name": "ROUDABUSH, KENNETH EMIL",
     "bookedAt": "2026-10-26T15:05:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 6200,
+    "bondTotal": 7600,
     "charges": [
       {
         "description": "DWLS 2ND DEGREE/FTA",
@@ -478,7 +502,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2100,
+        "bondAmount": 2500,
         "warrantNumber": "XZ0282024"
       },
       {
@@ -488,7 +512,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 2500,
         "warrantNumber": "6A0021090"
       },
       {
@@ -497,8 +521,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0021090"
       },
       {
