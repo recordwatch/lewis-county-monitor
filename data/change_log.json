@@ -1,5 +1,29 @@
 [
   {
+    "id": "417555-20261027190800",
+    "inmateNumber": "417555",
+    "name": "SALCEDA-VAZQUEZ, SERGIO S",
+    "bookedAt": "2026-10-27T19:08:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-10-27T19:08:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00929151"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T21:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358051-20261027142500",
     "inmateNumber": "358051",
     "name": "OCAMPO DIAZ, RAFAEL",
