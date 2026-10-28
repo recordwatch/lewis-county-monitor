@@ -352,12 +352,12 @@
         "warrantNumber": "6A0403660"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T02:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T08:12:14",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC RELOCATE",
+    "releaseSource": "official"
   },
   {
     "id": "248156-20261026194200",
@@ -10984,12 +10984,12 @@
         "warrantNumber": "2610042821"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T08:06:16",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "THURSTON",
+    "releaseSource": "official"
   },
   {
     "id": "142194-20260814204400",

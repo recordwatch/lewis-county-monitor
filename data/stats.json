@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T08:17:17",
+  "generatedAt": "2026-10-28T08:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 345,
     "bookingsObserved": 196,
-    "releasesObserved": 185,
-    "inCustody": 160,
+    "releasesObserved": 187,
+    "inCustody": 158,
     "uniquePeople": 331
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-28",
       "booked": 0,
-      "released": 0
+      "released": 2
     }
   ],
   "topCharges": [
@@ -390,12 +390,12 @@
     {
       "name": "SELF",
       "count": 144,
-      "pct": 79.6
+      "pct": 78.7
     },
     {
       "name": "FRIENDSHIP DIVERSON",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "DOC",
@@ -410,17 +410,17 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "WCC",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "CHEHALIS TRIBAL",
@@ -438,14 +438,14 @@
       "pct": 1.1
     },
     {
-      "name": "CSO, TRIBAL XFER",
+      "name": "DOC RELOCATE",
       "count": 1,
-      "pct": 0.6
+      "pct": 0.5
     },
     {
-      "name": "PICKUP BY KING COUNT",
+      "name": "CSO, TRIBAL XFER",
       "count": 1,
-      "pct": 0.6
+      "pct": 0.5
     }
   ],
   "bondTypes": [
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 183,
+    "releasedCount": 185,
     "medianDays": 2.2,
-    "meanDays": 11.5,
+    "meanDays": 11.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -521,7 +521,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 70
+        "count": 71
       },
       {
         "label": "3–7 days",
@@ -533,7 +533,7 @@
       },
       {
         "label": "1–3 months",
-        "count": 10
+        "count": 11
       },
       {
         "label": "3+ months",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 780.7
   },
   "bond": {
-    "withBond": 101,
-    "noBond": 59,
+    "withBond": 100,
+    "noBond": 58,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15839700
+    "totalBond": 15838700
   },
   "chargesPerBooking": 2.2
 }
