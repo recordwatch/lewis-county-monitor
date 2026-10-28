@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:17:13",
+  "generatedAt": "2026-10-28T15:32:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 347,
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 211,
-      "pct": 27.7
+      "count": 209,
+      "pct": 27.4
     },
     {
       "name": "Included",
-      "count": 177,
-      "pct": 23.2
+      "count": 176,
+      "pct": 23.1
     },
     {
       "name": "Serving Time",
@@ -466,13 +466,13 @@
     },
     {
       "name": "No Bail",
-      "count": 84,
-      "pct": 11
+      "count": 83,
+      "pct": 10.9
     },
     {
       "name": "Released by Court",
-      "count": 68,
-      "pct": 8.9
+      "count": 70,
+      "pct": 9.2
     },
     {
       "name": "Appearance Bond",
@@ -485,6 +485,11 @@
       "pct": 1.6
     },
     {
+      "name": "Dismissed",
+      "count": 11,
+      "pct": 1.4
+    },
+    {
       "name": "Amended",
       "count": 11,
       "pct": 1.4
@@ -495,14 +500,9 @@
       "pct": 1.3
     },
     {
-      "name": "Dismissed",
+      "name": "Transferred to Prison",
       "count": 10,
       "pct": 1.3
-    },
-    {
-      "name": "Transferred to Prison",
-      "count": 9,
-      "pct": 1.2
     },
     {
       "name": "Released on Bond",
@@ -541,14 +541,14 @@
       }
     ],
     "currentMedianDaysHeld": 28.7,
-    "currentLongestDaysHeld": 780.9
+    "currentLongestDaysHeld": 781
   },
   "bond": {
     "withBond": 98,
     "noBond": 56,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15739000
+    "totalBond": 15737500
   },
   "chargesPerBooking": 2.2
 }
