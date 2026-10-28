@@ -222,7 +222,7 @@
         "arrestDate": "2026-10-27T09:10:00",
         "arrestingAgency": "JAIL",
         "court": "LCD",
-        "billingAgency": "LC",
+        "billingAgency": "WSP",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "4A0928156"
