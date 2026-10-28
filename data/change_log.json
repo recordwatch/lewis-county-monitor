@@ -123,7 +123,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-27T20:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "284338-20261027085400",
@@ -147,7 +149,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-27T20:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423119-20261027030400",
@@ -6470,7 +6474,7 @@
         "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "Appearance Bond",
-        "bondAmount": 25000,
+        "bondAmount": null,
         "warrantNumber": "6A0422190"
       }
     ],
