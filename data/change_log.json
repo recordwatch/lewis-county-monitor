@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "421359-20261027162300",
+    "inmateNumber": "421359",
+    "name": "FORREST, CHRISTOPHER ALDON",
+    "bookedAt": "2026-10-27T16:23:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS DEPICTION MIN/SEX",
+        "arrestDate": "2026-10-27T16:23:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "SEX/DEPICT/MIN MFG",
+        "arrestDate": "2026-10-27T16:23:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T21:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358051-20261027142500",
     "inmateNumber": "358051",
     "name": "OCAMPO DIAZ, RAFAEL",
