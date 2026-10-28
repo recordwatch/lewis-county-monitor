@@ -9873,7 +9873,7 @@
         "arrestingAgency": "DOC",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2410068221"
       }
