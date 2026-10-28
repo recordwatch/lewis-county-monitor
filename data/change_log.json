@@ -227,7 +227,7 @@
     "name": "OCAMPO DIAZ, RAFAEL",
     "bookedAt": "2026-10-27T14:25:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 6000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND/FTA",
@@ -236,7 +236,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1500,
+        "bondAmount": 500,
         "warrantNumber": "28497"
       },
       {
@@ -246,7 +246,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1500,
+        "bondAmount": 500,
         "warrantNumber": "29010"
       },
       {
@@ -256,7 +256,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1500,
+        "bondAmount": 500,
         "warrantNumber": "29084"
       },
       {
@@ -266,7 +266,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1500,
+        "bondAmount": 500,
         "warrantNumber": "XZ0520734"
       }
     ],
@@ -4369,7 +4369,7 @@
     "name": "THAYER, DONALD LEEROY",
     "bookedAt": "2026-10-16T11:45:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 1000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -4378,7 +4378,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 5000,
         "warrantNumber": "6A0419420"
       }
     ],
