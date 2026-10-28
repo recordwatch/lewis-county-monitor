@@ -1,5 +1,29 @@
 [
   {
+    "id": "409701-20261028085500",
+    "inmateNumber": "409701",
+    "name": "ORELLANA ALFARO, WILMAN ARIEL",
+    "bookedAt": "2026-10-28T08:55:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-10-28T08:55:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0309094"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T10:17:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "382644-20261027191200",
     "inmateNumber": "382644",
     "name": "REDD, DIALLO RAYMOND",

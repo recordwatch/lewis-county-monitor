@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T09:49:16",
+  "generatedAt": "2026-10-28T10:17:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 345,
-    "bookingsObserved": 196,
+    "bookingsTracked": 346,
+    "bookingsObserved": 197,
     "releasesObserved": 192,
-    "inCustody": 153,
-    "uniquePeople": 331
+    "inCustody": 154,
+    "uniquePeople": 332
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 0,
+      "booked": 1,
       "released": 7
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 42,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -247,6 +247,11 @@
       "pct": 1.2
     },
     {
+      "name": "DWLS 2ND DEGREE",
+      "count": 8,
+      "pct": 1
+    },
+    {
       "name": "USE PARAPHERNALIA/FTA",
       "count": 8,
       "pct": 1
@@ -255,36 +260,31 @@
       "name": "CRIM TRESPASS 2ND",
       "count": 8,
       "pct": 1
-    },
-    {
-      "name": "DWLS 2ND DEGREE",
-      "count": 7,
-      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "LCSO",
       "count": 91,
-      "pct": 26.5,
+      "pct": 26.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 78,
-      "pct": 22.7,
+      "count": 79,
+      "pct": 22.9,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 75,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "Chehalis Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 320,
-      "pct": 42.3,
+      "pct": 42.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 245,
-      "pct": 32.4,
+      "count": 246,
+      "pct": 32.5,
       "label": "Lewis County District Court"
     },
     {
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 212,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "Included",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 84,
-      "pct": 11
+      "count": 85,
+      "pct": 11.2
     },
     {
       "name": "Released by Court",
@@ -545,7 +545,7 @@
   },
   "bond": {
     "withBond": 99,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15837700
