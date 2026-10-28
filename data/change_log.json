@@ -6478,12 +6478,12 @@
         "warrantNumber": "6A0422190"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:35:21",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T20:08:55",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "13794-20261010151800",
