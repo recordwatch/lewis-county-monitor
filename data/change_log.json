@@ -1,5 +1,29 @@
 [
   {
+    "id": "358051-20261027142500",
+    "inmateNumber": "358051",
+    "name": "OCAMPO DIAZ, RAFAEL",
+    "bookedAt": "2026-10-27T14:25:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-27T14:25:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T19:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "96796-20261027091400",
     "inmateNumber": "96796",
     "name": "KENNEDY, NATHAN JAMES",

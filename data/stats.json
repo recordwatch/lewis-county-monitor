@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T19:32:15",
+  "generatedAt": "2026-10-27T19:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 338,
-    "bookingsObserved": 189,
+    "bookingsTracked": 339,
+    "bookingsObserved": 190,
     "releasesObserved": 183,
-    "inCustody": 155,
-    "uniquePeople": 324
+    "inCustody": 156,
+    "uniquePeople": 325
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 2,
+      "booked": 3,
       "released": 15
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 34,
-      "pct": 4.5
+      "count": 35,
+      "pct": 4.6
     },
     {
       "name": "POSS of Controlled Substance",
@@ -266,20 +266,20 @@
     {
       "name": "LCSO",
       "count": 89,
-      "pct": 26.4,
+      "pct": 26.3,
       "label": "Lewis County Sheriff's Office"
+    },
+    {
+      "name": "CENT",
+      "count": 75,
+      "pct": 22.2,
+      "label": "Centralia Police"
     },
     {
       "name": "JAIL",
       "count": 75,
-      "pct": 22.3,
+      "pct": 22.2,
       "label": "Lewis County Jail"
-    },
-    {
-      "name": "CENT",
-      "count": 74,
-      "pct": 22,
-      "label": "Centralia Police"
     },
     {
       "name": "CHEH",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 28.4,
+    "currentMedianDaysHeld": 28.2,
     "currentLongestDaysHeld": 780.1
   },
   "bond": {
     "withBond": 99,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 15798600
