@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T21:49:17",
+  "generatedAt": "2026-10-27T22:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 343,
-    "bookingsObserved": 194,
-    "releasesObserved": 184,
+    "bookingsTracked": 344,
+    "bookingsObserved": 195,
+    "releasesObserved": 185,
     "inCustody": 159,
-    "uniquePeople": 329
+    "uniquePeople": 330
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 7,
-      "released": 16
+      "booked": 8,
+      "released": 17
     }
   ],
   "topCharges": [
@@ -207,6 +207,11 @@
       "pct": 1.6
     },
     {
+      "name": "HARRASSMENT-DEATH THREAT",
+      "count": 11,
+      "pct": 1.4
+    },
+    {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 11,
       "pct": 1.4
@@ -218,11 +223,6 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 10,
-      "pct": 1.3
-    },
-    {
-      "name": "HARRASSMENT-DEATH THREAT",
       "count": 10,
       "pct": 1.3
     },
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 90,
-      "pct": 26.3,
+      "count": 91,
+      "pct": 26.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 77,
-      "pct": 22.5,
+      "pct": 22.4,
       "label": "Lewis County Jail"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 31,
-      "pct": 9.1,
+      "pct": 9,
       "label": "Washington State Patrol"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 315,
+      "count": 317,
       "pct": 41.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 244,
-      "pct": 32.5,
+      "count": 247,
+      "pct": 32.7,
       "label": "Lewis County District Court"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "CSM",
       "count": 53,
-      "pct": 7.1,
+      "pct": 7,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "WLM",
       "count": 23,
-      "pct": 3.1,
+      "pct": 3,
       "label": "Winlock Municipal Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 143,
-      "pct": 79.4
+      "count": 144,
+      "pct": 79.6
     },
     {
       "name": "FRIENDSHIP DIVERSON",
@@ -451,33 +451,33 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 210,
+      "count": 211,
       "pct": 27.8
     },
     {
       "name": "Included",
-      "count": 174,
-      "pct": 23
+      "count": 176,
+      "pct": 23.2
     },
     {
       "name": "Serving Time",
       "count": 147,
-      "pct": 19.5
+      "pct": 19.3
     },
     {
       "name": "No Bail",
-      "count": 82,
-      "pct": 10.9
+      "count": 84,
+      "pct": 11.1
     },
     {
       "name": "Released by Court",
       "count": 68,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Appearance Bond",
       "count": 17,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "Released Time Served",
@@ -487,7 +487,7 @@
     {
       "name": "Amended",
       "count": 11,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Referred",
@@ -511,13 +511,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 182,
+    "releasedCount": 183,
     "medianDays": 2.2,
     "meanDays": 11.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 44
+        "count": 45
       },
       {
         "label": "1–3 days",
@@ -548,7 +548,7 @@
     "noBond": 59,
     "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 15780600
+    "totalBond": 15829600
   },
   "chargesPerBooking": 2.2
 }

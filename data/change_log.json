@@ -18,12 +18,12 @@
         "warrantNumber": "T00929151"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T21:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T22:15:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "421359-20261027162300",
@@ -37,25 +37,71 @@
         "description": "POSS DEPICTION MIN/SEX",
         "arrestDate": "2026-10-27T16:23:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "SEX/DEPICT/MIN MFG",
         "arrestDate": "2026-10-27T16:23:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-27T21:49:17",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "335011-20261027145800",
+    "inmateNumber": "335011",
+    "name": "ANCHETA, MICKEY ANTHONY",
+    "bookedAt": "2026-10-27T14:58:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "RECKLESS ENDANGER 2CD",
+        "arrestDate": "2026-10-27T14:58:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
+        "warrantNumber": "26-1-00423-21"
+      },
+      {
+        "description": "HARRASSMENT-DEATH THREAT",
+        "arrestDate": "2026-10-27T14:58:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "26-1-00423-21"
+      },
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "arrestDate": "2026-10-27T14:58:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "26-1-00423-21"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T22:17:15",
     "releasedAt": null,
     "baseline": false
   },
