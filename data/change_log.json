@@ -2162,12 +2162,12 @@
         "warrantNumber": "6A0188418"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T03:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T21:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422958-20261021230700",
