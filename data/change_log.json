@@ -1,5 +1,29 @@
 [
   {
+    "id": "423170-20261029010800",
+    "inmateNumber": "423170",
+    "name": "ARCHER, ALEXANDER",
+    "bookedAt": "2026-10-29T01:08:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-29T01:08:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00929159"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T02:49:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "349512-20261028235200",
     "inmateNumber": "349512",
     "name": "KLINGER, DAKOTA MICHAEL",
