@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-29T02:49:18",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "349512-20261028235200",
@@ -7530,12 +7532,12 @@
         "warrantNumber": "3Z0669625"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T02:46:22",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "PICKUP BY NEBRASKA",
+    "releaseSource": "official"
   },
   {
     "id": "83809-20261006181200",
@@ -7962,12 +7964,12 @@
         "warrantNumber": "T00874613"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "1290-20261004223700",
