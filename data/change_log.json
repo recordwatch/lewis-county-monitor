@@ -3478,12 +3478,12 @@
         "warrantNumber": "23Y000259"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T19:17:12",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T20:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "417183-20261018142800",
