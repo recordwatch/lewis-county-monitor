@@ -90,12 +90,12 @@
         "warrantNumber": "26-1-362-21"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T22:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T10:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "423146-20261028110500",
