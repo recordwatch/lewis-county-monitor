@@ -1,5 +1,29 @@
 [
   {
+    "id": "156894-20261028133500",
+    "inmateNumber": "156894",
+    "name": "MITCHELL, KRAMER LEE",
+    "bookedAt": "2026-10-28T13:35:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 2ND/VEH/TRUCK OR BUS",
+        "arrestDate": "2026-10-28T13:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "26-1-362-21"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T22:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423146-20261028110500",
     "inmateNumber": "423146",
     "name": "BAUTISTA PEREZ, DANIEL",

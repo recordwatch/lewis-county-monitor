@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T22:32:17",
+  "generatedAt": "2026-10-28T22:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 348,
-    "bookingsObserved": 199,
+    "bookingsTracked": 349,
+    "bookingsObserved": 200,
     "releasesObserved": 204,
-    "inCustody": 144,
-    "uniquePeople": 334
+    "inCustody": 145,
+    "uniquePeople": 335
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 3,
+      "booked": 4,
       "released": 19
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 58,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 91,
-      "pct": 26.2,
+      "pct": 26.1,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 80,
-      "pct": 23.1,
+      "count": 81,
+      "pct": 23.3,
       "label": "Lewis County Jail"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 13.3,
+      "pct": 13.2,
       "label": "Chehalis Police"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "DOC",
       "count": 4,
-      "pct": 1.2,
+      "pct": 1.1,
       "label": "Dept. of Corrections"
     },
     {
       "name": "MORT",
       "count": 4,
-      "pct": 1.2,
+      "pct": 1.1,
       "label": "Morton Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 322,
-      "pct": 42.1,
+      "count": 323,
+      "pct": 42.2,
       "label": "Lewis County Superior Court"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "CNM",
       "count": 70,
-      "pct": 9.2,
+      "pct": 9.1,
       "label": "Centralia Municipal Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "DOC",
       "count": 18,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 83,
-      "pct": 10.8
+      "count": 84,
+      "pct": 10.9
     },
     {
       "name": "Released by Court",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31.5,
+    "currentMedianDaysHeld": 31.1,
     "currentLongestDaysHeld": 781.3
   },
   "bond": {
     "withBond": 87,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 15647200
