@@ -132,6 +132,56 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "CRIMINAL IMPERSONATE 1",
+        "arrestDate": "2026-10-28T11:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610057621"
+      },
+      {
+        "description": "FORGERY",
+        "arrestDate": "2026-10-28T11:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610057621"
+      },
+      {
+        "description": "Display/Poss Fraud Driver Lic",
+        "arrestDate": "2026-10-28T11:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610057621"
+      },
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "arrestDate": "2026-10-28T11:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610057621"
+      },
+      {
+        "description": "NVOL - Without ID",
+        "arrestDate": "2026-10-28T11:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610057621"
+      },
+      {
         "description": "DUI",
         "arrestDate": "2026-10-28T11:05:00",
         "arrestingAgency": "WASH",
