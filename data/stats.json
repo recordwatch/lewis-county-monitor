@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T12:49:17",
+  "generatedAt": "2026-10-29T13:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 352,
     "bookingsObserved": 203,
-    "releasesObserved": 207,
-    "inCustody": 145,
+    "releasesObserved": 208,
+    "inCustody": 144,
     "uniquePeople": 338
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-29",
       "booked": 2,
-      "released": 3
+      "released": 4
     }
   ],
   "topCharges": [
@@ -390,20 +390,20 @@
     {
       "name": "SELF",
       "count": 157,
-      "pct": 77.3
+      "pct": 77
     },
     {
       "name": "ABHS",
       "count": 6,
-      "pct": 3
-    },
-    {
-      "name": "FRIENDSHIP DIVERSON",
-      "count": 5,
-      "pct": 2.5
+      "pct": 2.9
     },
     {
       "name": "DOC",
+      "count": 6,
+      "pct": 2.9
+    },
+    {
+      "name": "FRIENDSHIP DIVERSON",
       "count": 5,
       "pct": 2.5
     },
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 205,
+    "releasedCount": 206,
     "medianDays": 2.3,
-    "meanDays": 12.1,
+    "meanDays": 12.2,
     "buckets": [
       {
         "label": "< 1 day",
@@ -533,19 +533,19 @@
       },
       {
         "label": "1–3 months",
-        "count": 13
+        "count": 14
       },
       {
         "label": "3+ months",
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31.7,
-    "currentLongestDaysHeld": 781.8
+    "currentMedianDaysHeld": 30.9,
+    "currentLongestDaysHeld": 781.9
   },
   "bond": {
     "withBond": 88,
-    "noBond": 57,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 15639700
