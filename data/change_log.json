@@ -1,5 +1,49 @@
 [
   {
+    "id": "349512-20261028235200",
+    "inmateNumber": "349512",
+    "name": "KLINGER, DAKOTA MICHAEL",
+    "bookedAt": "2026-10-28T23:52:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-28T23:52:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0423015"
+      },
+      {
+        "description": "POSS DRUG PARAPHERNALIA USED",
+        "arrestDate": "2026-10-28T23:52:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0423016"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-28T23:52:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0423016"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T00:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "156894-20261028133500",
     "inmateNumber": "156894",
     "name": "MITCHELL, KRAMER LEE",
