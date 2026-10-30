@@ -11587,7 +11587,7 @@
     "name": "JOHNSTON, JACOB DANIEL LEE",
     "bookedAt": "2026-08-04T20:55:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 25000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "Protection Order Violation",
@@ -11606,7 +11606,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 25000,
+        "bondAmount": 10000,
         "warrantNumber": "2610041121"
       },
       {
