@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T09:32:16",
+  "generatedAt": "2026-10-30T09:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 358,
-    "bookingsObserved": 209,
+    "bookingsTracked": 359,
+    "bookingsObserved": 210,
     "releasesObserved": 217,
-    "inCustody": 141,
-    "uniquePeople": 341
+    "inCustody": 142,
+    "uniquePeople": 342
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 0,
+      "booked": 1,
       "released": 3
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 93,
-      "pct": 26.1,
+      "pct": 26,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 83,
-      "pct": 23.2,
+      "count": 84,
+      "pct": 23.5,
       "label": "Lewis County Jail"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CHEH",
       "count": 46,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "Chehalis Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 329,
+      "count": 330,
       "pct": 42,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 256,
-      "pct": 32.7,
+      "pct": 32.6,
       "label": "Lewis County District Court"
     },
     {
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 214,
-      "pct": 27.2
+      "pct": 27.1
     },
     {
       "name": "Included",
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 153,
-      "pct": 19.4
+      "count": 154,
+      "pct": 19.5
     },
     {
       "name": "No Bail",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31,
+    "currentMedianDaysHeld": 30.8,
     "currentLongestDaysHeld": 782.7
   },
   "bond": {
     "withBond": 86,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 15461174

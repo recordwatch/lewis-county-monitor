@@ -1,5 +1,29 @@
 [
   {
+    "id": "412134-20261030063800",
+    "inmateNumber": "412134",
+    "name": "SMITH, CHARLES BRENTON",
+    "bookedAt": "2026-10-30T06:38:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MATERIAL WITNESS",
+        "arrestDate": "2026-10-30T06:38:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610016121"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T09:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "133335-20261029211000",
     "inmateNumber": "133335",
     "name": "CAIN-CONKLIN, CORRINA JEAN",
