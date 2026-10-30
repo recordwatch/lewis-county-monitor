@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:49:15",
+  "generatedAt": "2026-10-30T02:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 357,
@@ -271,14 +271,14 @@
     },
     {
       "name": "JAIL",
-      "count": 84,
-      "pct": 23.6,
+      "count": 83,
+      "pct": 23.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 77,
-      "pct": 21.6,
+      "count": 78,
+      "pct": 21.9,
       "label": "Centralia Police"
     },
     {

@@ -108,13 +108,13 @@
     "inmateNumber": "292635",
     "name": "MAYER, MICHAEL THOMAS",
     "bookedAt": "2026-10-29T14:13:00",
-    "arrestingAgency": "JAIL",
+    "arrestingAgency": "CENT",
     "bondTotal": null,
     "charges": [
       {
-        "description": "DLS 2ND DEGREE/FTC",
+        "description": "DWLS 2ND DEGREE/FTA",
         "arrestDate": "2026-10-29T14:13:00",
-        "arrestingAgency": "JAIL",
+        "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "NAPA",
         "bondType": "No Bail",
@@ -125,7 +125,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-30T01:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "155867-20261029104900",
