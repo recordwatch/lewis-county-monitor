@@ -52,6 +52,30 @@
     "releaseSource": null
   },
   {
+    "id": "98639-20261030063500",
+    "inmateNumber": "98639",
+    "name": "CHOM, BERNARD",
+    "bookedAt": "2026-10-30T06:35:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOSA Violation",
+        "arrestDate": "2026-10-30T06:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2410043821"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T12:17:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "364521-20261030035500",
     "inmateNumber": "364521",
     "name": "HOMAN-SHEARER, KENYON KAIL",
@@ -595,6 +619,26 @@
     "arrestingAgency": "LCSO",
     "bondTotal": null,
     "charges": [
+      {
+        "description": "Commercial Sexual Abuse of A Minor",
+        "arrestDate": "2026-10-27T16:23:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610057521"
+      },
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "arrestDate": "2026-10-27T16:23:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610057521"
+      },
       {
         "description": "POSS DEPICTION MIN/SEX",
         "arrestDate": "2026-10-27T16:23:00",
