@@ -1,5 +1,29 @@
 [
   {
+    "id": "165929-20261029151500",
+    "inmateNumber": "165929",
+    "name": "DUPREE, DAVID WAYNE",
+    "bookedAt": "2026-10-29T15:15:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION/FTA",
+        "arrestDate": "2026-10-29T15:15:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
+        "warrantNumber": "2610012121"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T17:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "155867-20261029104900",
     "inmateNumber": "155867",
     "name": "GAINES, JUSTICE SYMONE",
