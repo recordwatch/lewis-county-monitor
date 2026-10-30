@@ -73,7 +73,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-30T12:17:18",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "364521-20261030035500",
@@ -631,6 +633,16 @@
       },
       {
         "description": "SEXUAL/EXPLOIT MINOR",
+        "arrestDate": "2026-10-27T16:23:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610057521"
+      },
+      {
+        "description": "DEAL IN DEPICT MINOR-2-ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
         "arrestDate": "2026-10-27T16:23:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",

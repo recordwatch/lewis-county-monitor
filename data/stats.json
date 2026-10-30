@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:17:18",
+  "generatedAt": "2026-10-30T12:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 362,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 60,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -184,7 +184,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 31,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 334,
+      "count": 335,
       "pct": 42.2,
       "label": "Lewis County Superior Court"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "Included",
-      "count": 175,
-      "pct": 22
+      "count": 176,
+      "pct": 22.1
     },
     {
       "name": "Serving Time",
