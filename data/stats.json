@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T21:49:16",
+  "generatedAt": "2026-10-29T22:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 354,
-    "bookingsObserved": 205,
+    "bookingsTracked": 355,
+    "bookingsObserved": 206,
     "releasesObserved": 214,
-    "inCustody": 140,
+    "inCustody": 141,
     "uniquePeople": 339
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 4,
+      "booked": 5,
       "released": 10
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 59,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -174,7 +174,7 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 36,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -222,17 +222,17 @@
       "pct": 1.4
     },
     {
+      "name": "THEFT 3RD DEG/FTA",
+      "count": 10,
+      "pct": 1.3
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 10,
       "pct": 1.3
     },
     {
       "name": "CRIM TRESPASS 2ND/FTA",
-      "count": 9,
-      "pct": 1.1
-    },
-    {
-      "name": "THEFT 3RD DEG/FTA",
       "count": 9,
       "pct": 1.1
     },
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 92,
-      "pct": 26.1,
+      "pct": 26,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 82,
-      "pct": 23.2,
+      "count": 83,
+      "pct": 23.4,
       "label": "Lewis County Jail"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 329,
-      "pct": 42.3,
+      "pct": 42.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 251,
-      "pct": 32.3,
+      "pct": 32.2,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 73,
-      "pct": 9.4,
+      "count": 74,
+      "pct": 9.5,
       "label": "Centralia Municipal Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "WLM",
-      "count": 23,
-      "pct": 3,
+      "count": 24,
+      "pct": 3.1,
       "label": "Winlock Municipal Court"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 212,
-      "pct": 27.1
+      "count": 213,
+      "pct": 27.2
     },
     {
       "name": "Included",
       "count": 174,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "Serving Time",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 85,
-      "pct": 10.9
+      "count": 86,
+      "pct": 11
     },
     {
       "name": "Released by Court",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 32.4,
+    "currentMedianDaysHeld": 32.1,
     "currentLongestDaysHeld": 782.2
   },
   "bond": {
-    "withBond": 85,
+    "withBond": 86,
     "noBond": 55,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 15524700
+    "totalBond": 15535074
   },
   "chargesPerBooking": 2.2
 }

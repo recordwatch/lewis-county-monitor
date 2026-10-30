@@ -11,17 +11,19 @@
         "description": "NO CONTACT/PROTECT RESTRAINT V",
         "arrestDate": "2026-10-29T21:10:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0011396"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T21:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "165929-20261029151500",
@@ -48,6 +50,30 @@
     "baseline": false,
     "releasedTo": "SELF",
     "releaseSource": "official"
+  },
+  {
+    "id": "216770-20261029144500",
+    "inmateNumber": "216770",
+    "name": "MACKEY, DANIEL JOSEPH",
+    "bookedAt": "2026-10-29T14:45:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 10374,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG/FTA",
+        "arrestDate": "2026-10-29T14:45:00",
+        "arrestingAgency": "JAIL",
+        "court": "WLM",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10374,
+        "warrantNumber": "6A0259238"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T22:17:16",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "155867-20261029104900",
