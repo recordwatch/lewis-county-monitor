@@ -6374,12 +6374,12 @@
         "warrantNumber": "2610010121"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T13:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T08:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "WCC",
+    "releaseSource": "official"
   },
   {
     "id": "418267-20261012090000",
