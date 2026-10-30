@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T15:32:16",
+  "generatedAt": "2026-10-30T15:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 363,
     "bookingsObserved": 214,
-    "releasesObserved": 220,
-    "inCustody": 143,
+    "releasesObserved": 221,
+    "inCustody": 142,
     "uniquePeople": 346
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-30",
       "booked": 5,
-      "released": 6
+      "released": 7
     }
   ],
   "topCharges": [
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 335,
-      "pct": 42.2,
+      "pct": 42.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 259,
-      "pct": 32.7,
+      "count": 261,
+      "pct": 32.8,
       "label": "Lewis County District Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 167,
-      "pct": 77.3
+      "count": 168,
+      "pct": 77.4
     },
     {
       "name": "ABHS",
@@ -415,7 +415,7 @@
     {
       "name": "DOC RELOCATE",
       "count": 4,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "THURSTON COUNTY JAIL",
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 217,
-      "pct": 27.2
+      "count": 219,
+      "pct": 27.4
     },
     {
       "name": "Included",
@@ -472,7 +472,7 @@
     {
       "name": "Released by Court",
       "count": 73,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "Appearance Bond",
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 218,
+    "releasedCount": 219,
     "medianDays": 2.4,
     "meanDays": 12.8,
     "buckets": [
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 27
+        "count": 28
       },
       {
         "label": "1–4 weeks",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 30.8,
+    "currentMedianDaysHeld": 31,
     "currentLongestDaysHeld": 783
   },
   "bond": {
     "withBond": 84,
-    "noBond": 59,
+    "noBond": 58,
     "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 15410074
+    "totalBond": 15386574
   },
   "chargesPerBooking": 2.2
 }
