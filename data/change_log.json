@@ -44,12 +44,12 @@
         "warrantNumber": "6A0435110"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T11:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423170-20261029010800",
@@ -155,7 +155,7 @@
     "name": "BAUTISTA PEREZ, DANIEL",
     "bookedAt": "2026-10-28T11:05:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATE 1",
@@ -163,8 +163,8 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "2610057621"
       },
       {
