@@ -197,7 +197,7 @@
     "name": "MACKEY, DANIEL JOSEPH",
     "bookedAt": "2026-10-29T14:45:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 10374,
+    "bondTotal": 20374,
     "charges": [
       {
         "description": "THEFT 3RD DEG/FTA",
@@ -208,6 +208,16 @@
         "bondType": "Cash or Bond",
         "bondAmount": 10374,
         "warrantNumber": "6A0259238"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-10-29T14:45:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "6A0309106"
       }
     ],
     "status": "in_custody",
@@ -652,12 +662,12 @@
         "warrantNumber": "2610042321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T22:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "358051-20261027142500",
