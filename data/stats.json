@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T22:32:17",
+  "generatedAt": "2026-10-29T22:49:19",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 355,
-    "bookingsObserved": 206,
+    "bookingsTracked": 356,
+    "bookingsObserved": 207,
     "releasesObserved": 214,
-    "inCustody": 141,
-    "uniquePeople": 339
+    "inCustody": 142,
+    "uniquePeople": 340
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 5,
+      "booked": 6,
       "released": 10
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 44,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "POSS of Controlled Substance",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
-      "count": 30,
-      "pct": 3.8
+      "count": 31,
+      "pct": 3.9
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 92,
-      "pct": 26,
+      "pct": 25.9,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 77,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "Centralia Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 33,
-      "pct": 9.3,
+      "count": 34,
+      "pct": 9.6,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 251,
-      "pct": 32.2,
+      "count": 252,
+      "pct": 32.3,
       "label": "Lewis County District Court"
     },
     {
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 213,
-      "pct": 27.2
+      "count": 214,
+      "pct": 27.3
     },
     {
       "name": "Included",
@@ -462,7 +462,7 @@
     {
       "name": "Serving Time",
       "count": 154,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "No Bail",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 32.1,
+    "currentMedianDaysHeld": 31.3,
     "currentLongestDaysHeld": 782.3
   },
   "bond": {
-    "withBond": 86,
+    "withBond": 87,
     "noBond": 55,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 15535074
+    "totalBond": 15536174
   },
   "chargesPerBooking": 2.2
 }

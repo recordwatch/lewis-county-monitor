@@ -26,6 +26,30 @@
     "releaseSource": null
   },
   {
+    "id": "406848-20261029152500",
+    "inmateNumber": "406848",
+    "name": "THOMAS, JANICE LYNN",
+    "bookedAt": "2026-10-29T15:25:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1100,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-29T15:25:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1100,
+        "warrantNumber": "5A0319141"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T22:49:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "165929-20261029151500",
     "inmateNumber": "165929",
     "name": "DUPREE, DAVID WAYNE",
