@@ -7985,7 +7985,7 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "5A0118482"
       },

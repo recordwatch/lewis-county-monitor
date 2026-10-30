@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:49:15",
+  "generatedAt": "2026-10-30T00:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 356,
@@ -9,11 +9,6 @@
     "uniquePeople": 340
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-30",
-      "booked": 2,
-      "released": 0
-    },
     {
       "date": "2026-10-01",
       "booked": 1,
@@ -158,6 +153,11 @@
       "date": "2026-10-29",
       "booked": 6,
       "released": 10
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 154,
-      "pct": 19.6
+      "count": 153,
+      "pct": 19.5
     },
     {
       "name": "No Bail",
@@ -480,6 +480,11 @@
       "pct": 2.2
     },
     {
+      "name": "Released Time Served",
+      "count": 13,
+      "pct": 1.7
+    },
+    {
       "name": "Dismissed",
       "count": 13,
       "pct": 1.7
@@ -493,11 +498,6 @@
       "name": "Transferred to Prison",
       "count": 13,
       "pct": 1.7
-    },
-    {
-      "name": "Released Time Served",
-      "count": 12,
-      "pct": 1.5
     },
     {
       "name": "Referred",
