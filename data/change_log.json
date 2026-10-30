@@ -83,7 +83,7 @@
     "name": "HOMAN-SHEARER, KENYON KAIL",
     "bookedAt": "2026-10-30T03:55:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -91,8 +91,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "T00929161"
       },
       {
@@ -101,8 +101,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00929161"
       }
     ],
@@ -184,12 +184,12 @@
         "warrantNumber": "5A0319141"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T22:49:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "165929-20261029151500",
@@ -429,7 +429,7 @@
     "name": "BAUTISTA PEREZ, DANIEL",
     "bookedAt": "2026-10-28T11:05:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 10000,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATE 1",
@@ -487,8 +487,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "T00802550"
       }
     ],
@@ -642,7 +642,7 @@
         "warrantNumber": "2610057521"
       },
       {
-        "description": "DEAL IN DEPICT MINOR-2-ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
+        "description": "Viewing Depictions of Minor Sexual act",
         "arrestDate": "2026-10-27T16:23:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
@@ -8062,12 +8062,12 @@
         "warrantNumber": "T00874786"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T15:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "289517-20261006010000",
