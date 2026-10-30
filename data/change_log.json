@@ -64,7 +64,7 @@
         "arrestDate": "2026-10-29T14:45:00",
         "arrestingAgency": "JAIL",
         "court": "WLM",
-        "billingAgency": null,
+        "billingAgency": "TOL",
         "bondType": "Cash or Bond",
         "bondAmount": 10374,
         "warrantNumber": "6A0259238"
@@ -73,7 +73,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-29T22:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "155867-20261029104900",
