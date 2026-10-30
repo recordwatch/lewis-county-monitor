@@ -104,6 +104,30 @@
     "releaseSource": null
   },
   {
+    "id": "292635-20261029141300",
+    "inmateNumber": "292635",
+    "name": "MAYER, MICHAEL THOMAS",
+    "bookedAt": "2026-10-29T14:13:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DLS 2ND DEGREE/FTC",
+        "arrestDate": "2026-10-29T14:13:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "NAPA",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "3A0330796"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T01:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "155867-20261029104900",
     "inmateNumber": "155867",
     "name": "GAINES, JUSTICE SYMONE",
