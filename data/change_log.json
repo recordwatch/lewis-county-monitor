@@ -1,5 +1,29 @@
 [
   {
+    "id": "133335-20261029211000",
+    "inmateNumber": "133335",
+    "name": "CAIN-CONKLIN, CORRINA JEAN",
+    "bookedAt": "2026-10-29T21:10:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "NO CONTACT/PROTECT RESTRAINT V",
+        "arrestDate": "2026-10-29T21:10:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T21:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "165929-20261029151500",
     "inmateNumber": "165929",
     "name": "DUPREE, DAVID WAYNE",
