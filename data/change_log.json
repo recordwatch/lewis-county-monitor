@@ -21,6 +21,42 @@
     "status": "in_custody",
     "firstSeen": "2026-10-30T09:49:16",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "364521-20261030035500",
+    "inmateNumber": "364521",
+    "name": "HOMAN-SHEARER, KENYON KAIL",
+    "bookedAt": "2026-10-30T03:55:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-30T03:55:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00929161"
+      },
+      {
+        "description": "HIT RUN UNATTENDED PROPERTY",
+        "arrestDate": "2026-10-30T03:55:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00929161"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T10:17:17",
+    "releasedAt": null,
     "baseline": false
   },
   {
