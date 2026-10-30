@@ -28,12 +28,12 @@
         "warrantNumber": "6A0435112"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T15:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T16:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "393862-20261030064000",
