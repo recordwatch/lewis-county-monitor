@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T02:32:17",
+  "generatedAt": "2026-10-30T02:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 358,
     "bookingsObserved": 209,
-    "releasesObserved": 216,
-    "inCustody": 142,
+    "releasesObserved": 217,
+    "inCustody": 141,
     "uniquePeople": 341
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-30",
       "booked": 0,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -247,17 +247,17 @@
       "pct": 1.1
     },
     {
+      "name": "DWLS 2ND DEGREE/FTA",
+      "count": 8,
+      "pct": 1
+    },
+    {
       "name": "DWLS 2ND DEGREE",
       "count": 8,
       "pct": 1
     },
     {
       "name": "USE PARAPHERNALIA/FTA",
-      "count": 8,
-      "pct": 1
-    },
-    {
-      "name": "CRIM TRESPASS 2ND",
       "count": 8,
       "pct": 1
     }
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 329,
-      "pct": 42.1,
+      "pct": 42,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 253,
-      "pct": 32.4,
+      "count": 256,
+      "pct": 32.7,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 74,
-      "pct": 9.5,
+      "pct": 9.4,
       "label": "Centralia Municipal Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 163,
-      "pct": 76.9
+      "count": 164,
+      "pct": 77
     },
     {
       "name": "ABHS",
@@ -405,12 +405,12 @@
     {
       "name": "FRIENDSHIP DIVERSON",
       "count": 5,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "WCC",
       "count": 5,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "DOC RELOCATE",
@@ -452,22 +452,22 @@
     {
       "name": "Cash or Bond",
       "count": 214,
-      "pct": 27.3
+      "pct": 27.2
     },
     {
       "name": "Included",
       "count": 174,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "Serving Time",
       "count": 153,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "No Bail",
-      "count": 87,
-      "pct": 11.1
+      "count": 90,
+      "pct": 11.4
     },
     {
       "name": "Released by Court",
@@ -482,22 +482,22 @@
     {
       "name": "Released Time Served",
       "count": 13,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Dismissed",
       "count": 13,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Amended",
       "count": 13,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Transferred to Prison",
       "count": 13,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Referred",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 214,
-    "medianDays": 2.3,
-    "meanDays": 12.6,
+    "releasedCount": 215,
+    "medianDays": 2.4,
+    "meanDays": 12.9,
     "buckets": [
       {
         "label": "< 1 day",
@@ -533,7 +533,7 @@
       },
       {
         "label": "1–3 months",
-        "count": 16
+        "count": 17
       },
       {
         "label": "3+ months",
@@ -545,7 +545,7 @@
   },
   "bond": {
     "withBond": 86,
-    "noBond": 56,
+    "noBond": 55,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 15461174

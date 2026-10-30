@@ -37,17 +37,19 @@
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-10-29T17:28:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0151751"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T02:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "406848-20261029152500",
@@ -144,6 +146,26 @@
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "3A0330796"
+      },
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-29T14:13:00",
+        "arrestingAgency": "CENT",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "3A0244851"
+      },
+      {
+        "description": "DWLS 2ND DEGREE/FTA",
+        "arrestDate": "2026-10-29T14:13:00",
+        "arrestingAgency": "CENT",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "3A0041336"
       }
     ],
     "status": "in_custody",
@@ -10928,12 +10950,12 @@
         "warrantNumber": "2610046321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "214453-20260826160000",
