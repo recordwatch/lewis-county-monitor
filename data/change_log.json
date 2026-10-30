@@ -1,5 +1,29 @@
 [
   {
+    "id": "393862-20261030064000",
+    "inmateNumber": "393862",
+    "name": "GREEN, TREYVION DOMINEEK",
+    "bookedAt": "2026-10-30T06:40:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Cust Aslt Juv Detention Facility",
+        "arrestDate": "2026-10-30T06:40:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510034521"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T10:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "412134-20261030063800",
     "inmateNumber": "412134",
     "name": "SMITH, CHARLES BRENTON",
@@ -57,7 +81,9 @@
     "status": "in_custody",
     "firstSeen": "2026-10-30T10:17:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "133335-20261029211000",
