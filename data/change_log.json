@@ -26,6 +26,30 @@
     "releaseSource": null
   },
   {
+    "id": "43280-20261029172800",
+    "inmateNumber": "43280",
+    "name": "ELLIOTT, RYAN JAMES",
+    "bookedAt": "2026-10-29T17:28:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-29T17:28:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T02:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "406848-20261029152500",
     "inmateNumber": "406848",
     "name": "THOMAS, JANICE LYNN",
@@ -11678,12 +11702,12 @@
         "warrantNumber": "2610041421"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T08:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "WCC",
+    "releaseSource": "official"
   },
   {
     "id": "305331-20260804205500",
