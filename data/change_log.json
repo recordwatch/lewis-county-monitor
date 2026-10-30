@@ -1,5 +1,39 @@
 [
   {
+    "id": "333621-20261030074000",
+    "inmateNumber": "333621",
+    "name": "GLATZMAIERMACE, MARIANNE NICOLE",
+    "bookedAt": "2026-10-30T07:40:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-10-30T07:40:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "FAIL TRANSFER TITLE W/I 45 DAY",
+        "arrestDate": "2026-10-30T07:40:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T15:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "393862-20261030064000",
     "inmateNumber": "393862",
     "name": "GREEN, TREYVION DOMINEEK",

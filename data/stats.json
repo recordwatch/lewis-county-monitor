@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T14:49:15",
+  "generatedAt": "2026-10-30T15:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 362,
-    "bookingsObserved": 213,
+    "bookingsTracked": 363,
+    "bookingsObserved": 214,
     "releasesObserved": 220,
-    "inCustody": 142,
-    "uniquePeople": 345
+    "inCustody": 143,
+    "uniquePeople": 346
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 4,
+      "booked": 5,
       "released": 6
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 44,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "POSS of Controlled Substance",
@@ -232,6 +232,11 @@
       "pct": 1.2
     },
     {
+      "name": "DWLS 2ND DEGREE",
+      "count": 9,
+      "pct": 1.1
+    },
+    {
       "name": "CRIM TRESPASS 2ND/FTA",
       "count": 9,
       "pct": 1.1
@@ -252,11 +257,6 @@
       "pct": 1
     },
     {
-      "name": "DWLS 2ND DEGREE",
-      "count": 8,
-      "pct": 1
-    },
-    {
       "name": "USE PARAPHERNALIA/FTA",
       "count": 8,
       "pct": 1
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 93,
-      "pct": 25.8,
+      "count": 94,
+      "pct": 26,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 78,
-      "pct": 21.6,
+      "pct": 21.5,
       "label": "Centralia Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31,
+    "currentMedianDaysHeld": 30.8,
     "currentLongestDaysHeld": 782.9
   },
   "bond": {
     "withBond": 84,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 15410074
