@@ -65,8 +65,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "T00929161"
       },
       {
@@ -75,8 +75,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "T00929161"
       }
     ],
