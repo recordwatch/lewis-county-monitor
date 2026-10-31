@@ -66,6 +66,40 @@
     "releaseSource": null
   },
   {
+    "id": "332216-20261031004200",
+    "inmateNumber": "332216",
+    "name": "HUDSON, ROGER D",
+    "bookedAt": "2026-10-31T00:42:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-31T00:42:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0011397"
+      },
+      {
+        "description": "HIT RUN UNATTENDED PROPERTY",
+        "arrestDate": "2026-10-31T00:42:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0011397"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T01:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "207694-20261030190000",
     "inmateNumber": "207694",
     "name": "EMBUM, COLE RILEY GENE",
