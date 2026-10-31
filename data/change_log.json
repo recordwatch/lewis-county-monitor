@@ -66,6 +66,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "343792-20261031034300",
+    "inmateNumber": "343792",
+    "name": "CORNELISON, JUSTIN SCOT",
+    "bookedAt": "2026-10-31T03:43:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-10-31T03:43:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0013386"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T13:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423222-20261031020000",
     "inmateNumber": "423222",
     "name": "PADUANO, CAPRICE IRENE",
