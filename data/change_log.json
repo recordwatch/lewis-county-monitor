@@ -18,12 +18,12 @@
         "warrantNumber": "2130025321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T18:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "333621-20261030074000",
@@ -681,7 +681,7 @@
     "name": "FORREST, CHRISTOPHER ALDON",
     "bookedAt": "2026-10-27T16:23:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 500000,
     "charges": [
       {
         "description": "Commercial Sexual Abuse of A Minor",
@@ -689,7 +689,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610057521"
       },
@@ -719,8 +719,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500000,
         "warrantNumber": "2610057521"
       },
       {
@@ -729,7 +729,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610057521"
       }
