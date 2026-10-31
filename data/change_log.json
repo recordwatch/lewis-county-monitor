@@ -66,6 +66,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "83809-20261031014800",
+    "inmateNumber": "83809",
+    "name": "MCDANIEL, KAYLEIGH SUZANNE",
+    "bookedAt": "2026-10-31T01:48:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-31T01:48:00",
+        "arrestingAgency": "CHEH",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "398650"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T03:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "332216-20261031004200",
     "inmateNumber": "332216",
     "name": "HUDSON, ROGER D",
