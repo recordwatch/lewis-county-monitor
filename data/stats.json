@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T20:49:15",
+  "generatedAt": "2026-10-30T21:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 365,
-    "bookingsObserved": 216,
+    "bookingsTracked": 366,
+    "bookingsObserved": 217,
     "releasesObserved": 223,
-    "inCustody": 142,
+    "inCustody": 143,
     "uniquePeople": 348
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 7,
+      "booked": 8,
       "released": 9
     }
   ],
@@ -203,8 +203,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
-      "count": 13,
-      "pct": 1.6
+      "count": 14,
+      "pct": 1.7
     },
     {
       "name": "Protection Order Violation",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 96,
-      "pct": 26.4,
+      "pct": 26.3,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 86,
-      "pct": 23.6,
+      "count": 87,
+      "pct": 23.8,
       "label": "Lewis County Jail"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 336,
-      "pct": 42.2,
+      "pct": 42.1,
       "label": "Lewis County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 55,
-      "pct": 6.9,
+      "count": 56,
+      "pct": 7,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 220,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "Included",
@@ -462,12 +462,12 @@
     {
       "name": "Serving Time",
       "count": 155,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "No Bail",
-      "count": 89,
-      "pct": 11.1
+      "count": 90,
+      "pct": 11.2
     },
     {
       "name": "Released by Court",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31.3,
+    "currentMedianDaysHeld": 31,
     "currentLongestDaysHeld": 783.2
   },
   "bond": {
     "withBond": 84,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 15885074

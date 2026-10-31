@@ -1,5 +1,29 @@
 [
   {
+    "id": "207694-20261030190000",
+    "inmateNumber": "207694",
+    "name": "EMBUM, COLE RILEY GENE",
+    "bookedAt": "2026-10-30T19:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-10-30T19:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "5A0463130"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T21:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "189787-20261030181500",
     "inmateNumber": "189787",
     "name": "NULL, ALINA MARIE",
