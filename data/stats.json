@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T15:49:14",
+  "generatedAt": "2026-10-31T16:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 374,
-    "bookingsObserved": 225,
+    "bookingsTracked": 375,
+    "bookingsObserved": 226,
     "releasesObserved": 224,
-    "inCustody": 150,
-    "uniquePeople": 354
+    "inCustody": 151,
+    "uniquePeople": 355
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 7,
+      "booked": 8,
       "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 62,
-      "pct": 7.5
+      "count": 63,
+      "pct": 7.6
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 100,
-      "pct": 26.8,
+      "pct": 26.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 35,
-      "pct": 9.4,
+      "count": 36,
+      "pct": 9.6,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 274,
-      "pct": 33.5,
+      "count": 275,
+      "pct": 33.6,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 56,
-      "pct": 6.9,
+      "pct": 6.8,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 103,
-      "pct": 12.5
+      "count": 104,
+      "pct": 12.7
     },
     {
       "name": "Released by Court",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 29.2,
+    "currentMedianDaysHeld": 28.8,
     "currentLongestDaysHeld": 784
   },
   "bond": {
     "withBond": 87,
-    "noBond": 63,
+    "noBond": 64,
     "medianBond": 35000,
     "maxBond": 3000000,
     "totalBond": 15893274
