@@ -66,6 +66,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "423222-20261031020000",
+    "inmateNumber": "423222",
+    "name": "PADUANO, CAPRICE IRENE",
+    "bookedAt": "2026-10-31T02:00:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-10-31T02:00:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A030434"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T09:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "83809-20261031014800",
     "inmateNumber": "83809",
     "name": "MCDANIEL, KAYLEIGH SUZANNE",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T09:17:14",
+  "generatedAt": "2026-10-31T09:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 370,
-    "bookingsObserved": 221,
+    "bookingsTracked": 371,
+    "bookingsObserved": 222,
     "releasesObserved": 224,
-    "inCustody": 146,
-    "uniquePeople": 350
+    "inCustody": 147,
+    "uniquePeople": 351
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 61,
-      "pct": 7.4
+      "count": 62,
+      "pct": 7.5
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 98,
-      "pct": 26.6,
+      "count": 99,
+      "pct": 26.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 87,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Lewis County Jail"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 271,
-      "pct": 33.4,
+      "count": 272,
+      "pct": 33.5,
       "label": "Lewis County District Court"
     },
     {
@@ -457,7 +457,7 @@
     {
       "name": "Included",
       "count": 179,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "Serving Time",
@@ -466,13 +466,13 @@
     },
     {
       "name": "No Bail",
-      "count": 101,
-      "pct": 12.4
+      "count": 102,
+      "pct": 12.5
     },
     {
       "name": "Released by Court",
       "count": 73,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Appearance Bond",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31.2,
+    "currentMedianDaysHeld": 31.1,
     "currentLongestDaysHeld": 783.7
   },
   "bond": {
     "withBond": 85,
-    "noBond": 61,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 15886574
