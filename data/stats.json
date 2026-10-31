@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T14:49:14",
+  "generatedAt": "2026-10-31T15:17:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 373,
-    "bookingsObserved": 224,
+    "bookingsTracked": 374,
+    "bookingsObserved": 225,
     "releasesObserved": 224,
-    "inCustody": 149,
-    "uniquePeople": 353
+    "inCustody": 150,
+    "uniquePeople": 354
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 6,
+      "booked": 7,
       "released": 1
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 37,
-      "pct": 4.5
+      "count": 38,
+      "pct": 4.6
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -199,7 +199,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 17,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 99,
-      "pct": 26.6,
+      "count": 100,
+      "pct": 26.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 87,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 80,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "Centralia Police"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 272,
-      "pct": 33.4,
+      "count": 273,
+      "pct": 33.5,
       "label": "Lewis County District Court"
     },
     {
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 29.5,
+    "currentMedianDaysHeld": 29.2,
     "currentLongestDaysHeld": 783.9
   },
   "bond": {
     "withBond": 86,
-    "noBond": 63,
+    "noBond": 64,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 15891774
