@@ -1,5 +1,29 @@
 [
   {
+    "id": "81697-20261030114900",
+    "inmateNumber": "81697",
+    "name": "PEARCE, SEAN MARTIN",
+    "bookedAt": "2026-10-30T11:49:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT/FTA",
+        "arrestDate": "2026-10-30T11:49:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash Only",
+        "bondAmount": 1000,
+        "warrantNumber": "2130025321"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T18:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "333621-20261030074000",
     "inmateNumber": "333621",
     "name": "GLATZMAIERMACE, MARIANNE NICOLE",

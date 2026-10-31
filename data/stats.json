@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T18:17:16",
+  "generatedAt": "2026-10-30T18:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 363,
-    "bookingsObserved": 214,
+    "bookingsTracked": 364,
+    "bookingsObserved": 215,
     "releasesObserved": 222,
-    "inCustody": 141,
-    "uniquePeople": 346
+    "inCustody": 142,
+    "uniquePeople": 347
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 5,
+      "booked": 6,
       "released": 8
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 94,
-      "pct": 26,
+      "count": 95,
+      "pct": 26.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 86,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 35,
-      "pct": 9.7,
+      "pct": 9.6,
       "label": "Washington State Patrol"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 335,
-      "pct": 42.1,
+      "count": 336,
+      "pct": 42.2,
       "label": "Lewis County Superior Court"
     },
     {
@@ -457,7 +457,7 @@
     {
       "name": "Included",
       "count": 177,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "Serving Time",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31.4,
+    "currentMedianDaysHeld": 31.2,
     "currentLongestDaysHeld": 783.1
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 84,
     "noBond": 58,
-    "medianBond": 50000,
+    "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 15385074
+    "totalBond": 15386074
   },
   "chargesPerBooking": 2.2
 }
