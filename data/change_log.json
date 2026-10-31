@@ -71,33 +71,35 @@
     "name": "DAVIS, JASON COREY",
     "bookedAt": "2026-10-31T12:31:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-10-31T12:31:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
         "warrantNumber": "6A0169500"
       },
       {
         "description": "Criminal Trespass 2",
         "arrestDate": "2026-10-31T12:31:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0169500"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-31T15:17:20",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "397390-20261031113100",

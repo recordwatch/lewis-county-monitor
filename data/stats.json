@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:17:20",
+  "generatedAt": "2026-10-31T15:32:28",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 374,
@@ -328,12 +328,12 @@
     {
       "name": "SUP",
       "count": 336,
-      "pct": 41.2,
+      "pct": 41.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 273,
+      "count": 274,
       "pct": 33.5,
       "label": "Lewis County District Court"
     },
@@ -358,7 +358,7 @@
     {
       "name": "DOC",
       "count": 20,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "Dept. of Corrections"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 224,
-      "pct": 27.4
+      "count": 226,
+      "pct": 27.5
     },
     {
       "name": "Included",
       "count": 179,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "Serving Time",
@@ -467,7 +467,7 @@
     {
       "name": "No Bail",
       "count": 103,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "Released by Court",
@@ -541,14 +541,14 @@
       }
     ],
     "currentMedianDaysHeld": 29.2,
-    "currentLongestDaysHeld": 783.9
+    "currentLongestDaysHeld": 784
   },
   "bond": {
-    "withBond": 86,
-    "noBond": 64,
-    "medianBond": 42500,
+    "withBond": 87,
+    "noBond": 63,
+    "medianBond": 35000,
     "maxBond": 3000000,
-    "totalBond": 15891774
+    "totalBond": 15893274
   },
   "chargesPerBooking": 2.2
 }
