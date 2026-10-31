@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T01:49:16",
+  "generatedAt": "2026-10-31T02:11:52",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 368,
-    "bookingsObserved": 219,
-    "releasesObserved": 223,
+    "bookingsTracked": 369,
+    "bookingsObserved": 220,
+    "releasesObserved": 224,
     "inCustody": 145,
     "uniquePeople": 350
   },
@@ -151,35 +151,35 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 8,
+      "booked": 9,
       "released": 9
     },
     {
       "date": "2026-10-31",
       "booked": 2,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
       "count": 61,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 44,
-      "pct": 5.4
+      "pct": 5.3
+    },
+    {
+      "name": "DWLS 3RD DEGREE/FTA",
+      "count": 39,
+      "pct": 4.7
     },
     {
       "name": "POSS of Controlled Substance",
       "count": 37,
       "pct": 4.5
-    },
-    {
-      "name": "DWLS 3RD DEGREE/FTA",
-      "count": 35,
-      "pct": 4.3
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -189,12 +189,12 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 25,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 25,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -252,12 +252,12 @@
       "pct": 1.1
     },
     {
-      "name": "DWLS 2ND DEGREE/FTA",
+      "name": "ASLT 4TH/FTA",
       "count": 8,
       "pct": 1
     },
     {
-      "name": "USE PARAPHERNALIA/FTA",
+      "name": "DWLS 2ND DEGREE/FTA",
       "count": 8,
       "pct": 1
     }
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 97,
-      "pct": 26.4,
+      "count": 98,
+      "pct": 26.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 87,
-      "pct": 23.7,
+      "pct": 23.6,
       "label": "Lewis County Jail"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 336,
-      "pct": 41.7,
+      "pct": 41.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 266,
-      "pct": 33,
+      "count": 271,
+      "pct": 33.5,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 56,
-      "pct": 7,
+      "pct": 6.9,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "DOC",
       "count": 19,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -452,22 +452,22 @@
     {
       "name": "Cash or Bond",
       "count": 222,
-      "pct": 27.4
+      "pct": 27.3
     },
     {
       "name": "Included",
       "count": 179,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "Serving Time",
       "count": 155,
-      "pct": 19.2
+      "pct": 19
     },
     {
       "name": "No Bail",
-      "count": 95,
-      "pct": 11.7
+      "count": 100,
+      "pct": 12.3
     },
     {
       "name": "Released by Court",

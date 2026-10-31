@@ -58,12 +58,12 @@
         "warrantNumber": "3A0833974"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T00:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-31T02:11:52",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "observed"
   },
   {
     "id": "332216-20261031004200",
@@ -96,6 +96,72 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-31T01:49:16",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "239226-20261030235900",
+    "inmateNumber": "239226",
+    "name": "PORTER, ALISHA ANN",
+    "bookedAt": "2026-10-30T23:59:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-30T23:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "4A0770873"
+      },
+      {
+        "description": "ASLT 4TH/FTA",
+        "arrestDate": "2026-10-30T23:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "4A0502296"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-30T23:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "4A0674063"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-30T23:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "4A0770883"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-30T23:59:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "3A0833974"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T02:11:52",
     "releasedAt": null,
     "baseline": false
   },
