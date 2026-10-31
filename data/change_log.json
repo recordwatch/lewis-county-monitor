@@ -1,5 +1,29 @@
 [
   {
+    "id": "189787-20261030181500",
+    "inmateNumber": "189787",
+    "name": "NULL, ALINA MARIE",
+    "bookedAt": "2026-10-30T18:15:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-30T18:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "10/30/2026 DOC 372473"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T19:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "81697-20261030114900",
     "inmateNumber": "81697",
     "name": "PEARCE, SEAN MARTIN",
