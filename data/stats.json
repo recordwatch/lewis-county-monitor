@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T00:17:15",
+  "generatedAt": "2026-10-31T00:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 366,
-    "bookingsObserved": 217,
+    "bookingsTracked": 367,
+    "bookingsObserved": 218,
     "releasesObserved": 223,
-    "inCustody": 143,
-    "uniquePeople": 348
+    "inCustody": 144,
+    "uniquePeople": 349
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
-      "count": 31,
-      "pct": 3.8
+      "count": 32,
+      "pct": 3.9
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 96,
-      "pct": 26.3,
+      "count": 97,
+      "pct": 26.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 78,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "Centralia Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 31.1,
+    "currentMedianDaysHeld": 31.2,
     "currentLongestDaysHeld": 783.3
   },
   "bond": {
     "withBond": 84,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 15885074

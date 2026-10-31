@@ -1,5 +1,39 @@
 [
   {
+    "id": "239226-20261031235900",
+    "inmateNumber": "239226",
+    "name": "PORTER, ALISHA ANN",
+    "bookedAt": "2026-10-31T23:59:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-10-31T23:59:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "ASLT 4TH/FTA",
+        "arrestDate": "2026-10-31T23:59:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T00:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "207694-20261030190000",
     "inmateNumber": "207694",
     "name": "EMBUM, COLE RILEY GENE",
