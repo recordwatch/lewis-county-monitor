@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:32:15",
+  "generatedAt": "2026-10-31T19:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 377,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 338,
-      "pct": 41.2,
+      "pct": 41.1,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 77,
-      "pct": 9.4,
+      "count": 78,
+      "pct": 9.5,
       "label": "Centralia Municipal Court"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "Included",
-      "count": 179,
-      "pct": 21.7
+      "count": 180,
+      "pct": 21.8
     },
     {
       "name": "Serving Time",
