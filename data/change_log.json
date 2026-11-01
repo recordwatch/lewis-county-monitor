@@ -1,5 +1,39 @@
 [
   {
+    "id": "423263-20261101080500",
+    "inmateNumber": "423263",
+    "name": "ROUSE, KEITH",
+    "bookedAt": "2026-11-01T08:05:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 1ST",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T10:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423254-20261101054500",
     "inmateNumber": "423254",
     "name": "HUDDLE, DARAIAN ALEXANDRA",
