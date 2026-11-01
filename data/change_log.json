@@ -2,7 +2,7 @@
   {
     "id": "423263-20261101080500",
     "inmateNumber": "423263",
-    "name": "ROUSE, KEITH",
+    "name": "ROUSE JR, KEITH LETRON",
     "bookedAt": "2026-11-01T08:05:00",
     "arrestingAgency": "WASH",
     "bondTotal": null,
@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-01T10:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423254-20261101054500",
