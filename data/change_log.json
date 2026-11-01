@@ -66,6 +66,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "62703-20261031230500",
+    "inmateNumber": "62703",
+    "name": "HOUSE, DONALD CRAIG",
+    "bookedAt": "2026-10-31T23:05:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-10-31T23:05:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T01:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "421604-20261031143000",
     "inmateNumber": "421604",
     "name": "RABANG, CARCIONE CHARLES",
