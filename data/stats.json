@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T18:49:19",
+  "generatedAt": "2026-10-31T19:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 376,
-    "bookingsObserved": 227,
+    "bookingsTracked": 377,
+    "bookingsObserved": 228,
     "releasesObserved": 224,
-    "inCustody": 152,
-    "uniquePeople": 356
+    "inCustody": 153,
+    "uniquePeople": 357
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 9,
+      "booked": 10,
       "released": 1
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 63,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -202,14 +202,14 @@
       "pct": 2
     },
     {
-      "name": "ASSAULT 4TH DEGREE/DV",
+      "name": "Protection Order Violation",
       "count": 14,
       "pct": 1.7
     },
     {
-      "name": "Protection Order Violation",
-      "count": 13,
-      "pct": 1.6
+      "name": "ASSAULT 4TH DEGREE/DV",
+      "count": 14,
+      "pct": 1.7
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 100,
-      "pct": 26.7,
+      "pct": 26.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 87,
-      "pct": 23.2,
+      "pct": 23.1,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 80,
-      "pct": 21.3,
+      "count": 81,
+      "pct": 21.5,
       "label": "Centralia Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 336,
-      "pct": 41.1,
+      "count": 338,
+      "pct": 41.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 275,
-      "pct": 33.6,
+      "pct": 33.5,
       "label": "Lewis County District Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "DOC",
-      "count": 20,
-      "pct": 2.4,
+      "count": 21,
+      "pct": 2.6,
       "label": "Dept. of Corrections"
     },
     {
@@ -452,27 +452,27 @@
     {
       "name": "Cash or Bond",
       "count": 226,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "Included",
       "count": 179,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "Serving Time",
-      "count": 155,
+      "count": 156,
       "pct": 18.9
     },
     {
       "name": "No Bail",
-      "count": 104,
-      "pct": 12.7
+      "count": 106,
+      "pct": 12.8
     },
     {
       "name": "Released by Court",
       "count": 73,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "Appearance Bond",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 28.8,
+    "currentMedianDaysHeld": 28.7,
     "currentLongestDaysHeld": 784.1
   },
   "bond": {
     "withBond": 87,
-    "noBond": 65,
+    "noBond": 66,
     "medianBond": 35000,
     "maxBond": 3000000,
     "totalBond": 15893274

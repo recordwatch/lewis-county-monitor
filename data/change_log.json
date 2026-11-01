@@ -66,6 +66,50 @@
     "releaseSource": "observed"
   },
   {
+    "id": "421604-20261031143000",
+    "inmateNumber": "421604",
+    "name": "RABANG, CARCIONE CHARLES",
+    "bookedAt": "2026-10-31T14:30:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Distribution to person <18",
+        "arrestDate": "2026-10-31T14:30:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "CHILD MOLEST 3RD",
+        "arrestDate": "2026-10-31T14:30:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-10-31T14:30:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T19:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423238-20261031133000",
     "inmateNumber": "423238",
     "name": "LANDOE, DAVID J",
@@ -139,11 +183,11 @@
         "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-10-31T12:30:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "435757 103126"
       }
     ],
     "status": "in_custody",
