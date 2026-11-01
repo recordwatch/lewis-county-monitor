@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:17:16",
+  "generatedAt": "2026-11-01T11:32:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 386,
@@ -177,14 +177,14 @@
       "pct": 4.7
     },
     {
-      "name": "POSS of Controlled Substance",
+      "name": "OTHER AGENCY HOLD",
       "count": 38,
       "pct": 4.5
     },
     {
-      "name": "OTHER AGENCY HOLD",
-      "count": 37,
-      "pct": 4.4
+      "name": "POSS of Controlled Substance",
+      "count": 38,
+      "pct": 4.5
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -334,7 +334,7 @@
     {
       "name": "LCD",
       "count": 278,
-      "pct": 33.5,
+      "pct": 33.4,
       "label": "Lewis County District Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "DOC",
-      "count": 21,
-      "pct": 2.5,
+      "count": 22,
+      "pct": 2.6,
       "label": "Dept. of Corrections"
     },
     {
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 226,
-      "pct": 27.1
+      "pct": 27
     },
     {
       "name": "Included",
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 156,
-      "pct": 18.7
+      "count": 157,
+      "pct": 18.8
     },
     {
       "name": "No Bail",

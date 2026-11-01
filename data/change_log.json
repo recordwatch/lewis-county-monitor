@@ -2,17 +2,27 @@
   {
     "id": "423263-20261101080500",
     "inmateNumber": "423263",
-    "name": "ROUSE JR, KEITH LETRON",
+    "name": "ROUSE, KEITH LETRON",
     "bookedAt": "2026-11-01T08:05:00",
     "arrestingAgency": "WASH",
     "bondTotal": null,
     "charges": [
       {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "409594"
+      },
+      {
         "description": "ASSAULT 1ST",
         "arrestDate": "2026-11-01T08:05:00",
         "arrestingAgency": "WASH",
         "court": "SUP",
-        "billingAgency": "WSP",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
@@ -22,7 +32,7 @@
         "arrestDate": "2026-11-01T08:05:00",
         "arrestingAgency": "WASH",
         "court": "SUP",
-        "billingAgency": "WSP",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
