@@ -1,5 +1,29 @@
 [
   {
+    "id": "419026-20261101102800",
+    "inmateNumber": "419026",
+    "name": "VILLASENOR, JARI SHAKIRA",
+    "bookedAt": "2026-11-01T10:28:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-01T10:28:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0398073"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T13:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423263-20261101080500",
     "inmateNumber": "423263",
     "name": "ROUSE, KEITH LETRON",
@@ -16,6 +40,16 @@
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "409594"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "OSC",
+        "billingAgency": "OTAG",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "261030024"
       },
       {
         "description": "ASSAULT 1ST",
