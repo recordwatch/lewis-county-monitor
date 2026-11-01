@@ -64,12 +64,12 @@
         "warrantNumber": "6A0011399"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T09:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-01T11:34:56",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIEND",
+    "releaseSource": "official"
   },
   {
     "id": "423260-20261101053400",
