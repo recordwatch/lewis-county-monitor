@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T18:32:17",
+  "generatedAt": "2026-10-31T18:46:41",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 375,
-    "bookingsObserved": 226,
+    "bookingsTracked": 376,
+    "bookingsObserved": 227,
     "releasesObserved": 224,
-    "inCustody": 151,
-    "uniquePeople": 355
+    "inCustody": 152,
+    "uniquePeople": 356
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 8,
+      "booked": 9,
       "released": 1
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 36,
-      "pct": 4.3
+      "count": 37,
+      "pct": 4.4
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -272,19 +272,19 @@
     {
       "name": "JAIL",
       "count": 87,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 80,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 47,
-      "pct": 12.6,
+      "count": 48,
+      "pct": 12.8,
       "label": "Chehalis Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 28.9,
+    "currentMedianDaysHeld": 28.8,
     "currentLongestDaysHeld": 784.1
   },
   "bond": {
     "withBond": 87,
-    "noBond": 64,
+    "noBond": 65,
     "medianBond": 35000,
     "maxBond": 3000000,
     "totalBond": 15893274

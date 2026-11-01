@@ -128,6 +128,30 @@
     "releaseSource": null
   },
   {
+    "id": "423235-20261031123000",
+    "inmateNumber": "423235",
+    "name": "COLSON, ETHAN PIERRE",
+    "bookedAt": "2026-10-31T12:30:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-10-31T12:30:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T18:46:41",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "397390-20261031113100",
     "inmateNumber": "397390",
     "name": "MOSTELLER, JACOB ANDREW",
