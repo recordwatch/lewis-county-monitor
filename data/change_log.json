@@ -1,5 +1,29 @@
 [
   {
+    "id": "423253-20261101031200",
+    "inmateNumber": "423253",
+    "name": "CURRY, HAYDEN OWEN",
+    "bookedAt": "2026-11-01T03:12:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-01T03:12:00",
+        "arrestingAgency": "WASH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T07:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "235477-20261101021700",
     "inmateNumber": "235477",
     "name": "DEAN-SNODGRASS, PATRICK BENTON",
@@ -50,6 +74,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "3580-20261101014900",
+    "inmateNumber": "3580",
+    "name": "COLLETTE, DAVID PAUL",
+    "bookedAt": "2026-11-01T01:49:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-01T01:49:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0390650"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T07:17:17",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "239226-20261031235900",
@@ -221,7 +269,7 @@
     "name": "DAVIS, JASON COREY",
     "bookedAt": "2026-10-31T12:31:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 1500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -230,7 +278,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 2500,
         "warrantNumber": "6A0169500"
       },
       {
@@ -239,8 +287,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0169500"
       }
     ],
@@ -405,8 +453,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "6A0011397"
       },
       {
@@ -415,8 +463,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0011397"
       }
     ],
