@@ -1,5 +1,53 @@
 [
   {
+    "id": "235477-20261101021700",
+    "inmateNumber": "235477",
+    "name": "DEAN-SNODGRASS, PATRICK BENTON",
+    "bookedAt": "2026-11-01T02:17:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-01T02:17:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0011398"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T03:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "423251-20261101020500",
+    "inmateNumber": "423251",
+    "name": "PABLO CARRILLO, ALFREDO",
+    "bookedAt": "2026-11-01T02:05:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-01T02:05:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0307355"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T03:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "239226-20261031235900",
     "inmateNumber": "239226",
     "name": "PORTER, ALISHA ANN",
