@@ -1,5 +1,29 @@
 [
   {
+    "id": "423254-20261101054500",
+    "inmateNumber": "423254",
+    "name": "HUDDLE, DARAIAN ALEXANDRA",
+    "bookedAt": "2026-11-01T05:45:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "PHYSIC CONT W INTOX",
+        "arrestDate": "2026-11-01T05:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0011399"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T09:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423253-20261101031200",
     "inmateNumber": "423253",
     "name": "CURRY, HAYDEN OWEN",
@@ -125,7 +149,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-01T08:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "239226-20261031235900",
