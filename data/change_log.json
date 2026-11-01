@@ -11,11 +11,11 @@
         "description": "DUI",
         "arrestDate": "2026-11-01T03:12:00",
         "arrestingAgency": "WASH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "T00958895"
       }
     ],
     "status": "in_custody",
@@ -102,6 +102,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "231947-20261101014700",
+    "inmateNumber": "231947",
+    "name": "ALLISON, REBECCA DAWN",
+    "bookedAt": "2026-11-01T01:47:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 6000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG/FTA",
+        "arrestDate": "2026-11-01T01:47:00",
+        "arrestingAgency": "LCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 6000,
+        "warrantNumber": "5A0123640"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T08:49:16",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "239226-20261031235900",
