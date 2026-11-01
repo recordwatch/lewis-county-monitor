@@ -26,6 +26,30 @@
     "releaseSource": null
   },
   {
+    "id": "423260-20261101053400",
+    "inmateNumber": "423260",
+    "name": "PINA BASAIL, RAYMUNDO",
+    "bookedAt": "2026-11-01T05:34:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-01T05:34:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00837788"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T09:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423253-20261101031200",
     "inmateNumber": "423253",
     "name": "CURRY, HAYDEN OWEN",
