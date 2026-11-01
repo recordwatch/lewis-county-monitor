@@ -18,12 +18,12 @@
         "warrantNumber": "6A0011398"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T03:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-01T04:15:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423251-20261101020500",
