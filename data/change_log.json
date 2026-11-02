@@ -4069,7 +4069,7 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0070236"
       },
@@ -4079,7 +4079,7 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0070236"
       }
