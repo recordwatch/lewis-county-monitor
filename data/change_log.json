@@ -361,7 +361,7 @@
     "name": "RABANG, CARCIONE CHARLES",
     "bookedAt": "2026-10-31T14:30:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "Distribution to person <18",
@@ -369,8 +369,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "W"
       },
       {
