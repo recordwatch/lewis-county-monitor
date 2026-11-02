@@ -1,5 +1,63 @@
 [
   {
+    "id": "394905-20261101205706",
+    "inmateNumber": "394905",
+    "name": "OCHOA AMBRIZ, JOSE FERNANDO",
+    "bookedAt": "2026-11-01T20:57:06",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-01T20:57:06",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00935163"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T21:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "418485-20261101185100",
+    "inmateNumber": "418485",
+    "name": "VANDUREN, ALEXANDER WILLIAM",
+    "bookedAt": "2026-11-01T18:51:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 1ST/FIREARM",
+        "arrestDate": "2026-11-01T18:51:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS STLN FIREARM",
+        "arrestDate": "2026-11-01T18:51:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T21:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "5018-20261101160800",
     "inmateNumber": "5018",
     "name": "GRAHAM, TOBIAH NAAMAN",
