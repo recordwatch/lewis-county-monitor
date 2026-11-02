@@ -73,11 +73,11 @@
         "description": "BURG 2ND/DAY/ATT FORCE ENT",
         "arrestDate": "2026-11-01T22:32:00",
         "arrestingAgency": "MORT",
-        "court": null,
-        "billingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "DISORDERLY CONDUCT",
@@ -103,7 +103,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-02T03:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423283-20261101210500",
@@ -11208,12 +11210,12 @@
         "warrantNumber": "2610050121"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T08:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "RELAY TO KING COUNTY",
+    "releaseSource": "official"
   },
   {
     "id": "363186-20260922044500",
