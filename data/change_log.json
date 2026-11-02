@@ -1,5 +1,39 @@
 [
   {
+    "id": "423283-20261101210500",
+    "inmateNumber": "423283",
+    "name": "GIBONEY, TREASURE",
+    "bookedAt": "2026-11-01T21:05:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-01T21:05:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00958897"
+      },
+      {
+        "description": "LEGEND DRUG-POSS NO PRESC",
+        "arrestDate": "2026-11-01T21:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00958899"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T01:17:31",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "394905-20261101205706",
     "inmateNumber": "394905",
     "name": "OCHOA AMBRIZ, JOSE FERNANDO",
