@@ -1,5 +1,53 @@
 [
   {
+    "id": "5018-20261101160800",
+    "inmateNumber": "5018",
+    "name": "GRAHAM, TOBIAH NAAMAN",
+    "bookedAt": "2026-11-01T16:08:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-01T16:08:00",
+        "arrestingAgency": "CHEH",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "752999 110126"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T19:49:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "315828-20261101153500",
+    "inmateNumber": "315828",
+    "name": "MEJIA, ISAIAH E",
+    "bookedAt": "2026-11-01T15:35:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-01T15:35:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0415835"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T19:49:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "419026-20261101102800",
     "inmateNumber": "419026",
     "name": "VILLASENOR, JARI SHAKIRA",
