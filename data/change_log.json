@@ -1,5 +1,39 @@
 [
   {
+    "id": "357134-20261102100000",
+    "inmateNumber": "357134",
+    "name": "TIMMONS, ANGELIQUE JOY",
+    "bookedAt": "2026-11-02T10:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "arrestDate": "2026-11-02T10:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
+        "warrantNumber": "2610056621"
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-11-02T10:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610056621"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T13:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "334565-20261102003100",
     "inmateNumber": "334565",
     "name": "MCCANN, ELISABETH MARIE",
@@ -183,9 +217,9 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Amended",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "NOT FILED"
       },
       {
         "description": "POSS STLN FIREARM",
@@ -195,7 +229,17 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610058421"
+      },
+      {
+        "description": "ASSAULT 2(Deadly weapon)",
+        "arrestDate": "2026-11-01T18:51:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058421"
       }
     ],
     "status": "in_custody",
@@ -299,7 +343,7 @@
         "billingAgency": "SCON",
         "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "409594"
+        "warrantNumber": "409594 110126"
       },
       {
         "description": "OTHER AGENCY HOLD",
@@ -319,7 +363,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610058521"
       },
       {
         "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
@@ -327,9 +371,59 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610058521"
+      },
+      {
+        "description": "DRIVE-BY SHOOTING",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058521"
+      },
+      {
+        "description": "Malicious injury to railroad proprty",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058521"
+      },
+      {
+        "description": "HARRASSMENT-THREAT TO KILL-DOMESTIC VIOL",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058521"
+      },
+      {
+        "description": "UNLAW POSS FIREARM 1ST",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058521"
+      },
+      {
+        "description": "POSS STLN FIREARM",
+        "arrestDate": "2026-11-01T08:05:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058521"
       }
     ],
     "status": "in_custody",
@@ -514,12 +608,12 @@
         "warrantNumber": "5A0123640"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T08:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T14:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CSO FOR XFER",
+    "releaseSource": "official"
   },
   {
     "id": "239226-20261031235900",
