@@ -647,7 +647,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0431727"
       }
