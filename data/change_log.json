@@ -172,12 +172,12 @@
         "warrantNumber": "T00958899"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T01:17:31",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "394905-20261101205706",
@@ -480,12 +480,12 @@
         "warrantNumber": "T00837788"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T09:49:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423253-20261101031200",
@@ -506,12 +506,12 @@
         "warrantNumber": "T00958895"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T07:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "235477-20261101021700",
