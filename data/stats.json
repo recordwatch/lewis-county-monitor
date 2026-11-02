@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-01T21:49:15",
+  "generatedAt": "2026-11-01T22:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 391,
     "bookingsObserved": 242,
-    "releasesObserved": 227,
-    "inCustody": 164,
+    "releasesObserved": 228,
+    "inCustody": 163,
     "uniquePeople": 371
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-01",
       "booked": 13,
-      "released": 3
+      "released": 4
     }
   ],
   "topCharges": [
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 340,
-      "pct": 40.6,
+      "count": 342,
+      "pct": 40.8,
       "label": "Lewis County Superior Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 172,
-      "pct": 77.5
+      "count": 173,
+      "pct": 77.6
     },
     {
       "name": "ABHS",
@@ -405,12 +405,12 @@
     {
       "name": "FRIENDSHIP DIVERSON",
       "count": 5,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "WCC",
       "count": 5,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "DOC RELOCATE",
@@ -420,12 +420,12 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "CHEHALIS TRIBAL",
@@ -445,29 +445,29 @@
     {
       "name": "FRIEND",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.4
     }
   ],
   "bondTypes": [
     {
       "name": "Cash or Bond",
       "count": 227,
-      "pct": 27
+      "pct": 26.9
     },
     {
       "name": "Included",
-      "count": 182,
-      "pct": 21.6
+      "count": 183,
+      "pct": 21.7
     },
     {
       "name": "Serving Time",
       "count": 158,
-      "pct": 18.8
+      "pct": 18.7
     },
     {
       "name": "No Bail",
-      "count": 115,
-      "pct": 13.7
+      "count": 116,
+      "pct": 13.8
     },
     {
       "name": "Released by Court",
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 224,
+    "releasedCount": 225,
     "medianDays": 2.3,
     "meanDays": 12.5,
     "buckets": [
@@ -529,7 +529,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 42
+        "count": 43
       },
       {
         "label": "1–3 months",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 27.5,
+    "currentMedianDaysHeld": 27.6,
     "currentLongestDaysHeld": 785.2
   },
   "bond": {
-    "withBond": 90,
+    "withBond": 89,
     "noBond": 74,
-    "medianBond": 30000,
+    "medianBond": 35000,
     "maxBond": 3000000,
-    "totalBond": 16000774
+    "totalBond": 15998274
   },
   "chargesPerBooking": 2.2
 }

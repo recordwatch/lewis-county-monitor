@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-01T21:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "418485-20261101185100",
@@ -35,27 +37,29 @@
         "description": "ASSAULT 1ST/FIREARM",
         "arrestDate": "2026-11-01T18:51:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "POSS STLN FIREARM",
         "arrestDate": "2026-11-01T18:51:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-01T21:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "5018-20261101160800",
@@ -7814,12 +7818,12 @@
         "warrantNumber": "PA2600037"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T19:32:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-01T22:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "44227-20261011174500",
