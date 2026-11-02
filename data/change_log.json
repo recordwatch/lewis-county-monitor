@@ -21,6 +21,32 @@
     "status": "in_custody",
     "firstSeen": "2026-11-02T02:17:26",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "389604-20261101230600",
+    "inmateNumber": "389604",
+    "name": "PAZ GAMEZ, DIDIER JOSE",
+    "bookedAt": "2026-11-01T23:06:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-01T23:06:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T02:32:21",
+    "releasedAt": null,
     "baseline": false
   },
   {
