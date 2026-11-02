@@ -1,11 +1,35 @@
 [
   {
+    "id": "334565-20261102003100",
+    "inmateNumber": "334565",
+    "name": "MCCANN, ELISABETH MARIE",
+    "bookedAt": "2026-11-02T00:31:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND/FTA",
+        "arrestDate": "2026-11-02T00:31:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0404977"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T02:17:26",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423283-20261101210500",
     "inmateNumber": "423283",
     "name": "GIBONEY, TREASURE",
     "bookedAt": "2026-11-01T21:05:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DUI",
@@ -23,8 +47,8 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "T00958899"
       }
     ],
