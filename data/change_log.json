@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-02T13:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "334565-20261102003100",
@@ -723,7 +725,7 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 100000,
-        "warrantNumber": "W"
+        "warrantNumber": "2610058321"
       },
       {
         "description": "CHILD MOLEST 3RD",
@@ -733,7 +735,7 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610058321"
       },
       {
         "description": "Protection Order Violation",
@@ -744,6 +746,26 @@
         "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0431727"
+      },
+      {
+        "description": "FURNISH LIQUOR TO MINOR",
+        "arrestDate": "2026-10-31T14:30:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058321"
+      },
+      {
+        "description": "INDECENT LIBERTIES",
+        "arrestDate": "2026-10-31T14:30:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058321"
       }
     ],
     "status": "in_custody",
@@ -1439,7 +1461,7 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "NAPA",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "3A0330796"
       },
@@ -1449,7 +1471,7 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "3A0244851"
       },
@@ -1459,7 +1481,7 @@
         "arrestingAgency": "CENT",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "3A0041336"
       }

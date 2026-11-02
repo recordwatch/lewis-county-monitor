@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:17:15",
+  "generatedAt": "2026-11-02T13:32:18",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 396,
@@ -199,7 +199,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 17,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "Protection Order Violation",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 352,
-      "pct": 41.3,
+      "count": 354,
+      "pct": 41.4,
       "label": "Lewis County Superior Court"
     },
     {
@@ -456,23 +456,23 @@
     },
     {
       "name": "Included",
-      "count": 189,
-      "pct": 22.1
+      "count": 191,
+      "pct": 22.2
     },
     {
       "name": "Serving Time",
-      "count": 158,
-      "pct": 18.4
+      "count": 161,
+      "pct": 18.7
     },
     {
       "name": "No Bail",
-      "count": 117,
-      "pct": 13.7
+      "count": 114,
+      "pct": 13.3
     },
     {
       "name": "Released by Court",
       "count": 76,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "Appearance Bond",
