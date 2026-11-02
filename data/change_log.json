@@ -3680,6 +3680,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610057021"
+      },
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "arrestDate": "2026-10-22T06:30:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
