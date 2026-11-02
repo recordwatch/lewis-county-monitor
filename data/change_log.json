@@ -75,7 +75,7 @@
         "arrestingAgency": "MORT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
       },
