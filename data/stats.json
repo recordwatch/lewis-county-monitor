@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:32:21",
+  "generatedAt": "2026-11-02T02:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 394,
@@ -334,13 +334,13 @@
     {
       "name": "LCD",
       "count": 280,
-      "pct": 33.3,
+      "pct": 33.2,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 82,
-      "pct": 9.7,
+      "count": 83,
+      "pct": 9.8,
       "label": "Centralia Municipal Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "WLM",
       "count": 24,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Winlock Municipal Court"
     },
     {
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 229,
-      "pct": 27.1
+      "pct": 27
     },
     {
       "name": "Included",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 118,
-      "pct": 13.9
+      "count": 119,
+      "pct": 14
     },
     {
       "name": "Released by Court",

@@ -37,17 +37,19 @@
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-11-01T23:06:00",
         "arrestingAgency": "CENT",
-        "court": null,
+        "court": "CNM",
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A04033663"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-02T02:32:21",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423283-20261101210500",
