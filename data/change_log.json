@@ -296,12 +296,12 @@
         "warrantNumber": "6A0415835"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T19:49:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "419026-20261101102800",
@@ -322,12 +322,12 @@
         "warrantNumber": "6A0398073"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T13:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423263-20261101080500",
@@ -553,7 +553,7 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0307355"
       }
@@ -892,12 +892,12 @@
         "warrantNumber": "4A0412362"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T14:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "343792-20261031034300",
@@ -918,12 +918,12 @@
         "warrantNumber": "6A0013386"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T13:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423222-20261031020000",
@@ -1006,12 +1006,12 @@
         "warrantNumber": "6A0011397"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T01:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "239226-20261030235900",
@@ -1326,12 +1326,12 @@
         "warrantNumber": "6A0011396"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T21:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "43280-20261029172800",
