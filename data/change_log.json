@@ -211,7 +211,7 @@
     "name": "OCHOA AMBRIZ, JOSE FERNANDO",
     "bookedAt": "2026-11-01T20:57:06",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DUI",
@@ -219,8 +219,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "T00935163"
       }
     ],
@@ -237,7 +237,7 @@
     "name": "VANDUREN, ALEXANDER WILLIAM",
     "bookedAt": "2026-11-01T18:51:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "ASSAULT 1ST/FIREARM",
@@ -255,8 +255,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
         "warrantNumber": "2610058421"
       },
       {
@@ -361,7 +361,7 @@
     "name": "ROUSE, KEITH LETRON",
     "bookedAt": "2026-11-01T08:05:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 3000000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
@@ -389,8 +389,8 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 3000000,
         "warrantNumber": "2610058521"
       },
       {
@@ -833,7 +833,7 @@
     "name": "DAVIS, JASON COREY",
     "bookedAt": "2026-10-31T12:31:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 2500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -842,7 +842,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondAmount": 5000,
         "warrantNumber": "6A0169500"
       },
       {
@@ -957,7 +957,7 @@
     "name": "PADUANO, CAPRICE IRENE",
     "bookedAt": "2026-10-31T02:00:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DUI",
@@ -965,8 +965,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "6A030434"
       }
     ],
@@ -1053,7 +1053,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "4A0770873"
       },
@@ -1063,7 +1063,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "4A0502296"
       },
@@ -1073,7 +1073,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "4A0674063"
       },
@@ -1083,7 +1083,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "4A0770883"
       },
@@ -1093,7 +1093,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "3A0833974"
       }
@@ -9621,8 +9621,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "2610053021"
       },
       {
@@ -10083,8 +10083,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 100000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "2610052521"
       },
       {
