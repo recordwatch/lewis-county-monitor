@@ -51,13 +51,15 @@
         "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "T00837792"
+        "warrantNumber": "T00837791"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T03:49:18",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423315-20261102220200",
@@ -242,7 +244,7 @@
         "arrestDate": "2026-11-02T15:30:00",
         "arrestingAgency": "JAIL",
         "court": "SUP",
-        "billingAgency": "LCSC",
+        "billingAgency": "DRC",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610037921"
@@ -4668,12 +4670,12 @@
         "warrantNumber": "5A0521929"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T19:54:30",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "277168-20261021124500",
@@ -9230,12 +9232,12 @@
         "warrantNumber": "2610031721"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422646-20261008143400",
