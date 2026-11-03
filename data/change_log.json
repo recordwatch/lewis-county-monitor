@@ -280,12 +280,12 @@
         "warrantNumber": "6A0073954"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T03:10:57",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "60713-20261102194100",
@@ -1447,7 +1447,7 @@
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
         "bondAmount": 2500,
-        "warrantNumber": "6A030434"
+        "warrantNumber": "6A0300434"
       }
     ],
     "status": "in_custody",
