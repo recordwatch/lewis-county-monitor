@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T18:49:16",
+  "generatedAt": "2026-11-02T19:15:56",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 397,
     "bookingsObserved": 248,
-    "releasesObserved": 245,
-    "inCustody": 152,
+    "releasesObserved": 247,
+    "inCustody": 150,
     "uniquePeople": 377
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-02",
       "booked": 3,
-      "released": 17
+      "released": 19
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 186,
-      "pct": 77.5
+      "count": 188,
+      "pct": 77.7
     },
     {
       "name": "ABHS",
@@ -420,12 +420,12 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "CHEHALIS TRIBAL",
@@ -511,17 +511,17 @@
     }
   ],
   "stay": {
-    "releasedCount": 242,
+    "releasedCount": 244,
     "medianDays": 2.3,
     "meanDays": 12,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 59
+        "count": 60
       },
       {
         "label": "1–3 days",
-        "count": 85
+        "count": 86
       },
       {
         "label": "3–7 days",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 30,
+    "currentMedianDaysHeld": 30.8,
     "currentLongestDaysHeld": 786.1
   },
   "bond": {
-    "withBond": 90,
-    "noBond": 62,
+    "withBond": 89,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19018574
+    "totalBond": 19018074
   },
   "chargesPerBooking": 2.2
 }

@@ -162,12 +162,12 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T03:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423283-20261101210500",
@@ -610,12 +610,12 @@
         "warrantNumber": "6A0390650"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T07:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "231947-20261101014700",
@@ -1312,7 +1312,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondAmount": null,
         "warrantNumber": "T00929161"
       },
       {
