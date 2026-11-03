@@ -41,7 +41,7 @@
     "name": "ADAMS, DANIEL JOSIAH TARYN",
     "bookedAt": "2026-11-03T02:15:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 1500,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -50,7 +50,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 10000,
         "warrantNumber": "T00958910"
       },
       {
@@ -59,8 +59,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00958910"
       },
       {
@@ -371,7 +371,7 @@
     "name": "VAKHITOV, KHALIL KHALIKOVICH",
     "bookedAt": "2026-11-02T15:07:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DUI",
@@ -379,8 +379,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "T00895873"
       }
     ],
@@ -5307,7 +5307,7 @@
     "name": "KAUFMAN, LEE REID",
     "bookedAt": "2026-10-19T19:39:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 10000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -5315,8 +5315,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0427746"
       },
       {
@@ -5325,7 +5325,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0427746"
       },
