@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T15:49:24",
+  "generatedAt": "2026-11-02T16:17:22",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 396,
-    "bookingsObserved": 247,
+    "bookingsTracked": 397,
+    "bookingsObserved": 248,
     "releasesObserved": 245,
-    "inCustody": 151,
-    "uniquePeople": 376
+    "inCustody": 152,
+    "uniquePeople": 377
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 2,
+      "booked": 3,
       "released": 17
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 69,
-      "pct": 7.9
+      "count": 70,
+      "pct": 8
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 103,
-      "pct": 26.1,
+      "pct": 26,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 88,
-      "pct": 22.3,
+      "pct": 22.2,
       "label": "Lewis County Jail"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 41,
-      "pct": 10.4,
+      "count": 42,
+      "pct": 10.6,
       "label": "Washington State Patrol"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "LCD",
-      "count": 281,
+      "count": 282,
       "pct": 32.9,
       "label": "Lewis County District Court"
     },
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 30.5,
+    "currentMedianDaysHeld": 29.9,
     "currentLongestDaysHeld": 786
   },
   "bond": {
     "withBond": 86,
-    "noBond": 65,
+    "noBond": 66,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 15961074

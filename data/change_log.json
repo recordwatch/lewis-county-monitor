@@ -1,5 +1,29 @@
 [
   {
+    "id": "423302-20261102150700",
+    "inmateNumber": "423302",
+    "name": "VAKHITOV, KHALIL KHALIKOVICH",
+    "bookedAt": "2026-11-02T15:07:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-02T15:07:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T16:17:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357134-20261102100000",
     "inmateNumber": "357134",
     "name": "TIMMONS, ANGELIQUE JOY",
