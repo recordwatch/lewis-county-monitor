@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T02:17:16",
+  "generatedAt": "2026-11-03T02:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 404,
-    "bookingsObserved": 255,
+    "bookingsTracked": 405,
+    "bookingsObserved": 256,
     "releasesObserved": 247,
-    "inCustody": 157,
+    "inCustody": 158,
     "uniquePeople": 383
   },
   "bookingsByDay": [
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 10,
+      "booked": 11,
       "released": 19
     },
     {
@@ -252,12 +252,12 @@
       "pct": 1
     },
     {
-      "name": "RESIDENTIAL BURGLARY",
+      "name": "DRUG COURT SANCTIONS",
       "count": 8,
       "pct": 0.9
     },
     {
-      "name": "ASLT 4TH/FTA",
+      "name": "RESIDENTIAL BURGLARY",
       "count": 8,
       "pct": 0.9
     }
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 103,
-      "pct": 25.6,
+      "pct": 25.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 91,
-      "pct": 22.6,
+      "count": 92,
+      "pct": 22.8,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 85,
-      "pct": 21.1,
+      "pct": 21,
       "label": "Centralia Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 354,
-      "pct": 40.9,
+      "count": 355,
+      "pct": 41,
       "label": "Lewis County Superior Court"
     },
     {
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 167,
-      "pct": 19.2
+      "count": 168,
+      "pct": 19.3
     },
     {
       "name": "No Bail",
@@ -502,7 +502,7 @@
     {
       "name": "Referred",
       "count": 10,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "Released on Bond",
@@ -545,7 +545,7 @@
   },
   "bond": {
     "withBond": 95,
-    "noBond": 62,
+    "noBond": 63,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 19036774

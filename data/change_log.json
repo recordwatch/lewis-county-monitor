@@ -57,7 +57,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T02:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "420607-20261102184400",
@@ -84,6 +86,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "153344-20261102153000",
+    "inmateNumber": "153344",
+    "name": "CYR, JOHNNY RAY",
+    "bookedAt": "2026-11-02T15:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-11-02T15:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610037921"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T02:32:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "423302-20261102150700",
