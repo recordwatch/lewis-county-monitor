@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T22:17:15",
+  "generatedAt": "2026-11-02T22:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 400,
-    "bookingsObserved": 251,
+    "bookingsTracked": 401,
+    "bookingsObserved": 252,
     "releasesObserved": 247,
-    "inCustody": 153,
-    "uniquePeople": 379
+    "inCustody": 154,
+    "uniquePeople": 380
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 6,
+      "booked": 7,
       "released": 19
     }
   ],
@@ -189,12 +189,12 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 25,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 25,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -272,7 +272,7 @@
     {
       "name": "JAIL",
       "count": 90,
-      "pct": 22.6,
+      "pct": 22.5,
       "label": "Lewis County Jail"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CHEH",
-      "count": 53,
-      "pct": 13.3,
+      "count": 54,
+      "pct": 13.5,
       "label": "Chehalis Police"
     },
     {
@@ -541,11 +541,11 @@
       }
     ],
     "currentMedianDaysHeld": 29.5,
-    "currentLongestDaysHeld": 786.2
+    "currentLongestDaysHeld": 786.3
   },
   "bond": {
     "withBond": 92,
-    "noBond": 61,
+    "noBond": 62,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 19032674

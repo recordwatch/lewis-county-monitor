@@ -1,5 +1,29 @@
 [
   {
+    "id": "420607-20261102184400",
+    "inmateNumber": "420607",
+    "name": "BENNETT, HAROLD VERNON",
+    "bookedAt": "2026-11-02T18:44:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-11-02T18:44:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T22:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423302-20261102150700",
     "inmateNumber": "423302",
     "name": "VAKHITOV, KHALIL KHALIKOVICH",
@@ -15,7 +39,7 @@
         "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "T00895873"
       }
     ],
     "status": "in_custody",
@@ -47,7 +71,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-02T22:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "62703-20261102142700",
