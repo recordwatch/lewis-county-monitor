@@ -130,7 +130,7 @@
         "arrestDate": "2026-11-02T19:46:00",
         "arrestingAgency": "CENT",
         "court": "CNM",
-        "billingAgency": null,
+        "billingAgency": "CENT",
         "bondType": "Cash or Bond",
         "bondAmount": 1000,
         "warrantNumber": "6A0073953"
