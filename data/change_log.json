@@ -1450,12 +1450,12 @@
         "warrantNumber": "6A0300434"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T09:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "83809-20261031014800",
@@ -1806,12 +1806,12 @@
         "warrantNumber": "T00929161"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T10:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "133335-20261029211000",
@@ -9206,7 +9206,7 @@
         "arrestDate": "2026-10-09T11:35:00",
         "arrestingAgency": "JAIL",
         "court": "OSC",
-        "billingAgency": "OLYM",
+        "billingAgency": "OTAG",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "241024753"
