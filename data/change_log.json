@@ -5,23 +5,25 @@
     "name": "BENNETT, HAROLD VERNON",
     "bookedAt": "2026-11-02T18:44:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
         "arrestDate": "2026-11-02T18:44:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0429099"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-02T22:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423302-20261102150700",

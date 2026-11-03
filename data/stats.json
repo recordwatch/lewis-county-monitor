@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:32:17",
+  "generatedAt": "2026-11-02T22:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 401,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 354,
-      "pct": 41.2,
+      "pct": 41.1,
       "label": "Lewis County Superior Court"
     },
     {
@@ -340,13 +340,13 @@
     {
       "name": "CNM",
       "count": 83,
-      "pct": 9.7,
+      "pct": 9.6,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
-      "count": 59,
-      "pct": 6.9,
+      "count": 60,
+      "pct": 7,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 236,
-      "pct": 27.3
+      "count": 237,
+      "pct": 27.4
     },
     {
       "name": "Included",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 786.3
   },
   "bond": {
-    "withBond": 92,
-    "noBond": 62,
-    "medianBond": 42500,
+    "withBond": 93,
+    "noBond": 61,
+    "medianBond": 35000,
     "maxBond": 3000000,
-    "totalBond": 19032674
+    "totalBond": 19033674
   },
   "chargesPerBooking": 2.2
 }
