@@ -36,6 +36,30 @@
     "releaseSource": null
   },
   {
+    "id": "60713-20261102194100",
+    "inmateNumber": "60713",
+    "name": "GOBLE, JAMIE DELRINE",
+    "bookedAt": "2026-11-02T19:41:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1600,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance/FTA",
+        "arrestDate": "2026-11-02T19:41:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1600,
+        "warrantNumber": "6A0390640"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T02:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "420607-20261102184400",
     "inmateNumber": "420607",
     "name": "BENNETT, HAROLD VERNON",

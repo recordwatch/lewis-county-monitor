@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T01:49:27",
+  "generatedAt": "2026-11-03T02:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 403,
-    "bookingsObserved": 254,
+    "bookingsTracked": 404,
+    "bookingsObserved": 255,
     "releasesObserved": 247,
-    "inCustody": 156,
-    "uniquePeople": 382
+    "inCustody": 157,
+    "uniquePeople": 383
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 9,
+      "booked": 10,
       "released": 19
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 41,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -189,7 +189,7 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 26,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 43,
-      "pct": 10.7,
+      "count": 44,
+      "pct": 10.9,
       "label": "Washington State Patrol"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 354,
-      "pct": 41,
+      "pct": 40.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 287,
-      "pct": 33.2,
+      "count": 288,
+      "pct": 33.3,
       "label": "Lewis County District Court"
     },
     {
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 239,
-      "pct": 27.5
+      "count": 240,
+      "pct": 27.6
     },
     {
       "name": "Included",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 29.3,
+    "currentMedianDaysHeld": 29.2,
     "currentLongestDaysHeld": 786.4
   },
   "bond": {
-    "withBond": 94,
+    "withBond": 95,
     "noBond": 62,
-    "medianBond": 30000,
+    "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 19035174
+    "totalBond": 19036774
   },
   "chargesPerBooking": 2.2
 }
