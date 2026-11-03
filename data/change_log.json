@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "166486-20261102133000",
+    "inmateNumber": "166486",
+    "name": "BLANTON, ZACHARY DANIEL",
+    "bookedAt": "2026-11-02T13:30:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-11-02T13:30:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0379547"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-02T13:30:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0379547"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T19:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357134-20261102100000",
     "inmateNumber": "357134",
     "name": "TIMMONS, ANGELIQUE JOY",
