@@ -1718,12 +1718,12 @@
         "warrantNumber": "2510034521"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T10:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T10:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "412134-20261030063800",
