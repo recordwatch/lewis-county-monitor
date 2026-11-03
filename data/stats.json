@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T21:49:24",
+  "generatedAt": "2026-11-02T22:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 399,
-    "bookingsObserved": 250,
+    "bookingsTracked": 400,
+    "bookingsObserved": 251,
     "releasesObserved": 247,
-    "inCustody": 152,
-    "uniquePeople": 378
+    "inCustody": 153,
+    "uniquePeople": 379
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 5,
+      "booked": 6,
       "released": 19
     }
   ],
@@ -172,19 +172,19 @@
       "pct": 5.4
     },
     {
-      "name": "OTHER AGENCY HOLD",
-      "count": 40,
-      "pct": 4.6
+      "name": "DWLS 3RD DEGREE/FTA",
+      "count": 41,
+      "pct": 4.7
     },
     {
-      "name": "DWLS 3RD DEGREE/FTA",
+      "name": "OTHER AGENCY HOLD",
       "count": 40,
       "pct": 4.6
     },
     {
       "name": "POSS of Controlled Substance",
       "count": 39,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 103,
-      "pct": 25.9,
+      "pct": 25.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 89,
-      "pct": 22.4,
+      "count": 90,
+      "pct": 22.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 85,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 42,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 283,
-      "pct": 32.9,
+      "count": 284,
+      "pct": 33,
       "label": "Lewis County District Court"
     },
     {
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 235,
-      "pct": 27.2
+      "count": 236,
+      "pct": 27.3
     },
     {
       "name": "Included",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 30.1,
+    "currentMedianDaysHeld": 29.5,
     "currentLongestDaysHeld": 786.2
   },
   "bond": {
-    "withBond": 91,
+    "withBond": 92,
     "noBond": 61,
-    "medianBond": 50000,
+    "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 19030074
+    "totalBond": 19032674
   },
   "chargesPerBooking": 2.2
 }
