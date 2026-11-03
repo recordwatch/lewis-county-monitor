@@ -87,7 +87,7 @@
     "name": "YANEZ, ROMULO",
     "bookedAt": "2026-11-03T01:11:01",
     "arrestingAgency": "JAIL",
-    "bondTotal": 5100,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DUI/FTA",
@@ -96,7 +96,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondAmount": 2500,
         "warrantNumber": "6A0301458"
       }
     ],
@@ -175,7 +175,7 @@
     "name": "RAMIREZ DE LA CRUZ, ARTURO",
     "bookedAt": "2026-11-02T22:00:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 10200,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "LICENSE PLATE FLIPPING DEVICE - Unlawful use /display/sale",
@@ -184,7 +184,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondAmount": 2500,
         "warrantNumber": "5A0928281"
       },
       {
@@ -194,7 +194,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondAmount": 2500,
         "warrantNumber": "5A0928280"
       }
     ],
