@@ -114,6 +114,30 @@
     "releaseSource": null
   },
   {
+    "id": "129723-20261102150000",
+    "inmateNumber": "129723",
+    "name": "NEWLAND, LOGAN JOSEPH",
+    "bookedAt": "2026-11-02T15:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-11-02T15:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "24Y000276"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T01:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "62703-20261102142700",
     "inmateNumber": "62703",
     "name": "HOUSE, DONALD CRAIG",
