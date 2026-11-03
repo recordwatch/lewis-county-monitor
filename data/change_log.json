@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T03:10:57",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423315-20261102220200",
@@ -101,7 +103,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T03:10:57",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423312-20261102194600",
@@ -135,7 +139,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T03:10:57",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "60713-20261102194100",
