@@ -244,12 +244,12 @@
         "warrantNumber": "6A0073953"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T03:10:57",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423312-20261102194600",
