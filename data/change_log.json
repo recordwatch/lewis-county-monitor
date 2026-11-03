@@ -77,7 +77,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T05:17:18",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "132519-20261103011101",
