@@ -1,5 +1,39 @@
 [
   {
+    "id": "423315-20261102220200",
+    "inmateNumber": "423315",
+    "name": "SCHNEIDER, KENNETH ADAM",
+    "bookedAt": "2026-11-02T22:02:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-11-02T22:02:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00958908"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-02T22:02:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00958908"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T00:17:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "420607-20261102184400",
     "inmateNumber": "420607",
     "name": "BENNETT, HAROLD VERNON",
@@ -67,7 +101,7 @@
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
         "bondAmount": 2600,
-        "warrantNumber": "SELF SURRENDER"
+        "warrantNumber": "6A0064912"
       }
     ],
     "status": "in_custody",
