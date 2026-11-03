@@ -12,8 +12,8 @@
         "arrestDate": "2026-11-02T15:07:00",
         "arrestingAgency": "WASH",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": null
       }
