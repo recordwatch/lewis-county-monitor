@@ -704,12 +704,12 @@
         "warrantNumber": "T00935163"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T21:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "418485-20261101185100",
