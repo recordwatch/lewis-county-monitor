@@ -251,7 +251,7 @@
     "name": "DORRELL, BILLY JOE",
     "bookedAt": "2026-11-03T09:45:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
@@ -259,8 +259,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "4A0093771"
       }
     ],
