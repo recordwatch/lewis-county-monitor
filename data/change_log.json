@@ -84,7 +84,7 @@
         "arrestDate": "2026-11-04T02:33:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
+        "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "5A0244078"
