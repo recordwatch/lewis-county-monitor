@@ -67,7 +67,7 @@
     "name": "HALL, DESTINY RENEE",
     "bookedAt": "2026-11-03T15:17:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DWLS 2ND DEGREE",
@@ -78,6 +78,16 @@
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0171704"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-03T15:17:00",
+        "arrestingAgency": "JAIL",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0396098"
       }
     ],
     "status": "in_custody",

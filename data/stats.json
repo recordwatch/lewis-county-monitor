@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:49:16",
+  "generatedAt": "2026-11-04T02:17:22",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 418,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 72,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -179,12 +179,12 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 43,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 41,
-      "pct": 4.5
+      "count": 42,
+      "pct": 4.6
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 356,
-      "pct": 40.1,
+      "pct": 40,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 300,
-      "pct": 33.8,
+      "pct": 33.7,
       "label": "Lewis County District Court"
     },
     {
@@ -364,13 +364,13 @@
     {
       "name": "NMC",
       "count": 12,
-      "pct": 1.4,
+      "pct": 1.3,
       "label": "Napavine Municipal Court"
     },
     {
       "name": "ODC",
-      "count": 10,
-      "pct": 1.1,
+      "count": 11,
+      "pct": 1.2,
       "label": "ODC"
     },
     {
@@ -451,7 +451,7 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 252,
+      "count": 253,
       "pct": 28.3
     },
     {
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 787.4
   },
   "bond": {
-    "withBond": 88,
-    "noBond": 61,
-    "medianBond": 30000,
+    "withBond": 89,
+    "noBond": 60,
+    "medianBond": 25000,
     "maxBond": 3000000,
-    "totalBond": 18810224
+    "totalBond": 18811224
   },
   "chargesPerBooking": 2.2
 }
