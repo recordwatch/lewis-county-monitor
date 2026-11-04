@@ -36,6 +36,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "395670-20261103102500",
+    "inmateNumber": "395670",
+    "name": "HILL, ROBERT CHRISTOPHER",
+    "bookedAt": "2026-11-03T10:25:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-03T10:25:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "25Y000250"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T22:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "28694-20261103101300",
     "inmateNumber": "28694",
     "name": "ESLICK, DAVID JOSEPH",
@@ -67,7 +91,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T21:49:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "320965-20261103094500",
@@ -91,7 +117,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T21:49:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "401398-20261103093000",
