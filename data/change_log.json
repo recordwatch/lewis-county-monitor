@@ -36,6 +36,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "401398-20261103093000",
+    "inmateNumber": "401398",
+    "name": "STEWART, ANTHONY ROBERT",
+    "bookedAt": "2026-11-03T09:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Cust Aslt Juv Detention Facility",
+        "arrestDate": "2026-11-03T09:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T21:17:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "223522-20261103021500",
     "inmateNumber": "223522",
     "name": "ADAMS, DANIEL JOSIAH TARYN",
@@ -4546,12 +4570,12 @@
         "warrantNumber": "2610056921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T23:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T21:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "MEDIX PICKUP/ITA",
+    "releaseSource": "official"
   },
   {
     "id": "335673-20261021143600",
