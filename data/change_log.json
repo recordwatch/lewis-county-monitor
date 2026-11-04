@@ -2526,12 +2526,12 @@
         "warrantNumber": "6A0309094"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T10:17:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "382644-20261027191200",
@@ -4937,8 +4937,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0385232"
       },
       {
@@ -4947,8 +4947,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6A0413592"
       }
     ],
@@ -10968,12 +10968,12 @@
         "warrantNumber": "2610051921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T15:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422414-20260929204500",
@@ -12415,9 +12415,29 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Amended",
         "bondAmount": null,
         "warrantNumber": "26-1-00205-21"
+      },
+      {
+        "description": "BURGLARY 1ST",
+        "arrestDate": "2026-09-18T13:50:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Transferred to Prison",
+        "bondAmount": null,
+        "warrantNumber": "2610020521"
+      },
+      {
+        "description": "CHILD MOLEST 2ND",
+        "arrestDate": "2026-09-18T13:50:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Transferred to Prison",
+        "bondAmount": null,
+        "warrantNumber": "2610020521"
       }
     ],
     "status": "in_custody",
