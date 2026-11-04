@@ -49,7 +49,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0171704"
       }
@@ -57,7 +57,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-03T23:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "395670-20261103102500",
@@ -11772,12 +11774,12 @@
         "warrantNumber": "CR29789"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "418794-20260922152000",
