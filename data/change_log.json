@@ -10954,7 +10954,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondAmount": null,
         "warrantNumber": "2610051921"
       },
       {
