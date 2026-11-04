@@ -152,12 +152,12 @@
         "warrantNumber": "6A0433567"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T21:49:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CSO, XFER",
+    "releaseSource": "official"
   },
   {
     "id": "320965-20261103094500",
@@ -2414,12 +2414,12 @@
         "warrantNumber": "5A0521933"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T15:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "409701-20261028085500",
