@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T23:32:17",
+  "generatedAt": "2026-11-03T23:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 417,
-    "bookingsObserved": 268,
-    "releasesObserved": 268,
+    "bookingsTracked": 418,
+    "bookingsObserved": 269,
+    "releasesObserved": 269,
     "inCustody": 149,
-    "uniquePeople": 393
+    "uniquePeople": 394
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 8,
+      "booked": 9,
       "released": 19
     }
   ],
@@ -237,6 +237,11 @@
       "pct": 1.2
     },
     {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 10,
+      "pct": 1.1
+    },
+    {
       "name": "DWLS 2ND DEGREE",
       "count": 10,
       "pct": 1.1
@@ -245,11 +250,6 @@
       "name": "RESISTING ARREST",
       "count": 10,
       "pct": 1.1
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 9,
-      "pct": 1
     },
     {
       "name": "DUI/FTA",
@@ -266,31 +266,31 @@
     {
       "name": "LCSO",
       "count": 103,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 99,
-      "pct": 23.8,
+      "count": 100,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 88,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 54,
-      "pct": 13,
+      "pct": 12.9,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 46,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 299,
-      "pct": 33.7,
+      "count": 300,
+      "pct": 33.8,
       "label": "Lewis County District Court"
     },
     {
@@ -389,13 +389,13 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 202,
-      "pct": 77.1
+      "count": 203,
+      "pct": 77.2
     },
     {
       "name": "DOC",
       "count": 8,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "FRIENDSHIP DIVERSON",
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 171,
-      "pct": 19.2
+      "count": 172,
+      "pct": 19.3
     },
     {
       "name": "No Bail",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 264,
+    "releasedCount": 265,
     "medianDays": 2.3,
-    "meanDays": 12,
+    "meanDays": 11.9,
     "buckets": [
       {
         "label": "< 1 day",
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 34
+        "count": 35
       },
       {
         "label": "1–4 weeks",

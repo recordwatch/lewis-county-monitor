@@ -36,6 +36,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "330892-20261103194000",
+    "inmateNumber": "330892",
+    "name": "STREIGHT, CHRISTOPHER VOHNSON",
+    "bookedAt": "2026-11-03T19:40:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-11-03T19:40:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "4A0786671"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T23:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "339932-20261103151700",
     "inmateNumber": "339932",
     "name": "HALL, DESTINY RENEE",
@@ -1754,12 +1778,12 @@
         "warrantNumber": "5A0463130"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T21:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "189787-20261030181500",
