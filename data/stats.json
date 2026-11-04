@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T11:57:08",
+  "generatedAt": "2026-11-04T12:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 418,
-    "bookingsObserved": 269,
+    "bookingsTracked": 419,
+    "bookingsObserved": 270,
     "releasesObserved": 278,
-    "inCustody": 140,
-    "uniquePeople": 394
+    "inCustody": 141,
+    "uniquePeople": 395
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 0,
+      "booked": 1,
       "released": 12
     }
   ],
@@ -168,13 +168,13 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 49,
-      "pct": 5.4
+      "count": 50,
+      "pct": 5.5
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
-      "count": 44,
-      "pct": 4.9
+      "count": 45,
+      "pct": 5
     },
     {
       "name": "POSS of Controlled Substance",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 103,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 100,
-      "pct": 24,
+      "pct": 23.9,
       "label": "Lewis County Jail"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WINL",
-      "count": 11,
-      "pct": 2.6,
+      "count": 12,
+      "pct": 2.9,
       "label": "Winlock Police"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "CSM",
       "count": 61,
-      "pct": 6.9,
+      "pct": 6.8,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "WLM",
-      "count": 26,
-      "pct": 2.9,
+      "count": 28,
+      "pct": 3.1,
       "label": "Winlock Municipal Court"
     },
     {
@@ -451,18 +451,18 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 252,
-      "pct": 28.2
+      "count": 254,
+      "pct": 28.4
     },
     {
       "name": "Included",
       "count": 191,
-      "pct": 21.4
+      "pct": 21.3
     },
     {
       "name": "Serving Time",
       "count": 172,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "No Bail",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 35.3,
+    "currentMedianDaysHeld": 35.2,
     "currentLongestDaysHeld": 787.8
   },
   "bond": {
-    "withBond": 85,
+    "withBond": 86,
     "noBond": 55,
-    "medianBond": 50000,
+    "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 18801124
+    "totalBond": 18804124
   },
   "chargesPerBooking": 2.2
 }

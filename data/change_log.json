@@ -1,5 +1,39 @@
 [
   {
+    "id": "405262-20261104104600",
+    "inmateNumber": "405262",
+    "name": "HESTAND, FAITH JOSEPHINE",
+    "bookedAt": "2026-11-04T10:46:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-04T10:46:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "5A0161504"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-04T10:46:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0436349"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T12:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "408688-20261103220000",
     "inmateNumber": "408688",
     "name": "RAMIREZ DE LA CRUZ, ARTURO",
