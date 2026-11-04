@@ -106,6 +106,56 @@
     "bondTotal": 1000,
     "charges": [
       {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-11-03T15:17:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0191881"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-11-03T15:17:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0191881"
+      },
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "arrestDate": "2026-11-03T15:17:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0191881"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "arrestDate": "2026-11-03T15:17:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0239943"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-03T15:17:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0239943"
+      },
+      {
         "description": "DWLS 2ND DEGREE",
         "arrestDate": "2026-11-03T15:17:00",
         "arrestingAgency": "JAIL",
@@ -695,8 +745,8 @@
         "arrestingAgency": "WINL",
         "court": "WLM",
         "billingAgency": "WINL",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0379547"
       },
       {
@@ -705,8 +755,8 @@
         "arrestingAgency": "WINL",
         "court": "WLM",
         "billingAgency": "WINL",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0379547"
       },
       {
@@ -2188,7 +2238,7 @@
         "arrestDate": "2026-10-29T14:13:00",
         "arrestingAgency": "CENT",
         "court": "LCD",
-        "billingAgency": "NAPA",
+        "billingAgency": "LC",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "3A0330796"
@@ -9917,8 +9967,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 200000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "2610053721"
       },
       {
@@ -9929,7 +9979,7 @@
         "billingAgency": "SCON",
         "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "788227 10072026"
+        "warrantNumber": "788227 100726"
       }
     ],
     "status": "in_custody",
@@ -13944,12 +13994,22 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "INDECENT LIBERTIES/FORCE",
+        "arrestDate": "2026-08-01T15:28:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Transferred to Prison",
+        "bondAmount": null,
+        "warrantNumber": "2610035121"
+      },
+      {
         "description": "ASSAULT 2ND DV",
         "arrestDate": "2026-08-01T15:28:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Amended",
         "bondAmount": null,
         "warrantNumber": "26-1-00351-21"
       },
@@ -13959,7 +14019,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Amended",
         "bondAmount": null,
         "warrantNumber": "26-1-00351-21"
       }
