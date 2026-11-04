@@ -36,6 +36,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "339932-20261103151700",
+    "inmateNumber": "339932",
+    "name": "HALL, DESTINY RENEE",
+    "bookedAt": "2026-11-03T15:17:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-11-03T15:17:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0171704"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T23:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "395670-20261103102500",
     "inmateNumber": "395670",
     "name": "HILL, ROBERT CHRISTOPHER",
@@ -5464,12 +5488,12 @@
         "warrantNumber": "25-M00400 TCP"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T02:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "RELAY TO THURSTON",
+    "releaseSource": "official"
   },
   {
     "id": "155424-20261019192500",
