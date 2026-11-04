@@ -1816,12 +1816,12 @@
         "warrantNumber": "10/30/2026 DOC 372473"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T19:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T10:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "81697-20261030114900",
