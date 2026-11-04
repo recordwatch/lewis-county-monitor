@@ -126,12 +126,12 @@
         "warrantNumber": "T00837791"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T03:49:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T16:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423315-20261102220200",
@@ -162,12 +162,12 @@
         "warrantNumber": "T00958908"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T00:17:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T16:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "408688-20261102220000",
@@ -410,12 +410,12 @@
         "warrantNumber": "6A0064912"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T22:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T16:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "129723-20261102150000",
@@ -496,6 +496,16 @@
         "bondType": "Cash or Bond",
         "bondAmount": 1000,
         "warrantNumber": "6A0379547"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-02T13:30:00",
+        "arrestingAgency": "WINL",
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "862074 110326"
       }
     ],
     "status": "in_custody",
@@ -4081,7 +4091,7 @@
     "name": "VERDECIA-ROMERO, EULOGIO",
     "bookedAt": "2026-10-22T13:55:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 2250,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -4099,8 +4109,8 @@
         "arrestingAgency": "WINL",
         "court": "WLM",
         "billingAgency": "WINL",
-        "bondType": "Cash or Bond",
-        "bondAmount": 750,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0129523"
       }
     ],
@@ -4311,7 +4321,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610058621"
       }
     ],
     "status": "in_custody",
