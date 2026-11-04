@@ -57,6 +57,32 @@
     "status": "in_custody",
     "firstSeen": "2026-11-04T14:49:17",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "68653-20261104023300",
+    "inmateNumber": "68653",
+    "name": "ALLEN, RONALD BENJIMIN",
+    "bookedAt": "2026-11-04T02:33:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSESSION DRUGS/PRIS",
+        "arrestDate": "2026-11-04T02:33:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T15:17:14",
+    "releasedAt": null,
     "baseline": false
   },
   {

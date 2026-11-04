@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T14:49:17",
+  "generatedAt": "2026-11-04T15:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 420,
-    "bookingsObserved": 271,
+    "bookingsTracked": 421,
+    "bookingsObserved": 272,
     "releasesObserved": 281,
-    "inCustody": 139,
-    "uniquePeople": 396
+    "inCustody": 140,
+    "uniquePeople": 397
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 2,
+      "booked": 3,
       "released": 15
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DUI",
       "count": 72,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 50,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 103,
-      "pct": 24.6,
+      "count": 104,
+      "pct": 24.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 101,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 35.3,
+    "currentMedianDaysHeld": 34.1,
     "currentLongestDaysHeld": 787.9
   },
   "bond": {
     "withBond": 86,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 30000,
     "maxBond": 3000000,
     "totalBond": 18759124
