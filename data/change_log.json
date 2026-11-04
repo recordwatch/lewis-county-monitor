@@ -4275,8 +4275,8 @@
         "arrestingAgency": "WINL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0398165"
       },
       {
@@ -5382,12 +5382,12 @@
         "warrantNumber": "T00874650"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T10:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "421225-20261020020000",
