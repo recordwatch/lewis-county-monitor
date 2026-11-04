@@ -384,12 +384,12 @@
         "warrantNumber": "T00895873"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T16:17:22",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "409510-20261102150000",
