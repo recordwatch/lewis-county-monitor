@@ -36,6 +36,30 @@
     "releaseSource": null
   },
   {
+    "id": "418402-20261104103500",
+    "inmateNumber": "418402",
+    "name": "MANOLAKOS, AMY VICTORIA",
+    "bookedAt": "2026-11-04T10:35:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOSA Violation",
+        "arrestDate": "2026-11-04T10:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610024621"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T14:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "408688-20261103220000",
     "inmateNumber": "408688",
     "name": "RAMIREZ DE LA CRUZ, ARTURO",
@@ -6806,12 +6830,12 @@
         "warrantNumber": "T00235990"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T23:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "415774-20261016135800",

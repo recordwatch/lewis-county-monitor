@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T14:32:15",
+  "generatedAt": "2026-11-04T14:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 419,
-    "bookingsObserved": 270,
-    "releasesObserved": 280,
+    "bookingsTracked": 420,
+    "bookingsObserved": 271,
+    "releasesObserved": 281,
     "inCustody": 139,
-    "uniquePeople": 395
+    "uniquePeople": 396
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 1,
-      "released": 14
+      "booked": 2,
+      "released": 15
     }
   ],
   "topCharges": [
@@ -271,14 +271,14 @@
     },
     {
       "name": "JAIL",
-      "count": 100,
-      "pct": 23.9,
+      "count": 101,
+      "pct": 24.1,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 88,
-      "pct": 21.1,
+      "pct": 21,
       "label": "Centralia Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 359,
-      "pct": 39.9,
+      "count": 360,
+      "pct": 40,
       "label": "Lewis County Superior Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 209,
-      "pct": 76.3
+      "count": 210,
+      "pct": 76.4
     },
     {
       "name": "DOC",
@@ -400,7 +400,7 @@
     {
       "name": "FRIENDSHIP DIVERSON",
       "count": 7,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "ABHS",
@@ -462,12 +462,12 @@
     {
       "name": "Serving Time",
       "count": 173,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "No Bail",
-      "count": 108,
-      "pct": 12
+      "count": 109,
+      "pct": 12.1
     },
     {
       "name": "Released by Court",
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 276,
+    "releasedCount": 277,
     "medianDays": 2.5,
     "meanDays": 11.8,
     "buckets": [
@@ -529,7 +529,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 53
+        "count": 54
       },
       {
         "label": "1–3 months",
