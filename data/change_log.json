@@ -36,6 +36,64 @@
     "releaseSource": "observed"
   },
   {
+    "id": "28694-20261103101300",
+    "inmateNumber": "28694",
+    "name": "ESLICK, DAVID JOSEPH",
+    "bookedAt": "2026-11-03T10:13:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-03T10:13:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0433567"
+      },
+      {
+        "description": "TAMPERING W EVIDENCE",
+        "arrestDate": "2026-11-03T10:13:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0433567"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T21:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "320965-20261103094500",
+    "inmateNumber": "320965",
+    "name": "DORRELL, BILLY JOE",
+    "bookedAt": "2026-11-03T09:45:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-03T09:45:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "4A0093771"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T21:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "401398-20261103093000",
     "inmateNumber": "401398",
     "name": "STEWART, ANTHONY ROBERT",
