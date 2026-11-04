@@ -73,17 +73,29 @@
         "description": "POSESSION DRUGS/PRIS",
         "arrestDate": "2026-11-04T02:33:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Released by Court",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "DECLINED"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-04T02:33:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "5A0244078"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T15:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "408688-20261103220000",
@@ -381,7 +393,7 @@
         "arrestingAgency": "WASH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "6A0308684"
       }
@@ -6985,8 +6997,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "2610050521"
       },
       {
@@ -6995,7 +7007,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "2610050521"
       },
@@ -7684,12 +7696,12 @@
         "warrantNumber": "2A0078242"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T12:49:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T15:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "98288-20261014103000",
