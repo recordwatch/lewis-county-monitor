@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T23:17:15",
+  "generatedAt": "2026-11-04T23:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 425,
-    "bookingsObserved": 276,
+    "bookingsTracked": 426,
+    "bookingsObserved": 277,
     "releasesObserved": 287,
-    "inCustody": 138,
-    "uniquePeople": 400
+    "inCustody": 139,
+    "uniquePeople": 401
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 7,
+      "booked": 8,
       "released": 21
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 105,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 103,
-      "pct": 24.3,
+      "pct": 24.2,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 88,
-      "pct": 20.8,
+      "count": 89,
+      "pct": 20.9,
       "label": "Centralia Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 35.9,
+    "currentMedianDaysHeld": 35.7,
     "currentLongestDaysHeld": 788.3
   },
   "bond": {
     "withBond": 81,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18746774

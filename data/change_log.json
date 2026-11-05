@@ -1,5 +1,39 @@
 [
   {
+    "id": "423368-20261104192400",
+    "inmateNumber": "423368",
+    "name": "ORBEA-BECERRA, ALEJANDRA",
+    "bookedAt": "2026-11-04T19:24:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD",
+        "arrestDate": "2026-11-04T19:24:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "LEWD CONDUCT",
+        "arrestDate": "2026-11-04T19:24:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T23:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357364-20261104163000",
     "inmateNumber": "357364",
     "name": "WEST, THANE DANIELS",
