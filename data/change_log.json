@@ -3821,8 +3821,28 @@
     "name": "HUGHES, BRIAN DAVID",
     "bookedAt": "2026-10-24T11:51:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 2500,
+    "bondTotal": 12500,
     "charges": [
+      {
+        "description": "BURGLARY 2ND",
+        "arrestDate": "2026-10-24T11:51:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "2610058021"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-10-24T11:51:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610058021"
+      },
       {
         "description": "CRIM TRESPASS 2ND/FTA",
         "arrestDate": "2026-10-24T11:51:00",
@@ -5984,12 +6004,12 @@
         "warrantNumber": "5A0244397"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T22:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "335258-20261019125500",

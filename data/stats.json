@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T01:32:16",
+  "generatedAt": "2026-11-05T01:49:21",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 426,
     "bookingsObserved": 277,
-    "releasesObserved": 287,
-    "inCustody": 139,
+    "releasesObserved": 288,
+    "inCustody": 138,
     "uniquePeople": 401
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-05",
       "booked": 0,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -179,7 +179,7 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 44,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -198,8 +198,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 20,
-      "pct": 2.2
+      "count": 21,
+      "pct": 2.3
     },
     {
       "name": "Protection Order Violation",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 364,
-      "pct": 40,
+      "count": 366,
+      "pct": 40.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 308,
-      "pct": 33.9,
+      "pct": 33.8,
       "label": "Lewis County District Court"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 216,
-      "pct": 76.9
+      "count": 217,
+      "pct": 77
     },
     {
       "name": "DOC",
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 251,
+      "count": 252,
       "pct": 27.5
     },
     {
       "name": "Included",
-      "count": 192,
-      "pct": 21
+      "count": 193,
+      "pct": 21.1
     },
     {
       "name": "Serving Time",
@@ -487,7 +487,7 @@
     {
       "name": "Transferred to Prison",
       "count": 16,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "Released Time Served",
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 283,
+    "releasedCount": 284,
     "medianDays": 2.5,
     "meanDays": 11.8,
     "buckets": [
@@ -529,7 +529,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 57
+        "count": 58
       },
       {
         "label": "1–3 months",
@@ -540,15 +540,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 35.8,
+    "currentMedianDaysHeld": 36,
     "currentLongestDaysHeld": 788.4
   },
   "bond": {
     "withBond": 82,
-    "noBond": 57,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18748774
+    "totalBond": 18758774
   },
   "chargesPerBooking": 2.2
 }
