@@ -5,27 +5,27 @@
     "name": "ORBEA-BECERRA, ALEJANDRA",
     "bookedAt": "2026-11-04T19:24:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "MAL MISCH 3RD",
         "arrestDate": "2026-11-04T19:24:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0404861"
       },
       {
         "description": "LEWD CONDUCT",
         "arrestDate": "2026-11-04T19:24:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0404861"
       }
     ],
     "status": "in_custody",
