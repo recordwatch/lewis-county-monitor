@@ -414,12 +414,12 @@
         "warrantNumber": "25Y000250"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T22:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T10:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "28694-20261103101300",
