@@ -157,7 +157,7 @@
         "arrestingAgency": "DOC",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Serving Time",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "2510064221"
       }

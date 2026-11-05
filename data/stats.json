@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:17:17",
+  "generatedAt": "2026-11-05T14:32:23",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 428,
@@ -461,13 +461,13 @@
     },
     {
       "name": "Serving Time",
-      "count": 178,
-      "pct": 19.3
+      "count": 177,
+      "pct": 19.2
     },
     {
       "name": "No Bail",
-      "count": 111,
-      "pct": 12.1
+      "count": 112,
+      "pct": 12.2
     },
     {
       "name": "Released by Court",
