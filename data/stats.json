@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T22:32:16",
+  "generatedAt": "2026-11-04T22:49:19",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 425,
@@ -184,7 +184,7 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 42,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 364,
-      "pct": 40.2,
+      "pct": 40.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 307,
-      "pct": 33.9,
+      "count": 308,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 250,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "Included",
@@ -461,7 +461,7 @@
     },
     {
       "name": "Serving Time",
-      "count": 178,
+      "count": 179,
       "pct": 19.6
     },
     {
