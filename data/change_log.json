@@ -1,5 +1,29 @@
 [
   {
+    "id": "357364-20261104163000",
+    "inmateNumber": "357364",
+    "name": "WEST, THANE DANIELS",
+    "bookedAt": "2026-11-04T16:30:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CHILD MOLEST 2ND",
+        "arrestDate": "2026-11-04T16:30:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T20:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "268002-20261104121000",
     "inmateNumber": "268002",
     "name": "FODGE, JAMES ALLEN",
