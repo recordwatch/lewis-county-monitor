@@ -1,5 +1,39 @@
 [
   {
+    "id": "34563-20261105070700",
+    "inmateNumber": "34563",
+    "name": "CRAVENS, DAVID LEE",
+    "bookedAt": "2026-11-05T07:07:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING/FTA",
+        "arrestDate": "2026-11-05T07:07:00",
+        "arrestingAgency": "CHEH",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "6A0300429"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-11-05T07:07:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T12:17:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423368-20261104192400",
     "inmateNumber": "423368",
     "name": "ORBEA-BECERRA, ALEJANDRA",
