@@ -1,5 +1,29 @@
 [
   {
+    "id": "393239-20261105132500",
+    "inmateNumber": "393239",
+    "name": "FLORES, MAYA N",
+    "bookedAt": "2026-11-05T13:25:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-05T13:25:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T13:53:46",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "34563-20261105070700",
     "inmateNumber": "34563",
     "name": "CRAVENS, DAVID LEE",
@@ -90,6 +114,16 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "CHILD MOLEST 1ST",
+        "arrestDate": "2026-11-04T16:30:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610059121"
+      },
+      {
         "description": "CHILD MOLEST 2ND",
         "arrestDate": "2026-11-04T16:30:00",
         "arrestingAgency": "LCSO",
@@ -97,7 +131,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610059121"
       }
     ],
     "status": "in_custody",
