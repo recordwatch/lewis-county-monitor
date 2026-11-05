@@ -1,5 +1,29 @@
 [
   {
+    "id": "268002-20261104121000",
+    "inmateNumber": "268002",
+    "name": "FODGE, JAMES ALLEN",
+    "bookedAt": "2026-11-04T12:10:00",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOSA Violation",
+        "arrestDate": "2026-11-04T12:10:00",
+        "arrestingAgency": "DOC",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2510064221"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T20:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "405262-20261104104600",
     "inmateNumber": "405262",
     "name": "HESTAND, FAITH JOSEPHINE",

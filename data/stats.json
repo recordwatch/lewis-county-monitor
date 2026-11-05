@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T19:49:16",
+  "generatedAt": "2026-11-04T20:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 422,
-    "bookingsObserved": 273,
+    "bookingsTracked": 423,
+    "bookingsObserved": 274,
     "releasesObserved": 287,
-    "inCustody": 135,
+    "inCustody": 136,
     "uniquePeople": 398
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 4,
+      "booked": 5,
       "released": 21
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 104,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -296,20 +296,20 @@
     {
       "name": "WINL",
       "count": 12,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Winlock Police"
+    },
+    {
+      "name": "DOC",
+      "count": 5,
+      "pct": 1.2,
+      "label": "Dept. of Corrections"
     },
     {
       "name": "MORT",
       "count": 5,
       "pct": 1.2,
       "label": "Morton Police"
-    },
-    {
-      "name": "DOC",
-      "count": 4,
-      "pct": 1,
-      "label": "Dept. of Corrections"
     },
     {
       "name": "NAPA",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 362,
-      "pct": 40.1,
+      "count": 363,
+      "pct": 40.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 306,
-      "pct": 33.9,
+      "pct": 33.8,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 61,
-      "pct": 6.8,
+      "pct": 6.7,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -452,17 +452,17 @@
     {
       "name": "Cash or Bond",
       "count": 249,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "Included",
       "count": 192,
-      "pct": 21.2
+      "pct": 21.1
     },
     {
       "name": "Serving Time",
-      "count": 177,
-      "pct": 19.5
+      "count": 178,
+      "pct": 19.6
     },
     {
       "name": "No Bail",
@@ -540,12 +540,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 36.5,
-    "currentLongestDaysHeld": 788.1
+    "currentMedianDaysHeld": 36.2,
+    "currentLongestDaysHeld": 788.2
   },
   "bond": {
     "withBond": 80,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18745774
