@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:49:17",
+  "generatedAt": "2026-11-05T13:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 427,
@@ -187,14 +187,14 @@
       "pct": 4.5
     },
     {
-      "name": "Drive w/o req ignition intrlck",
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 26,
       "pct": 2.8
     },
     {
-      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 25,
-      "pct": 2.7
+      "name": "Drive w/o req ignition intrlck",
+      "count": 26,
+      "pct": 2.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -328,12 +328,12 @@
     {
       "name": "SUP",
       "count": 366,
-      "pct": 40.1,
+      "pct": 40,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 309,
+      "count": 310,
       "pct": 33.9,
       "label": "Lewis County District Court"
     },
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 61,
-      "pct": 6.7,
+      "count": 62,
+      "pct": 6.8,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 253,
-      "pct": 27.6
+      "count": 255,
+      "pct": 27.8
     },
     {
       "name": "Included",
       "count": 193,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "Serving Time",
@@ -541,14 +541,14 @@
       }
     ],
     "currentMedianDaysHeld": 36.5,
-    "currentLongestDaysHeld": 788.8
+    "currentLongestDaysHeld": 788.9
   },
   "bond": {
     "withBond": 82,
     "noBond": 54,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18761874
+    "totalBond": 18767474
   },
   "chargesPerBooking": 2.2
 }
