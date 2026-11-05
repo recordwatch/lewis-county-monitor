@@ -65,8 +65,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "6A0341010"
       },
       {
