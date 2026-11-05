@@ -914,12 +914,12 @@
         "warrantNumber": "2610037921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T02:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T15:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF/D.C.",
+    "releaseSource": "official"
   },
   {
     "id": "423302-20261102150700",
@@ -14860,12 +14860,12 @@
         "warrantNumber": "2610031421"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T15:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CIVIL COMMIT",
+    "releaseSource": "official"
   },
   {
     "id": "363231-20260609133700",
