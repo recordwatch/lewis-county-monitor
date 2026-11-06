@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:32:15",
+  "generatedAt": "2026-11-06T00:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 431,
@@ -9,11 +9,6 @@
     "uniquePeople": 406
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-07",
-      "booked": 3,
-      "released": 0
-    },
     {
       "date": "2026-10-08",
       "booked": 6,
@@ -158,6 +153,11 @@
       "date": "2026-11-05",
       "booked": 5,
       "released": 7
+    },
+    {
+      "date": "2026-11-06",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 256,
-      "pct": 27.8
+      "pct": 27.7
     },
     {
       "name": "Included",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 113,
-      "pct": 12.3
+      "count": 114,
+      "pct": 12.4
     },
     {
       "name": "Released by Court",
