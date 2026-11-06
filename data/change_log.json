@@ -305,7 +305,7 @@
     "name": "CRAVENS, DAVID LEE",
     "bookedAt": "2026-11-05T07:07:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 10700,
+    "bondTotal": 10200,
     "charges": [
       {
         "description": "RECKLESS DRIVING/FTA",
@@ -323,8 +323,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0412252"
       },
       {
