@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:49:16",
+  "generatedAt": "2026-11-06T12:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 437,
@@ -194,7 +194,7 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 26,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -202,14 +202,14 @@
       "pct": 2.2
     },
     {
-      "name": "Protection Order Violation",
+      "name": "ASSAULT 4TH DEGREE/DV",
       "count": 16,
       "pct": 1.7
     },
     {
-      "name": "ASSAULT 4TH DEGREE/DV",
-      "count": 15,
-      "pct": 1.6
+      "name": "Protection Order Violation",
+      "count": 16,
+      "pct": 1.7
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 374,
-      "pct": 40.3,
+      "count": 375,
+      "pct": 40.4,
       "label": "Lewis County Superior Court"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "Included",
-      "count": 197,
-      "pct": 21.1
+      "count": 198,
+      "pct": 21.2
     },
     {
       "name": "Serving Time",
@@ -467,7 +467,7 @@
     {
       "name": "No Bail",
       "count": 117,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "Released by Court",

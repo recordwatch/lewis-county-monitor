@@ -253,7 +253,17 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610059221"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-05T16:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610059221"
       }
     ],
     "status": "in_custody",
