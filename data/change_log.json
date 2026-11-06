@@ -1,5 +1,39 @@
 [
   {
+    "id": "412911-20261106103500",
+    "inmateNumber": "412911",
+    "name": "FLETCHER, RYAN CHRISTOPHER",
+    "bookedAt": "2026-11-06T10:35:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "HIT AND RUN/FTA",
+        "arrestDate": "2026-11-06T10:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "5A0848610"
+      },
+      {
+        "description": "RECKLESS DRIVING/FTA",
+        "arrestDate": "2026-11-06T10:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "5A0848610"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T11:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "397135-20261106033100",
     "inmateNumber": "397135",
     "name": "THOME, PEYTON PERRY",
