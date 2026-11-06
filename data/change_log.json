@@ -1,5 +1,29 @@
 [
   {
+    "id": "53663-20261105220000",
+    "inmateNumber": "53663",
+    "name": "SCOTT, LOISANN MICHELLE",
+    "bookedAt": "2026-11-05T22:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 2600,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-11-05T22:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "6A0350447"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T02:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423399-20261105215000",
     "inmateNumber": "423399",
     "name": "RODRIGUEZ, ANDRES O",
@@ -37,17 +61,19 @@
         "description": "ASSAULT 2ND DV",
         "arrestDate": "2026-11-05T21:08:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T01:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "369664-20261105194200",
@@ -74,6 +100,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "393950-20261105171100",
+    "inmateNumber": "393950",
+    "name": "WATSON, KACI ALEXANDRIA",
+    "bookedAt": "2026-11-05T17:11:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-05T17:11:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "26A13220"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T02:17:16",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "86036-20261105163100",
@@ -7376,12 +7426,12 @@
         "warrantNumber": "10/16/26 407559"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T20:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CHAIN TO PRISON",
+    "releaseSource": "official"
   },
   {
     "id": "143503-20261016001900",
@@ -12856,12 +12906,12 @@
         "warrantNumber": "2610020521"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T08:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CHAIN TO PRISON",
+    "releaseSource": "official"
   },
   {
     "id": "402194-20260917095400",
@@ -14460,12 +14510,12 @@
         "warrantNumber": "26-1-00351-21"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CHAIN TO PRISON",
+    "releaseSource": "official"
   },
   {
     "id": "413338-20260731065900",
