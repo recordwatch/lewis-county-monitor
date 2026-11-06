@@ -1,5 +1,49 @@
 [
   {
+    "id": "397135-20261106033100",
+    "inmateNumber": "397135",
+    "name": "THOME, PEYTON PERRY",
+    "bookedAt": "2026-11-06T03:31:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "BURGLARY 2ND",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T09:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423400-20261106005500",
     "inmateNumber": "423400",
     "name": "MULDROW, KENSHAWN Q",
