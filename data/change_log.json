@@ -1,5 +1,29 @@
 [
   {
+    "id": "86036-20261105163100",
+    "inmateNumber": "86036",
+    "name": "COMPTON, MICHAEL GLENN",
+    "bookedAt": "2026-11-05T16:31:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DV",
+        "arrestDate": "2026-11-05T16:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T19:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "393239-20261105132500",
     "inmateNumber": "393239",
     "name": "FLORES, MAYA N",
