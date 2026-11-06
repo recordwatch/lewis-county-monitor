@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T22:49:14",
+  "generatedAt": "2026-11-05T23:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 429,
-    "bookingsObserved": 280,
+    "bookingsTracked": 430,
+    "bookingsObserved": 281,
     "releasesObserved": 294,
-    "inCustody": 135,
-    "uniquePeople": 404
+    "inCustody": 136,
+    "uniquePeople": 405
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 3,
+      "booked": 4,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 72,
-      "pct": 7.7
+      "count": 73,
+      "pct": 7.8
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 50,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 106,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 103,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "CHEH",
       "count": 55,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
-      "count": 46,
-      "pct": 10.7,
+      "count": 47,
+      "pct": 11,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 311,
-      "pct": 33.9,
+      "count": 312,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -457,7 +457,7 @@
     {
       "name": "Included",
       "count": 194,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "Serving Time",
@@ -466,13 +466,13 @@
     },
     {
       "name": "No Bail",
-      "count": 112,
-      "pct": 12.2
+      "count": 113,
+      "pct": 12.3
     },
     {
       "name": "Released by Court",
       "count": 88,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "Appearance Bond",
@@ -540,12 +540,12 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 36.7,
+    "currentMedianDaysHeld": 35.4,
     "currentLongestDaysHeld": 789.3
   },
   "bond": {
     "withBond": 82,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19007474

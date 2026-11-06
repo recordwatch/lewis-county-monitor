@@ -1,5 +1,29 @@
 [
   {
+    "id": "423399-20261105215000",
+    "inmateNumber": "423399",
+    "name": "RODRIGUEZ, ANDRES O",
+    "bookedAt": "2026-11-05T21:50:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-05T21:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00676709"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T23:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "86036-20261105163100",
     "inmateNumber": "86036",
     "name": "COMPTON, MICHAEL GLENN",
