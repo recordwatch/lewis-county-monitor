@@ -348,12 +348,12 @@
         "warrantNumber": "5A0244078"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T15:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T20:07:43",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "MEDIX/ITA",
+    "releaseSource": "official"
   },
   {
     "id": "408688-20261103220000",
