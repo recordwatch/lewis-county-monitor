@@ -11,37 +11,39 @@
         "description": "ASSAULT 2ND",
         "arrestDate": "2026-11-06T03:31:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
         "arrestDate": "2026-11-06T03:31:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "BURGLARY 2ND",
         "arrestDate": "2026-11-06T03:31:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T09:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423400-20261106005500",
