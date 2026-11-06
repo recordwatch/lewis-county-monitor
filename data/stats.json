@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T01:32:16",
+  "generatedAt": "2026-11-06T01:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 431,
-    "bookingsObserved": 282,
-    "releasesObserved": 294,
+    "bookingsTracked": 432,
+    "bookingsObserved": 283,
+    "releasesObserved": 295,
     "inCustody": 137,
-    "uniquePeople": 406
+    "uniquePeople": 407
   },
   "bookingsByDay": [
     {
@@ -151,13 +151,13 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 5,
+      "booked": 6,
       "released": 7
     },
     {
       "date": "2026-11-06",
       "booked": 0,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -252,27 +252,27 @@
       "pct": 1.1
     },
     {
-      "name": "CRIM TRESPASS 2ND",
+      "name": "ASSAULT 2ND DV",
       "count": 9,
       "pct": 1
     },
     {
-      "name": "ASSAULT 2ND DV",
-      "count": 8,
-      "pct": 0.9
+      "name": "CRIM TRESPASS 2ND",
+      "count": 9,
+      "pct": 1
     }
   ],
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 106,
-      "pct": 24.7,
+      "count": 107,
+      "pct": 24.8,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 103,
-      "pct": 24,
+      "pct": 23.9,
       "label": "Lewis County Jail"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 48,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "Washington State Patrol"
     },
     {
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 219,
-      "pct": 76
+      "count": 220,
+      "pct": 76.1
     },
     {
       "name": "DOC",
@@ -511,9 +511,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 290,
+    "releasedCount": 291,
     "medianDays": 2.5,
-    "meanDays": 12.2,
+    "meanDays": 12.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -537,10 +537,10 @@
       },
       {
         "label": "3+ months",
-        "count": 6
+        "count": 7
       }
     ],
-    "currentMedianDaysHeld": 34.2,
+    "currentMedianDaysHeld": 33.9,
     "currentLongestDaysHeld": 789.4
   },
   "bond": {
