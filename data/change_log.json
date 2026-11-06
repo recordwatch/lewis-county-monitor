@@ -113,7 +113,7 @@
     "name": "WEST, THANE DANIELS",
     "bookedAt": "2026-11-04T16:30:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 250000,
     "charges": [
       {
         "description": "CHILD MOLEST 1ST",
@@ -131,8 +131,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 250000,
         "warrantNumber": "2610059121"
       }
     ],
