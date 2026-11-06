@@ -1,5 +1,29 @@
 [
   {
+    "id": "423400-20261106005500",
+    "inmateNumber": "423400",
+    "name": "MULDROW, KENSHAWN Q",
+    "bookedAt": "2026-11-06T00:55:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARRASSMENT-DEATH THREAT",
+        "arrestDate": "2026-11-06T00:55:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "26015752"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T04:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "53663-20261105220000",
     "inmateNumber": "53663",
     "name": "SCOTT, LOISANN MICHELLE",
