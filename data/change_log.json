@@ -21,6 +21,32 @@
     "status": "in_custody",
     "firstSeen": "2026-11-05T23:17:14",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "369664-20261105194200",
+    "inmateNumber": "369664",
+    "name": "FORD PORTER, TYLER ALEXSANDER",
+    "bookedAt": "2026-11-05T19:42:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
+        "arrestDate": "2026-11-05T19:42:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T23:32:15",
+    "releasedAt": null,
     "baseline": false
   },
   {

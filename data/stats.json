@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T23:17:14",
+  "generatedAt": "2026-11-05T23:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 430,
-    "bookingsObserved": 281,
+    "bookingsTracked": 431,
+    "bookingsObserved": 282,
     "releasesObserved": 294,
-    "inCustody": 136,
-    "uniquePeople": 405
+    "inCustody": 137,
+    "uniquePeople": 406
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 4,
+      "booked": 5,
       "released": 7
     }
   ],
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 90,
-      "pct": 21,
+      "pct": 20.9,
       "label": "Centralia Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 47,
-      "pct": 11,
+      "count": 48,
+      "pct": 11.2,
       "label": "Washington State Patrol"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 368,
-      "pct": 40.1,
+      "count": 369,
+      "pct": 40.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 312,
-      "pct": 34,
+      "pct": 33.9,
       "label": "Lewis County District Court"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "CSM",
       "count": 62,
-      "pct": 6.8,
+      "pct": 6.7,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "WLM",
       "count": 28,
-      "pct": 3.1,
+      "pct": 3,
       "label": "Winlock Municipal Court"
     },
     {
@@ -540,12 +540,12 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 35.4,
+    "currentMedianDaysHeld": 34.1,
     "currentLongestDaysHeld": 789.3
   },
   "bond": {
     "withBond": 82,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19007474
