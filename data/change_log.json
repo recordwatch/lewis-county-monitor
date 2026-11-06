@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-06T02:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423399-20261105215000",
@@ -107,23 +109,25 @@
     "name": "WATSON, KACI ALEXANDRIA",
     "bookedAt": "2026-11-05T17:11:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
         "arrestDate": "2026-11-05T17:11:00",
         "arrestingAgency": "CENT",
         "court": "CNM",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 1000,
         "warrantNumber": "26A13220"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T02:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "86036-20261105163100",
