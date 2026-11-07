@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:32:15",
+  "generatedAt": "2026-11-06T22:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 441,
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 376,
+      "count": 377,
       "pct": 40.3,
       "label": "Lewis County Superior Court"
     },
@@ -340,7 +340,7 @@
     {
       "name": "CNM",
       "count": 93,
-      "pct": 10,
+      "pct": 9.9,
       "label": "Centralia Municipal Court"
     },
     {
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 177,
-      "pct": 18.9
+      "count": 175,
+      "pct": 18.7
     },
     {
       "name": "No Bail",
@@ -485,14 +485,14 @@
       "pct": 1.8
     },
     {
-      "name": "Transferred to Prison",
+      "name": "Released Time Served",
       "count": 16,
       "pct": 1.7
     },
     {
-      "name": "Released Time Served",
-      "count": 14,
-      "pct": 1.5
+      "name": "Transferred to Prison",
+      "count": 16,
+      "pct": 1.7
     },
     {
       "name": "Dismissed",

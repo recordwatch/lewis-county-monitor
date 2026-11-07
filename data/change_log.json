@@ -109,11 +109,11 @@
         "description": "FAILURE TO REG AS SEX OFFENDR/FTA",
         "arrestDate": "2026-11-06T12:00:00",
         "arrestingAgency": "LCSO",
-        "court": null,
+        "court": "SUP",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610058721"
       }
     ],
     "status": "in_custody",
@@ -10823,7 +10823,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "4A0310327"
       },
@@ -10833,7 +10833,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "4A0310327"
       },
