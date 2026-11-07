@@ -90,10 +90,10 @@
         "arrestDate": "2026-11-06T17:29:00",
         "arrestingAgency": "CENT",
         "court": "DOC",
-        "billingAgency": "OTAG",
+        "billingAgency": "SCON",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "450008"
+        "warrantNumber": "450008 11/07"
       }
     ],
     "status": "in_custody",
