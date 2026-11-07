@@ -214,12 +214,12 @@
         "warrantNumber": "2610059421"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T23:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "393950-20261105171100",
@@ -838,7 +838,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondAmount": null,
         "warrantNumber": "4A0093771"
       }
     ],
