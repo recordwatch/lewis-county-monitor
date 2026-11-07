@@ -1,5 +1,29 @@
 [
   {
+    "id": "261558-20261106172900",
+    "inmateNumber": "261558",
+    "name": "DALEY, DONALD ANDREW",
+    "bookedAt": "2026-11-06T17:29:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-06T17:29:00",
+        "arrestingAgency": "CENT",
+        "court": "DOC",
+        "billingAgency": "OTAG",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "450008"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T21:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "393950-20261106153500",
     "inmateNumber": "393950",
     "name": "WATSON, KACI ALEXANDRIA",
@@ -54,12 +78,12 @@
         "warrantNumber": "6A0239945"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T19:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T20:50:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "412911-20261106103500",
