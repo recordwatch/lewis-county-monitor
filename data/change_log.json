@@ -31,7 +31,7 @@
     "name": "LUMBERT, CALLIEANN MARIE",
     "bookedAt": "2026-11-06T15:05:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 5000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -40,7 +40,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondAmount": null,
         "warrantNumber": "6A0430395"
       },
       {
