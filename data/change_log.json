@@ -1,5 +1,63 @@
 [
   {
+    "id": "393950-20261106153500",
+    "inmateNumber": "393950",
+    "name": "WATSON, KACI ALEXANDRIA",
+    "bookedAt": "2026-11-06T15:35:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-06T15:35:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "T00802545"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T19:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "396140-20261106150500",
+    "inmateNumber": "396140",
+    "name": "LUMBERT, CALLIEANN MARIE",
+    "bookedAt": "2026-11-06T15:05:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-06T15:05:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0430395"
+      },
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-06T15:05:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0239945"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T19:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "412911-20261106103500",
     "inmateNumber": "412911",
     "name": "FLETCHER, RYAN CHRISTOPHER",
@@ -110,12 +168,12 @@
         "warrantNumber": "2610059321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T04:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "53663-20261105220000",
@@ -842,12 +900,12 @@
         "warrantNumber": "4A0093771"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T21:49:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "401398-20261103093000",
