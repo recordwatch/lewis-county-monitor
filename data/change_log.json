@@ -1,5 +1,29 @@
 [
   {
+    "id": "213068-20261107015200",
+    "inmateNumber": "213068",
+    "name": "TOBEY, ANNALEE KAY",
+    "bookedAt": "2026-11-07T01:52:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-07T01:52:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0283393"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T04:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360376-20261106221700",
     "inmateNumber": "360376",
     "name": "GORDANIER, MILO RAY",
