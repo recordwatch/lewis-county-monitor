@@ -18,12 +18,12 @@
         "warrantNumber": "T00802545"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T19:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T20:17:17",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "observed"
   },
   {
     "id": "396140-20261106150500",
@@ -315,7 +315,7 @@
     "name": "COMPTON, MICHAEL GLENN",
     "bookedAt": "2026-11-05T16:31:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "ASSAULT 2ND DV",
@@ -323,8 +323,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "2610059221"
       },
       {
