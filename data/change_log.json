@@ -1,5 +1,29 @@
 [
   {
+    "id": "358382-20261107104400",
+    "inmateNumber": "358382",
+    "name": "MEYER, KEVIN EARL",
+    "bookedAt": "2026-11-07T10:44:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION/FTA",
+        "arrestDate": "2026-11-07T10:44:00",
+        "arrestingAgency": "LCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "5A0123603"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T13:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "213068-20261107015200",
     "inmateNumber": "213068",
     "name": "TOBEY, ANNALEE KAY",

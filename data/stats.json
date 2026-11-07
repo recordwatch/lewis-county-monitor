@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T13:32:15",
+  "generatedAt": "2026-11-07T13:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 444,
-    "bookingsObserved": 295,
+    "bookingsTracked": 445,
+    "bookingsObserved": 296,
     "releasesObserved": 316,
-    "inCustody": 128,
-    "uniquePeople": 418
+    "inCustody": 129,
+    "uniquePeople": 419
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 1,
+      "booked": 2,
       "released": 3
     }
   ],
@@ -239,12 +239,12 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 11,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "CRIM TRESPASS 2ND/FTA",
       "count": 11,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DWLS 2ND DEGREE",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 108,
-      "pct": 24.4,
+      "count": 109,
+      "pct": 24.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 107,
-      "pct": 24.2,
+      "pct": 24.1,
       "label": "Lewis County Jail"
     },
     {
@@ -334,13 +334,13 @@
     {
       "name": "LCD",
       "count": 319,
-      "pct": 34,
+      "pct": 33.9,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 94,
-      "pct": 10,
+      "count": 95,
+      "pct": 10.1,
       "label": "Centralia Municipal Court"
     },
     {
@@ -462,7 +462,7 @@
     {
       "name": "Serving Time",
       "count": 175,
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "name": "No Bail",
@@ -476,8 +476,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 19,
-      "pct": 2
+      "count": 20,
+      "pct": 2.1
     },
     {
       "name": "Amended",
@@ -540,15 +540,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 38.5,
+    "currentMedianDaysHeld": 38.3,
     "currentLongestDaysHeld": 790.9
   },
   "bond": {
-    "withBond": 79,
+    "withBond": 80,
     "noBond": 49,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18648474
+    "totalBond": 18653474
   },
   "chargesPerBooking": 2.2
 }
