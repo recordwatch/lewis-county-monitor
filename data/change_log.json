@@ -124,10 +124,10 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-06T19:17:15",
-    "releasedAt": "2026-11-06T20:17:17",
+    "releasedAt": "2026-11-06T20:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": "observed"
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "396140-20261106150500",

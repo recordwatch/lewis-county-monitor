@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:32:16",
+  "generatedAt": "2026-11-07T10:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 444,
@@ -389,7 +389,7 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 235,
+      "count": 236,
       "pct": 76.1
     },
     {
