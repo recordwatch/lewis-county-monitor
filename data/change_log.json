@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-06T19:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "396140-20261106150500",
@@ -55,7 +57,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-06T19:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "412911-20261106103500",
@@ -16003,8 +16007,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "2510076421"
       }
     ],
