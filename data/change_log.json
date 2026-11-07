@@ -119,17 +119,17 @@
     "name": "MORTENSEN, JARETT DOUGLAS",
     "bookedAt": "2026-11-06T12:00:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-11-06T12:00:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "DOC",
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "790719 11/06"
       },
       {
         "description": "FAILURE TO REG AS SEX OFFENDR",
@@ -137,8 +137,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
         "warrantNumber": "2610058721"
       }
     ],
