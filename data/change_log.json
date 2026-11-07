@@ -1,5 +1,29 @@
 [
   {
+    "id": "422389-20261107112900",
+    "inmateNumber": "422389",
+    "name": "WARNER, TINA MARIE",
+    "bookedAt": "2026-11-07T11:29:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "ASLT 4TH/FTA",
+        "arrestDate": "2026-11-07T11:29:00",
+        "arrestingAgency": "LCSO",
+        "court": "CSM",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "PA2600044"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T14:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358382-20261107104400",
     "inmateNumber": "358382",
     "name": "MEYER, KEVIN EARL",
