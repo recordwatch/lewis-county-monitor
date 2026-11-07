@@ -9092,12 +9092,12 @@
         "warrantNumber": "5A0571032"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T19:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T09:31:29",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "136843-20261012232000",
