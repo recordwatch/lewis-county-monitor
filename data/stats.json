@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-06T23:49:15",
+  "generatedAt": "2026-11-07T00:10:33",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 442,
     "bookingsObserved": 293,
-    "releasesObserved": 312,
-    "inCustody": 130,
+    "releasesObserved": 315,
+    "inCustody": 127,
     "uniquePeople": 416
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-08",
-      "booked": 6,
-      "released": 0
-    },
     {
       "date": "2026-10-09",
       "booked": 7,
@@ -157,7 +152,12 @@
     {
       "date": "2026-11-06",
       "booked": 8,
-      "released": 18
+      "released": 19
+    },
+    {
+      "date": "2026-11-07",
+      "booked": 0,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 232,
-      "pct": 76.1
+      "count": 235,
+      "pct": 76.3
     },
     {
       "name": "DOC",
@@ -405,7 +405,7 @@
     {
       "name": "ABHS",
       "count": 6,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "WCC",
@@ -435,17 +435,17 @@
     {
       "name": "CSO, XFER",
       "count": 2,
-      "pct": 0.7
+      "pct": 0.6
     },
     {
       "name": "CHEHALIS TRIBAL",
       "count": 2,
-      "pct": 0.7
+      "pct": 0.6
     },
     {
       "name": "NORTHWEST SURETY",
       "count": 2,
-      "pct": 0.7
+      "pct": 0.6
     }
   ],
   "bondTypes": [
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 308,
+    "releasedCount": 311,
     "medianDays": 2.5,
     "meanDays": 12.6,
     "buckets": [
@@ -525,7 +525,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 41
+        "count": 43
       },
       {
         "label": "1–4 weeks",
@@ -533,22 +533,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 25
+        "count": 26
       },
       {
         "label": "3+ months",
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 36.4,
+    "currentMedianDaysHeld": 38.1,
     "currentLongestDaysHeld": 790.3
   },
   "bond": {
-    "withBond": 79,
-    "noBond": 51,
+    "withBond": 77,
+    "noBond": 50,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18799474
+    "totalBond": 18597474
   },
   "chargesPerBooking": 2.2
 }

@@ -1426,12 +1426,12 @@
         "warrantNumber": "24Y000276"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T01:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "62703-20261102142700",
@@ -1498,12 +1498,12 @@
         "warrantNumber": "862074 110326"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T19:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "357134-20261102100000",
@@ -10730,12 +10730,12 @@
         "warrantNumber": "788227 100726"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "63585-20261006114100",
