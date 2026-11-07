@@ -1,5 +1,29 @@
 [
   {
+    "id": "423411-20261106192300",
+    "inmateNumber": "423411",
+    "name": "GENTRY, ROBBIE I",
+    "bookedAt": "2026-11-06T19:23:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-06T19:23:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00935169"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T23:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "261558-20261106172900",
     "inmateNumber": "261558",
     "name": "DALEY, DONALD ANDREW",
@@ -106,11 +130,11 @@
         "warrantNumber": null
       },
       {
-        "description": "FAILURE TO REG AS SEX OFFENDR/FTA",
+        "description": "FAILURE TO REG AS SEX OFFENDR",
         "arrestDate": "2026-11-06T12:00:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
-        "billingAgency": null,
+        "billingAgency": "LCSC",
         "bondType": null,
         "bondAmount": null,
         "warrantNumber": "2610058721"
@@ -8475,7 +8499,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "4A0502293"
       },
