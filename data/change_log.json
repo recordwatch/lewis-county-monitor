@@ -88,6 +88,40 @@
     "releaseSource": "official"
   },
   {
+    "id": "5190-20261106120000",
+    "inmateNumber": "5190",
+    "name": "MORTENSEN, JARETT DOUGLAS",
+    "bookedAt": "2026-11-06T12:00:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-06T12:00:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "FAILURE TO REG AS SEX OFFENDR/FTA",
+        "arrestDate": "2026-11-06T12:00:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T21:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "412911-20261106103500",
     "inmateNumber": "412911",
     "name": "FLETCHER, RYAN CHRISTOPHER",
