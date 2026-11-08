@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:32:15",
+  "generatedAt": "2026-11-07T21:49:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 448,
@@ -333,7 +333,7 @@
     },
     {
       "name": "LCD",
-      "count": 319,
+      "count": 320,
       "pct": 33.9,
       "label": "Lewis County District Court"
     },
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 266,
-      "pct": 28.1
+      "count": 265,
+      "pct": 28
     },
     {
       "name": "Included",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 118,
-      "pct": 12.5
+      "count": 120,
+      "pct": 12.7
     },
     {
       "name": "Released by Court",
