@@ -1,5 +1,29 @@
 [
   {
+    "id": "205102-20261108031400",
+    "inmateNumber": "205102",
+    "name": "GONZALES, DAMEN NEAL",
+    "bookedAt": "2026-11-08T03:14:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-08T03:14:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T08:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "396140-20261108013200",
     "inmateNumber": "396140",
     "name": "LUMBERT, CALLIEANN MARIE",
