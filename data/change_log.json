@@ -1,5 +1,29 @@
 [
   {
+    "id": "423425-20261107215600",
+    "inmateNumber": "423425",
+    "name": "MOON, TIMOTHY D",
+    "bookedAt": "2026-11-07T21:56:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-07T21:56:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00837797"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T23:32:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "141208-20261107183300",
     "inmateNumber": "141208",
     "name": "MALONE, AARON DOUGLAS",
