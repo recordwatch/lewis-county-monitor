@@ -1,5 +1,29 @@
 [
   {
+    "id": "342223-20261107140400",
+    "inmateNumber": "342223",
+    "name": "ALGER, RONALD BENNETT",
+    "bookedAt": "2026-11-07T14:04:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND/FTA",
+        "arrestDate": "2026-11-07T14:04:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T18:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422389-20261107112900",
     "inmateNumber": "422389",
     "name": "WARNER, TINA MARIE",

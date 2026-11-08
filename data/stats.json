@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T18:32:13",
+  "generatedAt": "2026-11-07T18:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 446,
-    "bookingsObserved": 297,
+    "bookingsTracked": 447,
+    "bookingsObserved": 298,
     "releasesObserved": 316,
-    "inCustody": 130,
-    "uniquePeople": 419
+    "inCustody": 131,
+    "uniquePeople": 420
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 3,
+      "booked": 4,
       "released": 3
     }
   ],
@@ -222,6 +222,11 @@
       "pct": 1.4
     },
     {
+      "name": "CRIM TRESPASS 2ND/FTA",
+      "count": 12,
+      "pct": 1.3
+    },
+    {
       "name": "HARRASSMENT-DEATH THREAT",
       "count": 12,
       "pct": 1.3
@@ -238,11 +243,6 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 11,
-      "pct": 1.1
-    },
-    {
-      "name": "CRIM TRESPASS 2ND/FTA",
       "count": 11,
       "pct": 1.1
     },
@@ -283,8 +283,8 @@
     },
     {
       "name": "CHEH",
-      "count": 56,
-      "pct": 12.6,
+      "count": 57,
+      "pct": 12.8,
       "label": "Chehalis Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 37.2,
+    "currentMedianDaysHeld": 35.9,
     "currentLongestDaysHeld": 791.1
   },
   "bond": {
     "withBond": 81,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18655974
