@@ -1,5 +1,53 @@
 [
   {
+    "id": "423429-20261108124500",
+    "inmateNumber": "423429",
+    "name": "WHITNEY, DEVAN ELIZABETH",
+    "bookedAt": "2026-11-08T12:45:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-08T12:45:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0427751"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T13:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "229880-20261108103000",
+    "inmateNumber": "229880",
+    "name": "GRIFFITH, ROBERT LEE",
+    "bookedAt": "2026-11-08T10:30:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-08T10:30:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T13:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "205102-20261108031400",
     "inmateNumber": "205102",
     "name": "GONZALES, DAMEN NEAL",
