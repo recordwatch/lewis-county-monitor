@@ -1,5 +1,29 @@
 [
   {
+    "id": "141208-20261107183300",
+    "inmateNumber": "141208",
+    "name": "MALONE, AARON DOUGLAS",
+    "bookedAt": "2026-11-07T18:33:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-11-07T18:33:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "DRC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2510069921"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T22:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "347913-20261107174500",
     "inmateNumber": "347913",
     "name": "LAYMAN, AMBER IMOGENE",
