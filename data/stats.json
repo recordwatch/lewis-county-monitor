@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:49:16",
+  "generatedAt": "2026-11-08T14:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 454,
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 378,
-      "pct": 39.8,
+      "pct": 39.7,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 325,
-      "pct": 34.2,
+      "count": 326,
+      "pct": 34.3,
       "label": "Lewis County District Court"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 269,
-      "pct": 28.2
+      "count": 270,
+      "pct": 28.3
     },
     {
       "name": "Included",
       "count": 199,
-      "pct": 20.9
+      "pct": 20.8
     },
     {
       "name": "Serving Time",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 791.9
   },
   "bond": {
-    "withBond": 84,
-    "noBond": 52,
+    "withBond": 85,
+    "noBond": 51,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19158474
+    "totalBond": 19161074
   },
   "chargesPerBooking": 2.1
 }

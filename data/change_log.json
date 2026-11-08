@@ -31,17 +31,17 @@
     "name": "GRIFFITH, ROBERT LEE",
     "bookedAt": "2026-11-08T10:30:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 2600,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
         "arrestDate": "2026-11-08T10:30:00",
         "arrestingAgency": "LCSO",
-        "court": null,
+        "court": "LCD",
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "bondType": "Cash or Bond",
+        "bondAmount": 2600,
+        "warrantNumber": "6A0404555"
       }
     ],
     "status": "in_custody",
