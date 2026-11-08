@@ -5,23 +5,25 @@
     "name": "ALGER, RONALD BENNETT",
     "bookedAt": "2026-11-07T14:04:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND/FTA",
         "arrestDate": "2026-11-07T14:04:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "CR30161"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-07T18:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422389-20261107112900",
