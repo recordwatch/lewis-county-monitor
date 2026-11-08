@@ -5,43 +5,45 @@
     "name": "LUMBERT, CALLIEANN MARIE",
     "bookedAt": "2026-11-08T01:32:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DUI",
         "arrestDate": "2026-11-08T01:32:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0426345"
       },
       {
         "description": "HIT AND RUN",
         "arrestDate": "2026-11-08T01:32:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0426345"
       },
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-11-08T01:32:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0426345"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-08T02:32:52",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423425-20261107215600",
