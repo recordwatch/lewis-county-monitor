@@ -1,5 +1,49 @@
 [
   {
+    "id": "159092-20261109014500",
+    "inmateNumber": "159092",
+    "name": "DRIVER, DONNIE DAVID",
+    "bookedAt": "2026-11-09T01:45:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS DRUG PARAPHERNALIA USED",
+        "arrestDate": "2026-11-09T01:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Released by Court",
+        "bondAmount": null,
+        "warrantNumber": "6A0419027"
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
+        "arrestDate": "2026-11-09T01:45:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-11-09T01:45:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T09:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423446-20261109000200",
     "inmateNumber": "423446",
     "name": "MONTERO, DAVID ISAIAH",
