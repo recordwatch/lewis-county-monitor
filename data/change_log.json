@@ -1,5 +1,69 @@
 [
   {
+    "id": "421229-20261108222800",
+    "inmateNumber": "421229",
+    "name": "LAMBERT, DANIEL THOMAS",
+    "bookedAt": "2026-11-08T22:28:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 1ST/Public service interuption",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "ASSAULT 3RD/POLICE OFFICER",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T23:32:26",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423443-20261108215000",
     "inmateNumber": "423443",
     "name": "DELLINGER, NINA E",
