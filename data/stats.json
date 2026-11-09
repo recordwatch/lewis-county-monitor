@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T01:17:15",
+  "generatedAt": "2026-11-09T01:32:21",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 458,
-    "bookingsObserved": 309,
+    "bookingsTracked": 459,
+    "bookingsObserved": 310,
     "releasesObserved": 320,
-    "inCustody": 138,
-    "uniquePeople": 430
+    "inCustody": 139,
+    "uniquePeople": 431
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 79,
-      "pct": 8.1
+      "count": 80,
+      "pct": 8.2
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 116,
-      "pct": 25.4,
+      "count": 117,
+      "pct": 25.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "CENT",
       "count": 95,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 57,
-      "pct": 12.5,
+      "pct": 12.4,
       "label": "Chehalis Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 35.3,
+    "currentMedianDaysHeld": 35.1,
     "currentLongestDaysHeld": 792.4
   },
   "bond": {
     "withBond": 86,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 19154074

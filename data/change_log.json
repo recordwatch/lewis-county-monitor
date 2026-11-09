@@ -1,5 +1,29 @@
 [
   {
+    "id": "423446-20261109000200",
+    "inmateNumber": "423446",
+    "name": "MONTERO, DAVID ISAIAH",
+    "bookedAt": "2026-11-09T00:02:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-09T00:02:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T01:32:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "421229-20261108222800",
     "inmateNumber": "421229",
     "name": "LAMBERT, DANIEL THOMAS",
