@@ -31,7 +31,7 @@
     "name": "DENTON, BRYCE TYLER",
     "bookedAt": "2026-11-08T14:20:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "Protection Order Violation",
@@ -48,9 +48,9 @@
         "arrestDate": "2026-11-08T14:20:00",
         "arrestingAgency": "WASH",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "T00802565"
       }
     ],
