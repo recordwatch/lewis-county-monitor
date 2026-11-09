@@ -38,16 +38,28 @@
         "arrestDate": "2026-11-08T14:20:00",
         "arrestingAgency": "WASH",
         "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00802564"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-08T14:20:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": "T00802564"
+        "warrantNumber": "T00802565"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-08T16:32:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423429-20261108124500",
