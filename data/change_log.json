@@ -600,12 +600,12 @@
         "warrantNumber": "6A0419026"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T02:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423411-20261106192300",
