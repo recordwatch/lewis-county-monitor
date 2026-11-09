@@ -1,5 +1,29 @@
 [
   {
+    "id": "423432-20261108153300",
+    "inmateNumber": "423432",
+    "name": "CROW, COLTON GEORGE",
+    "bookedAt": "2026-11-08T15:33:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-08T15:33:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0435191"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T16:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423429-20261108124500",
     "inmateNumber": "423429",
     "name": "WHITNEY, DEVAN ELIZABETH",
