@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T16:17:14",
+  "generatedAt": "2026-11-08T16:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 455,
-    "bookingsObserved": 306,
+    "bookingsTracked": 456,
+    "bookingsObserved": 307,
     "releasesObserved": 318,
-    "inCustody": 137,
-    "uniquePeople": 427
+    "inCustody": 138,
+    "uniquePeople": 428
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 5,
+      "booked": 6,
       "released": 1
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 48,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -203,8 +203,8 @@
     },
     {
       "name": "Protection Order Violation",
-      "count": 18,
-      "pct": 1.9
+      "count": 19,
+      "pct": 2
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
@@ -272,7 +272,7 @@
     {
       "name": "JAIL",
       "count": 108,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "CHEH",
       "count": 57,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
-      "count": 51,
-      "pct": 11.2,
+      "count": 52,
+      "pct": 11.4,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 327,
-      "pct": 34.3,
+      "count": 328,
+      "pct": 34.4,
       "label": "Lewis County District Court"
     },
     {
@@ -540,12 +540,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 35.1,
+    "currentMedianDaysHeld": 34.9,
     "currentLongestDaysHeld": 792
   },
   "bond": {
     "withBond": 85,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19161074

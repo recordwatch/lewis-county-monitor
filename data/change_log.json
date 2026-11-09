@@ -21,6 +21,32 @@
     "status": "in_custody",
     "firstSeen": "2026-11-08T16:17:14",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "423433-20261108142000",
+    "inmateNumber": "423433",
+    "name": "DENTON, BRYCE TYLER",
+    "bookedAt": "2026-11-08T14:20:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-11-08T14:20:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "T00802564"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T16:32:16",
+    "releasedAt": null,
     "baseline": false
   },
   {
