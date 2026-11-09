@@ -11,21 +11,21 @@
         "description": "MAL MISCH 1ST/Public service interuption",
         "arrestDate": "2026-11-08T22:28:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "ASSAULT 3RD/POLICE OFFICER",
         "arrestDate": "2026-11-08T22:28:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "ASSAULT 4TH DEGREE/DV",
@@ -33,7 +33,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
       },
@@ -43,7 +43,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
       },
@@ -53,7 +53,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
       }
@@ -1958,12 +1958,12 @@
         "warrantNumber": "6A0398172"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T21:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-08T23:49:31",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "166486-20261102133000",
