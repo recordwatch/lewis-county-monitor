@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T22:17:25",
+  "generatedAt": "2026-11-08T22:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 456,
-    "bookingsObserved": 307,
+    "bookingsTracked": 457,
+    "bookingsObserved": 308,
     "releasesObserved": 319,
-    "inCustody": 137,
-    "uniquePeople": 428
+    "inCustody": 138,
+    "uniquePeople": 429
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 6,
+      "booked": 7,
       "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 78,
-      "pct": 8
+      "count": 79,
+      "pct": 8.1
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -209,7 +209,7 @@
     {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 17,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 115,
-      "pct": 25.3,
+      "pct": 25.2,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 95,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "Centralia Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 52,
-      "pct": 11.4,
+      "count": 53,
+      "pct": 11.6,
       "label": "Washington State Patrol"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 329,
-      "pct": 34.5,
+      "count": 330,
+      "pct": 34.6,
       "label": "Lewis County District Court"
     },
     {
@@ -462,12 +462,12 @@
     {
       "name": "Serving Time",
       "count": 175,
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "name": "No Bail",
-      "count": 124,
-      "pct": 12.9
+      "count": 125,
+      "pct": 13
     },
     {
       "name": "Released by Court",
@@ -540,12 +540,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 35.3,
-    "currentLongestDaysHeld": 792.2
+    "currentMedianDaysHeld": 35.2,
+    "currentLongestDaysHeld": 792.3
   },
   "bond": {
     "withBond": 86,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 19161574

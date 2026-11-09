@@ -1,5 +1,29 @@
 [
   {
+    "id": "423443-20261108215000",
+    "inmateNumber": "423443",
+    "name": "DELLINGER, NINA E",
+    "bookedAt": "2026-11-08T21:50:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-08T21:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00958921"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T22:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423432-20261108153300",
     "inmateNumber": "423432",
     "name": "CROW, COLTON GEORGE",
