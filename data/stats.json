@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T10:17:17",
+  "generatedAt": "2026-11-09T10:32:18",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 460,
@@ -247,14 +247,14 @@
       "pct": 1.1
     },
     {
-      "name": "DWLS 2ND DEGREE",
+      "name": "USE PARAPHERNALIA/FTA",
       "count": 10,
       "pct": 1
     },
     {
-      "name": "USE PARAPHERNALIA/FTA",
-      "count": 9,
-      "pct": 0.9
+      "name": "DWLS 2ND DEGREE",
+      "count": 10,
+      "pct": 1
     },
     {
       "name": "DRUG COURT SANCTIONS",
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 100,
-      "pct": 10.4,
+      "count": 101,
+      "pct": 10.5,
       "label": "Centralia Municipal Court"
     },
     {
@@ -471,8 +471,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 93,
-      "pct": 9.6
+      "count": 94,
+      "pct": 9.7
     },
     {
       "name": "Appearance Bond",
@@ -487,7 +487,7 @@
     {
       "name": "Amended",
       "count": 17,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "Transferred to Prison",
@@ -541,7 +541,7 @@
       }
     ],
     "currentMedianDaysHeld": 35.1,
-    "currentLongestDaysHeld": 792.7
+    "currentLongestDaysHeld": 792.8
   },
   "bond": {
     "withBond": 86,

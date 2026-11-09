@@ -46,6 +46,16 @@
         "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0420654"
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-11-09T01:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Released by Court",
+        "bondAmount": null,
+        "warrantNumber": "6A0418533"
       }
     ],
     "status": "in_custody",
