@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:49:16",
+  "generatedAt": "2026-11-09T10:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 460,
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 380,
-      "pct": 39.5,
+      "pct": 39.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 333,
-      "pct": 34.7,
+      "pct": 34.5,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 97,
-      "pct": 10.1,
+      "count": 100,
+      "pct": 10.4,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
       "count": 65,
-      "pct": 6.8,
+      "pct": 6.7,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -452,17 +452,17 @@
     {
       "name": "Cash or Bond",
       "count": 273,
-      "pct": 28.2
+      "pct": 28.1
     },
     {
       "name": "Included",
       "count": 199,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "Serving Time",
       "count": 175,
-      "pct": 18.1
+      "pct": 18
     },
     {
       "name": "No Bail",
@@ -471,8 +471,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 90,
-      "pct": 9.3
+      "count": 93,
+      "pct": 9.6
     },
     {
       "name": "Appearance Bond",
@@ -492,7 +492,7 @@
     {
       "name": "Transferred to Prison",
       "count": 16,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Referred",
@@ -540,7 +540,7 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 35,
+    "currentMedianDaysHeld": 35.1,
     "currentLongestDaysHeld": 792.7
   },
   "bond": {

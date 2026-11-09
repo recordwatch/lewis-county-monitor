@@ -21,21 +21,31 @@
         "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
         "arrestDate": "2026-11-09T01:45:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Released by Court",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0423207"
       },
       {
         "description": "USE PARAPHERNALIA/FTA",
         "arrestDate": "2026-11-09T01:45:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Released by Court",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0423207"
+      },
+      {
+        "description": "O PUB SRV/FTA",
+        "arrestDate": "2026-11-09T01:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Released by Court",
+        "bondAmount": null,
+        "warrantNumber": "6A0420654"
       }
     ],
     "status": "in_custody",
