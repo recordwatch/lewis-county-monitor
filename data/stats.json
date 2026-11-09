@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:49:17",
+  "generatedAt": "2026-11-08T23:17:19",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 457,
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 55,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 378,
-      "pct": 39.6,
+      "pct": 39.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 330,
-      "pct": 34.6,
+      "count": 332,
+      "pct": 34.7,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 96,
-      "pct": 10.1,
+      "pct": 10,
       "label": "Centralia Municipal Court"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "ODC",
       "count": 11,
-      "pct": 1.2,
+      "pct": 1.1,
       "label": "ODC"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 271,
-      "pct": 28.3
+      "count": 273,
+      "pct": 28.4
     },
     {
       "name": "Included",
       "count": 199,
-      "pct": 20.8
+      "pct": 20.7
     },
     {
       "name": "Serving Time",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 792.3
   },
   "bond": {
-    "withBond": 86,
-    "noBond": 52,
-    "medianBond": 42500,
+    "withBond": 87,
+    "noBond": 51,
+    "medianBond": 35000,
     "maxBond": 3000000,
-    "totalBond": 19161574
+    "totalBond": 19164074
   },
   "chargesPerBooking": 2.1
 }

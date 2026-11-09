@@ -5,7 +5,7 @@
     "name": "DELLINGER, NINA E",
     "bookedAt": "2026-11-08T21:50:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DUI",
@@ -16,6 +16,26 @@
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "T00958921"
+      },
+      {
+        "description": "NVOL - Without ID",
+        "arrestDate": "2026-11-08T21:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00958921"
+      },
+      {
+        "description": "RECKLESS ENDANGER 2CD",
+        "arrestDate": "2026-11-08T21:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "T00958923"
       }
     ],
     "status": "in_custody",
