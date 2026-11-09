@@ -1,5 +1,49 @@
 [
   {
+    "id": "186112-20261109125200",
+    "inmateNumber": "186112",
+    "name": "WATERS, MISTY LYNN",
+    "bookedAt": "2026-11-09T12:52:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-09T12:52:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-11-09T12:52:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "FAIL TRANSFER TITLE W/I 45 DAY",
+        "arrestDate": "2026-11-09T12:52:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T15:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "159092-20261109014500",
     "inmateNumber": "159092",
     "name": "DRIVER, DONNIE DAVID",
@@ -245,7 +289,7 @@
     "name": "DENTON, BRYCE TYLER",
     "bookedAt": "2026-11-08T14:20:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "Protection Order Violation",
@@ -253,8 +297,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "T00802564"
       },
       {
@@ -263,8 +307,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "T00802565"
       }
     ],

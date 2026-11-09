@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T15:17:15",
+  "generatedAt": "2026-11-09T15:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 460,
-    "bookingsObserved": 311,
+    "bookingsTracked": 461,
+    "bookingsObserved": 312,
     "releasesObserved": 335,
-    "inCustody": 125,
-    "uniquePeople": 431
+    "inCustody": 126,
+    "uniquePeople": 432
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 2,
+      "booked": 3,
       "released": 15
     }
   ],
@@ -168,13 +168,13 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 55,
+      "count": 56,
       "pct": 5.6
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 48,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -187,14 +187,14 @@
       "pct": 4.4
     },
     {
-      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+      "name": "Drive w/o req ignition intrlck",
       "count": 27,
       "pct": 2.7
     },
     {
-      "name": "Drive w/o req ignition intrlck",
-      "count": 26,
-      "pct": 2.6
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+      "count": 27,
+      "pct": 2.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 117,
-      "pct": 25.5,
+      "count": 118,
+      "pct": 25.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -466,13 +466,13 @@
     },
     {
       "name": "No Bail",
-      "count": 128,
-      "pct": 13.1
+      "count": 127,
+      "pct": 13
     },
     {
       "name": "Released by Court",
-      "count": 96,
-      "pct": 9.8
+      "count": 97,
+      "pct": 9.9
     },
     {
       "name": "Appearance Bond",
@@ -540,15 +540,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 40.4,
-    "currentLongestDaysHeld": 792.9
+    "currentMedianDaysHeld": 39.1,
+    "currentLongestDaysHeld": 793
   },
   "bond": {
     "withBond": 81,
-    "noBond": 44,
+    "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19122974
+    "totalBond": 19124974
   },
   "chargesPerBooking": 2.2
 }
