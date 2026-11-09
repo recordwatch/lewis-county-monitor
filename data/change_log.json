@@ -294,12 +294,12 @@
         "warrantNumber": "6A0427751"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T13:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "229880-20261108103000",
@@ -307,7 +307,7 @@
     "name": "GRIFFITH, ROBERT LEE",
     "bookedAt": "2026-11-08T10:30:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 2600,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
@@ -316,7 +316,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 2600,
+        "bondAmount": 1000,
         "warrantNumber": "6A0404555"
       }
     ],
@@ -470,12 +470,12 @@
         "warrantNumber": "6A0435114"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T21:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "342223-20261107140400",
@@ -626,12 +626,12 @@
         "warrantNumber": "T00935169"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T23:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "261558-20261106172900",
