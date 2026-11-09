@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:32:17",
+  "generatedAt": "2026-11-09T12:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 460,
@@ -179,12 +179,12 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 44,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "POSS of Controlled Substance",
       "count": 44,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -198,8 +198,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 21,
-      "pct": 2.1
+      "count": 22,
+      "pct": 2.2
     },
     {
       "name": "Protection Order Violation",
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 380,
-      "pct": 39.3,
+      "count": 383,
+      "pct": 39.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 333,
-      "pct": 34.5,
+      "pct": 34.4,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 102,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Centralia Municipal Court"
     },
     {
@@ -452,32 +452,32 @@
     {
       "name": "Cash or Bond",
       "count": 273,
-      "pct": 28.1
+      "pct": 28
     },
     {
       "name": "Included",
-      "count": 198,
-      "pct": 20.3
+      "count": 201,
+      "pct": 20.6
     },
     {
       "name": "Serving Time",
       "count": 175,
-      "pct": 18
+      "pct": 17.9
     },
     {
       "name": "No Bail",
       "count": 128,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "Released by Court",
       "count": 96,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "Appearance Bond",
       "count": 20,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "Released Time Served",
@@ -550,5 +550,5 @@
     "maxBond": 3000000,
     "totalBond": 19128074
   },
-  "chargesPerBooking": 2.1
+  "chargesPerBooking": 2.2
 }

@@ -829,7 +829,37 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610059521"
+      },
+      {
+        "description": "ASSLT 3rd DEGREE - (Officer)",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610059521"
+      },
+      {
+        "description": "MAL MISCH 1ST/Public service interuption",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610059521"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610059521"
       }
     ],
     "status": "in_custody",
