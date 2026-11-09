@@ -13,7 +13,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": null
       },
@@ -23,7 +23,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": null
       },
@@ -61,7 +61,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-08T23:32:26",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423443-20261108215000",
