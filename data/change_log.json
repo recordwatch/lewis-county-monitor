@@ -807,9 +807,9 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500000,
-        "warrantNumber": "W"
+        "bondType": "Released by Court",
+        "bondAmount": null,
+        "warrantNumber": "NOT FILED"
       },
       {
         "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
@@ -817,9 +817,9 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
-        "bondAmount": null,
-        "warrantNumber": "W"
+        "bondType": "Cash or Bond",
+        "bondAmount": 500000,
+        "warrantNumber": "2610059521"
       },
       {
         "description": "BURGLARY 2ND",
@@ -6478,12 +6478,12 @@
         "warrantNumber": "2610056821"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T19:54:30",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "219637-20261021101600",
