@@ -58,7 +58,7 @@
         "arrestDate": "2026-11-09T03:38:00",
         "arrestingAgency": "WASH",
         "court": "SUP",
-        "billingAgency": null,
+        "billingAgency": "WSP",
         "bondType": "Cash or Bond",
         "bondAmount": 50000,
         "warrantNumber": "T00958925"
@@ -67,8 +67,8 @@
         "description": "HIT RUN UNATTENDED PROPERTY",
         "arrestDate": "2026-11-09T03:38:00",
         "arrestingAgency": "WASH",
-        "court": null,
-        "billingAgency": null,
+        "court": "LCD",
+        "billingAgency": "WSP",
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "T00958925"
@@ -77,7 +77,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-09T16:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "159092-20261109014500",
@@ -197,7 +199,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610044121"
       },
       {
         "description": "ASSAULT 3RD/POLICE OFFICER",
@@ -205,19 +207,19 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610044121"
       },
       {
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-11-08T22:28:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610044121"
       },
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -238,6 +240,26 @@
         "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
+      },
+      {
+        "description": "MAL MISCH 3RD/>50",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610044121"
+      },
+      {
+        "description": "BURGLARY 1ST",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610044121"
       }
     ],
     "status": "in_custody",
