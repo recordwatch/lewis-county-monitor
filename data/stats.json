@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:49:15",
+  "generatedAt": "2026-11-10T14:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 468,
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 281,
-      "pct": 28.2
+      "count": 280,
+      "pct": 28.1
     },
     {
       "name": "Included",
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 177,
-      "pct": 17.7
+      "count": 178,
+      "pct": 17.8
     },
     {
       "name": "No Bail",
@@ -548,7 +548,7 @@
     "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18708674
+    "totalBond": 18695974
   },
   "chargesPerBooking": 2.2
 }

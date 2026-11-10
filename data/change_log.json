@@ -87,7 +87,7 @@
     "name": "LOPEZ, DANIEL CRUZ",
     "bookedAt": "2026-11-09T18:40:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 22100,
+    "bondTotal": 12000,
     "charges": [
       {
         "description": "VIOL PROTECTION ORD - FTA",
@@ -95,8 +95,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "22Y000521"
       },
       {
@@ -149,7 +149,7 @@
     "name": "WINGET, PRESTON MILES",
     "bookedAt": "2026-11-09T15:00:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 10100,
+    "bondTotal": 7500,
     "charges": [
       {
         "description": "VIOL PROTECTION ORD - FTA",
@@ -158,7 +158,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondAmount": 7500,
         "warrantNumber": "XZ0284114"
       }
     ],
