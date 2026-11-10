@@ -5,7 +5,7 @@
     "name": "LOPEZ, DANIEL CRUZ",
     "bookedAt": "2026-11-09T18:40:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 10100,
+    "bondTotal": 22100,
     "charges": [
       {
         "description": "VIOL PROTECTION ORD - FTA",
@@ -16,6 +16,16 @@
         "bondType": "Cash or Bond",
         "bondAmount": 10100,
         "warrantNumber": "22Y000521"
+      },
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-09T18:40:00",
+        "arrestingAgency": "JAIL",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 12000,
+        "warrantNumber": "2A0582234"
       }
     ],
     "status": "in_custody",

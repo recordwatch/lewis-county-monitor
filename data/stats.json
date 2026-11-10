@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:17:15",
+  "generatedAt": "2026-11-10T01:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 466,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 81,
-      "pct": 8.1
+      "count": 82,
+      "pct": 8.2
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 388,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 102,
-      "pct": 10.3,
+      "count": 103,
+      "pct": 10.4,
       "label": "Centralia Municipal Court"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 281,
-      "pct": 28.3
+      "count": 282,
+      "pct": 28.4
     },
     {
       "name": "Included",
       "count": 209,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "Serving Time",
@@ -548,7 +548,7 @@
     "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18696674
+    "totalBond": 18708674
   },
   "chargesPerBooking": 2.2
 }
