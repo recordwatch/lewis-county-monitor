@@ -47,17 +47,19 @@
         "description": "ASSAULT 4TH DV",
         "arrestDate": "2026-11-10T11:42:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0433573"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T15:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "3708-20261110012400",
@@ -1899,7 +1901,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "6A0171704"
       },
