@@ -192,6 +192,16 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-11-08T22:28:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610044121"
+      },
+      {
         "description": "MAL MISCH 1ST/Public service interuption",
         "arrestDate": "2026-11-08T22:28:00",
         "arrestingAgency": "LCSO",
