@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:32:17",
+  "generatedAt": "2026-11-10T01:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 466,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 82,
-      "pct": 8.2
+      "count": 81,
+      "pct": 8.1
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -257,7 +257,7 @@
       "pct": 1
     },
     {
-      "name": "DRUG COURT SANCTIONS",
+      "name": "DUI/FTA",
       "count": 9,
       "pct": 0.9
     }
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 282,
-      "pct": 28.4
+      "count": 281,
+      "pct": 28.3
     },
     {
       "name": "Included",
@@ -476,8 +476,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 20,
-      "pct": 2
+      "count": 21,
+      "pct": 2.1
     },
     {
       "name": "Released Time Served",

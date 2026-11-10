@@ -18,12 +18,12 @@
         "warrantNumber": "22Y000521"
       },
       {
-        "description": "DUI",
+        "description": "DUI/FTA",
         "arrestDate": "2026-11-09T18:40:00",
         "arrestingAgency": "JAIL",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
+        "bondType": "Appearance Bond",
         "bondAmount": 12000,
         "warrantNumber": "2A0582234"
       }
