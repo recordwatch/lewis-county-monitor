@@ -36,6 +36,30 @@
     "releaseSource": null
   },
   {
+    "id": "115568-20261110114200",
+    "inmateNumber": "115568",
+    "name": "MCCRACKEN-BATES, JESSE MICAH",
+    "bookedAt": "2026-11-10T11:42:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-10T11:42:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T15:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "3708-20261110012400",
     "inmateNumber": "3708",
     "name": "KROGNESS, BENJAMIN ROBERT",
@@ -59,7 +83,7 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "W"
       },
@@ -131,7 +155,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "W"
       }
