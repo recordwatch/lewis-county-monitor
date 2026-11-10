@@ -921,7 +921,7 @@
     "name": "THOME, PEYTON PERRY",
     "bookedAt": "2026-11-06T03:31:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 500000,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "ASSAULT 2ND",
@@ -940,7 +940,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 500000,
+        "bondAmount": 50000,
         "warrantNumber": "2610059521"
       },
       {
