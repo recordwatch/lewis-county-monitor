@@ -46,6 +46,40 @@
     "releaseSource": null
   },
   {
+    "id": "423447-20261109033800",
+    "inmateNumber": "423447",
+    "name": "CLOUSING, MEGAN KAY",
+    "bookedAt": "2026-11-09T03:38:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-09T03:38:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
+        "warrantNumber": "T00958925"
+      },
+      {
+        "description": "HIT RUN UNATTENDED PROPERTY",
+        "arrestDate": "2026-11-09T03:38:00",
+        "arrestingAgency": "WASH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "T00958925"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T16:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "159092-20261109014500",
     "inmateNumber": "159092",
     "name": "DRIVER, DONNIE DAVID",
@@ -436,6 +470,26 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0426345"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-08T01:32:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0430395"
+      },
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-08T01:32:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0239945"
       }
     ],
     "status": "in_custody",
