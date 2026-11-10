@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:17:15",
+  "generatedAt": "2026-11-10T13:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 468,
@@ -457,11 +457,11 @@
     {
       "name": "Included",
       "count": 209,
-      "pct": 21
+      "pct": 20.9
     },
     {
       "name": "Serving Time",
-      "count": 176,
+      "count": 177,
       "pct": 17.7
     },
     {

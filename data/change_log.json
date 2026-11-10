@@ -12,7 +12,7 @@
         "arrestDate": "2026-11-10T11:45:00",
         "arrestingAgency": "JAIL",
         "court": "SUP",
-        "billingAgency": null,
+        "billingAgency": "LCSC",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610034921"
@@ -22,8 +22,8 @@
         "arrestDate": "2026-11-10T11:45:00",
         "arrestingAgency": "JAIL",
         "court": "SUP",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610034921"
       }
@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-10T13:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "3708-20261110012400",
