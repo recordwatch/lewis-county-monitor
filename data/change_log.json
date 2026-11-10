@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-09T19:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "186112-20261109125200",
@@ -466,12 +468,12 @@
         "warrantNumber": "6A0404555"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T13:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T19:09:21",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "205102-20261108031400",
