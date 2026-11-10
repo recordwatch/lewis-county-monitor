@@ -1,5 +1,29 @@
 [
   {
+    "id": "354612-20261109150000",
+    "inmateNumber": "354612",
+    "name": "WINGET, PRESTON MILES",
+    "bookedAt": "2026-11-09T15:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 10100,
+    "charges": [
+      {
+        "description": "VIOL PROTECTION ORD - FTA",
+        "arrestDate": "2026-11-09T15:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "XZ0284114"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T19:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "176984-20261109140800",
     "inmateNumber": "176984",
     "name": "BOWDISH, SHAWNEE LORAINE",
