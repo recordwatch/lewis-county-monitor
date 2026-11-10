@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T12:49:16",
+  "generatedAt": "2026-11-10T13:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 467,
-    "bookingsObserved": 318,
+    "bookingsTracked": 468,
+    "bookingsObserved": 319,
     "releasesObserved": 339,
-    "inCustody": 128,
-    "uniquePeople": 437
+    "inCustody": 129,
+    "uniquePeople": 438
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 48,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -213,8 +213,8 @@
     },
     {
       "name": "ASSAULT 4TH DV",
-      "count": 16,
-      "pct": 1.6
+      "count": 17,
+      "pct": 1.7
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -271,8 +271,8 @@
     },
     {
       "name": "JAIL",
-      "count": 110,
-      "pct": 23.6,
+      "count": 111,
+      "pct": 23.8,
       "label": "Lewis County Jail"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 389,
-      "pct": 39.4,
+      "count": 391,
+      "pct": 39.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 345,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Lewis County District Court"
     },
     {
@@ -461,13 +461,13 @@
     },
     {
       "name": "Serving Time",
-      "count": 175,
-      "pct": 17.6
+      "count": 176,
+      "pct": 17.7
     },
     {
       "name": "No Bail",
       "count": 129,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "Released by Court",
@@ -540,12 +540,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 38.5,
-    "currentLongestDaysHeld": 793.8
+    "currentMedianDaysHeld": 38.4,
+    "currentLongestDaysHeld": 793.9
   },
   "bond": {
     "withBond": 82,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18708674
