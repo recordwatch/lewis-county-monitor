@@ -1,5 +1,49 @@
 [
   {
+    "id": "3708-20261110012400",
+    "inmateNumber": "3708",
+    "name": "KROGNESS, BENJAMIN ROBERT",
+    "bookedAt": "2026-11-10T01:24:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS DRUG PARAPHERNALIA USED",
+        "arrestDate": "2026-11-10T01:24:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "HARRASSMENT-THREAT TO KILL-DOMESTIC VIOL",
+        "arrestDate": "2026-11-10T01:24:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-10T01:24:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T02:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "187013-20261109184000",
     "inmateNumber": "187013",
     "name": "LOPEZ, DANIEL CRUZ",
