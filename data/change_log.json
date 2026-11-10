@@ -5,7 +5,7 @@
     "name": "LOPEZ, DANIEL CRUZ",
     "bookedAt": "2026-11-09T18:40:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 10100,
     "charges": [
       {
         "description": "VIOL PROTECTION ORD - FTA",
@@ -13,15 +13,17 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
         "warrantNumber": "22Y000521"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T22:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "16193-20261109165000",
