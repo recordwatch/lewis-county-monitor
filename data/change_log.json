@@ -175,7 +175,7 @@
     "name": "BOWDISH, SHAWNEE LORAINE",
     "bookedAt": "2026-11-09T14:08:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 1500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "Trip Permit Violation",
@@ -184,7 +184,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 2000,
         "warrantNumber": "T00802567"
       },
       {
@@ -193,8 +193,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00802567"
       },
       {
@@ -203,8 +203,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00802567"
       }
     ],
