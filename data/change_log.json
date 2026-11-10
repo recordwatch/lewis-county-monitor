@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-09T19:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "176984-20261109140800",
@@ -29,7 +31,7 @@
     "name": "BOWDISH, SHAWNEE LORAINE",
     "bookedAt": "2026-11-09T14:08:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 1000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "Trip Permit Violation",
@@ -43,6 +45,16 @@
       },
       {
         "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-09T14:08:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00802567"
+      },
+      {
+        "description": "Fail to Transfer - late penalty",
         "arrestDate": "2026-11-09T14:08:00",
         "arrestingAgency": "WASH",
         "court": "LCD",
