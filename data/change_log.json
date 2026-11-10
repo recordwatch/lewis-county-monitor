@@ -1851,7 +1851,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "6A0191881"
       },
@@ -1881,7 +1881,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0239943"
       },

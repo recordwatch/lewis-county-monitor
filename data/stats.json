@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:32:18",
+  "generatedAt": "2026-11-10T15:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 469,
@@ -466,13 +466,13 @@
     },
     {
       "name": "No Bail",
-      "count": 127,
-      "pct": 12.7
+      "count": 125,
+      "pct": 12.5
     },
     {
       "name": "Released by Court",
-      "count": 97,
-      "pct": 9.7
+      "count": 98,
+      "pct": 9.8
     },
     {
       "name": "Appearance Bond",
@@ -481,8 +481,8 @@
     },
     {
       "name": "Released Time Served",
-      "count": 19,
-      "pct": 1.9
+      "count": 20,
+      "pct": 2
     },
     {
       "name": "Amended",
