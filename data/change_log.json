@@ -1,5 +1,29 @@
 [
   {
+    "id": "187013-20261109184000",
+    "inmateNumber": "187013",
+    "name": "LOPEZ, DANIEL CRUZ",
+    "bookedAt": "2026-11-09T18:40:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VIOL PROTECTION ORD - FTA",
+        "arrestDate": "2026-11-09T18:40:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "22Y000521"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T22:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "16193-20261109165000",
     "inmateNumber": "16193",
     "name": "LUURS, STEVEN ROY",
@@ -11,17 +35,19 @@
         "description": "THEFT 2ND/BICYCLES",
         "arrestDate": "2026-11-09T16:50:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T21:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "354612-20261109150000",

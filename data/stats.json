@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T21:49:15",
+  "generatedAt": "2026-11-09T22:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 465,
-    "bookingsObserved": 316,
+    "bookingsTracked": 466,
+    "bookingsObserved": 317,
     "releasesObserved": 339,
-    "inCustody": 126,
-    "uniquePeople": 435
+    "inCustody": 127,
+    "uniquePeople": 436
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 7,
+      "booked": 8,
       "released": 19
     }
   ],
@@ -271,8 +271,8 @@
     },
     {
       "name": "JAIL",
-      "count": 109,
-      "pct": 23.5,
+      "count": 110,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 55,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "Washington State Patrol"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 387,
-      "pct": 39.3,
+      "count": 388,
+      "pct": 39.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 344,
+      "count": 345,
       "pct": 35,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 102,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "Centralia Municipal Court"
     },
     {
@@ -540,12 +540,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 39.3,
+    "currentMedianDaysHeld": 38.1,
     "currentLongestDaysHeld": 793.2
   },
   "bond": {
     "withBond": 81,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18686574
