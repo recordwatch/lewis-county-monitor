@@ -2221,7 +2221,7 @@
         "arrestingAgency": "WASH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Serving Time",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0308684"
       }
