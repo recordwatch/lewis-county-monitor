@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T12:17:31",
+  "generatedAt": "2026-11-11T13:17:19",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 475,
-    "bookingsObserved": 326,
+    "bookingsTracked": 476,
+    "bookingsObserved": 327,
     "releasesObserved": 341,
-    "inCustody": 134,
-    "uniquePeople": 445
+    "inCustody": 135,
+    "uniquePeople": 446
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -222,14 +222,14 @@
       "pct": 1.4
     },
     {
-      "name": "RESISTING ARREST",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 13,
       "pct": 1.3
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 12,
-      "pct": 1.2
+      "name": "RESISTING ARREST",
+      "count": 13,
+      "pct": 1.3
     },
     {
       "name": "CRIM TRESPASS 2ND/FTA",
@@ -278,13 +278,13 @@
     {
       "name": "CENT",
       "count": 99,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
-      "count": 58,
-      "pct": 12.2,
+      "count": 59,
+      "pct": 12.4,
       "label": "Chehalis Police"
     },
     {
@@ -540,12 +540,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 37.5,
-    "currentLongestDaysHeld": 794.8
+    "currentMedianDaysHeld": 37.2,
+    "currentLongestDaysHeld": 794.9
   },
   "bond": {
     "withBond": 83,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18697574
