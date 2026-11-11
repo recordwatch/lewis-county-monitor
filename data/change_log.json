@@ -87,7 +87,7 @@
         "billingAgency": "LCSC",
         "bondType": "Dismissed",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "declined"
       },
       {
         "description": "ASSAULT 4TH DEGREE/DV",
@@ -301,7 +301,7 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "T00958925"
       },
@@ -311,7 +311,7 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "T00958925"
       }
