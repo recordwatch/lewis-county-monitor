@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T03:17:14",
+  "generatedAt": "2026-11-11T03:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 474,
@@ -328,12 +328,12 @@
     {
       "name": "SUP",
       "count": 393,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 347,
+      "count": 348,
       "pct": 34.8,
       "label": "Lewis County District Court"
     },
@@ -541,7 +541,7 @@
       }
     ],
     "currentMedianDaysHeld": 37.4,
-    "currentLongestDaysHeld": 794.4
+    "currentLongestDaysHeld": 794.5
   },
   "bond": {
     "withBond": 83,
