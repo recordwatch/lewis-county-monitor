@@ -1,5 +1,39 @@
 [
   {
+    "id": "375032-20261110221200",
+    "inmateNumber": "375032",
+    "name": "CARPIO-CANSINO, MARTHA",
+    "bookedAt": "2026-11-10T22:12:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND/>750",
+        "arrestDate": "2026-11-10T22:12:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-10T22:12:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T23:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "311772-20261110190000",
     "inmateNumber": "311772",
     "name": "PRICE, DABE A",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T23:35:28",
+  "generatedAt": "2026-11-10T23:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 471,
-    "bookingsObserved": 322,
+    "bookingsTracked": 472,
+    "bookingsObserved": 323,
     "releasesObserved": 339,
-    "inCustody": 132,
-    "uniquePeople": 441
+    "inCustody": 133,
+    "uniquePeople": 442
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 5,
+      "booked": 6,
       "released": 0
     }
   ],
@@ -203,8 +203,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
-      "count": 19,
-      "pct": 1.9
+      "count": 20,
+      "pct": 2
     },
     {
       "name": "Protection Order Violation",
@@ -277,8 +277,8 @@
     },
     {
       "name": "CENT",
-      "count": 98,
-      "pct": 20.9,
+      "count": 99,
+      "pct": 21,
       "label": "Centralia Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WINL",
       "count": 12,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Winlock Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 392,
+      "count": 393,
       "pct": 39.4,
       "label": "Lewis County Superior Court"
     },
@@ -457,17 +457,17 @@
     {
       "name": "Included",
       "count": 211,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "Serving Time",
       "count": 178,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "No Bail",
-      "count": 125,
-      "pct": 12.5
+      "count": 126,
+      "pct": 12.6
     },
     {
       "name": "Released by Court",
@@ -540,12 +540,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 37.5,
+    "currentMedianDaysHeld": 37.4,
     "currentLongestDaysHeld": 794.3
   },
   "bond": {
     "withBond": 83,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18697474
