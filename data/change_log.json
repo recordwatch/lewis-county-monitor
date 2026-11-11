@@ -302,7 +302,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondAmount": null,
         "warrantNumber": "T00958925"
       },
       {
@@ -3777,7 +3777,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2410043821"
       }
@@ -6769,7 +6769,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2610028321"
       }
