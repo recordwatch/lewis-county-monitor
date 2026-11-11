@@ -1,5 +1,29 @@
 [
   {
+    "id": "311772-20261110190000",
+    "inmateNumber": "311772",
+    "name": "PRICE, DABE A",
+    "bookedAt": "2026-11-10T19:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-11-10T19:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "DRC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "25173621"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T19:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "191052-20261110114500",
     "inmateNumber": "191052",
     "name": "ERICKSON, SETH B",
