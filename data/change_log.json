@@ -21,6 +21,32 @@
     "status": "in_custody",
     "firstSeen": "2026-11-10T19:49:14",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "419802-20261110184200",
+    "inmateNumber": "419802",
+    "name": "ZUM BRUNNEN, ELEANA M",
+    "bookedAt": "2026-11-10T18:42:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "Antiharassment Protection Order Viol",
+        "arrestDate": "2026-11-10T18:42:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0151753"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T20:17:14",
+    "releasedAt": null,
     "baseline": false
   },
   {
