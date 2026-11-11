@@ -12344,12 +12344,12 @@
         "warrantNumber": "6A0390648"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T05:54:10",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "COASTAL COMMUNITY",
+    "releaseSource": "official"
   },
   {
     "id": "340703-20261004142100",
