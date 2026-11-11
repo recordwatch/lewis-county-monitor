@@ -1,5 +1,29 @@
 [
   {
+    "id": "86507-20261111004700",
+    "inmateNumber": "86507",
+    "name": "TOEPELT, MICHAEL WILLIAM GLENN",
+    "bookedAt": "2026-11-11T00:47:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-11T00:47:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00929182"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T02:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "375032-20261110221200",
     "inmateNumber": "375032",
     "name": "CARPIO-CANSINO, MARTHA",
