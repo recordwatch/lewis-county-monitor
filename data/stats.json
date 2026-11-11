@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T02:49:16",
+  "generatedAt": "2026-11-11T03:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 473,
-    "bookingsObserved": 324,
+    "bookingsTracked": 474,
+    "bookingsObserved": 325,
     "releasesObserved": 340,
-    "inCustody": 133,
-    "uniquePeople": 443
+    "inCustody": 134,
+    "uniquePeople": 444
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 82,
+      "count": 83,
       "pct": 8.1
     },
     {
@@ -189,12 +189,12 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 27,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 27,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 119,
-      "pct": 25.2,
+      "count": 120,
+      "pct": 25.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 99,
-      "pct": 21,
+      "pct": 20.9,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WASH",
       "count": 56,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "Washington State Patrol"
     },
     {
@@ -540,15 +540,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 37.5,
+    "currentMedianDaysHeld": 37.4,
     "currentLongestDaysHeld": 794.4
   },
   "bond": {
     "withBond": 83,
-    "noBond": 50,
+    "noBond": 51,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18697474
   },
-  "chargesPerBooking": 2.2
+  "chargesPerBooking": 2.1
 }

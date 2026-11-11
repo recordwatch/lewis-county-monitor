@@ -1,5 +1,29 @@
 [
   {
+    "id": "422847-20261111013300",
+    "inmateNumber": "422847",
+    "name": "BURNS, ANDREW JESSE MARK",
+    "bookedAt": "2026-11-11T01:33:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-11T01:33:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T03:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "86507-20261111004700",
     "inmateNumber": "86507",
     "name": "TOEPELT, MICHAEL WILLIAM GLENN",
@@ -21,7 +45,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-11T02:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "375032-20261110221200",
