@@ -12,8 +12,8 @@
         "arrestDate": "2026-11-11T01:33:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0426346"
       }
