@@ -73,11 +73,11 @@
         "description": "POSS DRUG PARAPHERNALIA USED",
         "arrestDate": "2026-11-10T01:24:00",
         "arrestingAgency": "CHEH",
-        "court": null,
+        "court": "CSM",
         "billingAgency": null,
         "bondType": "Referred",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "referred"
       },
       {
         "description": "HARRASSMENT-THREAT TO KILL-DOMESTIC VIOL",
@@ -93,11 +93,21 @@
         "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-11-10T01:24:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "PA2600049"
+      },
+      {
+        "description": "HARRASSMENT",
+        "arrestDate": "2026-11-10T01:24:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "PA2600049"
       }
     ],
     "status": "in_custody",
