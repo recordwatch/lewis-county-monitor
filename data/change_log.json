@@ -5,23 +5,25 @@
     "name": "GONZALEZ, ESTEBAN MANUEL",
     "bookedAt": "2026-11-11T11:52:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
         "arrestDate": "2026-11-11T11:52:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0429101"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-11T13:17:19",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "412816-20261111094700",
