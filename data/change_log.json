@@ -1,5 +1,29 @@
 [
   {
+    "id": "45759-20261111132500",
+    "inmateNumber": "45759",
+    "name": "ROSBACH, DARRIN LEE",
+    "bookedAt": "2026-11-11T13:25:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-11T13:25:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6a0413917"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T14:25:48",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "289366-20261111115200",
     "inmateNumber": "289366",
     "name": "GONZALEZ, ESTEBAN MANUEL",
