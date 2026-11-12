@@ -1604,6 +1604,26 @@
         "warrantNumber": "2610059521"
       },
       {
+        "description": "BURGLARY 2ND",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610053221"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-11-06T03:31:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610053221"
+      },
+      {
         "description": "ASSLT 3rd DEGREE - (Officer)",
         "arrestDate": "2026-11-06T03:31:00",
         "arrestingAgency": "CENT",

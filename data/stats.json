@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:32:22",
+  "generatedAt": "2026-11-12T13:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 482,
@@ -174,7 +174,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 49,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -198,8 +198,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 23,
-      "pct": 2.2
+      "count": 24,
+      "pct": 2.3
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
@@ -257,7 +257,7 @@
       "pct": 1
     },
     {
-      "name": "DWLS 2ND DEGREE",
+      "name": "BURGLARY 2ND",
       "count": 10,
       "pct": 1
     }
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 398,
-      "pct": 39.4,
+      "count": 400,
+      "pct": 39.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 351,
-      "pct": 34.7,
+      "pct": 34.6,
       "label": "Lewis County District Court"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "Included",
-      "count": 213,
-      "pct": 20.9
+      "count": 214,
+      "pct": 21
     },
     {
       "name": "Serving Time",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 132,
-      "pct": 13
+      "count": 133,
+      "pct": 13.1
     },
     {
       "name": "Released by Court",
