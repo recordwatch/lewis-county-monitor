@@ -1,5 +1,29 @@
 [
   {
+    "id": "231876-20261112012900",
+    "inmateNumber": "231876",
+    "name": "ANDERSON, SAVANAH LEE",
+    "bookedAt": "2026-11-12T01:29:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-12T01:29:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00988141"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T02:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "381763-20261111162700",
     "inmateNumber": "381763",
     "name": "KNIGHT, RICHARD DONALD",
