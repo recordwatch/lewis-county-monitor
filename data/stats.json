@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:49:15",
+  "generatedAt": "2026-11-12T12:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 482,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 84,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -218,8 +218,8 @@
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
-      "count": 14,
-      "pct": 1.4
+      "count": 15,
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 397,
-      "pct": 39.3,
+      "count": 398,
+      "pct": 39.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 351,
-      "pct": 34.8,
+      "pct": 34.7,
       "label": "Lewis County District Court"
     },
     {
@@ -452,11 +452,11 @@
     {
       "name": "Cash or Bond",
       "count": 284,
-      "pct": 28
+      "pct": 27.9
     },
     {
       "name": "Included",
-      "count": 212,
+      "count": 213,
       "pct": 20.9
     },
     {

@@ -52,6 +52,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2510081221"
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-11-12T09:25:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2510081221"
       }
     ],
     "status": "in_custody",
