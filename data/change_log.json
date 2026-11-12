@@ -544,12 +544,12 @@
         "warrantNumber": "T00958925"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T16:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T15:51:09",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "159092-20261109014500",
