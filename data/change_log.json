@@ -1,5 +1,73 @@
 [
   {
+    "id": "381763-20261111162700",
+    "inmateNumber": "381763",
+    "name": "KNIGHT, RICHARD DONALD",
+    "bookedAt": "2026-11-11T16:27:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RAPE CHILD 3RD",
+        "arrestDate": "2026-11-11T16:27:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "Commercial Sexual Abuse of A Minor",
+        "arrestDate": "2026-11-11T16:27:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T20:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "159272-20261111153000",
+    "inmateNumber": "159272",
+    "name": "POWELL, KINDAL MORGAN",
+    "bookedAt": "2026-11-11T15:30:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-11T15:30:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0433576"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-11T15:30:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T20:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "45759-20261111132500",
     "inmateNumber": "45759",
     "name": "ROSBACH, DARRIN LEE",
