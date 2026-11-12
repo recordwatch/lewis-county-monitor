@@ -90,12 +90,12 @@
         "warrantNumber": "6A0433577"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T20:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T11:00:00",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "official"
   },
   {
     "id": "45759-20261111132500",
