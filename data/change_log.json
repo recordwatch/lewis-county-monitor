@@ -26,6 +26,30 @@
     "releaseSource": "official"
   },
   {
+    "id": "346829-20261112092500",
+    "inmateNumber": "346829",
+    "name": "MURPHY, JONATHAN T",
+    "bookedAt": "2026-11-12T09:25:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT CHILD 1ST",
+        "arrestDate": "2026-11-12T09:25:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510081221"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T11:25:59",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "231876-20261112012900",
     "inmateNumber": "231876",
     "name": "ANDERSON, SAVANAH LEE",
