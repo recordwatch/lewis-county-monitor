@@ -90,12 +90,12 @@
         "warrantNumber": "T00988141"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T02:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "381763-20261111162700",
@@ -455,7 +455,7 @@
     "name": "KROGNESS, BENJAMIN ROBERT",
     "bookedAt": "2026-11-10T01:24:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS DRUG PARAPHERNALIA USED",
@@ -483,8 +483,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "PA2600049"
       },
       {
