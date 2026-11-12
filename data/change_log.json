@@ -416,12 +416,12 @@
         "warrantNumber": "XZ0284114"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T19:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T18:56:53",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "176984-20261109140800",
