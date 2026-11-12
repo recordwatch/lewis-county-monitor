@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T20:17:15",
+  "generatedAt": "2026-11-11T20:32:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 479,
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 105,
-      "pct": 10.4,
+      "count": 106,
+      "pct": 10.5,
       "label": "Centralia Municipal Court"
     },
     {
@@ -451,13 +451,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 281,
-      "pct": 27.8
+      "count": 283,
+      "pct": 28
     },
     {
       "name": "Included",
       "count": 212,
-      "pct": 21
+      "pct": 20.9
     },
     {
       "name": "Serving Time",
@@ -467,7 +467,7 @@
     {
       "name": "No Bail",
       "count": 129,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "Released by Court",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 795.2
   },
   "bond": {
-    "withBond": 81,
-    "noBond": 53,
+    "withBond": 82,
+    "noBond": 52,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18638974
+    "totalBond": 18640474
   },
   "chargesPerBooking": 2.1
 }

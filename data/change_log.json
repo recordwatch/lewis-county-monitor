@@ -31,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-11T20:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "159272-20261111153000",
@@ -39,33 +41,35 @@
     "name": "POWELL, KINDAL MORGAN",
     "bookedAt": "2026-11-11T15:30:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-11-11T15:30:00",
         "arrestingAgency": "CENT",
         "court": "CNM",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "6A0433576"
       },
       {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-11-11T15:30:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0433577"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-11T20:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "45759-20261111132500",
