@@ -462,12 +462,12 @@
         "warrantNumber": "T00802567"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T19:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "186112-20261109125200",
