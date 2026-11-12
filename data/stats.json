@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:32:17",
+  "generatedAt": "2026-11-12T11:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 482,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 396,
-      "pct": 39.2,
+      "count": 397,
+      "pct": 39.3,
       "label": "Lewis County Superior Court"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "Included",
-      "count": 211,
-      "pct": 20.8
+      "count": 212,
+      "pct": 20.9
     },
     {
       "name": "Serving Time",
@@ -472,7 +472,7 @@
     {
       "name": "Released by Court",
       "count": 101,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "Appearance Bond",
