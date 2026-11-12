@@ -7074,12 +7074,12 @@
         "warrantNumber": "2610028321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T20:21:58",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T08:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "WCC",
+    "releaseSource": "official"
   },
   {
     "id": "364086-20261021132700",

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-11T22:32:14",
+  "generatedAt": "2026-11-11T22:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 479,
     "bookingsObserved": 330,
-    "releasesObserved": 345,
-    "inCustody": 134,
+    "releasesObserved": 346,
+    "inCustody": 133,
     "uniquePeople": 449
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-11",
       "booked": 7,
-      "released": 5
+      "released": 6
     }
   ],
   "topCharges": [
@@ -390,7 +390,7 @@
     {
       "name": "SELF",
       "count": 263,
-      "pct": 77.6
+      "pct": 77.4
     },
     {
       "name": "DOC",
@@ -409,8 +409,8 @@
     },
     {
       "name": "WCC",
-      "count": 5,
-      "pct": 1.5
+      "count": 6,
+      "pct": 1.8
     },
     {
       "name": "DOC RELOCATE",
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 341,
+    "releasedCount": 342,
     "medianDays": 2.4,
     "meanDays": 12.4,
     "buckets": [
@@ -529,7 +529,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 64
+        "count": 65
       },
       {
         "label": "1–3 months",
@@ -540,12 +540,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 38,
+    "currentMedianDaysHeld": 38.4,
     "currentLongestDaysHeld": 795.3
   },
   "bond": {
     "withBond": 82,
-    "noBond": 52,
+    "noBond": 51,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18640474
