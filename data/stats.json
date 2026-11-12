@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T14:49:14",
+  "generatedAt": "2026-11-12T15:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 482,
     "bookingsObserved": 333,
-    "releasesObserved": 354,
-    "inCustody": 128,
+    "releasesObserved": 355,
+    "inCustody": 127,
     "uniquePeople": 452
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-12",
       "booked": 3,
-      "released": 8
+      "released": 9
     }
   ],
   "topCharges": [
@@ -389,7 +389,7 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 267,
+      "count": 268,
       "pct": 77.2
     },
     {
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 285,
-      "pct": 28
+      "count": 284,
+      "pct": 27.9
     },
     {
       "name": "Included",
@@ -471,8 +471,8 @@
     },
     {
       "name": "Released by Court",
-      "count": 101,
-      "pct": 9.9
+      "count": 102,
+      "pct": 10
     },
     {
       "name": "Appearance Bond",
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 350,
+    "releasedCount": 351,
     "medianDays": 2.3,
     "meanDays": 12.4,
     "buckets": [
@@ -521,7 +521,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 116
+        "count": 117
       },
       {
         "label": "3–7 days",
@@ -540,15 +540,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 39.9,
+    "currentMedianDaysHeld": 40.5,
     "currentLongestDaysHeld": 795.9
   },
   "bond": {
-    "withBond": 81,
+    "withBond": 80,
     "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18635474
+    "totalBond": 18624100
   },
   "chargesPerBooking": 2.1
 }
