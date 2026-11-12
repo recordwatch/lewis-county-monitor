@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-12T10:32:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "231876-20261112012900",
@@ -15662,12 +15664,12 @@
         "warrantNumber": "2610043921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T11:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "MH COURT",
+    "releaseSource": "official"
   },
   {
     "id": "6844-20260814224800",
