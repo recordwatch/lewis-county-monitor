@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T10:17:17",
+  "generatedAt": "2026-11-12T10:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 480,
-    "bookingsObserved": 331,
+    "bookingsTracked": 481,
+    "bookingsObserved": 332,
     "releasesObserved": 348,
-    "inCustody": 132,
-    "uniquePeople": 450
+    "inCustody": 133,
+    "uniquePeople": 451
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 1,
+      "booked": 2,
       "released": 2
     }
   ],
@@ -198,8 +198,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 22,
-      "pct": 2.1
+      "count": 23,
+      "pct": 2.2
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
@@ -209,7 +209,7 @@
     {
       "name": "Protection Order Violation",
       "count": 19,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 123,
-      "pct": 25.7,
+      "pct": 25.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 112,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 100,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "Centralia Police"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WINL",
-      "count": 12,
-      "pct": 2.5,
+      "count": 13,
+      "pct": 2.7,
       "label": "Winlock Police"
     },
     {
@@ -334,7 +334,7 @@
     {
       "name": "LCD",
       "count": 351,
-      "pct": 34.9,
+      "pct": 34.8,
       "label": "Lewis County District Court"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "CSM",
       "count": 69,
-      "pct": 6.9,
+      "pct": 6.8,
       "label": "Chehalis Municipal Court"
     },
     {
       "name": "WLM",
-      "count": 28,
-      "pct": 2.8,
+      "count": 29,
+      "pct": 2.9,
       "label": "Winlock Municipal Court"
     },
     {
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 283,
-      "pct": 27.9
+      "count": 284,
+      "pct": 28
     },
     {
       "name": "Included",
@@ -540,15 +540,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 38.9,
-    "currentLongestDaysHeld": 795.7
+    "currentMedianDaysHeld": 38.8,
+    "currentLongestDaysHeld": 795.8
   },
   "bond": {
-    "withBond": 81,
+    "withBond": 82,
     "noBond": 51,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18638974
+    "totalBond": 18639974
   },
   "chargesPerBooking": 2.1
 }

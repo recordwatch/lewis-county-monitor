@@ -1,5 +1,29 @@
 [
   {
+    "id": "421871-20261112100800",
+    "inmateNumber": "421871",
+    "name": "FINDLEY, TYLER MICHAEL",
+    "bookedAt": "2026-11-12T10:08:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-11-12T10:08:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0436357"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T10:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "231876-20261112012900",
     "inmateNumber": "231876",
     "name": "ANDERSON, SAVANAH LEE",
