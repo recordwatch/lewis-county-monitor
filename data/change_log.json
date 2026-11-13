@@ -26,6 +26,30 @@
     "releaseSource": null
   },
   {
+    "id": "194091-20261113090000",
+    "inmateNumber": "194091",
+    "name": "BROWN, MICHAEL NEAL",
+    "bookedAt": "2026-11-13T09:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUGS-POSS W/INTENT TO MANU/DELIVER CS",
+        "arrestDate": "2026-11-13T09:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510045721"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T14:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "355974-20261112180000",
     "inmateNumber": "355974",
     "name": "DAVIS, SCOTT H",
