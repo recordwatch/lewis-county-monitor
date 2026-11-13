@@ -142,7 +142,7 @@
     "bondTotal": 12600,
     "charges": [
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASLT 4TH/FTA",
         "arrestDate": "2026-11-12T13:00:00",
         "arrestingAgency": "JAIL",
         "court": "LCD",
@@ -7568,12 +7568,12 @@
         "warrantNumber": "2610032321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T18:32:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "413827-20261021093400",
