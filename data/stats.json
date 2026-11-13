@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T18:49:15",
+  "generatedAt": "2026-11-12T19:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 482,
-    "bookingsObserved": 333,
+    "bookingsTracked": 485,
+    "bookingsObserved": 336,
     "releasesObserved": 355,
-    "inCustody": 127,
-    "uniquePeople": 452
+    "inCustody": 130,
+    "uniquePeople": 453
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 3,
+      "booked": 6,
       "released": 9
     }
   ],
@@ -179,12 +179,12 @@
     {
       "name": "POSS of Controlled Substance",
       "count": 45,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "OTHER AGENCY HOLD",
       "count": 44,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -198,8 +198,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 24,
-      "pct": 2.3
+      "count": 25,
+      "pct": 2.4
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
@@ -219,7 +219,7 @@
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 15,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,38 +265,38 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 123,
+      "count": 124,
       "pct": 25.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 113,
-      "pct": 23.5,
+      "pct": 23.3,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 100,
-      "pct": 20.8,
+      "count": 101,
+      "pct": 20.9,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 59,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 57,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "Washington State Patrol"
     },
     {
       "name": "WINL",
-      "count": 13,
-      "pct": 2.7,
+      "count": 14,
+      "pct": 2.9,
       "label": "Winlock Police"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 400,
-      "pct": 39.5,
+      "count": 401,
+      "pct": 39.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 351,
+      "count": 352,
       "pct": 34.6,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 106,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "Centralia Municipal Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "WLM",
-      "count": 29,
-      "pct": 2.9,
+      "count": 31,
+      "pct": 3,
       "label": "Winlock Municipal Court"
     },
     {
@@ -451,22 +451,22 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 285,
-      "pct": 28
+      "count": 287,
+      "pct": 28.1
     },
     {
       "name": "Included",
-      "count": 214,
+      "count": 215,
       "pct": 21
     },
     {
       "name": "Serving Time",
       "count": 177,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "No Bail",
-      "count": 130,
+      "count": 131,
       "pct": 12.8
     },
     {
@@ -540,15 +540,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 40.6,
+    "currentMedianDaysHeld": 39.3,
     "currentLongestDaysHeld": 796.1
   },
   "bond": {
-    "withBond": 81,
-    "noBond": 46,
+    "withBond": 82,
+    "noBond": 48,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18874100
+    "totalBond": 18885200
   },
   "chargesPerBooking": 2.1
 }

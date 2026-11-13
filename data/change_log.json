@@ -1,5 +1,97 @@
 [
   {
+    "id": "360056-20261112141600",
+    "inmateNumber": "360056",
+    "name": "BARLOW, JOHN SCOTT",
+    "bookedAt": "2026-11-12T14:16:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Opening, consuming, or possessing open liqur container in public place",
+        "arrestDate": "2026-11-12T14:16:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T19:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "256484-20261112140000",
+    "inmateNumber": "256484",
+    "name": "ELLIOTT, BRYANT RAOUL",
+    "bookedAt": "2026-11-12T14:00:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Violation Prot. Ord. 2 Prior",
+        "arrestDate": "2026-11-12T14:00:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T19:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "352107-20261112125200",
+    "inmateNumber": "352107",
+    "name": "PHELAN, JOSEPH RYAN",
+    "bookedAt": "2026-11-12T12:52:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 11100,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-11-12T12:52:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0436359"
+      },
+      {
+        "description": "POSS DRUG PARAPHERNALIA USED",
+        "arrestDate": "2026-11-12T12:52:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0436359"
+      },
+      {
+        "description": "NVOL - Without ID/fta",
+        "arrestDate": "2026-11-12T12:52:00",
+        "arrestingAgency": "WINL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "6A0420581"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T19:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "421871-20261112100800",
     "inmateNumber": "421871",
     "name": "FINDLEY, TYLER MICHAEL",
