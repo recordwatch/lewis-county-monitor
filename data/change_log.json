@@ -113,7 +113,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610059921"
       },
       {
         "description": "Commercial Sexual Abuse of A Minor",
@@ -121,9 +121,9 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Dismissed",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "DTP"
       }
     ],
     "status": "in_custody",
