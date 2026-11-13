@@ -93,7 +93,7 @@
     "name": "ELLIOTT, BRYANT RAOUL",
     "bookedAt": "2026-11-12T14:00:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "DRUG COURT SANCTIONS",
@@ -111,9 +111,9 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
-        "warrantNumber": "W"
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
+        "warrantNumber": "2610060121"
       }
     ],
     "status": "in_custody",
