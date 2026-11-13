@@ -38,7 +38,7 @@
         "arrestDate": "2026-11-12T14:00:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
-        "billingAgency": "LC",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
@@ -50,6 +50,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "386801-20261112133000",
+    "inmateNumber": "386801",
+    "name": "HUGHES, LARRY DELBERT",
+    "bookedAt": "2026-11-12T13:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-11-12T13:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "3A0093392"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T20:17:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "352107-20261112125200",
