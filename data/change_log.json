@@ -1,5 +1,39 @@
 [
   {
+    "id": "355974-20261112180000",
+    "inmateNumber": "355974",
+    "name": "DAVIS, SCOTT H",
+    "bookedAt": "2026-11-12T18:00:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-12T18:00:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0413918"
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-11-12T18:00:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0413918"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T21:49:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360056-20261112141600",
     "inmateNumber": "360056",
     "name": "BARLOW, JOHN SCOTT",
