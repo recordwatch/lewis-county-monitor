@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T15:32:16",
+  "generatedAt": "2026-11-13T15:49:18",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 490,
-    "bookingsObserved": 341,
-    "releasesObserved": 363,
+    "bookingsTracked": 491,
+    "bookingsObserved": 342,
+    "releasesObserved": 364,
     "inCustody": 127,
-    "uniquePeople": 457
+    "uniquePeople": 458
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 2,
-      "released": 7
+      "booked": 3,
+      "released": 8
     }
   ],
   "topCharges": [
@@ -223,8 +223,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 14,
-      "pct": 1.3
+      "count": 15,
+      "pct": 1.4
     },
     {
       "name": "RESISTING ARREST",
@@ -249,7 +249,7 @@
     {
       "name": "DRUG COURT SANCTIONS",
       "count": 11,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "ASLT 4TH/FTA",
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 125,
-      "pct": 25.6,
+      "pct": 25.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,19 +278,19 @@
     {
       "name": "CENT",
       "count": 101,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "Centralia Police"
     },
     {
       "name": "CHEH",
       "count": 59,
-      "pct": 12.1,
+      "pct": 12,
       "label": "Chehalis Police"
     },
     {
       "name": "WASH",
       "count": 57,
-      "pct": 11.7,
+      "pct": 11.6,
       "label": "Washington State Patrol"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "DOC",
-      "count": 5,
-      "pct": 1,
+      "count": 6,
+      "pct": 1.2,
       "label": "Dept. of Corrections"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "LCD",
-      "count": 356,
+      "count": 357,
       "pct": 34.7,
       "label": "Lewis County District Court"
     },
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 272,
-      "pct": 76.8
+      "count": 273,
+      "pct": 76.9
     },
     {
       "name": "DOC",
@@ -452,7 +452,7 @@
     {
       "name": "Cash or Bond",
       "count": 290,
-      "pct": 28.1
+      "pct": 28
     },
     {
       "name": "Included",
@@ -466,8 +466,8 @@
     },
     {
       "name": "No Bail",
-      "count": 133,
-      "pct": 12.9
+      "count": 134,
+      "pct": 13
     },
     {
       "name": "Released by Court",
@@ -511,7 +511,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 359,
+    "releasedCount": 360,
     "medianDays": 2.3,
     "meanDays": 12.3,
     "buckets": [
@@ -521,7 +521,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 119
+        "count": 120
       },
       {
         "label": "3–7 days",
@@ -544,11 +544,11 @@
     "currentLongestDaysHeld": 797
   },
   "bond": {
-    "withBond": 84,
-    "noBond": 43,
+    "withBond": 83,
+    "noBond": 44,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18929600
+    "totalBond": 18929100
   },
   "chargesPerBooking": 2.1
 }
