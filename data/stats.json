@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T13:49:21",
+  "generatedAt": "2026-11-13T14:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 489,
     "bookingsObserved": 340,
-    "releasesObserved": 361,
-    "inCustody": 128,
+    "releasesObserved": 362,
+    "inCustody": 127,
     "uniquePeople": 456
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-13",
       "booked": 1,
-      "released": 5
+      "released": 6
     }
   ],
   "topCharges": [
@@ -389,8 +389,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 270,
-      "pct": 76.7
+      "count": 271,
+      "pct": 76.8
     },
     {
       "name": "DOC",
@@ -420,17 +420,17 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "CHAIN TO PRISON",
       "count": 3,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "CSO, XFER",
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 292,
-      "pct": 28.3
+      "count": 291,
+      "pct": 28.2
     },
     {
       "name": "Included",
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 179,
-      "pct": 17.3
+      "count": 180,
+      "pct": 17.4
     },
     {
       "name": "No Bail",
@@ -511,13 +511,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 357,
+    "releasedCount": 358,
     "medianDays": 2.3,
     "meanDays": 12.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 87
+        "count": 88
       },
       {
         "label": "1–3 days",
@@ -540,15 +540,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 40.8,
+    "currentMedianDaysHeld": 41.4,
     "currentLongestDaysHeld": 796.9
   },
   "bond": {
     "withBond": 84,
-    "noBond": 44,
+    "noBond": 43,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18947300
+    "totalBond": 18929600
   },
   "chargesPerBooking": 2.1
 }

@@ -54,12 +54,12 @@
         "warrantNumber": "6A0413918"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T21:49:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "360056-20261112141600",
@@ -165,7 +165,7 @@
     "name": "HUGHES, LARRY DELBERT",
     "bookedAt": "2026-11-12T13:00:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 12600,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "ASLT 4TH/FTA",
@@ -173,8 +173,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "3A0093392"
       },
       {
@@ -201,7 +201,7 @@
     "name": "PHELAN, JOSEPH RYAN",
     "bookedAt": "2026-11-12T12:52:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 11100,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -230,7 +230,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondAmount": 2500,
         "warrantNumber": "6A0420581"
       }
     ],
