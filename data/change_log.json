@@ -2576,12 +2576,12 @@
         "warrantNumber": "6A0396098"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T23:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T11:30:14",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "TRANSPORT",
+    "releaseSource": "official"
   },
   {
     "id": "395670-20261103102500",
