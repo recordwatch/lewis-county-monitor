@@ -57,7 +57,7 @@
     "name": "HUGHES, LARRY DELBERT",
     "bookedAt": "2026-11-12T13:30:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": 10000,
+    "bondTotal": 12500,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -68,6 +68,16 @@
         "bondType": "Cash or Bond",
         "bondAmount": 10000,
         "warrantNumber": "3A0093392"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-12T13:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "26DV1011TCP"
       }
     ],
     "status": "in_custody",

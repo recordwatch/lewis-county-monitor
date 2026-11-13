@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:49:13",
+  "generatedAt": "2026-11-12T21:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 486,
@@ -177,14 +177,14 @@
       "pct": 4.7
     },
     {
-      "name": "POSS of Controlled Substance",
+      "name": "OTHER AGENCY HOLD",
       "count": 45,
       "pct": 4.3
     },
     {
-      "name": "OTHER AGENCY HOLD",
-      "count": 44,
-      "pct": 4.2
+      "name": "POSS of Controlled Substance",
+      "count": 45,
+      "pct": 4.3
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 401,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Lewis County Superior Court"
     },
     {
@@ -358,20 +358,20 @@
     {
       "name": "DOC",
       "count": 26,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Dept. of Corrections"
+    },
+    {
+      "name": "ODC",
+      "count": 12,
+      "pct": 1.2,
+      "label": "ODC"
     },
     {
       "name": "NMC",
       "count": 12,
       "pct": 1.2,
       "label": "Napavine Municipal Court"
-    },
-    {
-      "name": "ODC",
-      "count": 11,
-      "pct": 1.1,
-      "label": "ODC"
     },
     {
       "name": "OSC",
@@ -451,8 +451,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 289,
-      "pct": 28.2
+      "count": 290,
+      "pct": 28.3
     },
     {
       "name": "Included",
@@ -472,7 +472,7 @@
     {
       "name": "Released by Court",
       "count": 102,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "Appearance Bond",
@@ -482,7 +482,7 @@
     {
       "name": "Released Time Served",
       "count": 20,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "Transferred to Prison",
@@ -548,7 +548,7 @@
     "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18895700
+    "totalBond": 18898200
   },
   "chargesPerBooking": 2.1
 }
