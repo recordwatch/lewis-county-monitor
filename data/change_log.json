@@ -101,8 +101,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0441084"
       }
     ],
