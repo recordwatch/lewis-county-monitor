@@ -5,23 +5,25 @@
     "name": "BARLOW, JOHN SCOTT",
     "bookedAt": "2026-11-12T14:16:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "Opening, consuming, or possessing open liqur container in public place",
         "arrestDate": "2026-11-12T14:16:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0441084"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-12T19:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "256484-20261112140000",
@@ -45,7 +47,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-12T19:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "352107-20261112125200",
@@ -89,7 +93,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-12T19:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "421871-20261112100800",
@@ -420,12 +426,12 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T23:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T19:17:54",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "311772-20261110190000",
