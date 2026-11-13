@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-13T11:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "355974-20261112180000",
@@ -8164,12 +8166,12 @@
         "warrantNumber": "1A0394273"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T22:49:13",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T11:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "94467-20261019144300",
