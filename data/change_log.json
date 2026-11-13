@@ -1640,12 +1640,12 @@
         "warrantNumber": "450008 11/07"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T21:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "DOC",
+    "releaseSource": "official"
   },
   {
     "id": "393950-20261106153500",
