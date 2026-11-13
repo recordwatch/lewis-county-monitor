@@ -116,12 +116,46 @@
         "warrantNumber": "26DV1011TCP"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T20:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T00:17:15",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "observed"
+  },
+  {
+    "id": "386801-20261112130000",
+    "inmateNumber": "386801",
+    "name": "HUGHES, LARRY DELBERT",
+    "bookedAt": "2026-11-12T13:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 12600,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-11-12T13:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "3A0093392"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-12T13:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "26DV1011TCP"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T00:17:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "352107-20261112125200",
