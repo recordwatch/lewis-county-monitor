@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:49:19",
+  "generatedAt": "2026-11-13T04:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 488,
@@ -248,8 +248,8 @@
     },
     {
       "name": "DRUG COURT SANCTIONS",
-      "count": 10,
-      "pct": 1
+      "count": 11,
+      "pct": 1.1
     },
     {
       "name": "USE PARAPHERNALIA/FTA",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 401,
+      "count": 402,
       "pct": 39.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 356,
-      "pct": 34.8,
+      "pct": 34.7,
       "label": "Lewis County District Court"
     },
     {
@@ -461,8 +461,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 177,
-      "pct": 17.2
+      "count": 178,
+      "pct": 17.3
     },
     {
       "name": "No Bail",
@@ -492,7 +492,7 @@
     {
       "name": "Amended",
       "count": 17,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Dismissed",

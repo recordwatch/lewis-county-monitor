@@ -70,6 +70,16 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-11-12T14:00:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "DRC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610052521"
+      },
+      {
         "description": "Violation Prot. Ord. 2 Prior",
         "arrestDate": "2026-11-12T14:00:00",
         "arrestingAgency": "LCSO",
