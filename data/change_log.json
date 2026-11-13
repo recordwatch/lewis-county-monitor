@@ -1,5 +1,29 @@
 [
   {
+    "id": "356973-20261113090000",
+    "inmateNumber": "356973",
+    "name": "LAKE, BETHANN MARIE",
+    "bookedAt": "2026-11-13T09:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "UNLAW POSS FRARM 2/FTA",
+        "arrestDate": "2026-11-13T09:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610002721"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T11:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "355974-20261112180000",
     "inmateNumber": "355974",
     "name": "DAVIS, SCOTT H",
