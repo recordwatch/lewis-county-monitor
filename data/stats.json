@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T08:49:14",
+  "generatedAt": "2026-11-14T09:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 499,
-    "bookingsObserved": 350,
+    "bookingsTracked": 500,
+    "bookingsObserved": 351,
     "releasesObserved": 366,
-    "inCustody": 133,
-    "uniquePeople": 464
+    "inCustody": 134,
+    "uniquePeople": 465
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 2,
+      "booked": 3,
       "released": 2
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 61,
-      "pct": 5.7
+      "count": 62,
+      "pct": 5.8
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -272,13 +272,13 @@
     {
       "name": "JAIL",
       "count": 120,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 101,
-      "pct": 20.3,
+      "pct": 20.2,
       "label": "Centralia Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WASH",
-      "count": 58,
-      "pct": 11.6,
+      "count": 59,
+      "pct": 11.8,
       "label": "Washington State Patrol"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 404,
-      "pct": 38.7,
+      "pct": 38.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 361,
-      "pct": 34.5,
+      "count": 362,
+      "pct": 34.6,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 81,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -457,13 +457,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 301,
-      "pct": 28.6
+      "count": 302,
+      "pct": 28.7
     },
     {
       "name": "Included",
       "count": 216,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "Serving Time",
@@ -550,11 +550,11 @@
     "currentLongestDaysHeld": 797.7
   },
   "bond": {
-    "withBond": 86,
+    "withBond": 87,
     "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18934350
+    "totalBond": 18934850
   },
   "chargesPerBooking": 2.1
 }

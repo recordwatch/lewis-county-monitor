@@ -66,6 +66,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "423568-20261114074000",
+    "inmateNumber": "423568",
+    "name": "ELINE, MICAELA J",
+    "bookedAt": "2026-11-14T07:40:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-14T07:40:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00837807"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T09:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "407842-20261114025500",
     "inmateNumber": "407842",
     "name": "SARABIA ROMERO, LUIS ANGEL",
