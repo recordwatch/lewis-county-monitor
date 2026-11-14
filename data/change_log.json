@@ -66,6 +66,30 @@
     "releaseSource": null
   },
   {
+    "id": "407842-20261114025500",
+    "inmateNumber": "407842",
+    "name": "SARABIA ROMERO, LUIS ANGEL",
+    "bookedAt": "2026-11-14T02:55:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-14T02:55:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00929201"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T04:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "56712-20261113213340",
     "inmateNumber": "56712",
     "name": "MAURER, ZACHARY JESS",
@@ -84,12 +108,36 @@
         "warrantNumber": "6A0177816"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T22:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-14T04:17:14",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "observed"
+  },
+  {
+    "id": "56712-20261113181000",
+    "inmateNumber": "56712",
+    "name": "MAURER, ZACHARY JESS",
+    "bookedAt": "2026-11-13T18:10:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-13T18:10:00",
+        "arrestingAgency": "JAIL",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "6A0177816"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T04:17:14",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "148121-20261113144500",
@@ -104,7 +152,7 @@
         "arrestDate": "2026-11-13T14:45:00",
         "arrestingAgency": "JAIL",
         "court": "LCD",
-        "billingAgency": "LC",
+        "billingAgency": "WSP",
         "bondType": "Cash or Bond",
         "bondAmount": 1500,
         "warrantNumber": "T00802552"
@@ -157,7 +205,7 @@
         "arrestingAgency": "DOC",
         "court": "OMC",
         "billingAgency": "OTAG",
-        "bondType": "Cash or Bond",
+        "bondType": "Cash Only",
         "bondAmount": 750,
         "warrantNumber": "6A0207304"
       }
