@@ -87,7 +87,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-14T14:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "209507-20261114084700",
@@ -167,7 +169,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "VIOL PROT. ORD. WITH ASSAULT",
@@ -175,17 +177,17 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "RESISTING ARREST",
         "arrestDate": "2026-11-14T03:06:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
-        "billingAgency": "LCSC",
-        "bondType": "Included",
+        "billingAgency": null,
+        "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
       }
