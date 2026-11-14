@@ -66,6 +66,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "420831-20261114100200",
+    "inmateNumber": "420831",
+    "name": "PORTER, TRIUMPH WILLIAM",
+    "bookedAt": "2026-11-14T10:02:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 2ND/OTHER LOCATIONS",
+        "arrestDate": "2026-11-14T10:02:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T14:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "209507-20261114084700",
     "inmateNumber": "209507",
     "name": "SWANSON, SEQUOIA LYNN",
