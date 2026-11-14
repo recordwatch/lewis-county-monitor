@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T18:49:16",
+  "generatedAt": "2026-11-13T19:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 492,
-    "bookingsObserved": 343,
+    "bookingsTracked": 494,
+    "bookingsObserved": 345,
     "releasesObserved": 364,
-    "inCustody": 128,
-    "uniquePeople": 459
+    "inCustody": 130,
+    "uniquePeople": 461
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 4,
+      "booked": 6,
       "released": 8
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 60,
-      "pct": 5.7
+      "count": 61,
+      "pct": 5.8
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -178,8 +178,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 46,
-      "pct": 4.4
+      "count": 47,
+      "pct": 4.5
     },
     {
       "name": "POSS of Controlled Substance",
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 126,
-      "pct": 25.7,
+      "pct": 25.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 117,
-      "pct": 23.8,
+      "count": 118,
+      "pct": 23.9,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 101,
-      "pct": 20.6,
+      "pct": 20.5,
       "label": "Centralia Police"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "WINL",
       "count": 14,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Winlock Police"
     },
     {
       "name": "DOC",
-      "count": 6,
-      "pct": 1.2,
+      "count": 7,
+      "pct": 1.4,
       "label": "Dept. of Corrections"
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "SUP",
       "count": 404,
-      "pct": 39.2,
+      "pct": 39.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 359,
+      "count": 360,
       "pct": 34.9,
       "label": "Lewis County District Court"
     },
@@ -384,6 +384,12 @@
       "count": 2,
       "pct": 0.2,
       "label": "USM"
+    },
+    {
+      "name": "OMC",
+      "count": 1,
+      "pct": 0.1,
+      "label": "OMC"
     }
   ],
   "releasedTo": [
@@ -451,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 290,
-      "pct": 28
+      "count": 292,
+      "pct": 28.1
     },
     {
       "name": "Included",
@@ -462,7 +468,7 @@
     {
       "name": "Serving Time",
       "count": 180,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "No Bail",
@@ -540,15 +546,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 41,
+    "currentMedianDaysHeld": 40.3,
     "currentLongestDaysHeld": 797.1
   },
   "bond": {
-    "withBond": 83,
+    "withBond": 85,
     "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18929100
+    "totalBond": 18931350
   },
   "chargesPerBooking": 2.1
 }

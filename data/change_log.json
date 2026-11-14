@@ -1,5 +1,29 @@
 [
   {
+    "id": "148121-20261113144500",
+    "inmateNumber": "148121",
+    "name": "MOULTON, JEFFREY ROSS",
+    "bookedAt": "2026-11-13T14:45:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-13T14:45:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
+        "warrantNumber": "T00802552"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T19:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "370407-20261113102500",
     "inmateNumber": "370407",
     "name": "HARRIS, ZACHARY JAMES",
@@ -24,6 +48,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "354789-20261113100000",
+    "inmateNumber": "354789",
+    "name": "MORALES, ANGEL DOUGLAS",
+    "bookedAt": "2026-11-13T10:00:00",
+    "arrestingAgency": "DOC",
+    "bondTotal": 750,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-13T10:00:00",
+        "arrestingAgency": "DOC",
+        "court": "OMC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 750,
+        "warrantNumber": "6A0207304"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T19:17:14",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "310137-20261113090700",
