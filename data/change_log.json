@@ -1,5 +1,69 @@
 [
   {
+    "id": "401550-20261114192100",
+    "inmateNumber": "401550",
+    "name": "MCKNIGHT, JOSHUA TORRES",
+    "bookedAt": "2026-11-14T19:21:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-11-14T19:21:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0439197"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-11-14T19:21:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0439197"
+      },
+      {
+        "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-11-14T19:21:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0439196"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-11-14T19:21:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0439196"
+      },
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "arrestDate": "2026-11-14T19:21:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T01:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "56712-20261113213340",
     "inmateNumber": "56712",
     "name": "MAURER, ZACHARY JESS",
