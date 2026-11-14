@@ -125,7 +125,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": null,
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": null
       }
