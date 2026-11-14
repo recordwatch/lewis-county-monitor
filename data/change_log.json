@@ -5,7 +5,7 @@
     "name": "MCKNIGHT, JOSHUA TORRES",
     "bookedAt": "2026-11-14T19:21:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 2000,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -51,17 +51,19 @@
         "description": "MAKE FALSE STATEMENT",
         "arrestDate": "2026-11-14T19:21:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0439197"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-14T01:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "56712-20261113213340",

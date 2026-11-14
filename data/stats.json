@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:49:15",
+  "generatedAt": "2026-11-14T02:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 496,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 404,
-      "pct": 39,
+      "pct": 38.9,
       "label": "Lewis County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 74,
-      "pct": 7.1,
+      "count": 75,
+      "pct": 7.2,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -457,7 +457,7 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 296,
+      "count": 297,
       "pct": 28.4
     },
     {
@@ -468,7 +468,7 @@
     {
       "name": "Serving Time",
       "count": 181,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "No Bail",
@@ -554,7 +554,7 @@
     "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18933350
+    "totalBond": 18934350
   },
   "chargesPerBooking": 2.1
 }
