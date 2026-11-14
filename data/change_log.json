@@ -66,6 +66,40 @@
     "releaseSource": "observed"
   },
   {
+    "id": "209507-20261114084700",
+    "inmateNumber": "209507",
+    "name": "SWANSON, SEQUOIA LYNN",
+    "bookedAt": "2026-11-14T08:47:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-14T08:47:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0390109"
+      },
+      {
+        "description": "VIOL NO HARASSMENT ORDER/FTA",
+        "arrestDate": "2026-11-14T08:47:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "4A0899048"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T13:49:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423568-20261114074000",
     "inmateNumber": "423568",
     "name": "ELINE, MICAELA J",

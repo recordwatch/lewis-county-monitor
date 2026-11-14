@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T13:32:18",
+  "generatedAt": "2026-11-14T13:49:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 501,
-    "bookingsObserved": 352,
+    "bookingsTracked": 502,
+    "bookingsObserved": 353,
     "releasesObserved": 369,
-    "inCustody": 132,
-    "uniquePeople": 466
+    "inCustody": 133,
+    "uniquePeople": 467
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 4,
+      "booked": 5,
       "released": 5
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 85,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -178,8 +178,8 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 47,
-      "pct": 4.4
+      "count": 48,
+      "pct": 4.5
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 127,
-      "pct": 25.4,
+      "count": 128,
+      "pct": 25.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 407,
-      "pct": 38.8,
+      "pct": 38.7,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 362,
-      "pct": 34.5,
+      "count": 364,
+      "pct": 34.6,
       "label": "Lewis County District Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "WLM",
       "count": 31,
-      "pct": 3,
+      "pct": 2.9,
       "label": "Winlock Municipal Court"
     },
     {
@@ -457,28 +457,28 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 302,
-      "pct": 28.6
+      "count": 303,
+      "pct": 28.7
     },
     {
       "name": "Included",
       "count": 218,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "Serving Time",
       "count": 182,
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "name": "No Bail",
-      "count": 138,
-      "pct": 13.1
+      "count": 139,
+      "pct": 13.2
     },
     {
       "name": "Released by Court",
       "count": 103,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "Appearance Bond",
@@ -546,15 +546,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 40.2,
+    "currentMedianDaysHeld": 40.1,
     "currentLongestDaysHeld": 797.9
   },
   "bond": {
-    "withBond": 85,
+    "withBond": 86,
     "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 18932850
+    "totalBond": 18933850
   },
   "chargesPerBooking": 2.1
 }
