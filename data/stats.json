@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T15:49:18",
+  "generatedAt": "2026-11-13T16:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 491,
-    "bookingsObserved": 342,
+    "bookingsTracked": 492,
+    "bookingsObserved": 343,
     "releasesObserved": 364,
-    "inCustody": 127,
-    "uniquePeople": 458
+    "inCustody": 128,
+    "uniquePeople": 459
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 3,
+      "booked": 4,
       "released": 8
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
-      "count": 49,
-      "pct": 4.7
+      "count": 50,
+      "pct": 4.8
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -187,12 +187,12 @@
       "pct": 4.3
     },
     {
-      "name": "Drive w/o req ignition intrlck",
-      "count": 27,
-      "pct": 2.6
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+      "count": 28,
+      "pct": 2.7
     },
     {
-      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+      "name": "Drive w/o req ignition intrlck",
       "count": 27,
       "pct": 2.6
     },
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 125,
-      "pct": 25.5,
+      "count": 126,
+      "pct": 25.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 117,
-      "pct": 23.9,
+      "pct": 23.8,
       "label": "Lewis County Jail"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 404,
-      "pct": 39.3,
+      "pct": 39.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 357,
-      "pct": 34.7,
+      "count": 359,
+      "pct": 34.9,
       "label": "Lewis County District Court"
     },
     {
@@ -457,7 +457,7 @@
     {
       "name": "Included",
       "count": 216,
-      "pct": 20.9
+      "pct": 20.8
     },
     {
       "name": "Serving Time",
@@ -466,13 +466,13 @@
     },
     {
       "name": "No Bail",
-      "count": 134,
-      "pct": 13
+      "count": 136,
+      "pct": 13.1
     },
     {
       "name": "Released by Court",
       "count": 103,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "Appearance Bond",
@@ -540,12 +540,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 41.5,
+    "currentMedianDaysHeld": 40.9,
     "currentLongestDaysHeld": 797
   },
   "bond": {
     "withBond": 83,
-    "noBond": 44,
+    "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 18929100

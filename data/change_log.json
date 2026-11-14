@@ -21,6 +21,42 @@
     "status": "in_custody",
     "firstSeen": "2026-11-13T15:49:18",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "310137-20261113090700",
+    "inmateNumber": "310137",
+    "name": "MONTES-REYES, ROBERTO CARLOS",
+    "bookedAt": "2026-11-13T09:07:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-11-13T09:07:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0229519"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-13T09:07:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0229518"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T16:17:14",
+    "releasedAt": null,
     "baseline": false
   },
   {
