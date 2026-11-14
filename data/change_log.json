@@ -300,12 +300,12 @@
         "warrantNumber": "T00802552"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T19:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-14T13:08:34",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "370407-20261113102500",
