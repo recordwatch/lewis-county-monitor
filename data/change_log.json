@@ -84,12 +84,12 @@
         "warrantNumber": "T00837807"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T09:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-14T10:10:34",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "official"
   },
   {
     "id": "421674-20261114030600",
@@ -133,7 +133,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-14T10:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "407842-20261114025500",
