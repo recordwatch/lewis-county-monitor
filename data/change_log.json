@@ -97,7 +97,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-14T13:49:20",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423568-20261114074000",
@@ -196,6 +198,40 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "355974-20261114014000",
+    "inmateNumber": "355974",
+    "name": "DAVIS, SCOTT H",
+    "bookedAt": "2026-11-14T01:40:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND",
+        "arrestDate": "2026-11-14T01:40:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-11-14T01:40:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Referred",
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T14:17:16",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "56712-20261113213340",
