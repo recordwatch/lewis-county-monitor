@@ -1,5 +1,29 @@
 [
   {
+    "id": "56712-20261113213340",
+    "inmateNumber": "56712",
+    "name": "MAURER, ZACHARY JESS",
+    "bookedAt": "2026-11-13T21:33:40",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-13T21:33:40",
+        "arrestingAgency": "JAIL",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "6A0177816"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T22:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "148121-20261113144500",
     "inmateNumber": "148121",
     "name": "MOULTON, JEFFREY ROSS",
