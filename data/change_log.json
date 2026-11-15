@@ -18,12 +18,12 @@
         "warrantNumber": "T00921974"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T04:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-15T05:17:53",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "115568-20261114211500",
