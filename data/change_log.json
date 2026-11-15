@@ -159,7 +159,7 @@
     "name": "DAVIS, ISAIAH MILLARD OLEN",
     "bookedAt": "2026-11-14T13:48:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 12100,
+    "bondTotal": 13100,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -168,7 +168,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 2500,
         "warrantNumber": "6A0428357"
       },
       {
@@ -177,8 +177,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0428357"
       },
       {
@@ -225,7 +225,7 @@
     "name": "PORTER, TRIUMPH WILLIAM",
     "bookedAt": "2026-11-14T10:02:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "THEFT 2ND/OTHER LOCATIONS",
@@ -233,8 +233,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "W"
       }
     ],
@@ -251,7 +251,7 @@
     "name": "SWANSON, SEQUOIA LYNN",
     "bookedAt": "2026-11-14T08:47:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 2000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -260,7 +260,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 1500,
         "warrantNumber": "6A0390109"
       },
       {
@@ -323,7 +323,7 @@
     "name": "HERNANDEZ, PARKER ANTHONY",
     "bookedAt": "2026-11-14T03:06:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "ASSAULT 2(Substantial bodily harm) DV",
@@ -331,8 +331,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 50000,
         "warrantNumber": "W"
       },
       {
@@ -341,7 +341,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "W"
       },
@@ -395,7 +395,7 @@
     "name": "DAVIS, SCOTT H",
     "bookedAt": "2026-11-14T01:40:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -403,8 +403,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "W"
       },
       {
