@@ -66,6 +66,30 @@
     "releaseSource": "observed"
   },
   {
+    "id": "2707-20261114190000",
+    "inmateNumber": "2707",
+    "name": "ROE, BRIAN KEITH",
+    "bookedAt": "2026-11-14T19:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-11-14T19:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "2510046921"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T21:17:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "110743-20261114134800",
     "inmateNumber": "110743",
     "name": "DAVIS, ISAIAH MILLARD OLEN",
