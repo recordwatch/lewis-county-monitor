@@ -12,8 +12,8 @@
         "arrestDate": "2026-11-14T21:15:00",
         "arrestingAgency": "CENT",
         "court": "CSM",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "CENT",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0430000"
       },
@@ -21,11 +21,11 @@
         "description": "Protection Order Violation",
         "arrestDate": "2026-11-14T21:15:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0430000"
       }
     ],
     "status": "in_custody",
@@ -133,7 +133,7 @@
     "name": "DAVIS, ISAIAH MILLARD OLEN",
     "bookedAt": "2026-11-14T13:48:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 10600,
+    "bondTotal": 12100,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -141,8 +141,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": null,
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
         "warrantNumber": "6A0428357"
       },
       {
@@ -151,8 +151,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": null,
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "6A0428357"
       },
       {
