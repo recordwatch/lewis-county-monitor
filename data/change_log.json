@@ -1,5 +1,39 @@
 [
   {
+    "id": "115568-20261114211500",
+    "inmateNumber": "115568",
+    "name": "MCCRACKEN-BATES, JESSE MICAH",
+    "bookedAt": "2026-11-14T21:15:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-11-14T21:15:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-11-14T21:15:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T22:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "401550-20261114192100",
     "inmateNumber": "401550",
     "name": "MCKNIGHT, JOSHUA TORRES",
