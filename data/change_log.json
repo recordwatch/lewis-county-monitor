@@ -78,8 +78,8 @@
         "arrestDate": "2026-11-14T19:00:00",
         "arrestingAgency": "JAIL",
         "court": "SUP",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "DRC",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2510046921"
       }
