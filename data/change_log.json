@@ -293,7 +293,7 @@
     "name": "MCKNIGHT, JOSHUA TORRES",
     "bookedAt": "2026-11-13T19:21:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 3000,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -302,7 +302,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 1000,
         "warrantNumber": "6A0439197"
       },
       {
@@ -322,7 +322,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": 1000,
         "warrantNumber": "6A0439196"
       },
       {
