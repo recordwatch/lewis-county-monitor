@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:32:17",
+  "generatedAt": "2026-11-14T22:55:04",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 507,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 410,
-      "pct": 38.7,
+      "pct": 38.6,
       "label": "Lewis County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 84,
-      "pct": 7.9,
+      "count": 85,
+      "pct": 8,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -546,7 +546,7 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 40.3,
+    "currentMedianDaysHeld": 40.4,
     "currentLongestDaysHeld": 798.3
   },
   "bond": {

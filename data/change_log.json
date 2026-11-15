@@ -11,11 +11,11 @@
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
         "arrestDate": "2026-11-14T21:15:00",
         "arrestingAgency": "CENT",
-        "court": null,
+        "court": "CSM",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0430000"
       },
       {
         "description": "Protection Order Violation",
