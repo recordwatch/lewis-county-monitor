@@ -31,7 +31,7 @@
     "name": "MCCRACKEN-BATES, JESSE MICAH",
     "bookedAt": "2026-11-14T21:15:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -39,8 +39,8 @@
         "arrestingAgency": "CENT",
         "court": "CSM",
         "billingAgency": "CENT",
-        "bondType": "Included",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2000,
         "warrantNumber": "6A0430000"
       },
       {
@@ -49,7 +49,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0430000"
       }
@@ -457,7 +457,7 @@
     "name": "MCKNIGHT, JOSHUA TORRES",
     "bookedAt": "2026-11-13T19:21:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 4000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -466,7 +466,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 2500,
         "warrantNumber": "6A0439197"
       },
       {
@@ -475,8 +475,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0439197"
       },
       {
@@ -486,7 +486,7 @@
         "court": "CSM",
         "billingAgency": "CHEH",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 2500,
         "warrantNumber": "6A0439196"
       },
       {
@@ -495,8 +495,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0439196"
       },
       {
@@ -505,8 +505,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0439197"
       }
     ],
