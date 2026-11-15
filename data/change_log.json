@@ -1,5 +1,29 @@
 [
   {
+    "id": "423586-20261115023200",
+    "inmateNumber": "423586",
+    "name": "BAUTISTA LUNA, MARTIN",
+    "bookedAt": "2026-11-15T02:32:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-15T02:32:00",
+        "arrestingAgency": "WASH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T04:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "115568-20261114211500",
     "inmateNumber": "115568",
     "name": "MCCRACKEN-BATES, JESSE MICAH",
