@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:49:16",
+  "generatedAt": "2026-11-15T02:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 507,
@@ -178,8 +178,8 @@
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 48,
-      "pct": 4.4
+      "count": 49,
+      "pct": 4.5
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -187,12 +187,12 @@
       "pct": 4.3
     },
     {
-      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 30,
-      "pct": 2.8
+      "name": "Drive w/o req ignition intrlck",
+      "count": 29,
+      "pct": 2.7
     },
     {
-      "name": "Drive w/o req ignition intrlck",
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 29,
       "pct": 2.7
     },
