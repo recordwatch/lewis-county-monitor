@@ -74,7 +74,7 @@
         "arrestDate": "2026-11-15T19:20:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
-        "billingAgency": "LC",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "W"
@@ -94,7 +94,7 @@
         "arrestDate": "2026-11-15T19:20:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
-        "billingAgency": "OTAG",
+        "billingAgency": "SCON",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "862074 111526"
