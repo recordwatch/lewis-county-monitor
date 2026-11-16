@@ -493,7 +493,7 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 50000,
-        "warrantNumber": "W"
+        "warrantNumber": "2610060421"
       },
       {
         "description": "VIOL PROT. ORD. WITH ASSAULT",
@@ -503,17 +503,17 @@
         "billingAgency": "LCSC",
         "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610060421"
       },
       {
         "description": "RESISTING ARREST",
         "arrestDate": "2026-11-14T03:06:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
-        "billingAgency": null,
-        "bondType": "Referred",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610060421"
       }
     ],
     "status": "in_custody",

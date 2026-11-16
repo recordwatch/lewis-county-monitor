@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:32:17",
+  "generatedAt": "2026-11-16T11:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 513,
@@ -462,8 +462,8 @@
     },
     {
       "name": "Included",
-      "count": 223,
-      "pct": 20.6
+      "count": 224,
+      "pct": 20.7
     },
     {
       "name": "Serving Time",
@@ -501,14 +501,14 @@
       "pct": 1.7
     },
     {
-      "name": "Referred",
+      "name": "Dismissed",
       "count": 16,
       "pct": 1.5
     },
     {
-      "name": "Dismissed",
-      "count": 16,
-      "pct": 1.5
+      "name": "Referred",
+      "count": 15,
+      "pct": 1.4
     },
     {
       "name": "Cash Only",
