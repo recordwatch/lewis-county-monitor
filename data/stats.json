@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T14:57:38",
+  "generatedAt": "2026-11-16T15:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 513,
-    "bookingsObserved": 364,
+    "bookingsTracked": 514,
+    "bookingsObserved": 365,
     "releasesObserved": 375,
-    "inCustody": 138,
-    "uniquePeople": 474
+    "inCustody": 139,
+    "uniquePeople": 475
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 0,
+      "booked": 1,
       "released": 3
     }
   ],
@@ -222,14 +222,14 @@
       "pct": 1.6
     },
     {
-      "name": "RESISTING ARREST",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 16,
       "pct": 1.5
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 15,
-      "pct": 1.4
+      "name": "RESISTING ARREST",
+      "count": 16,
+      "pct": 1.5
     },
     {
       "name": "BURGLARY 2ND",
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 131,
-      "pct": 25.6,
+      "pct": 25.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "MORT",
-      "count": 5,
-      "pct": 1,
+      "count": 6,
+      "pct": 1.2,
       "label": "Morton Police"
     },
     {
@@ -546,12 +546,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 42,
+    "currentMedianDaysHeld": 41.9,
     "currentLongestDaysHeld": 799.9
   },
   "bond": {
     "withBond": 93,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 25000,
     "maxBond": 3000000,
     "totalBond": 19040450

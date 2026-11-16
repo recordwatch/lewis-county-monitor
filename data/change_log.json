@@ -1,5 +1,39 @@
 [
   {
+    "id": "344412-20261116142600",
+    "inmateNumber": "344412",
+    "name": "HERBERT, LOGAN DEAN",
+    "bookedAt": "2026-11-16T14:26:00",
+    "arrestingAgency": "MORT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-11-16T14:26:00",
+        "arrestingAgency": "MORT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "HARASSMENT",
+        "arrestDate": "2026-11-16T14:26:00",
+        "arrestingAgency": "MORT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T15:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423598-20261115230100",
     "inmateNumber": "423598",
     "name": "KNOWLES, KEVIN LAWRENCE",
