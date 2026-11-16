@@ -113,7 +113,7 @@
     "name": "WHITEPLUME, RONAN LEE",
     "bookedAt": "2026-11-15T16:25:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DISORDERLY CONDUCT",
@@ -121,8 +121,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Appearance Bond",
+        "bondAmount": 2000,
         "warrantNumber": "6A0415842"
       }
     ],
@@ -214,12 +214,12 @@
         "warrantNumber": "6A0430000"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T22:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "401550-20261114192100",
@@ -319,7 +319,7 @@
     "name": "DAVIS, ISAIAH MILLARD OLEN",
     "bookedAt": "2026-11-14T13:48:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 12600,
+    "bondTotal": 4600,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -357,8 +357,8 @@
         "arrestingAgency": "CHEH",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Appearance Bond",
-        "bondAmount": 4000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0002837"
       },
       {
@@ -367,8 +367,8 @@
         "arrestingAgency": "CHEH",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Appearance Bond",
-        "bondAmount": 4000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0120235"
       }
     ],
