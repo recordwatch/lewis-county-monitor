@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T22:49:14",
+  "generatedAt": "2026-11-15T23:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 510,
-    "bookingsObserved": 361,
+    "bookingsTracked": 511,
+    "bookingsObserved": 362,
     "releasesObserved": 372,
-    "inCustody": 138,
+    "inCustody": 139,
     "uniquePeople": 472
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 3,
+      "booked": 4,
       "released": 4
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 47,
-      "pct": 4.3
+      "count": 48,
+      "pct": 4.4
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -198,8 +198,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 26,
-      "pct": 2.4
+      "count": 27,
+      "pct": 2.5
     },
     {
       "name": "Protection Order Violation",
@@ -232,6 +232,11 @@
       "pct": 1.4
     },
     {
+      "name": "BURGLARY 2ND",
+      "count": 12,
+      "pct": 1.1
+    },
+    {
       "name": "DWLS 2ND DEGREE",
       "count": 12,
       "pct": 1.1
@@ -255,24 +260,19 @@
       "name": "HARRASSMENT-DEATH THREAT",
       "count": 12,
       "pct": 1.1
-    },
-    {
-      "name": "THEFT 3RD DEG/FTA",
-      "count": 12,
-      "pct": 1.1
     }
   ],
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 130,
-      "pct": 25.5,
+      "count": 131,
+      "pct": 25.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 121,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WINL",
       "count": 14,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Winlock Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 410,
-      "pct": 38.5,
+      "count": 411,
+      "pct": 38.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 367,
-      "pct": 34.5,
+      "pct": 34.4,
       "label": "Lewis County District Court"
     },
     {
@@ -472,7 +472,7 @@
     },
     {
       "name": "No Bail",
-      "count": 139,
+      "count": 140,
       "pct": 13
     },
     {
@@ -551,7 +551,7 @@
   },
   "bond": {
     "withBond": 91,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 35000,
     "maxBond": 3000000,
     "totalBond": 19012450

@@ -1,5 +1,59 @@
 [
   {
+    "id": "166486-20261115192000",
+    "inmateNumber": "166486",
+    "name": "BLANTON, ZACHARY DANIEL",
+    "bookedAt": "2026-11-15T19:20:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS SYNTH DRUG/METH",
+        "arrestDate": "2026-11-15T19:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "BURGLARY 2ND",
+        "arrestDate": "2026-11-15T19:20:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "arrestDate": "2026-11-15T19:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-15T19:20:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T23:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "335673-20261115162500",
     "inmateNumber": "335673",
     "name": "WHITEPLUME, RONAN LEE",
