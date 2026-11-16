@@ -14569,7 +14569,7 @@
     "name": "HANDORFF, PETER MICHAEL",
     "bookedAt": "2026-09-27T20:53:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 107500,
+    "bondTotal": 7500,
     "charges": [
       {
         "description": "ASSAULT 1ST/FIREARM",
@@ -14577,8 +14577,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 100000,
+        "bondType": "Amended",
+        "bondAmount": null,
         "warrantNumber": "2610050921"
       },
       {
@@ -14590,6 +14590,16 @@
         "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
+      },
+      {
+        "description": "ASSAULT 2(Substantial bodily harm) DV",
+        "arrestDate": "2026-09-27T20:53:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610050921"
       },
       {
         "description": "Protection Order Violation",
