@@ -1,5 +1,29 @@
 [
   {
+    "id": "423597-20261115225000",
+    "inmateNumber": "423597",
+    "name": "WORKMAN, PHILLIP ORVAL",
+    "bookedAt": "2026-11-15T22:50:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-15T22:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00964543"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T01:17:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "166486-20261115192000",
     "inmateNumber": "166486",
     "name": "BLANTON, ZACHARY DANIEL",
