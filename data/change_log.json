@@ -1,5 +1,29 @@
 [
   {
+    "id": "423598-20261115230100",
+    "inmateNumber": "423598",
+    "name": "KNOWELS, KEVIN LAWRENCE",
+    "bookedAt": "2026-11-15T23:01:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Felony DUI - Expired 7/23/2017",
+        "arrestDate": "2026-11-15T23:01:00",
+        "arrestingAgency": "WASH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T01:49:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423597-20261115225000",
     "inmateNumber": "423597",
     "name": "WORKMAN, PHILLIP ORVAL",
@@ -39,7 +63,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
       },
@@ -59,7 +83,7 @@
         "arrestingAgency": "LCSO",
         "court": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Referred",
         "bondAmount": null,
         "warrantNumber": null
       },

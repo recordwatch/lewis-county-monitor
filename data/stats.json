@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T01:32:17",
+  "generatedAt": "2026-11-16T01:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 512,
-    "bookingsObserved": 363,
+    "bookingsTracked": 513,
+    "bookingsObserved": 364,
     "releasesObserved": 372,
-    "inCustody": 140,
-    "uniquePeople": 473
+    "inCustody": 141,
+    "uniquePeople": 474
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 5,
+      "booked": 6,
       "released": 4
     },
     {
@@ -272,19 +272,19 @@
     {
       "name": "JAIL",
       "count": 121,
-      "pct": 23.7,
+      "pct": 23.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 103,
-      "pct": 20.2,
+      "pct": 20.1,
       "label": "Centralia Police"
     },
     {
       "name": "WASH",
-      "count": 62,
-      "pct": 12.1,
+      "count": 63,
+      "pct": 12.3,
       "label": "Washington State Patrol"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 411,
-      "pct": 38.5,
+      "count": 412,
+      "pct": 38.6,
       "label": "Lewis County Superior Court"
     },
     {
@@ -458,12 +458,12 @@
     {
       "name": "Cash or Bond",
       "count": 309,
-      "pct": 28.8
+      "pct": 28.7
     },
     {
       "name": "Included",
       "count": 222,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "Serving Time",
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 141,
-      "pct": 13.1
+      "count": 142,
+      "pct": 13.2
     },
     {
       "name": "Released by Court",
@@ -496,6 +496,11 @@
       "pct": 1.7
     },
     {
+      "name": "Referred",
+      "count": 17,
+      "pct": 1.6
+    },
+    {
       "name": "Amended",
       "count": 17,
       "pct": 1.6
@@ -504,11 +509,6 @@
       "name": "Dismissed",
       "count": 16,
       "pct": 1.5
-    },
-    {
-      "name": "Referred",
-      "count": 15,
-      "pct": 1.4
     },
     {
       "name": "Cash Only",
@@ -546,12 +546,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 41.2,
+    "currentMedianDaysHeld": 41,
     "currentLongestDaysHeld": 799.4
   },
   "bond": {
     "withBond": 91,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 35000,
     "maxBond": 3000000,
     "totalBond": 19012450
