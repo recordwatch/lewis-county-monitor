@@ -1,5 +1,29 @@
 [
   {
+    "id": "335673-20261115162500",
+    "inmateNumber": "335673",
+    "name": "WHITEPLUME, RONAN LEE",
+    "bookedAt": "2026-11-15T16:25:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "arrestDate": "2026-11-15T16:25:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0415842"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T19:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "144827-20261115141500",
     "inmateNumber": "144827",
     "name": "SMITH, CHASE TAYLOR",
@@ -172,12 +196,12 @@
         "warrantNumber": "2510046921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T21:17:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-15T19:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "110743-20261114134800",
