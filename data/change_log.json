@@ -70,6 +70,16 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "ESC COMMUNITY CUSTODY",
+        "arrestDate": "2026-11-15T19:20:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610060621"
+      },
+      {
         "description": "POSS SYNTH DRUG/METH",
         "arrestDate": "2026-11-15T19:20:00",
         "arrestingAgency": "LCSO",
@@ -93,11 +103,11 @@
         "description": "THEFT 3RD DEG",
         "arrestDate": "2026-11-15T19:20:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610060621"
       },
       {
         "description": "OTHER AGENCY HOLD",

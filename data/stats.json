@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:32:15",
+  "generatedAt": "2026-11-16T13:49:18",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 513,
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 63,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 416,
-      "pct": 38.8,
+      "count": 418,
+      "pct": 38.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 369,
-      "pct": 34.4,
+      "pct": 34.3,
       "label": "Lewis County District Court"
     },
     {
@@ -462,8 +462,8 @@
     },
     {
       "name": "Included",
-      "count": 224,
-      "pct": 20.7
+      "count": 226,
+      "pct": 20.9
     },
     {
       "name": "Serving Time",
@@ -488,7 +488,7 @@
     {
       "name": "Released Time Served",
       "count": 20,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "Amended",
@@ -507,8 +507,8 @@
     },
     {
       "name": "Referred",
-      "count": 15,
-      "pct": 1.4
+      "count": 14,
+      "pct": 1.3
     },
     {
       "name": "Cash Only",
