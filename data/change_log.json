@@ -54,12 +54,12 @@
         "warrantNumber": "T00964543"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T01:17:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "166486-20261115192000",
@@ -431,7 +431,7 @@
     "name": "SWANSON, SEQUOIA LYNN",
     "bookedAt": "2026-11-14T08:47:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 2500,
+    "bondTotal": 12500,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -449,8 +449,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "4A0899048"
       },
       {
@@ -562,12 +562,12 @@
         "warrantNumber": "T00929201"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T04:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "355974-20261114014000",
@@ -817,7 +817,7 @@
     "name": "MONTES-REYES, ROBERTO CARLOS",
     "bookedAt": "2026-11-13T09:07:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -825,8 +825,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
         "warrantNumber": "6A0229519"
       },
       {
@@ -835,8 +835,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 1500,
         "warrantNumber": "6A0229518"
       }
     ],
