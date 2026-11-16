@@ -5,7 +5,7 @@
     "name": "KNOWLES, KEVIN LAWRENCE",
     "bookedAt": "2026-11-15T23:01:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "DUI",
@@ -13,8 +13,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "26Y397"
       },
       {
@@ -159,7 +159,7 @@
     "name": "SMITH, CHASE TAYLOR",
     "bookedAt": "2026-11-15T14:15:00",
     "arrestingAgency": "WASH",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "DUI",
@@ -167,8 +167,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
         "warrantNumber": "T00929213"
       }
     ],
@@ -431,7 +431,7 @@
     "name": "SWANSON, SEQUOIA LYNN",
     "bookedAt": "2026-11-14T08:47:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 12500,
+    "bondTotal": 11000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -440,7 +440,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 1500,
+        "bondAmount": 5000,
         "warrantNumber": "6A0390109"
       },
       {
@@ -450,7 +450,7 @@
         "court": "LCD",
         "billingAgency": "LC",
         "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondAmount": 5000,
         "warrantNumber": "4A0899048"
       },
       {
