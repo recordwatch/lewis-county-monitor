@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:49:17",
+  "generatedAt": "2026-11-16T12:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 513,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 87,
+      "count": 88,
       "pct": 8
     },
     {
@@ -189,12 +189,12 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 29,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 29,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -333,14 +333,14 @@
     },
     {
       "name": "LCD",
-      "count": 368,
-      "pct": 34.3,
+      "count": 369,
+      "pct": 34.4,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
       "count": 111,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "Centralia Municipal Court"
     },
     {
@@ -492,8 +492,8 @@
     },
     {
       "name": "Amended",
-      "count": 18,
-      "pct": 1.7
+      "count": 19,
+      "pct": 1.8
     },
     {
       "name": "Transferred to Prison",
