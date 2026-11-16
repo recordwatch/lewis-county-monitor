@@ -95,9 +95,9 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "OTAG",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "862074 111526"
       }
     ],
     "status": "in_custody",
