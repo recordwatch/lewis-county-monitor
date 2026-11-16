@@ -395,7 +395,7 @@
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
         "bondAmount": 5000,
-        "warrantNumber": "W"
+        "warrantNumber": "2610060321"
       }
     ],
     "status": "in_custody",
@@ -563,19 +563,29 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
-        "warrantNumber": "W"
+        "bondType": "Released by Court",
+        "bondAmount": null,
+        "warrantNumber": "NOT FILED"
       },
       {
         "description": "Protection Order Violation",
         "arrestDate": "2026-11-14T01:40:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": "Referred",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "2610060521"
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "arrestDate": "2026-11-14T01:40:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610060521"
       }
     ],
     "status": "in_custody",
