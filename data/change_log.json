@@ -8,30 +8,32 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASSAULT 4TH DEGREE/DV",
         "arrestDate": "2026-11-16T14:26:00",
         "arrestingAgency": "MORT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "NMC",
+        "billingAgency": "MORT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0023766"
       },
       {
         "description": "HARASSMENT",
         "arrestDate": "2026-11-16T14:26:00",
         "arrestingAgency": "MORT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "NMC",
+        "billingAgency": "MORT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0023766"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T15:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423598-20261115230100",
