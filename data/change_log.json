@@ -88,6 +88,40 @@
     "releaseSource": null
   },
   {
+    "id": "387136-20261116003500",
+    "inmateNumber": "387136",
+    "name": "HILES, JOSHUA GENE",
+    "bookedAt": "2026-11-16T00:35:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-16T00:35:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-16T00:35:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T01:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423598-20261115230100",
     "inmateNumber": "423598",
     "name": "KNOWLES, KEVIN LAWRENCE",
