@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-16T19:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "344412-20261116142600",
@@ -127,7 +129,7 @@
     "name": "BLANTON, ZACHARY DANIEL",
     "bookedAt": "2026-11-15T19:20:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "ESC COMMUNITY CUSTODY",
@@ -155,8 +157,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 75000,
         "warrantNumber": "2610060621"
       },
       {
@@ -563,7 +565,7 @@
     "name": "HERNANDEZ, PARKER ANTHONY",
     "bookedAt": "2026-11-14T03:06:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 50000,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "ASSAULT 2(Substantial bodily harm) DV",
@@ -572,7 +574,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondAmount": 100000,
         "warrantNumber": "2610060421"
       },
       {
@@ -635,7 +637,7 @@
     "name": "DAVIS, SCOTT H",
     "bookedAt": "2026-11-14T01:40:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 10000,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -654,7 +656,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondAmount": 50000,
         "warrantNumber": "2610060521"
       },
       {
@@ -1035,7 +1037,7 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "DRC",
-        "bondType": "Serving Time",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "2610052521"
       },
