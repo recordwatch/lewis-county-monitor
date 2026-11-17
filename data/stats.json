@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T02:17:17",
+  "generatedAt": "2026-11-17T02:32:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 518,
-    "bookingsObserved": 369,
+    "bookingsTracked": 519,
+    "bookingsObserved": 370,
     "releasesObserved": 378,
-    "inCustody": 140,
-    "uniquePeople": 478
+    "inCustody": 141,
+    "uniquePeople": 479
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 1,
+      "booked": 2,
       "released": 3
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 88,
+      "count": 89,
       "pct": 8
     },
     {
@@ -223,8 +223,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 16,
-      "pct": 1.4
+      "count": 17,
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 133,
-      "pct": 25.7,
+      "count": 134,
+      "pct": 25.9,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 420,
+      "count": 421,
       "pct": 38.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 369,
-      "pct": 34.2,
+      "pct": 34.1,
       "label": "Lewis County District Court"
     },
     {
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 139,
-      "pct": 12.8
+      "count": 140,
+      "pct": 12.9
     },
     {
       "name": "Released by Court",
@@ -546,12 +546,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 42.2,
+    "currentMedianDaysHeld": 42.1,
     "currentLongestDaysHeld": 800.4
   },
   "bond": {
     "withBond": 95,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 35000,
     "maxBond": 3000000,
     "totalBond": 19230450

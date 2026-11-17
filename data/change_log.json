@@ -1,5 +1,69 @@
 [
   {
+    "id": "42525-20261117010200",
+    "inmateNumber": "42525",
+    "name": "AKINS, COLIN WILLIAM",
+    "bookedAt": "2026-11-17T01:02:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
+        "arrestDate": "2026-11-17T01:02:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-17T01:02:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Criminal Trespass 2",
+        "arrestDate": "2026-11-17T01:02:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-11-17T01:02:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "RECKLESS ENDANGER 2CD",
+        "arrestDate": "2026-11-17T01:02:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T02:32:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "387136-20261117003500",
     "inmateNumber": "387136",
     "name": "HILES, JOSHUA GENE",
@@ -31,7 +95,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-17T02:17:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "159414-20261116204000",
