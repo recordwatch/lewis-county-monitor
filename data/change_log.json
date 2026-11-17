@@ -5,10 +5,20 @@
     "name": "FOSTER, TAD RAY",
     "bookedAt": "2026-11-17T08:06:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-11-17T08:06:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00837812"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
         "arrestDate": "2026-11-17T08:06:00",
         "arrestingAgency": "WASH",
         "court": "LCD",
@@ -21,7 +31,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-17T09:17:21",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "42525-20261117010200",
