@@ -7190,12 +7190,12 @@
         "warrantNumber": "T00122292"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T01:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "133335-20261023203100",
