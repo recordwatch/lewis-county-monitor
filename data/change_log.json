@@ -1,5 +1,29 @@
 [
   {
+    "id": "415290-20261116164500",
+    "inmateNumber": "415290",
+    "name": "O'DELL, RICHARD DYLAN",
+    "bookedAt": "2026-11-16T16:45:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-11-16T16:45:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610000721"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T19:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "344412-20261116142600",
     "inmateNumber": "344412",
     "name": "HERBERT, LOGAN DEAN",
