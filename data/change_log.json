@@ -54,12 +54,12 @@
         "warrantNumber": "T00837812"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T09:17:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "42525-20261117010200",
@@ -244,12 +244,12 @@
         "warrantNumber": "6A0023766"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T15:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "387136-20261116003500",
