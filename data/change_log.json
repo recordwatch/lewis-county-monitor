@@ -1,5 +1,29 @@
 [
   {
+    "id": "159414-20261116204000",
+    "inmateNumber": "159414",
+    "name": "GONZALES, DON KHRISTIAN",
+    "bookedAt": "2026-11-16T20:40:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND",
+        "arrestDate": "2026-11-16T20:40:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T21:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "415290-20261116164500",
     "inmateNumber": "415290",
     "name": "O'DELL, RICHARD DYLAN",
