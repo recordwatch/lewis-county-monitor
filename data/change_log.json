@@ -1907,8 +1907,8 @@
         "arrestingAgency": "JAIL",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Appearance Bond",
-        "bondAmount": 12000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "2A0582234"
       }
     ],
