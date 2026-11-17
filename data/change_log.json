@@ -3354,12 +3354,12 @@
         "warrantNumber": "2510050321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T16:44:54",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "68653-20261104023300",
