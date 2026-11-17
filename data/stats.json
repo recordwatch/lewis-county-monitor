@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T01:49:14",
+  "generatedAt": "2026-11-17T02:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 517,
-    "bookingsObserved": 368,
-    "releasesObserved": 377,
+    "bookingsTracked": 518,
+    "bookingsObserved": 369,
+    "releasesObserved": 378,
     "inCustody": 140,
     "uniquePeople": 478
   },
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 0,
-      "released": 2
+      "booked": 1,
+      "released": 3
     }
   ],
   "topCharges": [
@@ -173,6 +173,11 @@
     },
     {
       "name": "POSS of Controlled Substance",
+      "count": 51,
+      "pct": 4.6
+    },
+    {
+      "name": "OTHER AGENCY HOLD",
       "count": 50,
       "pct": 4.5
     },
@@ -180,11 +185,6 @@
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 50,
       "pct": 4.5
-    },
-    {
-      "name": "OTHER AGENCY HOLD",
-      "count": 49,
-      "pct": 4.4
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -199,7 +199,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 27,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "ASSAULT 4TH DEGREE/DV",
@@ -224,7 +224,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 16,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 132,
-      "pct": 25.6,
+      "count": 133,
+      "pct": 25.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 104,
-      "pct": 20.2,
+      "pct": 20.1,
       "label": "Centralia Police"
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "OSC",
-      "count": 7,
-      "pct": 0.6,
+      "count": 8,
+      "pct": 0.7,
       "label": "OSC"
     },
     {
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 313,
-      "pct": 28.8
+      "count": 314,
+      "pct": 28.9
     },
     {
       "name": "Included",
@@ -478,7 +478,7 @@
     {
       "name": "Released by Court",
       "count": 107,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "Appearance Bond",
@@ -517,8 +517,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 373,
-    "medianDays": 2.3,
+    "releasedCount": 374,
+    "medianDays": 2.2,
     "meanDays": 12.1,
     "buckets": [
       {
@@ -527,7 +527,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 124
+        "count": 125
       },
       {
         "label": "3–7 days",
@@ -550,11 +550,11 @@
     "currentLongestDaysHeld": 800.4
   },
   "bond": {
-    "withBond": 94,
-    "noBond": 46,
-    "medianBond": 42500,
+    "withBond": 95,
+    "noBond": 45,
+    "medianBond": 35000,
     "maxBond": 3000000,
-    "totalBond": 19205450
+    "totalBond": 19230450
   },
   "chargesPerBooking": 2.1
 }

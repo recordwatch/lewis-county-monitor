@@ -1,5 +1,39 @@
 [
   {
+    "id": "387136-20261117003500",
+    "inmateNumber": "387136",
+    "name": "HILES, JOSHUA GENE",
+    "bookedAt": "2026-11-17T00:35:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 25000,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-17T00:35:00",
+        "arrestingAgency": "LCSO",
+        "court": "OSC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
+        "warrantNumber": "26119814"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-17T00:35:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T02:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "159414-20261116204000",
     "inmateNumber": "159414",
     "name": "GONZALES, DON KHRISTIAN",
@@ -116,10 +150,12 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T01:49:14",
-    "releasedAt": null,
-    "baseline": false
+    "releasedAt": "2026-11-17T02:17:17",
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": "observed"
   },
   {
     "id": "423598-20261115230100",
