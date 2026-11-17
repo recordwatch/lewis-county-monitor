@@ -1,5 +1,29 @@
 [
   {
+    "id": "229386-20261117113400",
+    "inmateNumber": "229386",
+    "name": "PIPER, NICOLE RAE",
+    "bookedAt": "2026-11-17T11:34:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-17T11:34:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "WSP",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "T00347258"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T13:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "167229-20261117080600",
     "inmateNumber": "167229",
     "name": "FOSTER, TAD RAY",
