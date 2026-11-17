@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:49:21",
+  "generatedAt": "2026-11-17T11:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 520,
@@ -212,6 +212,11 @@
       "pct": 2
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 18,
+      "pct": 1.6
+    },
+    {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 18,
       "pct": 1.6
@@ -220,11 +225,6 @@
       "name": "ASSAULT 4TH DV",
       "count": 18,
       "pct": 1.6
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 17,
-      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 421,
-      "pct": 38.8,
+      "count": 424,
+      "pct": 39,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 371,
-      "pct": 34.2,
+      "pct": 34.1,
       "label": "Lewis County District Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "WLM",
       "count": 31,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Winlock Municipal Court"
     },
     {
@@ -462,8 +462,8 @@
     },
     {
       "name": "Included",
-      "count": 226,
-      "pct": 20.7
+      "count": 229,
+      "pct": 20.9
     },
     {
       "name": "Serving Time",

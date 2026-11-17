@@ -51,27 +51,27 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610060821"
       },
       {
         "description": "DUI",
         "arrestDate": "2026-11-17T01:02:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610060821"
       },
       {
-        "description": "Criminal Trespass 2",
+        "description": "RESISTING ARREST",
         "arrestDate": "2026-11-17T01:02:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610060821"
       },
       {
         "description": "RESISTING ARREST",
@@ -87,11 +87,11 @@
         "description": "RECKLESS ENDANGER 2CD",
         "arrestDate": "2026-11-17T01:02:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "2610060821"
       }
     ],
     "status": "in_custody",
