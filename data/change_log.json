@@ -16588,6 +16588,26 @@
         "bondType": "Cash or Bond",
         "bondAmount": 100000,
         "warrantNumber": "2610047121"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-08-31T09:11:00",
+        "arrestingAgency": "TCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "6A0221756"
+      },
+      {
+        "description": "USE PARAPHERNALIA",
+        "arrestDate": "2026-08-31T09:11:00",
+        "arrestingAgency": "TCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "6A0221756"
       }
     ],
     "status": "in_custody",
