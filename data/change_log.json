@@ -1,5 +1,93 @@
 [
   {
+    "id": "388574-20261117204500",
+    "inmateNumber": "388574",
+    "name": "SAUCEDO-MONROY, LUIS EDSON",
+    "bookedAt": "2026-11-17T20:45:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "arrestDate": "2026-11-17T20:45:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00899627"
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR",
+        "arrestDate": "2026-11-17T20:45:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00899627"
+      },
+      {
+        "description": "DWLS 2ND DEGREE",
+        "arrestDate": "2026-11-17T20:45:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00899626"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T22:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "333-20261117202000",
+    "inmateNumber": "333",
+    "name": "LEYS, TERESA LYNN",
+    "bookedAt": "2026-11-17T20:20:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-17T20:20:00",
+        "arrestingAgency": "WINL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "Criminal Trespass 2",
+        "arrestDate": "2026-11-17T20:20:00",
+        "arrestingAgency": "WINL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "arrestDate": "2026-11-17T20:20:00",
+        "arrestingAgency": "WINL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T22:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "235647-20261117143500",
     "inmateNumber": "235647",
     "name": "JORDEN, ALYZAE TRANICE",
@@ -11,17 +99,19 @@
         "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-11-17T14:35:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "4A0611194"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T21:49:19",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "229386-20261117113400",
