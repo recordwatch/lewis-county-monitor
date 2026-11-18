@@ -31,7 +31,7 @@
     "name": "JOHNSTON, JASON LEE",
     "bookedAt": "2026-11-17T23:48:59",
     "arrestingAgency": "JAIL",
-    "bondTotal": 10100,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "Fishing while privileges suspended 1st",
@@ -40,7 +40,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 10100,
+        "bondAmount": 2500,
         "warrantNumber": "T00729864"
       }
     ],
@@ -93,7 +93,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610061021"
       },
       {
         "description": "RAPE 2ND",
@@ -101,9 +101,9 @@
         "arrestingAgency": "NAPA",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "declined"
       }
     ],
     "status": "in_custody",
@@ -119,7 +119,7 @@
     "name": "SAUCEDO-MONROY, LUIS EDSON",
     "bookedAt": "2026-11-17T20:45:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 4000,
+    "bondTotal": 21000,
     "charges": [
       {
         "description": "MAKE FALSE STATEMENT",
@@ -128,7 +128,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 10000,
         "warrantNumber": "T00899627"
       },
       {
@@ -137,8 +137,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "T00899627"
       },
       {
@@ -148,7 +148,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 10000,
         "warrantNumber": "T00899626"
       },
       {
@@ -5432,12 +5432,12 @@
         "warrantNumber": "6A0169500"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T15:17:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423235-20261031123000",
