@@ -696,12 +696,12 @@
         "warrantNumber": "T00929213"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T15:17:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T14:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "423586-20261115023200",
@@ -2799,7 +2799,7 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0239945"
       }

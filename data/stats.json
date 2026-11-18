@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T10:49:22",
+  "generatedAt": "2026-11-18T11:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 527,
     "bookingsObserved": 378,
-    "releasesObserved": 389,
-    "inCustody": 138,
+    "releasesObserved": 390,
+    "inCustody": 137,
     "uniquePeople": 486
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-18",
       "booked": 0,
-      "released": 6
+      "released": 7
     }
   ],
   "topCharges": [
@@ -396,7 +396,7 @@
     {
       "name": "SELF",
       "count": 290,
-      "pct": 76.7
+      "pct": 76.5
     },
     {
       "name": "DOC",
@@ -405,18 +405,18 @@
     },
     {
       "name": "FRIENDSHIP DIVERSON",
-      "count": 8,
-      "pct": 2.1
+      "count": 9,
+      "pct": 2.4
     },
     {
       "name": "WCC",
       "count": 7,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "ABHS",
       "count": 7,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "DOC RELOCATE",
@@ -472,13 +472,13 @@
     },
     {
       "name": "No Bail",
-      "count": 142,
-      "pct": 12.8
+      "count": 141,
+      "pct": 12.7
     },
     {
       "name": "Released by Court",
-      "count": 113,
-      "pct": 10.2
+      "count": 114,
+      "pct": 10.3
     },
     {
       "name": "Released Time Served",
@@ -517,7 +517,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 385,
+    "releasedCount": 386,
     "medianDays": 2.2,
     "meanDays": 11.8,
     "buckets": [
@@ -527,7 +527,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 129
+        "count": 130
       },
       {
         "label": "3–7 days",
@@ -546,15 +546,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 43.8,
+    "currentMedianDaysHeld": 44,
     "currentLongestDaysHeld": 801.8
   },
   "bond": {
-    "withBond": 94,
+    "withBond": 93,
     "noBond": 44,
-    "medianBond": 42500,
+    "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19213300
+    "totalBond": 19188300
   },
   "chargesPerBooking": 2.1
 }
