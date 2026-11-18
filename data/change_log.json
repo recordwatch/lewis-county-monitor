@@ -140,12 +140,12 @@
         "warrantNumber": "4A0611194"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T21:49:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "RELAY TO THURSTON",
+    "releaseSource": "official"
   },
   {
     "id": "229386-20261117113400",
