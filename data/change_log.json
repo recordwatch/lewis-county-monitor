@@ -93,7 +93,7 @@
     "name": "SAUCEDO-MONROY, LUIS EDSON",
     "bookedAt": "2026-11-17T20:45:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 24000,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "MAKE FALSE STATEMENT",
@@ -131,8 +131,8 @@
         "arrestingAgency": "WASH",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Appearance Bond",
-        "bondAmount": 10000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "3A0412781"
       },
       {
@@ -141,8 +141,8 @@
         "arrestingAgency": "WASH",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Appearance Bond",
-        "bondAmount": 10000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "3A0526283"
       },
       {
