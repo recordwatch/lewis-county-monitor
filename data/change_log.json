@@ -5,7 +5,7 @@
     "name": "SAUCEDO-MONROY, LUIS EDSON",
     "bookedAt": "2026-11-17T20:45:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 3000,
+    "bondTotal": 13000,
     "charges": [
       {
         "description": "MAKE FALSE STATEMENT",
@@ -36,6 +36,16 @@
         "bondType": "Cash or Bond",
         "bondAmount": 1000,
         "warrantNumber": "T00899626"
+      },
+      {
+        "description": "NEG DRIVING 1ST/CRIM/FTC",
+        "arrestDate": "2026-11-17T20:45:00",
+        "arrestingAgency": "WASH",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "3A0412781"
       }
     ],
     "status": "in_custody",
@@ -51,27 +61,27 @@
     "name": "LEYS, TERESA LYNN",
     "bookedAt": "2026-11-17T20:20:00",
     "arrestingAgency": "WINL",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-11-17T20:20:00",
         "arrestingAgency": "WINL",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0387020"
       },
       {
         "description": "Criminal Trespass 2",
         "arrestDate": "2026-11-17T20:20:00",
         "arrestingAgency": "WINL",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0387020"
       },
       {
         "description": "RESISTING ARREST",
