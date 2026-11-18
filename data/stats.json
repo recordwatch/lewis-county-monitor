@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:17:16",
+  "generatedAt": "2026-11-17T22:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 524,
@@ -467,8 +467,8 @@
     },
     {
       "name": "Serving Time",
-      "count": 186,
-      "pct": 16.9
+      "count": 184,
+      "pct": 16.8
     },
     {
       "name": "No Bail",
@@ -481,14 +481,14 @@
       "pct": 10.1
     },
     {
+      "name": "Released Time Served",
+      "count": 22,
+      "pct": 2
+    },
+    {
       "name": "Appearance Bond",
       "count": 21,
       "pct": 1.9
-    },
-    {
-      "name": "Released Time Served",
-      "count": 20,
-      "pct": 1.8
     },
     {
       "name": "Amended",
@@ -547,7 +547,7 @@
       }
     ],
     "currentMedianDaysHeld": 43.1,
-    "currentLongestDaysHeld": 801.2
+    "currentLongestDaysHeld": 801.3
   },
   "bond": {
     "withBond": 95,

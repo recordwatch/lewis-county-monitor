@@ -41,7 +41,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-17T22:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "333-20261117202000",
@@ -85,7 +87,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-17T22:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "235647-20261117143500",
@@ -16905,7 +16909,7 @@
         "arrestingAgency": "JAIL",
         "court": "WLM",
         "billingAgency": "WINL",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "5A0052995"
       },
@@ -16915,7 +16919,7 @@
         "arrestingAgency": "JAIL",
         "court": "WLM",
         "billingAgency": "WINL",
-        "bondType": "Serving Time",
+        "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "5A0052995"
       },
