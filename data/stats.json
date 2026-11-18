@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T12:49:15",
+  "generatedAt": "2026-11-18T13:03:08",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 527,
-    "bookingsObserved": 378,
+    "bookingsTracked": 528,
+    "bookingsObserved": 379,
     "releasesObserved": 391,
-    "inCustody": 136,
-    "uniquePeople": 486
+    "inCustody": 137,
+    "uniquePeople": 487
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 0,
+      "booked": 1,
       "released": 8
     }
   ],
@@ -204,12 +204,12 @@
     {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 22,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "Protection Order Violation",
       "count": 22,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
@@ -266,25 +266,25 @@
     {
       "name": "LCSO",
       "count": 134,
-      "pct": 25.5,
+      "pct": 25.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 124,
-      "pct": 23.6,
+      "count": 125,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 105,
-      "pct": 20,
+      "pct": 19.9,
       "label": "Centralia Police"
     },
     {
       "name": "WASH",
       "count": 65,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "Washington State Patrol"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WINL",
       "count": 15,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Winlock Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 429,
+      "count": 430,
       "pct": 38.9,
       "label": "Lewis County Superior Court"
     },
@@ -364,7 +364,7 @@
     {
       "name": "ODC",
       "count": 16,
-      "pct": 1.5,
+      "pct": 1.4,
       "label": "ODC"
     },
     {
@@ -463,7 +463,7 @@
     {
       "name": "Included",
       "count": 226,
-      "pct": 20.4
+      "pct": 20.3
     },
     {
       "name": "Serving Time",
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 141,
-      "pct": 12.7
+      "count": 142,
+      "pct": 12.8
     },
     {
       "name": "Released by Court",
@@ -546,12 +546,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 43.9,
-    "currentLongestDaysHeld": 801.8
+    "currentMedianDaysHeld": 43.8,
+    "currentLongestDaysHeld": 801.9
   },
   "bond": {
     "withBond": 92,
-    "noBond": 44,
+    "noBond": 45,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 19088300

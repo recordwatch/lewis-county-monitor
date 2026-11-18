@@ -1,5 +1,29 @@
 [
   {
+    "id": "404599-20261118103000",
+    "inmateNumber": "404599",
+    "name": "GRASSER, DEBORAH DEANNE",
+    "bookedAt": "2026-11-18T10:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 1ST DEG>1500",
+        "arrestDate": "2026-11-18T10:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510067821"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T13:03:08",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "75314-20261117234859",
     "inmateNumber": "75314",
     "name": "JOHNSTON, JASON LEE",
