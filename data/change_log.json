@@ -11,9 +11,9 @@
         "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-11-17T23:07:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "ODC",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": null
       }
@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-18T01:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "373498-20261117225500",
