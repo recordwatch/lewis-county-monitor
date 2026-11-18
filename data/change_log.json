@@ -17211,8 +17211,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "Transferred to Prison",
+        "bondAmount": null,
         "warrantNumber": "2610045421"
       },
       {
@@ -17221,7 +17221,7 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Amended",
         "bondAmount": null,
         "warrantNumber": "2610045421"
       },
@@ -17231,7 +17231,7 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Amended",
         "bondAmount": null,
         "warrantNumber": "2610045421"
       },
@@ -17242,6 +17242,16 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610045421"
+      },
+      {
+        "description": "FORGERY",
+        "arrestDate": "2026-08-21T07:12:00",
+        "arrestingAgency": "CHEH",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Transferred to Prison",
         "bondAmount": null,
         "warrantNumber": "2610045421"
       }

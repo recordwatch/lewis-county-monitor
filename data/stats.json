@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:32:19",
+  "generatedAt": "2026-11-18T11:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 527,
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 427,
+      "count": 428,
       "pct": 38.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 375,
-      "pct": 34.1,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -457,13 +457,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 323,
-      "pct": 29.2
+      "count": 322,
+      "pct": 29
     },
     {
       "name": "Included",
-      "count": 228,
-      "pct": 20.6
+      "count": 226,
+      "pct": 20.4
     },
     {
       "name": "Serving Time",
@@ -486,19 +486,19 @@
       "pct": 2
     },
     {
+      "name": "Amended",
+      "count": 21,
+      "pct": 1.9
+    },
+    {
       "name": "Appearance Bond",
       "count": 21,
       "pct": 1.9
     },
     {
-      "name": "Amended",
-      "count": 19,
-      "pct": 1.7
-    },
-    {
       "name": "Transferred to Prison",
-      "count": 18,
-      "pct": 1.6
+      "count": 20,
+      "pct": 1.8
     },
     {
       "name": "Dismissed",
