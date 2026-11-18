@@ -1,5 +1,29 @@
 [
   {
+    "id": "235647-20261117143500",
+    "inmateNumber": "235647",
+    "name": "JORDEN, ALYZAE TRANICE",
+    "bookedAt": "2026-11-17T14:35:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-17T14:35:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T21:49:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "229386-20261117113400",
     "inmateNumber": "229386",
     "name": "PIPER, NICOLE RAE",
