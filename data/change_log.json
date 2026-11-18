@@ -1,5 +1,29 @@
 [
   {
+    "id": "257405-20261117230700",
+    "inmateNumber": "257405",
+    "name": "JOHNSTON-PENROSE, ZACHARY JAMES",
+    "bookedAt": "2026-11-17T23:07:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-17T23:07:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T01:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "373498-20261117225500",
     "inmateNumber": "373498",
     "name": "GASPAR-JUAN, JUAN DANIEL",
@@ -31,7 +55,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-18T01:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "388574-20261117204500",

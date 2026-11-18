@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T01:17:15",
+  "generatedAt": "2026-11-18T01:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 525,
-    "bookingsObserved": 376,
+    "bookingsTracked": 526,
+    "bookingsObserved": 377,
     "releasesObserved": 388,
-    "inCustody": 137,
-    "uniquePeople": 484
+    "inCustody": 138,
+    "uniquePeople": 485
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 8,
+      "booked": 9,
       "released": 8
     },
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 52,
-      "pct": 4.6
+      "count": 53,
+      "pct": 4.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 134,
-      "pct": 25.6,
+      "pct": 25.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 123,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Lewis County Jail"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "CHEH",
-      "count": 62,
-      "pct": 11.8,
+      "count": 63,
+      "pct": 12,
       "label": "Chehalis Police"
     },
     {
@@ -551,7 +551,7 @@
   },
   "bond": {
     "withBond": 93,
-    "noBond": 44,
+    "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19223200
