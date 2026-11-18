@@ -26,6 +26,30 @@
     "releaseSource": null
   },
   {
+    "id": "423659-20261118102300",
+    "inmateNumber": "423659",
+    "name": "LOPEZ HERNANDEZ, ERICK",
+    "bookedAt": "2026-11-18T10:23:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-18T10:23:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00958968"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T14:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "75314-20261117234859",
     "inmateNumber": "75314",
     "name": "JOHNSTON, JASON LEE",
@@ -17277,7 +17301,7 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Serving Time",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "2610045421"
       },
