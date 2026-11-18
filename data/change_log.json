@@ -1,5 +1,29 @@
 [
   {
+    "id": "75314-20261117234859",
+    "inmateNumber": "75314",
+    "name": "JOHNSTON, JASON LEE",
+    "bookedAt": "2026-11-17T23:48:59",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 10100,
+    "charges": [
+      {
+        "description": "Fishing while privileges suspended 1st",
+        "arrestDate": "2026-11-17T23:48:59",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "T00729864"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T02:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "257405-20261117230700",
     "inmateNumber": "257405",
     "name": "JOHNSTON-PENROSE, ZACHARY JAMES",
@@ -15,7 +39,7 @@
         "billingAgency": "LC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "21-M00281 TCP"
       }
     ],
     "status": "in_custody",
