@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T00:49:16",
+  "generatedAt": "2026-11-18T01:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 524,
-    "bookingsObserved": 375,
+    "bookingsTracked": 525,
+    "bookingsObserved": 376,
     "releasesObserved": 388,
-    "inCustody": 136,
-    "uniquePeople": 483
+    "inCustody": 137,
+    "uniquePeople": 484
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 7,
+      "booked": 8,
       "released": 8
     },
     {
@@ -184,7 +184,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 50,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "Drive w/o req ignition intrlck",
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 105,
-      "pct": 20.1,
+      "pct": 20,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "CHEH",
       "count": 62,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "Chehalis Police"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "NAPA",
-      "count": 2,
-      "pct": 0.4,
+      "count": 3,
+      "pct": 0.6,
       "label": "Napavine Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 425,
-      "pct": 38.7,
+      "count": 427,
+      "pct": 38.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 374,
-      "pct": 34.1,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -458,27 +458,27 @@
     {
       "name": "Cash or Bond",
       "count": 322,
-      "pct": 29.2
+      "pct": 29.1
     },
     {
       "name": "Included",
       "count": 228,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "Serving Time",
       "count": 184,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "No Bail",
-      "count": 139,
-      "pct": 12.6
+      "count": 141,
+      "pct": 12.7
     },
     {
       "name": "Released by Court",
       "count": 111,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "Appearance Bond",
@@ -547,11 +547,11 @@
       }
     ],
     "currentMedianDaysHeld": 43.5,
-    "currentLongestDaysHeld": 801.3
+    "currentLongestDaysHeld": 801.4
   },
   "bond": {
     "withBond": 93,
-    "noBond": 43,
+    "noBond": 44,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19223200

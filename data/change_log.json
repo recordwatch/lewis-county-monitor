@@ -1,5 +1,39 @@
 [
   {
+    "id": "373498-20261117225500",
+    "inmateNumber": "373498",
+    "name": "GASPAR-JUAN, JUAN DANIEL",
+    "bookedAt": "2026-11-17T22:55:00",
+    "arrestingAgency": "NAPA",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RAPE CHILD 3RD",
+        "arrestDate": "2026-11-17T22:55:00",
+        "arrestingAgency": "NAPA",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "RAPE 2ND",
+        "arrestDate": "2026-11-17T22:55:00",
+        "arrestingAgency": "NAPA",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T01:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "388574-20261117204500",
     "inmateNumber": "388574",
     "name": "SAUCEDO-MONROY, LUIS EDSON",
