@@ -12,7 +12,7 @@
         "arrestDate": "2026-11-17T23:48:59",
         "arrestingAgency": "JAIL",
         "court": "LCD",
-        "billingAgency": null,
+        "billingAgency": "WSP",
         "bondType": "Cash or Bond",
         "bondAmount": 10100,
         "warrantNumber": "T00729864"
@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-18T02:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "257405-20261117230700",
