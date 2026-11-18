@@ -5,7 +5,7 @@
     "name": "SAUCEDO-MONROY, LUIS EDSON",
     "bookedAt": "2026-11-17T20:45:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 13000,
+    "bondTotal": 24000,
     "charges": [
       {
         "description": "MAKE FALSE STATEMENT",
@@ -46,6 +46,26 @@
         "bondType": "Appearance Bond",
         "bondAmount": 10000,
         "warrantNumber": "3A0412781"
+      },
+      {
+        "description": "DISORDERLY CONDUCT/FTA",
+        "arrestDate": "2026-11-17T20:45:00",
+        "arrestingAgency": "WASH",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "3A0526283"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-17T20:45:00",
+        "arrestingAgency": "WASH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00869800"
       }
     ],
     "status": "in_custody",
@@ -61,7 +81,7 @@
     "name": "LEYS, TERESA LYNN",
     "bookedAt": "2026-11-17T20:20:00",
     "arrestingAgency": "WINL",
-    "bondTotal": 2000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "POSS of Controlled Substance",
@@ -87,11 +107,11 @@
         "description": "RESISTING ARREST",
         "arrestDate": "2026-11-17T20:20:00",
         "arrestingAgency": "WINL",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0387020"
       }
     ],
     "status": "in_custody",
@@ -8662,12 +8682,12 @@
         "warrantNumber": "6A0413592"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T20:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "295917-20261021133800",
