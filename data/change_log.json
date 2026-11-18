@@ -5,7 +5,7 @@
     "name": "GRASSER, DEBORAH DEANNE",
     "bookedAt": "2026-11-18T10:30:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "THEFT 1ST DEG>1500",
@@ -13,8 +13,8 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
         "warrantNumber": "2510067821"
       }
     ],
@@ -3713,7 +3713,7 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "6A0341010"
       },
