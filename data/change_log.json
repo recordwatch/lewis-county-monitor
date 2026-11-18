@@ -16419,8 +16419,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "Amended",
+        "bondAmount": null,
         "warrantNumber": "2510057321"
       },
       {
@@ -16432,6 +16432,16 @@
         "bondType": "Released Time Served",
         "bondAmount": null,
         "warrantNumber": "24Y000048"
+      },
+      {
+        "description": "CRIMINAL IMPERSONATE 1",
+        "arrestDate": "2026-09-15T03:02:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2510057321"
       },
       {
         "description": "DWLS 3RD DEGREE/FTA",
@@ -16852,12 +16862,12 @@
         "warrantNumber": "2610047121"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T12:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "142309-20260829020700",
