@@ -304,12 +304,12 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T02:17:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "RELAY TO GRAYS HARBO",
+    "releaseSource": "official"
   },
   {
     "id": "159414-20261116204000",
@@ -430,10 +430,10 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-17T01:49:14",
-    "releasedAt": "2026-11-17T02:17:17",
+    "releasedAt": "2026-11-18T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": "observed"
+    "releasedTo": "RELAY TO GRAYS HARBO",
+    "releaseSource": "official"
   },
   {
     "id": "423598-20261115230100",
@@ -1240,12 +1240,12 @@
         "warrantNumber": "6A0207304"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T19:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "RELAY TO FRANKLIN",
+    "releaseSource": "official"
   },
   {
     "id": "310137-20261113090700",
