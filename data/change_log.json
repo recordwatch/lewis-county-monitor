@@ -67,7 +67,7 @@
     "name": "AKINS, COLIN WILLIAM",
     "bookedAt": "2026-11-17T01:02:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE;7/27/03 OR LATER",
@@ -75,8 +75,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
         "warrantNumber": "2610060821"
       },
       {
@@ -182,12 +182,12 @@
         "warrantNumber": "W"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T21:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T16:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CASCADE MH",
+    "releaseSource": "official"
   },
   {
     "id": "415290-20261116164500",
