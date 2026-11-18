@@ -44,12 +44,12 @@
         "warrantNumber": "21-M00281 TCP"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T01:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T03:15:16",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "RELAY (THURSTON)",
+    "releaseSource": "official"
   },
   {
     "id": "373498-20261117225500",
