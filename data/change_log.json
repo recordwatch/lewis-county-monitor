@@ -1,8 +1,32 @@
 [
   {
+    "id": "421871-20261118205700",
+    "inmateNumber": "421871",
+    "name": "FINDLEY, TYLER MICHAEL",
+    "bookedAt": "2026-11-18T20:57:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-18T20:57:00",
+        "arrestingAgency": "WINL",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T23:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423679-20261118205000",
     "inmateNumber": "423679",
-    "name": "CABALES, BRANDON",
+    "name": "CABALES, BRANDON JT",
     "bookedAt": "2026-11-18T20:50:00",
     "arrestingAgency": "WASH",
     "bondTotal": null,

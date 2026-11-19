@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T23:32:14",
+  "generatedAt": "2026-11-18T23:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 537,
-    "bookingsObserved": 388,
+    "bookingsTracked": 538,
+    "bookingsObserved": 389,
     "releasesObserved": 403,
-    "inCustody": 134,
+    "inCustody": 135,
     "uniquePeople": 494
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 10,
+      "booked": 11,
       "released": 18
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 92,
+      "count": 93,
       "pct": 8.1
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "JAIL",
       "count": 129,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "CHEH",
       "count": 63,
-      "pct": 11.8,
+      "pct": 11.7,
       "label": "Chehalis Police"
     },
     {
       "name": "WINL",
-      "count": 15,
-      "pct": 2.8,
+      "count": 16,
+      "pct": 3,
       "label": "Winlock Police"
     },
     {
@@ -546,12 +546,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 44.1,
+    "currentMedianDaysHeld": 44,
     "currentLongestDaysHeld": 802.3
   },
   "bond": {
     "withBond": 88,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19106200
