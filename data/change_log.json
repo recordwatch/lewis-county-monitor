@@ -1,5 +1,29 @@
 [
   {
+    "id": "423683-20261119071600",
+    "inmateNumber": "423683",
+    "name": "GOODSON, NOAH B",
+    "bookedAt": "2026-11-19T07:16:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-19T07:16:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T09:32:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "341020-20261118223900",
     "inmateNumber": "341020",
     "name": "SANDERS, MEGAN ELISABETH",
@@ -14394,12 +14418,12 @@
         "warrantNumber": "2610053621"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T10:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "ABHS",
+    "releaseSource": "official"
   },
   {
     "id": "419439-20261005111100",
