@@ -2,7 +2,7 @@
   {
     "id": "423683-20261119071600",
     "inmateNumber": "423683",
-    "name": "GOODSON, NOAH B",
+    "name": "GOODSON, NOAH BRANCH",
     "bookedAt": "2026-11-19T07:16:00",
     "arrestingAgency": "WASH",
     "bondTotal": null,
@@ -15,7 +15,7 @@
         "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "T00988175"
       }
     ],
     "status": "in_custody",
