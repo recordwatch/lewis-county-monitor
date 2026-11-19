@@ -1,5 +1,39 @@
 [
   {
+    "id": "328950-20261118174000",
+    "inmateNumber": "328950",
+    "name": "DICKERSON, MARY ELIZABETH",
+    "bookedAt": "2026-11-18T17:40:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-11-18T17:40:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-18T17:40:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T21:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "43303-20261118140000",
     "inmateNumber": "43303",
     "name": "BINGISSER, KODY DEVIN",
@@ -21,7 +55,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-18T20:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "250568-20261118120000",
@@ -1502,12 +1538,12 @@
         "warrantNumber": "6A0229518"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T16:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T21:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "356973-20261113090000",
@@ -1992,12 +2028,12 @@
         "warrantNumber": "6A0429101"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T13:17:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T21:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "412816-20261111094700",
@@ -2276,12 +2312,12 @@
         "warrantNumber": "PA2600049"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T02:32:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T21:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "187013-20261109184000",
