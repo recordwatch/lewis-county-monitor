@@ -5,23 +5,25 @@
     "name": "SANDERS, MEGAN ELISABETH",
     "bookedAt": "2026-11-18T22:39:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
         "arrestDate": "2026-11-18T22:39:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0443633"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-19T02:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "257780-20261118223600",
@@ -29,7 +31,7 @@
     "name": "RICE, DARRIN NICHOLAS DAKOTA",
     "bookedAt": "2026-11-18T22:36:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -37,8 +39,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": null,
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
         "warrantNumber": "6A0443634"
       }
     ],
