@@ -425,7 +425,7 @@
     "name": "GASPAR-JUAN, JUAN DANIEL",
     "bookedAt": "2026-11-17T22:55:00",
     "arrestingAgency": "NAPA",
-    "bondTotal": null,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "RAPE CHILD 3RD",
@@ -433,8 +433,8 @@
         "arrestingAgency": "NAPA",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
         "warrantNumber": "2610061021"
       },
       {
