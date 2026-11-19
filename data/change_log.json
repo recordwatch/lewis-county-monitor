@@ -1,5 +1,29 @@
 [
   {
+    "id": "423679-20261118205000",
+    "inmateNumber": "423679",
+    "name": "CABALES, BRANDON",
+    "bookedAt": "2026-11-18T20:50:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-18T20:50:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "T00899631"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T23:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "99376-20261118202600",
     "inmateNumber": "99376",
     "name": "BEDORTHA, BRIAN ANDREW",
@@ -14542,12 +14566,12 @@
         "warrantNumber": "6A0398314"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "333-20261004124000",
@@ -17336,12 +17360,12 @@
         "warrantNumber": "5A0574023"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "218618-20260824150500",
