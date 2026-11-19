@@ -70,12 +70,12 @@
         "warrantNumber": "6A0443634"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T01:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "421871-20261118205700",
@@ -158,12 +158,12 @@
         "warrantNumber": "6A0075562"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T22:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CSO, TRIBAL TRANSFER",
+    "releaseSource": "official"
   },
   {
     "id": "410323-20261118191800",
@@ -246,12 +246,12 @@
         "warrantNumber": "6A0433581"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T22:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "43303-20261118140000",
@@ -1644,12 +1644,12 @@
         "warrantNumber": "6A0177816"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T04:17:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T10:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "EHM WA",
+    "releaseSource": "official"
   },
   {
     "id": "148121-20261113144500",
