@@ -5,27 +5,27 @@
     "name": "DICKERSON, MARY ELIZABETH",
     "bookedAt": "2026-11-18T17:40:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
         "arrestDate": "2026-11-18T17:40:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0433582"
       },
       {
         "description": "POSS of Controlled Substance",
         "arrestDate": "2026-11-18T17:40:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0433582"
       }
     ],
     "status": "in_custody",
