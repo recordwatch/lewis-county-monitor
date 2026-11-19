@@ -1,5 +1,29 @@
 [
   {
+    "id": "341020-20261118223900",
+    "inmateNumber": "341020",
+    "name": "SANDERS, MEGAN ELISABETH",
+    "bookedAt": "2026-11-18T22:39:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-11-18T22:39:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T02:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "257780-20261118223600",
     "inmateNumber": "257780",
     "name": "RICE, DARRIN NICHOLAS DAKOTA",
@@ -11,17 +35,19 @@
         "description": "CRIM TRESPASS 1ST",
         "arrestDate": "2026-11-18T22:36:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0443634"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-19T01:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "421871-20261118205700",
