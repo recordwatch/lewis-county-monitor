@@ -2856,12 +2856,12 @@
         "warrantNumber": "6A0239945"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T02:32:52",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T15:39:03",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "official"
   },
   {
     "id": "423425-20261107215600",
@@ -14053,8 +14053,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 100000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "2610053621"
       },
       {
@@ -14073,7 +14073,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610053621"
       }
