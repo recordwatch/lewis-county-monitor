@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T16:17:15",
+  "generatedAt": "2026-11-18T16:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 529,
-    "bookingsObserved": 380,
+    "bookingsTracked": 530,
+    "bookingsObserved": 381,
     "releasesObserved": 393,
-    "inCustody": 136,
+    "inCustody": 137,
     "uniquePeople": 488
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 2,
+      "booked": 3,
       "released": 10
     }
   ],
@@ -173,13 +173,13 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 53,
-      "pct": 4.7
+      "count": 54,
+      "pct": 4.8
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 52,
-      "pct": 4.6
+      "count": 53,
+      "pct": 4.7
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -239,7 +239,7 @@
     {
       "name": "DRUG COURT SANCTIONS",
       "count": 13,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "BURGLARY 2ND",
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 134,
-      "pct": 25.4,
+      "pct": 25.3,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 125,
-      "pct": 23.7,
+      "count": 126,
+      "pct": 23.8,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 105,
-      "pct": 19.9,
+      "pct": 19.8,
       "label": "Centralia Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 430,
-      "pct": 38.9,
+      "pct": 38.8,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 376,
-      "pct": 34,
+      "count": 377,
+      "pct": 34.1,
       "label": "Lewis County District Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "DOC",
       "count": 26,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -380,16 +380,16 @@
       "label": "OSC"
     },
     {
+      "name": "OMC",
+      "count": 2,
+      "pct": 0.2,
+      "label": "OMC"
+    },
+    {
       "name": "USM",
       "count": 2,
       "pct": 0.2,
       "label": "USM"
-    },
-    {
-      "name": "OMC",
-      "count": 1,
-      "pct": 0.1,
-      "label": "OMC"
     }
   ],
   "releasedTo": [
@@ -457,23 +457,23 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 319,
-      "pct": 28.7
+      "count": 321,
+      "pct": 28.8
     },
     {
       "name": "Included",
       "count": 221,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "Serving Time",
-      "count": 189,
-      "pct": 17
+      "count": 190,
+      "pct": 17.1
     },
     {
       "name": "No Bail",
-      "count": 139,
-      "pct": 12.5
+      "count": 138,
+      "pct": 12.4
     },
     {
       "name": "Released by Court",
@@ -546,15 +546,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 44.1,
+    "currentMedianDaysHeld": 44,
     "currentLongestDaysHeld": 802
   },
   "bond": {
-    "withBond": 92,
+    "withBond": 93,
     "noBond": 44,
-    "medianBond": 42500,
+    "medianBond": 35000,
     "maxBond": 3000000,
-    "totalBond": 19113200
+    "totalBond": 19118700
   },
   "chargesPerBooking": 2.1
 }

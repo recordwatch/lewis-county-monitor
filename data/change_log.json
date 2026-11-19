@@ -31,7 +31,7 @@
     "name": "LOPEZ HERNANDEZ, ERICK",
     "bookedAt": "2026-11-18T10:23:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 500,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE",
@@ -42,6 +42,16 @@
         "bondType": "Cash or Bond",
         "bondAmount": 500,
         "warrantNumber": "T00958968"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-18T10:23:00",
+        "arrestingAgency": "WASH",
+        "court": "OMC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 3000,
+        "warrantNumber": null
       }
     ],
     "status": "in_custody",
@@ -50,6 +60,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "60713-20261118094400",
+    "inmateNumber": "60713",
+    "name": "GOBLE, JAMIE DELRINE",
+    "bookedAt": "2026-11-18T09:44:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-18T09:44:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "6A0390640"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T16:32:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "75314-20261117234859",
@@ -3811,7 +3845,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610024621"
       }
