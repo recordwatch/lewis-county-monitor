@@ -5,31 +5,57 @@
     "name": "BEDORTHA, BRIAN ANDREW",
     "bookedAt": "2026-11-18T20:26:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "Camp or Camping at City Parks or City Property Prohibited 2nd Offense/FTA",
         "arrestDate": "2026-11-18T20:26:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "6A0155499"
       },
       {
         "description": "USE PARAPHERNALIA/FTA",
         "arrestDate": "2026-11-18T20:26:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 10000,
+        "warrantNumber": "6A0075562"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T22:17:16",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "410323-20261118191800",
+    "inmateNumber": "410323",
+    "name": "WALCHUK, SHAUN PATRICK",
+    "bookedAt": "2026-11-18T19:18:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-18T19:18:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "5A0599996 LCS CT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T22:32:17",
     "releasedAt": null,
     "baseline": false
   },
@@ -75,23 +101,25 @@
     "name": "CHOATE, JEREMY ALLEN",
     "bookedAt": "2026-11-18T17:40:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
         "arrestDate": "2026-11-18T17:40:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0433581"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T22:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "43303-20261118140000",
