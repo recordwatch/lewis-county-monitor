@@ -1,5 +1,39 @@
 [
   {
+    "id": "99376-20261118202600",
+    "inmateNumber": "99376",
+    "name": "BEDORTHA, BRIAN ANDREW",
+    "bookedAt": "2026-11-18T20:26:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Camp or Camping at City Parks or City Property Prohibited 2nd Offense/FTA",
+        "arrestDate": "2026-11-18T20:26:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-11-18T20:26:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T22:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "328950-20261118174000",
     "inmateNumber": "328950",
     "name": "DICKERSON, MARY ELIZABETH",
@@ -34,6 +68,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "222566-20261118174000",
+    "inmateNumber": "222566",
+    "name": "CHOATE, JEREMY ALLEN",
+    "bookedAt": "2026-11-18T17:40:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-11-18T17:40:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T22:17:16",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "43303-20261118140000",
