@@ -1,5 +1,29 @@
 [
   {
+    "id": "250568-20261118120000",
+    "inmateNumber": "250568",
+    "name": "SOFIANOS, DAVID LEE",
+    "bookedAt": "2026-11-18T12:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUGS-Possess w/intent to Manu/del meth",
+        "arrestDate": "2026-11-18T12:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Transferred to Prison",
+        "bondAmount": null,
+        "warrantNumber": "2510015321"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T19:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "404599-20261118103000",
     "inmateNumber": "404599",
     "name": "GRASSER, DEBORAH DEANNE",

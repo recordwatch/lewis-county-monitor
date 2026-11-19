@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T19:32:15",
+  "generatedAt": "2026-11-18T19:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 530,
-    "bookingsObserved": 381,
+    "bookingsTracked": 531,
+    "bookingsObserved": 382,
     "releasesObserved": 396,
-    "inCustody": 134,
-    "uniquePeople": 488
+    "inCustody": 135,
+    "uniquePeople": 489
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 3,
+      "booked": 4,
       "released": 13
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DUI",
       "count": 90,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 64,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -189,7 +189,7 @@
     {
       "name": "Drive w/o req ignition intrlck",
       "count": 30,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -271,8 +271,8 @@
     },
     {
       "name": "JAIL",
-      "count": 126,
-      "pct": 23.8,
+      "count": 127,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 430,
-      "pct": 38.8,
+      "count": 431,
+      "pct": 38.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 377,
-      "pct": 34.1,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -468,7 +468,7 @@
     {
       "name": "Serving Time",
       "count": 190,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "No Bail",
@@ -491,14 +491,14 @@
       "pct": 2
     },
     {
-      "name": "Appearance Bond",
+      "name": "Transferred to Prison",
       "count": 21,
       "pct": 1.9
     },
     {
-      "name": "Transferred to Prison",
-      "count": 20,
-      "pct": 1.8
+      "name": "Appearance Bond",
+      "count": 21,
+      "pct": 1.9
     },
     {
       "name": "Dismissed",
@@ -551,7 +551,7 @@
   },
   "bond": {
     "withBond": 90,
-    "noBond": 44,
+    "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19110200
