@@ -1,5 +1,49 @@
 [
   {
+    "id": "420307-20261119100600",
+    "inmateNumber": "420307",
+    "name": "PARK, DEVYN WILLIAM",
+    "bookedAt": "2026-11-19T10:06:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT OF A MOTOR VEHICLE",
+        "arrestDate": "2026-11-19T10:06:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "MAL MISCH 2ND/>750",
+        "arrestDate": "2026-11-19T10:06:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "THEFT 2ND DEG>250",
+        "arrestDate": "2026-11-19T10:06:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T12:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423683-20261119071600",
     "inmateNumber": "423683",
     "name": "GOODSON, NOAH BRANCH",
