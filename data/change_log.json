@@ -11,17 +11,19 @@
         "description": "DUI",
         "arrestDate": "2026-11-18T20:57:00",
         "arrestingAgency": "WINL",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0436361"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T23:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423679-20261118205000",

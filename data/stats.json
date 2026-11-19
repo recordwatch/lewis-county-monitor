@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:49:14",
+  "generatedAt": "2026-11-19T00:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 538,
@@ -9,11 +9,6 @@
     "uniquePeople": 494
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-20",
-      "booked": 9,
-      "released": 6
-    },
     {
       "date": "2026-10-21",
       "booked": 18,
@@ -158,6 +153,11 @@
       "date": "2026-11-18",
       "booked": 11,
       "released": 18
+    },
+    {
+      "date": "2026-11-19",
+      "booked": 0,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -334,7 +334,7 @@
     {
       "name": "LCD",
       "count": 380,
-      "pct": 34.1,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "WLM",
-      "count": 34,
-      "pct": 3,
+      "count": 35,
+      "pct": 3.1,
       "label": "Winlock Municipal Court"
     },
     {
@@ -458,7 +458,7 @@
     {
       "name": "Cash or Bond",
       "count": 323,
-      "pct": 28.8
+      "pct": 28.7
     },
     {
       "name": "Included",
@@ -472,7 +472,7 @@
     },
     {
       "name": "No Bail",
-      "count": 140,
+      "count": 141,
       "pct": 12.5
     },
     {
