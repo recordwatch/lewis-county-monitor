@@ -1,5 +1,29 @@
 [
   {
+    "id": "257780-20261118223600",
+    "inmateNumber": "257780",
+    "name": "RICE, DARRIN NICHOLAS DAKOTA",
+    "bookedAt": "2026-11-18T22:36:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-11-18T22:36:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T01:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "421871-20261118205700",
     "inmateNumber": "421871",
     "name": "FINDLEY, TYLER MICHAEL",
@@ -191,7 +215,7 @@
         "billingAgency": "LC",
         "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "26CR82206"
+        "warrantNumber": "6A0217538"
       }
     ],
     "status": "in_custody",
