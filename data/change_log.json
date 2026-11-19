@@ -13,7 +13,7 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "T00899631"
       }
@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-18T23:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "99376-20261118202600",
@@ -254,12 +256,12 @@
         "warrantNumber": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T14:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T23:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "60713-20261118094400",
@@ -10994,12 +10996,12 @@
         "warrantNumber": "6A0383028"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T00:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T23:13:10",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "64122-20261016113700",
