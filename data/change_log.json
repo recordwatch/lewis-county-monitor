@@ -2991,8 +2991,8 @@
         "arrestingAgency": "CHEH",
         "court": "CSM",
         "billingAgency": "CHEH",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "CR30161"
       }
     ],
