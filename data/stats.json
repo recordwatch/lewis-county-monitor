@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:17:14",
+  "generatedAt": "2026-11-19T19:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 545,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 94,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 434,
-      "pct": 38.5,
+      "pct": 38.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 382,
-      "pct": 33.9,
+      "pct": 33.8,
       "label": "Lewis County District Court"
     },
     {
@@ -362,16 +362,16 @@
       "label": "Dept. of Corrections"
     },
     {
+      "name": "NMC",
+      "count": 16,
+      "pct": 1.4,
+      "label": "Napavine Municipal Court"
+    },
+    {
       "name": "ODC",
       "count": 16,
       "pct": 1.4,
       "label": "ODC"
-    },
-    {
-      "name": "NMC",
-      "count": 15,
-      "pct": 1.3,
-      "label": "Napavine Municipal Court"
     },
     {
       "name": "OSC",

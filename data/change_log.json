@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-19T19:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "267098-20261119155540",
@@ -40,12 +42,24 @@
         "bondType": "Cash or Bond",
         "bondAmount": 2500,
         "warrantNumber": "5A0464250"
+      },
+      {
+        "description": "ASSAULT 4TH DV/FTA",
+        "arrestDate": "2026-11-19T15:55:40",
+        "arrestingAgency": "NAPA",
+        "court": "NMC",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "5A0949482"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-19T19:17:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "99376-20261119121800",
