@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T02:32:14",
+  "generatedAt": "2026-11-20T02:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 551,
-    "bookingsObserved": 402,
+    "bookingsTracked": 552,
+    "bookingsObserved": 403,
     "releasesObserved": 416,
-    "inCustody": 135,
-    "uniquePeople": 506
+    "inCustody": 136,
+    "uniquePeople": 507
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 11,
+      "booked": 12,
       "released": 13
     },
     {
@@ -183,8 +183,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
-      "count": 50,
-      "pct": 4.3
+      "count": 51,
+      "pct": 4.4
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -283,14 +283,14 @@
     },
     {
       "name": "WASH",
-      "count": 70,
-      "pct": 12.7,
+      "count": 71,
+      "pct": 12.9,
       "label": "Washington State Patrol"
     },
     {
       "name": "CHEH",
       "count": 63,
-      "pct": 11.5,
+      "pct": 11.4,
       "label": "Chehalis Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 439,
-      "pct": 38.5,
+      "pct": 38.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 386,
-      "pct": 33.9,
+      "count": 388,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "CSM",
       "count": 85,
-      "pct": 7.5,
+      "pct": 7.4,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 149,
-      "pct": 13
+      "count": 151,
+      "pct": 13.1
     },
     {
       "name": "Released by Court",
@@ -546,12 +546,12 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 43.4,
+    "currentMedianDaysHeld": 43,
     "currentLongestDaysHeld": 803.4
   },
   "bond": {
     "withBond": 88,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19102200

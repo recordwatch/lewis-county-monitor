@@ -1,5 +1,29 @@
 [
   {
+    "id": "201419-20261119225500",
+    "inmateNumber": "201419",
+    "name": "FITZGERALD, KENNETH GEORGE",
+    "bookedAt": "2026-11-19T22:55:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-19T22:55:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "NAPA",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "3A0487343"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T02:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "289689-20261119210400",
     "inmateNumber": "289689",
     "name": "PIRTLE, JOHNTAH I",
@@ -11,17 +35,19 @@
         "description": "Protection Order Violation",
         "arrestDate": "2026-11-19T21:04:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0306934"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T02:32:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "91746-20261119180500",
