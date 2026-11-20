@@ -165,7 +165,7 @@
     "name": "AMOS, MARY GALE",
     "bookedAt": "2026-11-19T16:05:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "Assault 4th Degree",
@@ -173,8 +173,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "6A0441085"
       }
     ],
@@ -391,7 +391,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610061321"
       },
       {
         "description": "MAL MISCH 2ND/>750",
@@ -9195,8 +9195,8 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500000,
+        "bondType": "Amended",
+        "bondAmount": null,
         "warrantNumber": "2610057021"
       },
       {
@@ -9205,7 +9205,7 @@
         "arrestingAgency": "CHEH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "2610057021"
       },
