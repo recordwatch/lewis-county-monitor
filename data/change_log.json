@@ -1,5 +1,29 @@
 [
   {
+    "id": "289689-20261119210400",
+    "inmateNumber": "289689",
+    "name": "PIRTLE, JOHNTAH I",
+    "bookedAt": "2026-11-19T21:04:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-11-19T21:04:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T02:32:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "91746-20261119180500",
     "inmateNumber": "91746",
     "name": "LANE, TERI ELIZABETH",
@@ -51,7 +75,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-20T02:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423716-20261119174400",

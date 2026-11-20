@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T02:17:16",
+  "generatedAt": "2026-11-20T02:32:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 550,
-    "bookingsObserved": 401,
+    "bookingsTracked": 551,
+    "bookingsObserved": 402,
     "releasesObserved": 416,
-    "inCustody": 134,
-    "uniquePeople": 505
+    "inCustody": 135,
+    "uniquePeople": 506
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 10,
+      "booked": 11,
       "released": 13
     },
     {
@@ -164,12 +164,12 @@
     {
       "name": "DUI",
       "count": 95,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "DWLS 3RD DEGREE",
       "count": 67,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -202,12 +202,12 @@
       "pct": 2.3
     },
     {
-      "name": "ASSAULT 4TH DEGREE/DV",
-      "count": 22,
-      "pct": 1.9
+      "name": "Protection Order Violation",
+      "count": 23,
+      "pct": 2
     },
     {
-      "name": "Protection Order Violation",
+      "name": "ASSAULT 4TH DEGREE/DV",
       "count": 22,
       "pct": 1.9
     },
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 134,
-      "pct": 24.4,
+      "count": 135,
+      "pct": 24.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 130,
-      "pct": 23.7,
+      "pct": 23.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 114,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "Centralia Police"
     },
     {
       "name": "WASH",
       "count": 70,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Washington State Patrol"
     },
     {
@@ -551,7 +551,7 @@
   },
   "bond": {
     "withBond": 88,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19102200
