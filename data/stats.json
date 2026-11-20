@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T14:49:15",
+  "generatedAt": "2026-11-20T15:17:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 553,
     "bookingsObserved": 404,
-    "releasesObserved": 420,
-    "inCustody": 133,
+    "releasesObserved": 421,
+    "inCustody": 132,
     "uniquePeople": 508
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-20",
       "booked": 1,
-      "released": 6
+      "released": 7
     }
   ],
   "topCharges": [
@@ -168,13 +168,13 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 67,
-      "pct": 5.7
+      "count": 68,
+      "pct": 5.8
     },
     {
       "name": "POSS of Controlled Substance",
-      "count": 55,
-      "pct": 4.7
+      "count": 56,
+      "pct": 4.8
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -184,7 +184,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 51,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 441,
-      "pct": 38.5,
+      "count": 444,
+      "pct": 38.7,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 389,
-      "pct": 34,
+      "pct": 33.9,
       "label": "Lewis County District Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "WLM",
       "count": 35,
-      "pct": 3.1,
+      "pct": 3,
       "label": "Winlock Municipal Court"
     },
     {
@@ -395,8 +395,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 313,
-      "pct": 76.7
+      "count": 314,
+      "pct": 76.8
     },
     {
       "name": "DOC",
@@ -458,12 +458,12 @@
     {
       "name": "Cash or Bond",
       "count": 333,
-      "pct": 28.9
+      "pct": 28.8
     },
     {
       "name": "Included",
       "count": 222,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "Serving Time",
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 150,
-      "pct": 13
+      "count": 151,
+      "pct": 13.1
     },
     {
       "name": "Released by Court",
@@ -487,8 +487,8 @@
     },
     {
       "name": "Amended",
-      "count": 23,
-      "pct": 2
+      "count": 25,
+      "pct": 2.2
     },
     {
       "name": "Released Time Served",
@@ -517,13 +517,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 416,
+    "releasedCount": 417,
     "medianDays": 2.2,
     "meanDays": 12.8,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 111
+        "count": 112
       },
       {
         "label": "1–3 days",
@@ -546,15 +546,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 43.9,
+    "currentMedianDaysHeld": 44,
     "currentLongestDaysHeld": 803.9
   },
   "bond": {
-    "withBond": 88,
+    "withBond": 87,
     "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19105800
+    "totalBond": 19104200
   },
   "chargesPerBooking": 2.1
 }

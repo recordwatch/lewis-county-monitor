@@ -18,12 +18,12 @@
         "warrantNumber": "6A0258473"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-20T11:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "201419-20261119225500",
@@ -394,7 +394,7 @@
         "warrantNumber": "2610061321"
       },
       {
-        "description": "THEFT OF A MOTOR VEHICLE",
+        "description": "POSS of Controlled Substance",
         "arrestDate": "2026-11-19T10:06:00",
         "arrestingAgency": "CENT",
         "court": "SUP",
@@ -404,12 +404,42 @@
         "warrantNumber": "2610061321"
       },
       {
-        "description": "MAL MISCH 2ND/>750",
+        "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-11-19T10:06:00",
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610061321"
+      },
+      {
+        "description": "HIT RUN UNATTENDED PROPERTY",
+        "arrestDate": "2026-11-19T10:06:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610061321"
+      },
+      {
+        "description": "THEFT OF A MOTOR VEHICLE",
+        "arrestDate": "2026-11-19T10:06:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Amended",
+        "bondAmount": null,
+        "warrantNumber": "2610061321"
+      },
+      {
+        "description": "MAL MISCH 2ND/>750",
+        "arrestDate": "2026-11-19T10:06:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Amended",
         "bondAmount": null,
         "warrantNumber": "2610061321"
       },
