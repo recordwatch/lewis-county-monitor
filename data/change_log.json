@@ -62,6 +62,30 @@
     "releaseSource": null
   },
   {
+    "id": "197061-20261119135600",
+    "inmateNumber": "197061",
+    "name": "PARKER, ANGELICA JUSTINE",
+    "bookedAt": "2026-11-19T13:56:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DV",
+        "arrestDate": "2026-11-19T13:56:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T20:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "99376-20261119121800",
     "inmateNumber": "99376",
     "name": "BEDORTHA, BRIAN ANDREW",
