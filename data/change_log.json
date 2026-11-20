@@ -1,5 +1,59 @@
 [
   {
+    "id": "91746-20261119180500",
+    "inmateNumber": "91746",
+    "name": "LANE, TERI ELIZABETH",
+    "bookedAt": "2026-11-19T18:05:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-19T18:05:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00958973"
+      },
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-19T18:05:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00958973"
+      },
+      {
+        "description": "POSS of Controlled Substance",
+        "arrestDate": "2026-11-19T18:05:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T00958975"
+      },
+      {
+        "description": "USE PARAPHERNALIA",
+        "arrestDate": "2026-11-19T18:05:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00958975"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T02:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423716-20261119174400",
     "inmateNumber": "423716",
     "name": "SYLVESTER, CAMERON PAUL",

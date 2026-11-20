@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T01:49:20",
+  "generatedAt": "2026-11-20T02:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 549,
-    "bookingsObserved": 400,
+    "bookingsTracked": 550,
+    "bookingsObserved": 401,
     "releasesObserved": 416,
-    "inCustody": 133,
-    "uniquePeople": 504
+    "inCustody": 134,
+    "uniquePeople": 505
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 9,
+      "booked": 10,
       "released": 13
     },
     {
@@ -163,22 +163,22 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 94,
-      "pct": 8.1
+      "count": 95,
+      "pct": 8.2
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 66,
-      "pct": 5.7
+      "count": 67,
+      "pct": 5.8
     },
     {
-      "name": "OTHER AGENCY HOLD",
+      "name": "POSS of Controlled Substance",
       "count": 55,
       "pct": 4.7
     },
     {
-      "name": "POSS of Controlled Substance",
-      "count": 54,
+      "name": "OTHER AGENCY HOLD",
+      "count": 55,
       "pct": 4.7
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "ASSAULT 4TH DV",
       "count": 18,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,7 +266,7 @@
     {
       "name": "LCSO",
       "count": 134,
-      "pct": 24.5,
+      "pct": 24.4,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "WASH",
-      "count": 69,
-      "pct": 12.6,
+      "count": 70,
+      "pct": 12.8,
       "label": "Washington State Patrol"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 439,
-      "pct": 38.6,
+      "pct": 38.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 382,
-      "pct": 33.6,
+      "count": 386,
+      "pct": 33.9,
       "label": "Lewis County District Court"
     },
     {
@@ -457,23 +457,23 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 331,
-      "pct": 29
+      "count": 334,
+      "pct": 29.1
     },
     {
       "name": "Included",
       "count": 223,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "Serving Time",
       "count": 192,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "No Bail",
-      "count": 148,
-      "pct": 12.9
+      "count": 149,
+      "pct": 13
     },
     {
       "name": "Released by Court",
@@ -546,15 +546,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 43.5,
+    "currentMedianDaysHeld": 43.4,
     "currentLongestDaysHeld": 803.4
   },
   "bond": {
-    "withBond": 87,
+    "withBond": 88,
     "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19100200
+    "totalBond": 19102200
   },
   "chargesPerBooking": 2.1
 }
