@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T22:32:15",
+  "generatedAt": "2026-11-19T22:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 547,
-    "bookingsObserved": 398,
+    "bookingsTracked": 548,
+    "bookingsObserved": 399,
     "releasesObserved": 414,
-    "inCustody": 133,
-    "uniquePeople": 502
+    "inCustody": 134,
+    "uniquePeople": 503
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 7,
+      "booked": 8,
       "released": 13
     }
   ],
@@ -277,8 +277,8 @@
     },
     {
       "name": "CENT",
-      "count": 113,
-      "pct": 20.7,
+      "count": 114,
+      "pct": 20.8,
       "label": "Centralia Police"
     },
     {
@@ -362,16 +362,16 @@
       "label": "Dept. of Corrections"
     },
     {
+      "name": "ODC",
+      "count": 17,
+      "pct": 1.5,
+      "label": "ODC"
+    },
+    {
       "name": "NMC",
       "count": 16,
       "pct": 1.4,
       "label": "Napavine Municipal Court"
-    },
-    {
-      "name": "ODC",
-      "count": 16,
-      "pct": 1.4,
-      "label": "ODC"
     },
     {
       "name": "OSC",
@@ -457,7 +457,7 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 329,
+      "count": 330,
       "pct": 28.9
     },
     {
@@ -468,7 +468,7 @@
     {
       "name": "Serving Time",
       "count": 192,
-      "pct": 16.9
+      "pct": 16.8
     },
     {
       "name": "No Bail",
@@ -546,15 +546,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 44.9,
+    "currentMedianDaysHeld": 44.1,
     "currentLongestDaysHeld": 803.3
   },
   "bond": {
-    "withBond": 86,
+    "withBond": 87,
     "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19098200
+    "totalBond": 19100200
   },
   "chargesPerBooking": 2.1
 }

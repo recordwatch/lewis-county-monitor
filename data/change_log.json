@@ -26,6 +26,30 @@
     "releaseSource": "official"
   },
   {
+    "id": "351780-20261119160500",
+    "inmateNumber": "351780",
+    "name": "AMOS, MARY GALE",
+    "bookedAt": "2026-11-19T16:05:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Assault 4th Degree",
+        "arrestDate": "2026-11-19T16:05:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T22:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "267098-20261119155540",
     "inmateNumber": "267098",
     "name": "VONPRESSENTIN, DYLAN ZACHARY",
@@ -93,7 +117,7 @@
     "name": "OLSON, SARAH ANN",
     "bookedAt": "2026-11-19T12:30:00",
     "arrestingAgency": "JAIL",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "ID Theft II/FTA",
@@ -114,6 +138,16 @@
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "2510036621"
+      },
+      {
+        "description": "Protection Order Vio Res/Wrkpl/Daycare",
+        "arrestDate": "2026-11-19T12:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "4A0083535"
       }
     ],
     "status": "in_custody",
