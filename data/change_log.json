@@ -5,17 +5,17 @@
     "name": "CLAY, ALLAN DANIEL",
     "bookedAt": "2026-11-20T10:15:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 1600,
     "charges": [
       {
         "description": "MAL MISCH 3RD/>50.FTA",
         "arrestDate": "2026-11-20T10:15:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1600,
+        "warrantNumber": "6A0258473"
       }
     ],
     "status": "in_custody",
