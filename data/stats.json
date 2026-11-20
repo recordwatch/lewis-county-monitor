@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T18:49:18",
+  "generatedAt": "2026-11-19T19:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 543,
-    "bookingsObserved": 394,
-    "releasesObserved": 410,
-    "inCustody": 133,
-    "uniquePeople": 498
+    "bookingsTracked": 545,
+    "bookingsObserved": 396,
+    "releasesObserved": 413,
+    "inCustody": 132,
+    "uniquePeople": 500
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 3,
-      "released": 9
+      "booked": 5,
+      "released": 12
     }
   ],
   "topCharges": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 65,
-      "pct": 5.6
+      "count": 66,
+      "pct": 5.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -214,12 +214,12 @@
     {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 19,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "RESISTING ARREST",
       "count": 19,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -266,25 +266,25 @@
     {
       "name": "LCSO",
       "count": 134,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
       "count": 129,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 112,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "Centralia Police"
     },
     {
       "name": "WASH",
-      "count": 68,
-      "pct": 12.5,
+      "count": 69,
+      "pct": 12.7,
       "label": "Washington State Patrol"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WINL",
       "count": 16,
-      "pct": 3,
+      "pct": 2.9,
       "label": "Winlock Police"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "NAPA",
-      "count": 3,
-      "pct": 0.6,
+      "count": 4,
+      "pct": 0.7,
       "label": "Napavine Police"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 381,
-      "pct": 33.8,
+      "count": 382,
+      "pct": 33.9,
       "label": "Lewis County District Court"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "NMC",
-      "count": 14,
-      "pct": 1.2,
+      "count": 15,
+      "pct": 1.3,
       "label": "Napavine Municipal Court"
     },
     {
@@ -395,18 +395,18 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 306,
-      "pct": 76.9
+      "count": 309,
+      "pct": 77.1
     },
     {
       "name": "DOC",
       "count": 13,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "FRIENDSHIP DIVERSON",
       "count": 9,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "ABHS",
@@ -416,7 +416,7 @@
     {
       "name": "WCC",
       "count": 7,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DOC RELOCATE",
@@ -426,17 +426,17 @@
     {
       "name": "THURSTON COUNTY JAIL",
       "count": 3,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "name": "CHAIN TO PRISON",
       "count": 3,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "name": "FRIENDSHIP",
       "count": 3,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "name": "RELAY TO THURSTON",
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 326,
-      "pct": 28.8
+      "count": 328,
+      "pct": 28.9
     },
     {
       "name": "Included",
@@ -517,13 +517,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 406,
-    "medianDays": 2.2,
-    "meanDays": 12.2,
+    "releasedCount": 409,
+    "medianDays": 2.3,
+    "meanDays": 12.1,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 107
+        "count": 108
       },
       {
         "label": "1–3 days",
@@ -531,11 +531,11 @@
       },
       {
         "label": "3–7 days",
-        "count": 48
+        "count": 49
       },
       {
         "label": "1–4 weeks",
-        "count": 77
+        "count": 78
       },
       {
         "label": "1–3 months",
@@ -546,15 +546,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 44.7,
+    "currentMedianDaysHeld": 44.9,
     "currentLongestDaysHeld": 803.1
   },
   "bond": {
-    "withBond": 86,
-    "noBond": 47,
+    "withBond": 87,
+    "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19103200
+    "totalBond": 19096200
   },
   "chargesPerBooking": 2.1
 }

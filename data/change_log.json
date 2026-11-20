@@ -1,5 +1,53 @@
 [
   {
+    "id": "423716-20261119174400",
+    "inmateNumber": "423716",
+    "name": "SYLVESTER, CAMERON PAUL",
+    "bookedAt": "2026-11-19T17:44:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-19T17:44:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T00991600"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T19:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "267098-20261119155540",
+    "inmateNumber": "267098",
+    "name": "VONPRESSENTIN, DYLAN ZACHARY",
+    "bookedAt": "2026-11-19T15:55:40",
+    "arrestingAgency": "NAPA",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV/FTA",
+        "arrestDate": "2026-11-19T15:55:40",
+        "arrestingAgency": "NAPA",
+        "court": "NMC",
+        "billingAgency": "NAPA",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
+        "warrantNumber": "5A0464250"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T19:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "99376-20261119121800",
     "inmateNumber": "99376",
     "name": "BEDORTHA, BRIAN ANDREW",
@@ -214,12 +262,12 @@
         "warrantNumber": "T00899631"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T23:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "99376-20261118202600",
@@ -1876,12 +1924,12 @@
         "warrantNumber": "2610002721"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T11:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "194091-20261113090000",
@@ -6502,12 +6550,12 @@
         "warrantNumber": "6A0309106"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T22:17:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "292635-20261029141300",
