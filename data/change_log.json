@@ -31,7 +31,7 @@
     "name": "VONPRESSENTIN, DYLAN ZACHARY",
     "bookedAt": "2026-11-19T15:55:40",
     "arrestingAgency": "NAPA",
-    "bondTotal": 2500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ASSAULT 4TH DV/FTA",
@@ -48,9 +48,9 @@
         "arrestDate": "2026-11-19T15:55:40",
         "arrestingAgency": "NAPA",
         "court": "NMC",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
+        "billingAgency": "NAPA",
+        "bondType": "Cash or Bond",
+        "bondAmount": 2500,
         "warrantNumber": "5A0949482"
       }
     ],
