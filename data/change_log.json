@@ -5,7 +5,7 @@
     "name": "BEDORTHA, BRIAN ANDREW",
     "bookedAt": "2026-11-19T12:18:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "Camp or Camping at City Parks or City Property Prohibited 2nd Offense/FTA",
@@ -14,7 +14,7 @@
         "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "Appearance Bond",
-        "bondAmount": null,
+        "bondAmount": 10000,
         "warrantNumber": "6A0155499"
       },
       {
@@ -24,7 +24,7 @@
         "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "Appearance Bond",
-        "bondAmount": null,
+        "bondAmount": 10000,
         "warrantNumber": "6A0075562"
       },
       {
@@ -41,7 +41,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-19T17:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "420307-20261119100600",
