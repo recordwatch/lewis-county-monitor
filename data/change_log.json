@@ -88,6 +88,40 @@
     "releaseSource": null
   },
   {
+    "id": "409499-20261119123000",
+    "inmateNumber": "409499",
+    "name": "OLSON, SARAH ANN",
+    "bookedAt": "2026-11-19T12:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ID Theft II/FTA",
+        "arrestDate": "2026-11-19T12:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510036621"
+      },
+      {
+        "description": "PSP2/FTA",
+        "arrestDate": "2026-11-19T12:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2510036621"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T22:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "99376-20261119121800",
     "inmateNumber": "99376",
     "name": "BEDORTHA, BRIAN ANDREW",
