@@ -1,5 +1,49 @@
 [
   {
+    "id": "99376-20261119121800",
+    "inmateNumber": "99376",
+    "name": "BEDORTHA, BRIAN ANDREW",
+    "bookedAt": "2026-11-19T12:18:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Camp or Camping at City Parks or City Property Prohibited 2nd Offense/FTA",
+        "arrestDate": "2026-11-19T12:18:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": null,
+        "warrantNumber": "6A0155499"
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-11-19T12:18:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": null,
+        "warrantNumber": "6A0075562"
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-11-19T12:18:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0075562"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T17:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "420307-20261119100600",
     "inmateNumber": "420307",
     "name": "PARK, DEVYN WILLIAM",
