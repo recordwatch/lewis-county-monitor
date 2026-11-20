@@ -1727,8 +1727,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "2610060321"
       }
     ],
