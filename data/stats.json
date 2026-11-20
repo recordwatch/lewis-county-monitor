@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T22:49:14",
+  "generatedAt": "2026-11-19T23:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 548,
     "bookingsObserved": 399,
-    "releasesObserved": 414,
-    "inCustody": 134,
+    "releasesObserved": 416,
+    "inCustody": 132,
     "uniquePeople": 503
   },
   "bookingsByDay": [
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 437,
-      "pct": 38.6,
+      "pct": 38.5,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "CNM",
-      "count": 123,
+      "count": 124,
       "pct": 10.9,
       "label": "Centralia Municipal Court"
     },
@@ -396,7 +396,7 @@
     {
       "name": "SELF",
       "count": 310,
-      "pct": 77.1
+      "pct": 76.7
     },
     {
       "name": "DOC",
@@ -419,17 +419,17 @@
       "pct": 1.7
     },
     {
+      "name": "CHAIN TO PRISON",
+      "count": 5,
+      "pct": 1.2
+    },
+    {
       "name": "DOC RELOCATE",
       "count": 4,
       "pct": 1
     },
     {
       "name": "THURSTON COUNTY JAIL",
-      "count": 3,
-      "pct": 0.7
-    },
-    {
-      "name": "CHAIN TO PRISON",
       "count": 3,
       "pct": 0.7
     },
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 147,
-      "pct": 12.9
+      "count": 148,
+      "pct": 13
     },
     {
       "name": "Released by Court",
@@ -517,9 +517,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 410,
+    "releasedCount": 412,
     "medianDays": 2.2,
-    "meanDays": 12.1,
+    "meanDays": 12.3,
     "buckets": [
       {
         "label": "< 1 day",
@@ -527,7 +527,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 130
+        "count": 131
       },
       {
         "label": "3–7 days",
@@ -543,18 +543,18 @@
       },
       {
         "label": "3+ months",
-        "count": 9
+        "count": 10
       }
     ],
     "currentMedianDaysHeld": 44.1,
     "currentLongestDaysHeld": 803.3
   },
   "bond": {
-    "withBond": 87,
-    "noBond": 47,
+    "withBond": 86,
+    "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19100200
+    "totalBond": 19090200
   },
   "chargesPerBooking": 2.1
 }

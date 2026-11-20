@@ -37,17 +37,19 @@
         "description": "Assault 4th Degree",
         "arrestDate": "2026-11-19T16:05:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0441085"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-19T22:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "267098-20261119155540",
@@ -548,12 +550,12 @@
         "warrantNumber": "2510015321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T19:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CHAIN TO PRISON",
+    "releaseSource": "official"
   },
   {
     "id": "404599-20261118103000",
@@ -17910,12 +17912,12 @@
         "warrantNumber": "2610045421"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T08:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CHAIN TO PRISON",
+    "releaseSource": "official"
   },
   {
     "id": "346443-20260820211700",
