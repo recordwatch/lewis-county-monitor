@@ -1,5 +1,29 @@
 [
   {
+    "id": "396833-20261120101500",
+    "inmateNumber": "396833",
+    "name": "CLAY, ALLAN DANIEL",
+    "bookedAt": "2026-11-20T10:15:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD/>50.FTA",
+        "arrestDate": "2026-11-20T10:15:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T11:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "201419-20261119225500",
     "inmateNumber": "201419",
     "name": "FITZGERALD, KENNETH GEORGE",
