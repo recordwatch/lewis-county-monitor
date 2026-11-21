@@ -5,7 +5,7 @@
     "name": "DAHLEN, RUSSELL DAVID",
     "bookedAt": "2026-11-20T19:51:00",
     "arrestingAgency": "CHEH",
-    "bondTotal": 1000,
+    "bondTotal": 1550,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -16,6 +16,26 @@
         "bondType": "Cash or Bond",
         "bondAmount": 1000,
         "warrantNumber": "6A0439198"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-20T19:51:00",
+        "arrestingAgency": "CHEH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 550,
+        "warrantNumber": "6A0085163"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-20T19:51:00",
+        "arrestingAgency": "CHEH",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "P00011881"
       }
     ],
     "status": "in_custody",
