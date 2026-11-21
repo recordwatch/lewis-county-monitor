@@ -52,6 +52,30 @@
     "releaseSource": null
   },
   {
+    "id": "417183-20261120190800",
+    "inmateNumber": "417183",
+    "name": "CLOUD, MEGAN ELIZABETH ANN",
+    "bookedAt": "2026-11-20T19:08:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-20T19:08:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "t00701676"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T00:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "16640-20261120181500",
     "inmateNumber": "16640",
     "name": "SELLARDS, NICHOLE ROXANNE",
