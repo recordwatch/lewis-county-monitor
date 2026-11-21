@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T22:17:14",
+  "generatedAt": "2026-11-20T22:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 555,
-    "bookingsObserved": 406,
+    "bookingsTracked": 556,
+    "bookingsObserved": 407,
     "releasesObserved": 426,
-    "inCustody": 129,
-    "uniquePeople": 510
+    "inCustody": 130,
+    "uniquePeople": 511
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 3,
+      "booked": 4,
       "released": 12
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 70,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "POSS of Controlled Substance",
@@ -194,12 +194,12 @@
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 30,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 27,
-      "pct": 2.3
+      "count": 28,
+      "pct": 2.4
     },
     {
       "name": "Protection Order Violation",
@@ -277,8 +277,8 @@
     },
     {
       "name": "CENT",
-      "count": 114,
-      "pct": 20.6,
+      "count": 115,
+      "pct": 20.7,
       "label": "Centralia Police"
     },
     {
@@ -546,12 +546,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 45.9,
-    "currentLongestDaysHeld": 804.2
+    "currentMedianDaysHeld": 45.1,
+    "currentLongestDaysHeld": 804.3
   },
   "bond": {
     "withBond": 88,
-    "noBond": 41,
+    "noBond": 42,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19139200
