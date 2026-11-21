@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T03:32:16",
+  "generatedAt": "2026-11-21T03:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 562,
-    "bookingsObserved": 413,
+    "bookingsTracked": 563,
+    "bookingsObserved": 414,
     "releasesObserved": 426,
-    "inCustody": 136,
-    "uniquePeople": 516
+    "inCustody": 137,
+    "uniquePeople": 517
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 9,
+      "booked": 10,
       "released": 12
     },
     {
@@ -212,6 +212,11 @@
       "pct": 1.9
     },
     {
+      "name": "ASSAULT 4TH DV",
+      "count": 19,
+      "pct": 1.6
+    },
+    {
       "name": "OBSTRUCTING A LAW ENFORCE OFCR",
       "count": 19,
       "pct": 1.6
@@ -220,11 +225,6 @@
       "name": "RESISTING ARREST",
       "count": 19,
       "pct": 1.6
-    },
-    {
-      "name": "ASSAULT 4TH DV",
-      "count": 18,
-      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 137,
-      "pct": 24.4,
+      "count": 138,
+      "pct": 24.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 117,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "Centralia Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WINL",
       "count": 16,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Winlock Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 445,
+      "count": 446,
       "pct": 38.4,
       "label": "Lewis County Superior Court"
     },
@@ -546,12 +546,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 43.1,
+    "currentMedianDaysHeld": 42.7,
     "currentLongestDaysHeld": 804.5
   },
   "bond": {
     "withBond": 90,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19141750

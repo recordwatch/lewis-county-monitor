@@ -11,17 +11,19 @@
         "description": "ASSAULT 2(Deadly weapon)",
         "arrestDate": "2026-11-21T00:05:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "26A13820"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-21T03:32:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423748-20261120225200",
@@ -48,6 +50,40 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "419959-20261120224000",
+    "inmateNumber": "419959",
+    "name": "HANSEN, DAVID ALEC",
+    "bookedAt": "2026-11-20T22:40:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND/>750",
+        "arrestDate": "2026-11-20T22:40:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-20T22:40:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T03:49:15",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "422288-20261120195100",
