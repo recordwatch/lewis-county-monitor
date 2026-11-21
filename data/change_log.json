@@ -471,7 +471,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610061321"
       },
@@ -481,7 +481,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610061321"
       },
@@ -493,7 +493,7 @@
         "billingAgency": "LCSC",
         "bondType": "Amended",
         "bondAmount": null,
-        "warrantNumber": "2610061321"
+        "warrantNumber": "DTP"
       },
       {
         "description": "MAL MISCH 2ND/>750",
@@ -503,7 +503,7 @@
         "billingAgency": "LCSC",
         "bondType": "Amended",
         "bondAmount": null,
-        "warrantNumber": "2610061321"
+        "warrantNumber": "DTP"
       },
       {
         "description": "THEFT 2ND DEG>250",
