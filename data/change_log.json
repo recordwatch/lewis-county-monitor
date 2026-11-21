@@ -289,7 +289,7 @@
     "name": "PARKER, ANGELICA JUSTINE",
     "bookedAt": "2026-11-19T13:56:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "ASSAULT 2ND DV",
@@ -297,9 +297,9 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
-        "warrantNumber": "26100614"
+        "bondType": "Cash or Bond",
+        "bondAmount": 15000,
+        "warrantNumber": "2610061421"
       }
     ],
     "status": "in_custody",
@@ -443,7 +443,7 @@
     "name": "PARK, DEVYN WILLIAM",
     "bookedAt": "2026-11-19T10:06:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "THEFT 1ST DEG>1500",
@@ -451,7 +451,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610061321"
       },
@@ -461,7 +461,7 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610061321"
       },
@@ -511,8 +511,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
         "warrantNumber": "2610061321"
       }
     ],
@@ -708,12 +708,12 @@
         "warrantNumber": "5A0599996"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T22:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T20:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "328950-20261118174000",
