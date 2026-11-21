@@ -1,27 +1,53 @@
 [
   {
+    "id": "121758-20261120191200",
+    "inmateNumber": "121758",
+    "name": "PURDY, ELDON JAMES",
+    "bookedAt": "2026-11-20T19:12:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND",
+        "arrestDate": "2026-11-20T19:12:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T22:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "16640-20261120181500",
     "inmateNumber": "16640",
     "name": "SELLARDS, NICHOLE ROXANNE",
     "bookedAt": "2026-11-20T18:15:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
         "arrestDate": "2026-11-20T18:15:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0423017"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T22:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423735-20261120150000",

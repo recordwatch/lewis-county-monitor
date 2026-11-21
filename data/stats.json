@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T22:32:15",
+  "generatedAt": "2026-11-20T22:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 556,
-    "bookingsObserved": 407,
+    "bookingsTracked": 557,
+    "bookingsObserved": 408,
     "releasesObserved": 426,
-    "inCustody": 130,
-    "uniquePeople": 511
+    "inCustody": 131,
+    "uniquePeople": 512
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 4,
+      "booked": 5,
       "released": 12
     }
   ],
@@ -272,13 +272,13 @@
     {
       "name": "JAIL",
       "count": 132,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 115,
-      "pct": 20.7,
+      "count": 116,
+      "pct": 20.9,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "CHEH",
       "count": 63,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "Chehalis Police"
     },
     {
@@ -327,19 +327,19 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 444,
+      "count": 445,
       "pct": 38.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 392,
-      "pct": 34.1,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 124,
+      "count": 125,
       "pct": 10.8,
       "label": "Centralia Municipal Court"
     },
@@ -457,7 +457,7 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 337,
+      "count": 338,
       "pct": 29.1
     },
     {
@@ -472,13 +472,13 @@
     },
     {
       "name": "No Bail",
-      "count": 145,
-      "pct": 12.5
+      "count": 146,
+      "pct": 12.6
     },
     {
       "name": "Released by Court",
       "count": 120,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "Appearance Bond",
@@ -546,15 +546,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 45.1,
+    "currentMedianDaysHeld": 44.3,
     "currentLongestDaysHeld": 804.3
   },
   "bond": {
-    "withBond": 88,
+    "withBond": 89,
     "noBond": 42,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19139200
+    "totalBond": 19140200
   },
   "chargesPerBooking": 2.1
 }
