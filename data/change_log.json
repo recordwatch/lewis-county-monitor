@@ -1,5 +1,29 @@
 [
   {
+    "id": "423749-20261121000500",
+    "inmateNumber": "423749",
+    "name": "VINCENT, CAREY WHEATLEY",
+    "bookedAt": "2026-11-21T00:05:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2(Deadly weapon)",
+        "arrestDate": "2026-11-21T00:05:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T03:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423748-20261120225200",
     "inmateNumber": "423748",
     "name": "BUCK, OLIVIA GRACE",
