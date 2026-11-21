@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T21:32:14",
+  "generatedAt": "2026-11-20T21:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 555,
     "bookingsObserved": 406,
-    "releasesObserved": 424,
-    "inCustody": 131,
+    "releasesObserved": 425,
+    "inCustody": 130,
     "uniquePeople": 510
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-20",
       "booked": 3,
-      "released": 10
+      "released": 11
     }
   ],
   "topCharges": [
@@ -395,13 +395,13 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 317,
-      "pct": 76.9
+      "count": 318,
+      "pct": 77
     },
     {
       "name": "DOC",
       "count": 13,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "FRIENDSHIP DIVERSON",
@@ -517,7 +517,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 420,
+    "releasedCount": 421,
     "medianDays": 2.2,
     "meanDays": 12.7,
     "buckets": [
@@ -527,7 +527,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 134
+        "count": 135
       },
       {
         "label": "3–7 days",
@@ -546,12 +546,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 44.3,
+    "currentMedianDaysHeld": 45.1,
     "currentLongestDaysHeld": 804.2
   },
   "bond": {
     "withBond": 89,
-    "noBond": 42,
+    "noBond": 41,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19140700
