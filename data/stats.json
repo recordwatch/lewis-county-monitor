@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:49:15",
+  "generatedAt": "2026-11-21T04:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 563,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 446,
-      "pct": 38.4,
+      "count": 447,
+      "pct": 38.5,
       "label": "Lewis County Superior Court"
     },
     {
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 150,
-      "pct": 12.8
+      "count": 151,
+      "pct": 12.9
     },
     {
       "name": "Released by Court",

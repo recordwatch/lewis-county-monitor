@@ -63,11 +63,11 @@
         "description": "MAL MISCH 2ND/>750",
         "arrestDate": "2026-11-20T22:40:00",
         "arrestingAgency": "LCSO",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       },
       {
         "description": "ASSAULT 4TH DV",
@@ -83,7 +83,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-21T03:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422288-20261120195100",
