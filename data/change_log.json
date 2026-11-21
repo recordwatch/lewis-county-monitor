@@ -1,5 +1,29 @@
 [
   {
+    "id": "1971-20261120144300",
+    "inmateNumber": "1971",
+    "name": "DUTTON, KURT",
+    "bookedAt": "2026-11-20T14:43:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-20T14:43:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": null,
+        "warrantNumber": "6A0435198"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T16:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "396833-20261120101500",
     "inmateNumber": "396833",
     "name": "CLAY, ALLAN DANIEL",

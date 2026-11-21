@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T16:05:11",
+  "generatedAt": "2026-11-20T16:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 553,
-    "bookingsObserved": 404,
+    "bookingsTracked": 554,
+    "bookingsObserved": 405,
     "releasesObserved": 421,
-    "inCustody": 132,
-    "uniquePeople": 508
+    "inCustody": 133,
+    "uniquePeople": 509
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 1,
+      "booked": 2,
       "released": 7
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 68,
-      "pct": 5.8
+      "count": 69,
+      "pct": 5.9
     },
     {
       "name": "POSS of Controlled Substance",
@@ -271,20 +271,20 @@
     },
     {
       "name": "JAIL",
-      "count": 130,
-      "pct": 23.6,
+      "count": 131,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 114,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "Centralia Police"
     },
     {
       "name": "WASH",
       "count": 71,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "Washington State Patrol"
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "SUP",
       "count": 444,
-      "pct": 38.7,
+      "pct": 38.6,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 389,
+      "count": 390,
       "pct": 33.9,
       "label": "Lewis County District Court"
     },
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 333,
-      "pct": 28.8
+      "count": 334,
+      "pct": 28.9
     },
     {
       "name": "Included",
@@ -546,12 +546,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 44,
+    "currentMedianDaysHeld": 43.9,
     "currentLongestDaysHeld": 804
   },
   "bond": {
     "withBond": 87,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19104200
