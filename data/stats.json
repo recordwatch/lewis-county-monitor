@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:49:15",
+  "generatedAt": "2026-11-21T15:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 564,
@@ -457,7 +457,7 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 341,
+      "count": 340,
       "pct": 29.1
     },
     {
@@ -482,8 +482,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 25,
-      "pct": 2.1
+      "count": 26,
+      "pct": 2.2
     },
     {
       "name": "Amended",
