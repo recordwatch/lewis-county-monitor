@@ -16,12 +16,24 @@
         "bondType": "Cash or Bond",
         "bondAmount": 1500,
         "warrantNumber": "T00958946"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-11-20T15:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "T000958946"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T19:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "1971-20261120144300",

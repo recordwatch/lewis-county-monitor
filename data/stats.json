@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T19:32:15",
+  "generatedAt": "2026-11-20T19:49:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 555,
@@ -187,12 +187,12 @@
       "pct": 4.3
     },
     {
-      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 30,
+      "name": "Drive w/o req ignition intrlck",
+      "count": 31,
       "pct": 2.6
     },
     {
-      "name": "Drive w/o req ignition intrlck",
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 30,
       "pct": 2.6
     },
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 391,
-      "pct": 34,
+      "count": 392,
+      "pct": 34.1,
       "label": "Lewis County District Court"
     },
     {
@@ -458,22 +458,22 @@
     {
       "name": "Cash or Bond",
       "count": 335,
-      "pct": 29
+      "pct": 28.9
     },
     {
       "name": "Included",
-      "count": 222,
-      "pct": 19.2
+      "count": 223,
+      "pct": 19.3
     },
     {
       "name": "Serving Time",
       "count": 195,
-      "pct": 16.9
+      "pct": 16.8
     },
     {
       "name": "No Bail",
       "count": 151,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "Released by Court",
@@ -546,7 +546,7 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 44.1,
+    "currentMedianDaysHeld": 44.2,
     "currentLongestDaysHeld": 804.1
   },
   "bond": {
