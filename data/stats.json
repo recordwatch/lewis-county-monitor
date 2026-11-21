@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T19:17:15",
+  "generatedAt": "2026-11-20T19:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 554,
-    "bookingsObserved": 405,
+    "bookingsTracked": 555,
+    "bookingsObserved": 406,
     "releasesObserved": 423,
-    "inCustody": 131,
-    "uniquePeople": 509
+    "inCustody": 132,
+    "uniquePeople": 510
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 2,
+      "booked": 3,
       "released": 9
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD DEGREE",
-      "count": 69,
-      "pct": 5.9
+      "count": 70,
+      "pct": 6
     },
     {
       "name": "POSS of Controlled Substance",
@@ -266,13 +266,13 @@
     {
       "name": "LCSO",
       "count": 136,
-      "pct": 24.6,
+      "pct": 24.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 131,
-      "pct": 23.7,
+      "count": 132,
+      "pct": 23.8,
       "label": "Lewis County Jail"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "LCD",
-      "count": 390,
-      "pct": 33.9,
+      "count": 391,
+      "pct": 34,
       "label": "Lewis County District Court"
     },
     {
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 334,
-      "pct": 28.9
+      "count": 335,
+      "pct": 29
     },
     {
       "name": "Included",
@@ -546,15 +546,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 44.2,
+    "currentMedianDaysHeld": 44.1,
     "currentLongestDaysHeld": 804.1
   },
   "bond": {
-    "withBond": 86,
+    "withBond": 87,
     "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19099200
+    "totalBond": 19100700
   },
   "chargesPerBooking": 2.1
 }
