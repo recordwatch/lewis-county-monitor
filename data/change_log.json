@@ -1,5 +1,29 @@
 [
   {
+    "id": "423748-20261120225200",
+    "inmateNumber": "423748",
+    "name": "BUCK, OLIVIA GRACE",
+    "bookedAt": "2026-11-20T22:52:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-20T22:52:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00885770"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T02:17:13",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422288-20261120195100",
     "inmateNumber": "422288",
     "name": "DAHLEN, RUSSELL DAVID",
@@ -87,14 +111,14 @@
         "billingAgency": "LC",
         "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "t00701676"
+        "warrantNumber": "T00701676"
       },
       {
         "description": "DWLS 3RD DEGREE",
         "arrestDate": "2026-11-20T19:08:00",
         "arrestingAgency": "JAIL",
         "court": "LCD",
-        "billingAgency": "LC",
+        "billingAgency": "WSP",
         "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "6A0239954"
@@ -132,6 +156,30 @@
     "baseline": false,
     "releasedTo": null,
     "releaseSource": null
+  },
+  {
+    "id": "423736-20261120163700",
+    "inmateNumber": "423736",
+    "name": "BEAMON, COCOA MARIE",
+    "bookedAt": "2026-11-20T16:37:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-20T16:37:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0435115"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T02:17:13",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "423735-20261120150000",
