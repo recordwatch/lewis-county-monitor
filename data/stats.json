@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:49:15",
+  "generatedAt": "2026-11-22T02:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 568,
@@ -227,17 +227,17 @@
       "pct": 1.6
     },
     {
+      "name": "USE PARAPHERNALIA/FTA",
+      "count": 15,
+      "pct": 1.3
+    },
+    {
       "name": "ASSAULT 4TH DEGREE",
       "count": 15,
       "pct": 1.3
     },
     {
       "name": "DRUG COURT SANCTIONS",
-      "count": 14,
-      "pct": 1.2
-    },
-    {
-      "name": "USE PARAPHERNALIA/FTA",
       "count": 14,
       "pct": 1.2
     },
