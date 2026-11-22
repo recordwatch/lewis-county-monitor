@@ -2514,6 +2514,16 @@
     "bondTotal": 50000,
     "charges": [
       {
+        "description": "VIOL PROTECTION ORD",
+        "arrestDate": "2026-11-14T01:40:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": "LC",
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
         "description": "BURGLARY 2ND",
         "arrestDate": "2026-11-14T01:40:00",
         "arrestingAgency": "LCSO",
