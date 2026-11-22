@@ -1,5 +1,29 @@
 [
   {
+    "id": "2707-20261121190000",
+    "inmateNumber": "2707",
+    "name": "ROE, BRIAN KEITH",
+    "bookedAt": "2026-11-21T19:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRUG COURT SANCTIONS",
+        "arrestDate": "2026-11-21T19:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "DRC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2510046921"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T21:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "199660-20261121185400",
     "inmateNumber": "199660",
     "name": "ROWLAND, DOMINIC ANTHONY",

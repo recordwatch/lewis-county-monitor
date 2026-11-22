@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-21T21:32:20",
+  "generatedAt": "2026-11-21T21:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 566,
-    "bookingsObserved": 417,
+    "bookingsTracked": 567,
+    "bookingsObserved": 418,
     "releasesObserved": 427,
-    "inCustody": 139,
+    "inCustody": 140,
     "uniquePeople": 519
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 4,
+      "booked": 5,
       "released": 1
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 96,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "DWLS 3RD DEGREE",
@@ -232,6 +232,11 @@
       "pct": 1.3
     },
     {
+      "name": "DRUG COURT SANCTIONS",
+      "count": 14,
+      "pct": 1.2
+    },
+    {
       "name": "USE PARAPHERNALIA/FTA",
       "count": 14,
       "pct": 1.2
@@ -240,11 +245,6 @@
       "name": "DWLS 2ND DEGREE",
       "count": 14,
       "pct": 1.2
-    },
-    {
-      "name": "DRUG COURT SANCTIONS",
-      "count": 13,
-      "pct": 1.1
     },
     {
       "name": "BURGLARY 2ND",
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 140,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 133,
-      "pct": 23.5,
+      "count": 134,
+      "pct": 23.7,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 118,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "Centralia Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 447,
-      "pct": 38.3,
+      "count": 448,
+      "pct": 38.4,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 396,
-      "pct": 34,
+      "pct": 33.9,
       "label": "Lewis County District Court"
     },
     {
@@ -458,17 +458,17 @@
     {
       "name": "Cash or Bond",
       "count": 342,
-      "pct": 29.2
+      "pct": 29.1
     },
     {
       "name": "Included",
       "count": 227,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "Serving Time",
-      "count": 197,
-      "pct": 16.8
+      "count": 198,
+      "pct": 16.9
     },
     {
       "name": "No Bail",
@@ -546,12 +546,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 38.9,
+    "currentMedianDaysHeld": 38.6,
     "currentLongestDaysHeld": 805.2
   },
   "bond": {
     "withBond": 92,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 19151750
