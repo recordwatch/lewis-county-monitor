@@ -1,5 +1,39 @@
 [
   {
+    "id": "199660-20261121185400",
+    "inmateNumber": "199660",
+    "name": "ROWLAND, DOMINIC ANTHONY",
+    "bookedAt": "2026-11-21T18:54:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MINOR POSS &-O CONSU",
+        "arrestDate": "2026-11-21T18:54:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "FIGHTING IN PUBLIC",
+        "arrestDate": "2026-11-21T18:54:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T20:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "285165-20261121124352",
     "inmateNumber": "285165",
     "name": "SWART, JUSTIN J",

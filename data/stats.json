@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T20:32:15",
+  "generatedAt": "2026-11-21T20:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 565,
-    "bookingsObserved": 416,
+    "bookingsTracked": 566,
+    "bookingsObserved": 417,
     "releasesObserved": 427,
-    "inCustody": 138,
-    "uniquePeople": 518
+    "inCustody": 139,
+    "uniquePeople": 519
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 72,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -272,19 +272,19 @@
     {
       "name": "JAIL",
       "count": 133,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 117,
-      "pct": 20.7,
+      "count": 118,
+      "pct": 20.9,
       "label": "Centralia Police"
     },
     {
       "name": "WASH",
       "count": 72,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Washington State Patrol"
     },
     {
@@ -546,12 +546,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 41.1,
+    "currentMedianDaysHeld": 38.8,
     "currentLongestDaysHeld": 805.2
   },
   "bond": {
     "withBond": 91,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19149750
