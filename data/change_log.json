@@ -28,12 +28,12 @@
         "warrantNumber": "T00873721"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T10:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-22T13:27:28",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "159092-20261121231100",
