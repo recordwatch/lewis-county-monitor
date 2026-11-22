@@ -82,10 +82,10 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T13:32:16",
-    "releasedAt": "2026-11-21T17:49:14",
+    "releasedAt": "2026-11-21T22:52:27",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": "observed"
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "285165-20261121120400",
@@ -106,12 +106,12 @@
         "warrantNumber": "1A0770315"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T17:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-21T22:52:27",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423749-20261121000500",
