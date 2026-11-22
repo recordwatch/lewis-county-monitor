@@ -267,7 +267,7 @@
     "name": "HANSEN, DAVID ALEC",
     "bookedAt": "2026-11-20T22:40:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "MAL MISCH 2ND/>750",
@@ -275,8 +275,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 15000,
         "warrantNumber": "W"
       },
       {
