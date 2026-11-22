@@ -2517,11 +2517,11 @@
         "description": "VIOL PROTECTION ORD",
         "arrestDate": "2026-11-14T01:40:00",
         "arrestingAgency": "LCSO",
-        "court": null,
+        "court": "LCD",
         "billingAgency": "LC",
-        "bondType": null,
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0413920"
       },
       {
         "description": "BURGLARY 2ND",
