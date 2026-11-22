@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:32:15",
+  "generatedAt": "2026-11-22T01:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 568,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 448,
-      "pct": 38.4,
+      "pct": 38.3,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "CNM",
-      "count": 130,
-      "pct": 11.1,
+      "count": 131,
+      "pct": 11.2,
       "label": "Centralia Municipal Court"
     },
     {
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 343,
-      "pct": 29.2
+      "count": 342,
+      "pct": 29.1
     },
     {
       "name": "Included",
@@ -482,8 +482,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 27,
-      "pct": 2.3
+      "count": 28,
+      "pct": 2.4
     },
     {
       "name": "Amended",

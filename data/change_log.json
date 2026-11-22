@@ -13,7 +13,7 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
+        "bondType": "Appearance Bond",
         "bondAmount": 5000,
         "warrantNumber": "6A0420664"
       },
@@ -21,11 +21,11 @@
         "description": "Poss Drug Paraphernalia/FTA",
         "arrestDate": "2026-11-21T23:11:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0418536"
       },
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
@@ -61,7 +61,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-22T01:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "2707-20261121190000",
