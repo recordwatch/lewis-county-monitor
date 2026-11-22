@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:32:16",
+  "generatedAt": "2026-11-22T02:49:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 568,
@@ -174,7 +174,7 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 57,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -184,7 +184,7 @@
     {
       "name": "DWLS 3RD DEGREE/FTA",
       "count": 51,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
@@ -228,13 +228,13 @@
     },
     {
       "name": "USE PARAPHERNALIA/FTA",
-      "count": 15,
-      "pct": 1.3
+      "count": 17,
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 15,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "DRUG COURT SANCTIONS",
@@ -328,19 +328,19 @@
     {
       "name": "SUP",
       "count": 448,
-      "pct": 38.2,
+      "pct": 38.1,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 396,
-      "pct": 33.8,
+      "pct": 33.7,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 134,
-      "pct": 11.4,
+      "count": 137,
+      "pct": 11.7,
       "label": "Centralia Municipal Court"
     },
     {
@@ -458,12 +458,12 @@
     {
       "name": "Cash or Bond",
       "count": 342,
-      "pct": 29
+      "pct": 28.9
     },
     {
       "name": "Included",
-      "count": 228,
-      "pct": 19.4
+      "count": 230,
+      "pct": 19.5
     },
     {
       "name": "Serving Time",
@@ -482,8 +482,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 30,
-      "pct": 2.5
+      "count": 32,
+      "pct": 2.7
     },
     {
       "name": "Amended",
@@ -554,7 +554,7 @@
     "noBond": 48,
     "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 19155750
+    "totalBond": 19165750
   },
   "chargesPerBooking": 2.1
 }

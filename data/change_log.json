@@ -5,7 +5,7 @@
     "name": "DRIVER, DONNIE DAVID",
     "bookedAt": "2026-11-21T23:11:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 12000,
+    "bondTotal": 22000,
     "charges": [
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
@@ -53,9 +53,39 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": null,
+        "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "6A0418536"
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-11-21T23:11:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "6A0419027"
+      },
+      {
+        "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
+        "arrestDate": "2026-11-21T23:11:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "6A0423207"
+      },
+      {
+        "description": "USE PARAPHERNALIA/FTA",
+        "arrestDate": "2026-11-21T23:11:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0423207"
       }
     ],
     "status": "in_custody",
