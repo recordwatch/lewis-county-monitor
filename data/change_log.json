@@ -1,5 +1,39 @@
 [
   {
+    "id": "415341-20261122134500",
+    "inmateNumber": "415341",
+    "name": "JOHANSON, JOEL DEAN",
+    "bookedAt": "2026-11-22T13:45:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 10100,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-22T13:45:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "T00133961"
+      },
+      {
+        "description": "Drive w/o req intrlck/FTA",
+        "arrestDate": "2026-11-22T13:45:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "T00133961"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T15:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423763-20261122085500",
     "inmateNumber": "423763",
     "name": "YELLOWJOHN, RYAN GUY",
