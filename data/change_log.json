@@ -18,12 +18,36 @@
         "warrantNumber": "1A0770315"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T13:32:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-21T17:49:14",
     "baseline": false,
     "releasedTo": null,
-    "releaseSource": null
+    "releaseSource": "observed"
+  },
+  {
+    "id": "285165-20261121120400",
+    "inmateNumber": "285165",
+    "name": "SWART, JUSTIN J",
+    "bookedAt": "2026-11-21T12:04:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 8000,
+    "charges": [
+      {
+        "description": "DUI/FTA",
+        "arrestDate": "2026-11-21T12:04:00",
+        "arrestingAgency": "LCSO",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 8000,
+        "warrantNumber": "1A0770315"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T17:49:14",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "423749-20261121000500",
