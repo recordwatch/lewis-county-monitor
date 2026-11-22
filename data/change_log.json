@@ -40,7 +40,7 @@
         "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "Appearance Bond",
-        "bondAmount": 8000,
+        "bondAmount": null,
         "warrantNumber": "1A0770315"
       }
     ],
