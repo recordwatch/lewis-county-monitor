@@ -215,7 +215,7 @@
     "name": "VINCENT, CAREY WHEATLEY",
     "bookedAt": "2026-11-21T00:05:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 1000000,
     "charges": [
       {
         "description": "ASSAULT 2(Deadly weapon)",
@@ -223,8 +223,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000000,
         "warrantNumber": "W"
       }
     ],
@@ -411,7 +411,7 @@
     "name": "SELLARDS, NICHOLE ROXANNE",
     "bookedAt": "2026-11-20T18:15:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 1000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -420,7 +420,7 @@
         "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": 2500,
         "warrantNumber": "6A0423017"
       }
     ],
