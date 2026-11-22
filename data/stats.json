@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:17:13",
+  "generatedAt": "2026-11-22T02:32:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 568,
@@ -187,14 +187,14 @@
       "pct": 4.3
     },
     {
-      "name": "Drive w/o req ignition intrlck",
+      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 31,
       "pct": 2.6
     },
     {
-      "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
-      "count": 30,
-      "pct": 2.5
+      "name": "Drive w/o req ignition intrlck",
+      "count": 31,
+      "pct": 2.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -328,25 +328,25 @@
     {
       "name": "SUP",
       "count": 448,
-      "pct": 38.3,
+      "pct": 38.2,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 396,
-      "pct": 33.9,
+      "pct": 33.8,
       "label": "Lewis County District Court"
     },
     {
       "name": "CNM",
-      "count": 131,
-      "pct": 11.2,
+      "count": 134,
+      "pct": 11.4,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
       "count": 86,
-      "pct": 7.4,
+      "pct": 7.3,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -458,22 +458,22 @@
     {
       "name": "Cash or Bond",
       "count": 342,
-      "pct": 29.1
+      "pct": 29
     },
     {
       "name": "Included",
-      "count": 227,
-      "pct": 19.3
+      "count": 228,
+      "pct": 19.4
     },
     {
       "name": "Serving Time",
       "count": 198,
-      "pct": 16.9
+      "pct": 16.8
     },
     {
       "name": "No Bail",
       "count": 151,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "Released by Court",
@@ -482,8 +482,8 @@
     },
     {
       "name": "Appearance Bond",
-      "count": 28,
-      "pct": 2.4
+      "count": 30,
+      "pct": 2.5
     },
     {
       "name": "Amended",
@@ -554,7 +554,7 @@
     "noBond": 48,
     "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 19148750
+    "totalBond": 19155750
   },
   "chargesPerBooking": 2.1
 }

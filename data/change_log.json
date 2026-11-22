@@ -5,7 +5,7 @@
     "name": "DRIVER, DONNIE DAVID",
     "bookedAt": "2026-11-21T23:11:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 5000,
+    "bondTotal": 12000,
     "charges": [
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
@@ -23,39 +23,39 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": "6A0418536"
+        "bondType": "Appearance Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "6A0418533"
       },
       {
         "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
         "arrestDate": "2026-11-21T23:11:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0418533"
+      },
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-11-21T23:11:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "6A0418536"
       },
       {
         "description": "Criminal Trespass 1st/ FTA",
         "arrestDate": "2026-11-21T23:11:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
-      },
-      {
-        "description": "OBSTRUCTING A LAW ENFORCE OFCR/FTA",
-        "arrestDate": "2026-11-21T23:11:00",
-        "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0418536"
       }
     ],
     "status": "in_custody",
