@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-22T01:17:13",
+  "generatedAt": "2026-11-22T01:32:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 567,
-    "bookingsObserved": 418,
+    "bookingsTracked": 568,
+    "bookingsObserved": 419,
     "releasesObserved": 428,
-    "inCustody": 139,
+    "inCustody": 140,
     "uniquePeople": 519
   },
   "bookingsByDay": [
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     },
     {
@@ -272,13 +272,13 @@
     {
       "name": "JAIL",
       "count": 134,
-      "pct": 23.7,
+      "pct": 23.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 118,
-      "pct": 20.8,
+      "count": 119,
+      "pct": 21,
       "label": "Centralia Police"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "CNM",
-      "count": 129,
+      "count": 130,
       "pct": 11.1,
       "label": "Centralia Municipal Court"
     },
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 342,
-      "pct": 29.1
+      "count": 343,
+      "pct": 29.2
     },
     {
       "name": "Included",
@@ -546,15 +546,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 39,
+    "currentMedianDaysHeld": 38.8,
     "currentLongestDaysHeld": 805.4
   },
   "bond": {
-    "withBond": 91,
+    "withBond": 92,
     "noBond": 48,
-    "medianBond": 50000,
+    "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 19143750
+    "totalBond": 19148750
   },
   "chargesPerBooking": 2.1
 }
