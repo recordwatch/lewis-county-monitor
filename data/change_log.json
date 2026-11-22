@@ -5,33 +5,35 @@
     "name": "ROWLAND, DOMINIC ANTHONY",
     "bookedAt": "2026-11-21T18:54:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "MINOR POSS &-O CONSU",
         "arrestDate": "2026-11-21T18:54:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0444774"
       },
       {
         "description": "FIGHTING IN PUBLIC",
         "arrestDate": "2026-11-21T18:54:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0444774"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-21T20:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "285165-20261121124352",
