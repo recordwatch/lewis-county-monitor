@@ -1,5 +1,29 @@
 [
   {
+    "id": "363109-20261123103000",
+    "inmateNumber": "363109",
+    "name": "SMITH, CLEVELAND RAY",
+    "bookedAt": "2026-11-23T10:30:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "CRIMINAL IMPERSONATE 1/FTA",
+        "arrestDate": "2026-11-23T10:30:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "21-1-00047-21"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T12:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423769-20261122211500",
     "inmateNumber": "423769",
     "name": "REMMERS, CORY SCOTT",

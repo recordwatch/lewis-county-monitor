@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T12:17:18",
+  "generatedAt": "2026-11-23T12:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 573,
-    "bookingsObserved": 424,
+    "bookingsTracked": 574,
+    "bookingsObserved": 425,
     "releasesObserved": 433,
-    "inCustody": 140,
-    "uniquePeople": 524
+    "inCustody": 141,
+    "uniquePeople": 525
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 0,
+      "booked": 1,
       "released": 2
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 72,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -266,19 +266,19 @@
     {
       "name": "LCSO",
       "count": 141,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "JAIL",
-      "count": 134,
-      "pct": 23.4,
+      "count": 135,
+      "pct": 23.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
       "count": 121,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "Centralia Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 448,
-      "pct": 37.8,
+      "count": 449,
+      "pct": 37.9,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
       "count": 402,
-      "pct": 34,
+      "pct": 33.9,
       "label": "Lewis County District Court"
     },
     {
@@ -457,7 +457,7 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 350,
+      "count": 351,
       "pct": 29.4
     },
     {
@@ -546,15 +546,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 38.9,
+    "currentMedianDaysHeld": 37.8,
     "currentLongestDaysHeld": 806.8
   },
   "bond": {
-    "withBond": 94,
+    "withBond": 95,
     "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 20208250
+    "totalBond": 20213250
   },
   "chargesPerBooking": 2.1
 }
