@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T20:32:16",
+  "generatedAt": "2026-11-22T20:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 571,
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 57,
-      "pct": 4.7
+      "count": 58,
+      "pct": 4.8
     },
     {
       "name": "POSS of Controlled Substance",
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 448,
-      "pct": 38,
+      "pct": 37.9,
       "label": "Lewis County Superior Court"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "OMC",
-      "count": 2,
-      "pct": 0.2,
+      "count": 3,
+      "pct": 0.3,
       "label": "OMC"
     },
     {
@@ -457,13 +457,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 348,
-      "pct": 29.3
+      "count": 349,
+      "pct": 29.4
     },
     {
       "name": "Included",
       "count": 231,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "Serving Time",
@@ -473,7 +473,7 @@
     {
       "name": "No Bail",
       "count": 149,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "Released by Court",
@@ -554,7 +554,7 @@
     "noBond": 45,
     "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 20242350
+    "totalBond": 20247450
   },
   "chargesPerBooking": 2.1
 }

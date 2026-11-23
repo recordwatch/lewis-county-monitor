@@ -31,8 +31,18 @@
     "name": "JOHANSON, JOEL DEAN",
     "bookedAt": "2026-11-22T13:45:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 10100,
+    "bondTotal": 15200,
     "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-22T13:45:00",
+        "arrestingAgency": "WASH",
+        "court": "OMC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "1A0482262"
+      },
       {
         "description": "DWLS 3RD DEGREE/FTA",
         "arrestDate": "2026-11-22T13:45:00",
