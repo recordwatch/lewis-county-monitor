@@ -11,11 +11,11 @@
         "description": "DUI",
         "arrestDate": "2026-11-22T14:45:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0431731"
       }
     ],
     "status": "in_custody",
@@ -64,12 +64,12 @@
         "warrantNumber": "T00133961"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T15:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-22T21:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423763-20261122085500",
