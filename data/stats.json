@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T13:49:15",
+  "generatedAt": "2026-11-23T14:17:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 574,
     "bookingsObserved": 425,
-    "releasesObserved": 435,
-    "inCustody": 139,
+    "releasesObserved": 436,
+    "inCustody": 138,
     "uniquePeople": 525
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 1,
-      "released": 4
+      "released": 5
     }
   ],
   "topCharges": [
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 449,
+      "count": 450,
       "pct": 37.9,
       "label": "Lewis County Superior Court"
     },
@@ -370,7 +370,7 @@
     {
       "name": "NMC",
       "count": 16,
-      "pct": 1.4,
+      "pct": 1.3,
       "label": "Napavine Municipal Court"
     },
     {
@@ -395,8 +395,8 @@
   "releasedTo": [
     {
       "name": "SELF",
-      "count": 328,
-      "pct": 77.5
+      "count": 329,
+      "pct": 77.6
     },
     {
       "name": "DOC",
@@ -457,13 +457,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 350,
+      "count": 351,
       "pct": 29.4
     },
     {
       "name": "Included",
-      "count": 227,
-      "pct": 19
+      "count": 228,
+      "pct": 19.1
     },
     {
       "name": "Serving Time",
@@ -472,13 +472,13 @@
     },
     {
       "name": "No Bail",
-      "count": 151,
-      "pct": 12.7
+      "count": 149,
+      "pct": 12.5
     },
     {
       "name": "Released by Court",
-      "count": 123,
-      "pct": 10.3
+      "count": 124,
+      "pct": 10.4
     },
     {
       "name": "Appearance Bond",
@@ -517,7 +517,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 431,
+    "releasedCount": 432,
     "medianDays": 2.2,
     "meanDays": 12.6,
     "buckets": [
@@ -527,7 +527,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 138
+        "count": 139
       },
       {
         "label": "3–7 days",
@@ -546,15 +546,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 40,
+    "currentMedianDaysHeld": 40.3,
     "currentLongestDaysHeld": 806.9
   },
   "bond": {
-    "withBond": 93,
-    "noBond": 46,
-    "medianBond": 50000,
+    "withBond": 94,
+    "noBond": 44,
+    "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 20150750
+    "totalBond": 20153250
   },
   "chargesPerBooking": 2.1
 }
