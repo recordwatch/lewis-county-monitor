@@ -2478,12 +2478,12 @@
         "warrantNumber": "2610060321"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T14:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "209507-20261114084700",
