@@ -7799,7 +7799,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Amended",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "2610057621"
       },
@@ -7809,7 +7809,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "2610057621"
       },
@@ -7819,7 +7819,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Released by Court",
         "bondAmount": null,
         "warrantNumber": "2610057621"
       },
