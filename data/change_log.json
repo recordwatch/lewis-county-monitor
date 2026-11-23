@@ -274,12 +274,12 @@
         "warrantNumber": "6A0423207"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T01:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CSO, TRIBAL XFER",
+    "releaseSource": "official"
   },
   {
     "id": "2707-20261121190000",
@@ -313,7 +313,7 @@
     "name": "ROWLAND, DOMINIC ANTHONY",
     "bookedAt": "2026-11-21T18:54:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 2000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "MINOR POSS &-O CONSU",
@@ -321,8 +321,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Appearance Bond",
+        "bondAmount": 5000,
         "warrantNumber": "6A0444774"
       },
       {
@@ -331,8 +331,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Included",
+        "bondAmount": null,
         "warrantNumber": "6A0444774"
       }
     ],
@@ -14889,8 +14889,8 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "2610039221"
       },
       {
@@ -14899,7 +14899,7 @@
         "arrestingAgency": "JAIL",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Serving Time",
         "bondAmount": null,
         "warrantNumber": "2610039221"
       }
@@ -19848,12 +19848,12 @@
         "warrantNumber": "CR30155"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T15:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "176609-20260628111200",
