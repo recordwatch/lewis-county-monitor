@@ -47,12 +47,14 @@
     "status": "in_custody",
     "firstSeen": "2026-11-22T22:49:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "4251-20261122144500",
     "inmateNumber": "4251",
-    "name": "KAY, DAMON NONE",
+    "name": "KAY, DAMON",
     "bookedAt": "2026-11-22T14:45:00",
     "arrestingAgency": "CENT",
     "bondTotal": null,
