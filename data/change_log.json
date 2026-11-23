@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-23T12:32:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423769-20261122211500",
@@ -7769,7 +7771,7 @@
     "name": "BAUTISTA PEREZ, DANIEL",
     "bookedAt": "2026-10-28T11:05:00",
     "arrestingAgency": "WASH",
-    "bondTotal": 20000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATE 1",
@@ -7777,8 +7779,8 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "2610057621"
       },
       {
@@ -7787,7 +7789,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Dismissed",
         "bondAmount": null,
         "warrantNumber": "2610057621"
       },
@@ -7797,7 +7799,7 @@
         "arrestingAgency": "WASH",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Included",
+        "bondType": "Amended",
         "bondAmount": null,
         "warrantNumber": "2610057621"
       },
