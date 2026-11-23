@@ -1,5 +1,29 @@
 [
   {
+    "id": "4251-20261122144500",
+    "inmateNumber": "4251",
+    "name": "KAY, DAMON",
+    "bookedAt": "2026-11-22T14:45:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "PHYSICAL CONTROL",
+        "arrestDate": "2026-11-22T14:45:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T19:49:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "415341-20261122134500",
     "inmateNumber": "415341",
     "name": "JOHANSON, JOEL DEAN",
