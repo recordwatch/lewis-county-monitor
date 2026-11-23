@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T22:32:21",
+  "generatedAt": "2026-11-22T22:49:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 572,
-    "bookingsObserved": 423,
+    "bookingsTracked": 573,
+    "bookingsObserved": 424,
     "releasesObserved": 431,
-    "inCustody": 141,
-    "uniquePeople": 523
+    "inCustody": 142,
+    "uniquePeople": 524
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 4,
+      "booked": 5,
       "released": 3
     }
   ],
@@ -232,12 +232,12 @@
       "pct": 1.4
     },
     {
-      "name": "DWLS 2ND DEGREE",
-      "count": 15,
-      "pct": 1.2
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 16,
+      "pct": 1.3
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
+      "name": "DWLS 2ND DEGREE",
       "count": 15,
       "pct": 1.2
     },
@@ -272,19 +272,19 @@
     {
       "name": "JAIL",
       "count": 134,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 120,
-      "pct": 21,
+      "count": 121,
+      "pct": 21.2,
       "label": "Centralia Police"
     },
     {
       "name": "WASH",
       "count": 74,
-      "pct": 13,
+      "pct": 12.9,
       "label": "Washington State Patrol"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "MORT",
       "count": 6,
-      "pct": 1.1,
+      "pct": 1,
       "label": "Morton Police"
     },
     {
@@ -320,7 +320,7 @@
     {
       "name": "TOLE",
       "count": 2,
-      "pct": 0.4,
+      "pct": 0.3,
       "label": "TOLE"
     }
   ],
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 448,
-      "pct": 37.9,
+      "pct": 37.8,
       "label": "Lewis County Superior Court"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "CNM",
-      "count": 138,
+      "count": 139,
       "pct": 11.7,
       "label": "Centralia Municipal Court"
     },
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 349,
-      "pct": 29.3
+      "count": 350,
+      "pct": 29.4
     },
     {
       "name": "Included",
@@ -546,15 +546,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 39.4,
+    "currentMedianDaysHeld": 38.3,
     "currentLongestDaysHeld": 806.3
   },
   "bond": {
-    "withBond": 95,
+    "withBond": 96,
     "noBond": 46,
-    "medianBond": 50000,
+    "medianBond": 42500,
     "maxBond": 3000000,
-    "totalBond": 20232250
+    "totalBond": 20233250
   },
   "chargesPerBooking": 2.1
 }

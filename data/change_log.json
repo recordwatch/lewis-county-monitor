@@ -21,12 +21,38 @@
     "status": "in_custody",
     "firstSeen": "2026-11-22T22:32:21",
     "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "423324-20261122202200",
+    "inmateNumber": "423324",
+    "name": "YADAO, LOUISE ANGELA",
+    "bookedAt": "2026-11-22T20:22:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "arrestDate": "2026-11-22T20:22:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0431732"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T22:49:15",
+    "releasedAt": null,
     "baseline": false
   },
   {
     "id": "4251-20261122144500",
     "inmateNumber": "4251",
-    "name": "KAY, DAMON",
+    "name": "KAY, DAMON NONE",
     "bookedAt": "2026-11-22T14:45:00",
     "arrestingAgency": "CENT",
     "bondTotal": null,
