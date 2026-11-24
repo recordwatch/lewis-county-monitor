@@ -1,5 +1,29 @@
 [
   {
+    "id": "46299-20261123220700",
+    "inmateNumber": "46299",
+    "name": "RUELAS, APOLINAR",
+    "bookedAt": "2026-11-23T22:07:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-23T22:07:00",
+        "arrestingAgency": "CHEH",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T23:32:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422544-20261123190000",
     "inmateNumber": "422544",
     "name": "OBRIEN, MATTHEW CAREY",
