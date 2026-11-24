@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:49:16",
+  "generatedAt": "2026-11-23T19:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 574,
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 346,
-      "pct": 29
+      "count": 343,
+      "pct": 28.8
     },
     {
       "name": "Included",
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 149,
-      "pct": 12.5
+      "count": 152,
+      "pct": 12.7
     },
     {
       "name": "Released by Court",

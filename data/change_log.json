@@ -2689,8 +2689,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "2610060521"
       },
       {
@@ -4801,8 +4801,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 50000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "2610059521"
       },
       {
@@ -11823,8 +11823,8 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "2610055821"
       },
       {
