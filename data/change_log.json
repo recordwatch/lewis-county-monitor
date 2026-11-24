@@ -57,7 +57,7 @@
     "name": "YADAO, LOUISE ANGELA",
     "bookedAt": "2026-11-22T20:22:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -65,8 +65,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondType": "Appearance Bond",
+        "bondAmount": 2000,
         "warrantNumber": "6A0431732"
       }
     ],
