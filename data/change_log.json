@@ -1,5 +1,29 @@
 [
   {
+    "id": "395634-20261124015100",
+    "inmateNumber": "395634",
+    "name": "JORDAN, ZACHARY RYAN",
+    "bookedAt": "2026-11-24T01:51:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-24T01:51:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0252700"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T02:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "46299-20261123220700",
     "inmateNumber": "46299",
     "name": "RUELAS, APOLINAR",
