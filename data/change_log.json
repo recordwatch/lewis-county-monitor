@@ -1,5 +1,29 @@
 [
   {
+    "id": "406408-20261124102800",
+    "inmateNumber": "406408",
+    "name": "KINKADE, KELLI LEE",
+    "bookedAt": "2026-11-24T10:28:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Protection Order Viol Prev Conviction",
+        "arrestDate": "2026-11-24T10:28:00",
+        "arrestingAgency": "CENT",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T15:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "289184-20261124085024",
     "inmateNumber": "289184",
     "name": "BREWER, NATHANIEL LEE",

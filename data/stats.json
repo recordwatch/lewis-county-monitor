@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T15:17:15",
+  "generatedAt": "2026-11-24T15:32:17",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 580,
-    "bookingsObserved": 431,
+    "bookingsTracked": 581,
+    "bookingsObserved": 432,
     "releasesObserved": 449,
-    "inCustody": 131,
+    "inCustody": 132,
     "uniquePeople": 530
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 2,
+      "booked": 3,
       "released": 9
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "OTHER AGENCY HOLD",
       "count": 58,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "POSS of Controlled Substance",
@@ -272,13 +272,13 @@
     {
       "name": "JAIL",
       "count": 137,
-      "pct": 23.7,
+      "pct": 23.6,
       "label": "Lewis County Jail"
     },
     {
       "name": "CENT",
-      "count": 122,
-      "pct": 21.1,
+      "count": 123,
+      "pct": 21.2,
       "label": "Centralia Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 455,
-      "pct": 38,
+      "count": 456,
+      "pct": 38.1,
       "label": "Lewis County Superior Court"
     },
     {
@@ -468,12 +468,12 @@
     {
       "name": "Serving Time",
       "count": 204,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "No Bail",
-      "count": 155,
-      "pct": 12.9
+      "count": 156,
+      "pct": 13
     },
     {
       "name": "Released by Court",
@@ -546,12 +546,12 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 41.6,
-    "currentLongestDaysHeld": 807.9
+    "currentMedianDaysHeld": 41.3,
+    "currentLongestDaysHeld": 808
   },
   "bond": {
     "withBond": 87,
-    "noBond": 44,
+    "noBond": 45,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19474250
