@@ -34,7 +34,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "Identity Theft 2nd",
+        "description": "THEFT 2ND DEG>250",
         "arrestDate": "2026-11-23T21:00:00",
         "arrestingAgency": "LCSO",
         "court": "SUP",
@@ -15814,12 +15814,12 @@
         "warrantNumber": "2510073921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "419945-20261005085000",
