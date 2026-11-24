@@ -103,7 +103,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610061721"
       },
       {
         "description": "BURG 2ND/NIGHT/FORCE ENT",
@@ -113,7 +113,7 @@
         "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "2610061721"
       }
     ],
     "status": "in_custody",
