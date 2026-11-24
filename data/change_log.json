@@ -1,5 +1,39 @@
 [
   {
+    "id": "289184-20261124085024",
+    "inmateNumber": "289184",
+    "name": "BREWER, NATHANIEL LEE",
+    "bookedAt": "2026-11-24T08:50:24",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 100000,
+    "charges": [
+      {
+        "description": "CHILD MOLEST 1ST",
+        "arrestDate": "2026-11-24T08:50:24",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 100000,
+        "warrantNumber": "2610057421"
+      },
+      {
+        "description": "INCEST 1ST DEGREE",
+        "arrestDate": "2026-11-24T08:50:24",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "2610057421"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T09:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "395634-20261124015100",
     "inmateNumber": "395634",
     "name": "JORDAN, ZACHARY RYAN",
@@ -5026,12 +5060,12 @@
         "warrantNumber": "2610059521"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T09:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423400-20261106005500",
@@ -12038,12 +12072,12 @@
         "warrantNumber": "2610055821"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T13:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T09:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "395281-20261017010000",
