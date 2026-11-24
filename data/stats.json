@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T00:49:21",
+  "generatedAt": "2026-11-24T01:17:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 577,
-    "bookingsObserved": 428,
+    "bookingsTracked": 578,
+    "bookingsObserved": 429,
     "releasesObserved": 440,
-    "inCustody": 137,
-    "uniquePeople": 527
+    "inCustody": 138,
+    "uniquePeople": 528
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 4,
+      "booked": 5,
       "released": 9
     },
     {
@@ -244,7 +244,7 @@
     {
       "name": "DRUG COURT SANCTIONS",
       "count": 14,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "BURGLARY 2ND",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 141,
-      "pct": 24.5,
+      "count": 142,
+      "pct": 24.6,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CENT",
       "count": 122,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "Centralia Police"
     },
     {
@@ -546,12 +546,12 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 40.5,
-    "currentLongestDaysHeld": 807.3
+    "currentMedianDaysHeld": 39.4,
+    "currentLongestDaysHeld": 807.4
   },
   "bond": {
     "withBond": 94,
-    "noBond": 43,
+    "noBond": 44,
     "medianBond": 42500,
     "maxBond": 3000000,
     "totalBond": 19633750

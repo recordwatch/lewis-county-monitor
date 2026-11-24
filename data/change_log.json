@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "6143-20261123210000",
+    "inmateNumber": "6143",
+    "name": "NORMAND, KENNETH LEE",
+    "bookedAt": "2026-11-23T21:00:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "Identity Theft 2nd",
+        "arrestDate": "2026-11-23T21:00:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "BURG 2ND/NIGHT/FORCE ENT",
+        "arrestDate": "2026-11-23T21:00:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T01:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422544-20261123190000",
     "inmateNumber": "422544",
     "name": "OBRIEN, MATTHEW CAREY",
