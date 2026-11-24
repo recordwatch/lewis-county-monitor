@@ -636,12 +636,12 @@
         "warrantNumber": "T00885770"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T02:17:13",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "FRIENDSHIP DIVERSON",
+    "releaseSource": "official"
   },
   {
     "id": "419959-20261120224000",
