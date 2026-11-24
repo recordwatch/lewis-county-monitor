@@ -41,7 +41,7 @@
     "name": "JORDAN, ZACHARY RYAN",
     "bookedAt": "2026-11-24T01:51:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD DEGREE/FTA",
@@ -49,8 +49,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
         "warrantNumber": "6A0252700"
       }
     ],
@@ -1209,8 +1209,8 @@
         "arrestingAgency": "DOC",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 10000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "2610010221"
       },
       {
@@ -16528,12 +16528,12 @@
         "warrantNumber": "2610052121"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T15:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "16193-20260930004400",
