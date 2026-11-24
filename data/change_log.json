@@ -1,5 +1,73 @@
 [
   {
+    "id": "422544-20261123190000",
+    "inmateNumber": "422544",
+    "name": "OBRIEN, MATTHEW CAREY",
+    "bookedAt": "2026-11-23T19:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT OF A MOTOR VEHICLE",
+        "arrestDate": "2026-11-23T19:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2610053521"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T20:17:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "66118-20261123154500",
+    "inmateNumber": "66118",
+    "name": "DOUGLAS, DALE WALTER",
+    "bookedAt": "2026-11-23T15:45:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 8500,
+    "charges": [
+      {
+        "description": "Opening, consuming, or possessing open liqur container in public place",
+        "arrestDate": "2026-11-23T15:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "6A0420658"
+      },
+      {
+        "description": "Camp or Camping at City Parks or City Property Prohibited 2nd Offense/FTA",
+        "arrestDate": "2026-11-23T15:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 8000,
+        "warrantNumber": "6A0032863"
+      },
+      {
+        "description": "Opening, Consuming, or posessing open liquir cont in public place/FTA",
+        "arrestDate": "2026-11-23T15:45:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0032863"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T20:17:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "363109-20261123103000",
     "inmateNumber": "363109",
     "name": "SMITH, CLEVELAND RAY",
