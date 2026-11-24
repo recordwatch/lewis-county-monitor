@@ -11,17 +11,19 @@
         "description": "DUI",
         "arrestDate": "2026-11-23T22:07:00",
         "arrestingAgency": "CHEH",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0439199"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T23:32:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422544-20261123190000",
