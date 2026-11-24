@@ -1080,12 +1080,12 @@
         "warrantNumber": "6A0441085"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T22:49:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T10:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "CASCADE MH",
+    "releaseSource": "official"
   },
   {
     "id": "267098-20261119155540",
