@@ -5,7 +5,7 @@
     "name": "BREWER, NATHANIEL LEE",
     "bookedAt": "2026-11-24T08:50:24",
     "arrestingAgency": "JAIL",
-    "bondTotal": 100000,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "CHILD MOLEST 1ST",
@@ -14,7 +14,7 @@
         "court": "SUP",
         "billingAgency": "LCSC",
         "bondType": "Cash or Bond",
-        "bondAmount": 100000,
+        "bondAmount": 50000,
         "warrantNumber": "2610057421"
       },
       {
@@ -155,7 +155,7 @@
     "name": "DOUGLAS, DALE WALTER",
     "bookedAt": "2026-11-23T15:45:00",
     "arrestingAgency": "CENT",
-    "bondTotal": 8500,
+    "bondTotal": 8000,
     "charges": [
       {
         "description": "Opening, consuming, or possessing open liqur container in public place",
@@ -163,8 +163,8 @@
         "arrestingAgency": "CENT",
         "court": "CNM",
         "billingAgency": "CENT",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "6A0420658"
       },
       {
@@ -5311,8 +5311,8 @@
         "arrestingAgency": "CHEH",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6A0300429"
       },
       {
@@ -5331,8 +5331,8 @@
         "arrestingAgency": "CHEH",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6A0300430"
       }
     ],
