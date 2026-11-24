@@ -435,8 +435,8 @@
         "arrestingAgency": "WASH",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2500,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "T00885770"
       }
     ],
