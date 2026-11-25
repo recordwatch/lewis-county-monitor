@@ -1,5 +1,29 @@
 [
   {
+    "id": "137101-20261125104000",
+    "inmateNumber": "137101",
+    "name": "DURHAM, TREVOR KEITH",
+    "bookedAt": "2026-11-25T10:40:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND/risk of pub service interu",
+        "arrestDate": "2026-11-25T10:40:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "2610018021"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T13:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "341831-20261124204600",
     "inmateNumber": "341831",
     "name": "WEST, LATISHA MARVALA",
@@ -16406,12 +16430,12 @@
         "warrantNumber": "2610052921"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T15:00:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "104881-20261002204600",
