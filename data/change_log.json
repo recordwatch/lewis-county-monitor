@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-25T13:17:15",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "341831-20261124204600",
@@ -37,8 +39,8 @@
         "arrestingAgency": "JAIL",
         "court": "LCD",
         "billingAgency": "WSP",
-        "bondType": "Cash or Bond",
-        "bondAmount": 5100,
+        "bondType": "Released by Court",
+        "bondAmount": null,
         "warrantNumber": "8Z1183583"
       }
     ],
@@ -414,12 +416,12 @@
         "warrantNumber": "21-1-00047-21"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T12:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "423769-20261122211500",
