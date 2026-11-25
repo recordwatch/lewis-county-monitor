@@ -1926,12 +1926,12 @@
         "warrantNumber": "6A0390640"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T16:32:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T11:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "75314-20261117234859",
