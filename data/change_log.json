@@ -1,5 +1,29 @@
 [
   {
+    "id": "341831-20261124204600",
+    "inmateNumber": "341831",
+    "name": "WEST, LATISHA MARVALA",
+    "bookedAt": "2026-11-24T20:46:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-24T20:46:00",
+        "arrestingAgency": "JAIL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "W"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T23:32:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "326809-20261124193800",
     "inmateNumber": "326809",
     "name": "BOURASSA, TODD ALAN",
@@ -930,12 +954,12 @@
         "warrantNumber": "6A0239954"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T00:49:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "16640-20261120181500",
