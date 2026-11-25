@@ -6140,12 +6140,12 @@
         "warrantNumber": "6A0308684"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T05:17:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "132519-20261103011101",
