@@ -2811,7 +2811,7 @@
     "name": "HERNANDEZ, PARKER ANTHONY",
     "bookedAt": "2026-11-14T03:06:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": 100000,
+    "bondTotal": 110500,
     "charges": [
       {
         "description": "ASSAULT 2(Substantial bodily harm) DV",
@@ -2842,6 +2842,16 @@
         "bondType": "Included",
         "bondAmount": null,
         "warrantNumber": "2610060421"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-14T03:06:00",
+        "arrestingAgency": "LCSO",
+        "court": "OMC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10500,
+        "warrantNumber": "CR-1/26-009"
       }
     ],
     "status": "in_custody",
@@ -20607,9 +20617,9 @@
         "arrestingAgency": "CENT",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 250000,
-        "warrantNumber": "2610013721"
+        "bondType": "Amended",
+        "bondAmount": null,
+        "warrantNumber": "Amended"
       },
       {
         "description": "UNLAW POSS FIREARM 1ST",
