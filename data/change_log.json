@@ -1,5 +1,63 @@
 [
   {
+    "id": "352057-20261124142600",
+    "inmateNumber": "352057",
+    "name": "FISHER, SERENITY JOVANNA LYNN",
+    "bookedAt": "2026-11-24T14:26:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": 10100,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV/FTA",
+        "arrestDate": "2026-11-24T14:26:00",
+        "arrestingAgency": "WINL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "3A0093383"
+      },
+      {
+        "description": "ESCAPE 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-24T14:26:00",
+        "arrestingAgency": "WINL",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 10100,
+        "warrantNumber": "26Y000284"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T22:17:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "402222-20261124131500",
+    "inmateNumber": "402222",
+    "name": "SWOGGER, MICHAEL ALLEN",
+    "bookedAt": "2026-11-24T13:15:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-24T13:15:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": "CHEH",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0445554"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T22:17:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "406408-20261124102800",
     "inmateNumber": "406408",
     "name": "KINKADE, KELLI LEE",
