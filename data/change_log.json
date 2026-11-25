@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-24T23:32:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "326809-20261124193800",
@@ -3538,12 +3540,12 @@
         "warrantNumber": "26DV1011TCP"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T00:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T08:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "RELAY TO THURSTON",
+    "releaseSource": "official"
   },
   {
     "id": "352107-20261112125200",
@@ -15916,12 +15918,12 @@
         "warrantNumber": "6A0403648"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "374758-20261005144400",
@@ -20090,12 +20092,12 @@
         "warrantNumber": "2510065621"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:40:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T05:30:00",
     "baseline": true,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "311810-20260706103800",
