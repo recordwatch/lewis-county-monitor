@@ -900,12 +900,12 @@
         "warrantNumber": "2610061521"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T03:49:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T15:00:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "422288-20261120195100",
@@ -3829,8 +3829,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 2000,
+        "bondType": "Serving Time",
+        "bondAmount": null,
         "warrantNumber": "6a0413917"
       }
     ],
