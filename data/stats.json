@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:32:15",
+  "generatedAt": "2026-11-25T23:49:19",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 593,
@@ -463,12 +463,12 @@
     {
       "name": "Included",
       "count": 229,
-      "pct": 18.8
+      "pct": 18.7
     },
     {
       "name": "Serving Time",
-      "count": 205,
-      "pct": 16.8
+      "count": 206,
+      "pct": 16.9
     },
     {
       "name": "No Bail",

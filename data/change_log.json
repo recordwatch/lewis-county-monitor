@@ -12,10 +12,10 @@
         "arrestDate": "2026-11-25T21:44:00",
         "arrestingAgency": "CENT",
         "court": "DOC",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "SCON",
+        "bondType": "Serving Time",
         "bondAmount": null,
-        "warrantNumber": "W"
+        "warrantNumber": "456149 20261125"
       }
     ],
     "status": "in_custody",
