@@ -1,5 +1,29 @@
 [
   {
+    "id": "258533-20261125144000",
+    "inmateNumber": "258533",
+    "name": "SMITH, MEGAN ROSE LOUISE",
+    "bookedAt": "2026-11-25T14:40:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 25000,
+    "charges": [
+      {
+        "description": "RAPE 3RD",
+        "arrestDate": "2026-11-25T14:40:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 25000,
+        "warrantNumber": "2610032421"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T20:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "261558-20261125123500",
     "inmateNumber": "261558",
     "name": "DALEY, DONALD ANDREW",
