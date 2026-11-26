@@ -12,14 +12,40 @@
         "arrestDate": "2026-11-26T03:41:00",
         "arrestingAgency": "CHEH",
         "court": "CSM",
-        "billingAgency": null,
-        "bondType": null,
+        "billingAgency": "CHEH",
+        "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0428359"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-26T08:32:18",
+    "releasedAt": null,
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
+  },
+  {
+    "id": "423840-20261126032900",
+    "inmateNumber": "423840",
+    "name": "EKLUND, CALVIN DANIEL",
+    "bookedAt": "2026-11-26T03:29:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-26T03:29:00",
+        "arrestingAgency": "CENT",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "6A0011401"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T08:49:15",
     "releasedAt": null,
     "baseline": false
   },
