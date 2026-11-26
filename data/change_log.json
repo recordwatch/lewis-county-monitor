@@ -37,11 +37,11 @@
         "description": "VIOL NO HARASSMENT ORDER;NCO preconvicti",
         "arrestDate": "2026-11-26T09:07:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
+        "court": "CNM",
+        "billingAgency": "CHEH",
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0444634"
       }
     ],
     "status": "in_custody",
