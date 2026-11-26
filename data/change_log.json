@@ -26,6 +26,40 @@
     "releaseSource": "official"
   },
   {
+    "id": "351723-20261125110100",
+    "inmateNumber": "351723",
+    "name": "MILLER, MATTHEW WALTER",
+    "bookedAt": "2026-11-25T11:01:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD DEGREE",
+        "arrestDate": "2026-11-25T11:01:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 500,
+        "warrantNumber": "T01034707"
+      },
+      {
+        "description": "Drive w/o req ignition intrlck",
+        "arrestDate": "2026-11-25T11:01:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": "WSP",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1000,
+        "warrantNumber": "T01034707"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T17:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "421017-20261125105500",
     "inmateNumber": "421017",
     "name": "HUNDLEY, JOEL BRADEN",
