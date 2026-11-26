@@ -1,5 +1,29 @@
 [
   {
+    "id": "96113-20261126131000",
+    "inmateNumber": "96113",
+    "name": "FERRY, EDMOND MANUEL",
+    "bookedAt": "2026-11-26T13:10:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 5100,
+    "charges": [
+      {
+        "description": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
+        "arrestDate": "2026-11-26T13:10:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 5100,
+        "warrantNumber": "6A0385217"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T14:30:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "145690-20261126090700",
     "inmateNumber": "145690",
     "name": "JAIMES-CRUZ, JOSE DAVID",
@@ -21,7 +45,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-26T14:17:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "402253-20261126034100",
