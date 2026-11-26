@@ -220,12 +220,12 @@
         "warrantNumber": "6A0445554"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-24T22:17:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T19:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "406408-20261124102800",
