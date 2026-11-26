@@ -8094,12 +8094,12 @@
         "warrantNumber": "6A0151751"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T02:32:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-26T08:01:57",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "406848-20261029152500",
