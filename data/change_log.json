@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-25T20:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "261558-20261125123500",
@@ -48,6 +50,30 @@
     "baseline": false,
     "releasedTo": "SELF",
     "releaseSource": "official"
+  },
+  {
+    "id": "320666-20261125115400",
+    "inmateNumber": "320666",
+    "name": "GARCIA, ANDREW",
+    "bookedAt": "2026-11-25T11:54:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-25T11:54:00",
+        "arrestingAgency": "CENT",
+        "court": "OSC",
+        "billingAgency": "OTAG",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "23CR26752"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T21:17:21",
+    "releasedAt": null,
+    "baseline": false
   },
   {
     "id": "351723-20261125110100",
