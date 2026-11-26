@@ -1,5 +1,29 @@
 [
   {
+    "id": "145690-20261126090700",
+    "inmateNumber": "145690",
+    "name": "JAIMES-CRUZ, JOSE DAVID",
+    "bookedAt": "2026-11-26T09:07:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VIOL NO HARASSMENT ORDER;NCO preconvicti",
+        "arrestDate": "2026-11-26T09:07:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T14:17:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "402253-20261126034100",
     "inmateNumber": "402253",
     "name": "JONES, BRANDON M",
@@ -170,7 +194,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondAmount": null,
         "warrantNumber": "T01034707"
       },
       {
@@ -180,7 +204,7 @@
         "court": "LCD",
         "billingAgency": "WSP",
         "bondType": "Cash or Bond",
-        "bondAmount": 1000,
+        "bondAmount": null,
         "warrantNumber": "T01034707"
       }
     ],

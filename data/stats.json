@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T13:49:16",
+  "generatedAt": "2026-11-26T14:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 595,
-    "bookingsObserved": 446,
+    "bookingsTracked": 596,
+    "bookingsObserved": 447,
     "releasesObserved": 470,
-    "inCustody": 125,
-    "uniquePeople": 542
+    "inCustody": 126,
+    "uniquePeople": 543
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 2,
+      "booked": 3,
       "released": 2
     }
   ],
@@ -209,7 +209,7 @@
     {
       "name": "Protection Order Violation",
       "count": 23,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "ASSAULT 4TH DV",
@@ -266,19 +266,19 @@
     {
       "name": "JAIL",
       "count": 143,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Jail"
     },
     {
       "name": "LCSO",
       "count": 143,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Lewis County Sheriff's Office"
     },
     {
       "name": "CENT",
-      "count": 127,
-      "pct": 21.4,
+      "count": 128,
+      "pct": 21.5,
       "label": "Centralia Police"
     },
     {
@@ -546,12 +546,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 43,
+    "currentMedianDaysHeld": 41.9,
     "currentLongestDaysHeld": 809.9
   },
   "bond": {
     "withBond": 83,
-    "noBond": 42,
+    "noBond": 43,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19228750
