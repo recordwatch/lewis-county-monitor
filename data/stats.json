@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:32:15",
+  "generatedAt": "2026-11-26T02:49:20",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 593,
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 61,
-      "pct": 4.9
+      "count": 60,
+      "pct": 4.8
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 459,
-      "pct": 37.7,
+      "count": 460,
+      "pct": 37.8,
       "label": "Lewis County Superior Court"
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "name": "OSC",
-      "count": 9,
+      "count": 8,
       "pct": 0.7,
       "label": "OSC"
     },

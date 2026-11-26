@@ -86,14 +86,14 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "OTHER AGENCY HOLD",
+        "description": "FUGITIVE FRM JUSTICE",
         "arrestDate": "2026-11-25T11:54:00",
         "arrestingAgency": "CENT",
-        "court": "OSC",
-        "billingAgency": "OTAG",
+        "court": "SUP",
+        "billingAgency": "LCSC",
         "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": "23CR26752"
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
