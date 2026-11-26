@@ -44,14 +44,14 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "VIOL NO HARASSMENT ORDER;NCO preconvicti",
+        "description": "VIOL NO HARASSMENT ORDER/FTC",
         "arrestDate": "2026-11-26T09:07:00",
         "arrestingAgency": "CENT",
-        "court": "CNM",
-        "billingAgency": "CHEH",
-        "bondType": "No Bail",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null,
-        "warrantNumber": "6A0444634"
+        "warrantNumber": null
       }
     ],
     "status": "in_custody",
