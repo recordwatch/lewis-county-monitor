@@ -1,5 +1,29 @@
 [
   {
+    "id": "402253-20261126034100",
+    "inmateNumber": "402253",
+    "name": "JONES, BRANDON M",
+    "bookedAt": "2026-11-26T03:41:00",
+    "arrestingAgency": "CHEH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-26T03:41:00",
+        "arrestingAgency": "CHEH",
+        "court": "CSM",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": "6A0428359"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T08:32:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "415014-20261125214400",
     "inmateNumber": "415014",
     "name": "PERKINS, JOHNNY MACK",
