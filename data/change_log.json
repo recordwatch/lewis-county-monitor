@@ -11,17 +11,19 @@
         "description": "OTHER AGENCY HOLD",
         "arrestDate": "2026-11-25T21:44:00",
         "arrestingAgency": "CENT",
-        "court": null,
+        "court": "DOC",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "W"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-25T22:49:16",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "258533-20261125144000",

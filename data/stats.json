@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:49:16",
+  "generatedAt": "2026-11-25T23:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 593,
@@ -328,7 +328,7 @@
     {
       "name": "SUP",
       "count": 459,
-      "pct": 37.8,
+      "pct": 37.7,
       "label": "Lewis County Superior Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "DOC",
-      "count": 26,
-      "pct": 2.1,
+      "count": 27,
+      "pct": 2.2,
       "label": "Dept. of Corrections"
     },
     {
