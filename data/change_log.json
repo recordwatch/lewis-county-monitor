@@ -18,10 +18,12 @@
         "warrantNumber": "PA2600038"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-25T16:17:17",
-    "releasedAt": null,
-    "baseline": false
+    "releasedAt": "2026-11-25T16:20:00",
+    "baseline": false,
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "421017-20261125105500",
