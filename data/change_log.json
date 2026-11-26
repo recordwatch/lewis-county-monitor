@@ -12,7 +12,7 @@
         "arrestDate": "2026-11-26T13:10:00",
         "arrestingAgency": "LCSO",
         "court": "LCD",
-        "billingAgency": null,
+        "billingAgency": "LC",
         "bondType": "Cash or Bond",
         "bondAmount": 5100,
         "warrantNumber": "6A0385217"
@@ -236,12 +236,12 @@
         "warrantNumber": "T01034707"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-25T17:17:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-26T14:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "421017-20261125105500",
