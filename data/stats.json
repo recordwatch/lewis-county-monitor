@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T22:32:16",
+  "generatedAt": "2026-11-25T22:49:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 592,
-    "bookingsObserved": 443,
+    "bookingsTracked": 593,
+    "bookingsObserved": 444,
     "releasesObserved": 468,
-    "inCustody": 124,
+    "inCustody": 125,
     "uniquePeople": 540
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 6,
+      "booked": 7,
       "released": 19
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "OTHER AGENCY HOLD",
-      "count": 60,
-      "pct": 4.8
+      "count": 61,
+      "pct": 4.9
     },
     {
       "name": "DWLS 3RD DEGREE/FTA",
@@ -277,8 +277,8 @@
     },
     {
       "name": "CENT",
-      "count": 125,
-      "pct": 21.2,
+      "count": 126,
+      "pct": 21.3,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "CHEH",
       "count": 66,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "Chehalis Police"
     },
     {
@@ -546,12 +546,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 42.6,
+    "currentMedianDaysHeld": 42.4,
     "currentLongestDaysHeld": 809.3
   },
   "bond": {
     "withBond": 83,
-    "noBond": 41,
+    "noBond": 42,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19228750

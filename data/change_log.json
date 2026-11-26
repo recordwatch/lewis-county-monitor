@@ -1,5 +1,29 @@
 [
   {
+    "id": "415014-20261125214400",
+    "inmateNumber": "415014",
+    "name": "PERKINS, JOHNNY MACK",
+    "bookedAt": "2026-11-25T21:44:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-25T21:44:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T22:49:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "258533-20261125144000",
     "inmateNumber": "258533",
     "name": "SMITH, MEGAN ROSE LOUISE",
