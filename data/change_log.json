@@ -26,6 +26,40 @@
     "releaseSource": null
   },
   {
+    "id": "28636-20261127102200",
+    "inmateNumber": "28636",
+    "name": "PAULSEN, LILLIAN LUELLA",
+    "bookedAt": "2026-11-27T10:22:00",
+    "arrestingAgency": "WINL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-11-27T10:22:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0436367"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-27T10:22:00",
+        "arrestingAgency": "WINL",
+        "court": "WLM",
+        "billingAgency": "WINL",
+        "bondType": "Included",
+        "bondAmount": null,
+        "warrantNumber": "6A0436367"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T14:49:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "398793-20261127053800",
     "inmateNumber": "398793",
     "name": "SIMPSON, MYKELLE ALEXANDRIA",
