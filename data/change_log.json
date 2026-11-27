@@ -103,7 +103,7 @@
     "name": "TOMBURELLO, ANGELINA MAXINE",
     "bookedAt": "2026-11-26T16:21:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -111,8 +111,8 @@
         "arrestingAgency": "LCSO",
         "court": "SUP",
         "billingAgency": "LCSC",
-        "bondType": "No Bail",
-        "bondAmount": null,
+        "bondType": "Cash or Bond",
+        "bondAmount": 10000,
         "warrantNumber": "W"
       },
       {
