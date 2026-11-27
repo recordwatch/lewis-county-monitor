@@ -1,5 +1,29 @@
 [
   {
+    "id": "422933-20261127040200",
+    "inmateNumber": "422933",
+    "name": "SOMMERVILLE, KAMDEN LLOYD",
+    "bookedAt": "2026-11-27T04:02:00",
+    "arrestingAgency": "WASH",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "arrestDate": "2026-11-27T04:02:00",
+        "arrestingAgency": "WASH",
+        "court": "LCD",
+        "billingAgency": null,
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "T00991634"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T09:17:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "423846-20261127033800",
     "inmateNumber": "423846",
     "name": "BUTLER-DIAZ, TRACY LEANNE",
