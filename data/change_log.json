@@ -12,7 +12,7 @@
         "arrestDate": "2026-11-27T04:02:00",
         "arrestingAgency": "WASH",
         "court": "LCD",
-        "billingAgency": null,
+        "billingAgency": "WSP",
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "T00991634"
@@ -21,7 +21,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-27T09:17:17",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "423846-20261127033800",
