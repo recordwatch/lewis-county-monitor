@@ -1,5 +1,39 @@
 [
   {
+    "id": "177221-20261126162100",
+    "inmateNumber": "177221",
+    "name": "TOMBURELLO, ANGELINA MAXINE",
+    "bookedAt": "2026-11-26T16:21:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "arrestDate": "2026-11-26T16:21:00",
+        "arrestingAgency": "LCSO",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "W"
+      },
+      {
+        "description": "Protection Order Violation",
+        "arrestDate": "2026-11-26T16:21:00",
+        "arrestingAgency": "LCSO",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T21:17:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "96113-20261126131000",
     "inmateNumber": "96113",
     "name": "FERRY, EDMOND MANUEL",
