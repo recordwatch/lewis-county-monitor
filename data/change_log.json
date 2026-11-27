@@ -13912,12 +13912,12 @@
         "warrantNumber": "3A0704561"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T02:32:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-27T05:30:00",
     "baseline": false,
-    "releasedTo": null,
-    "releaseSource": null
+    "releasedTo": "SELF",
+    "releaseSource": "official"
   },
   {
     "id": "408297-20261013225600",
