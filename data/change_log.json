@@ -1,5 +1,39 @@
 [
   {
+    "id": "398793-20261127053800",
+    "inmateNumber": "398793",
+    "name": "SIMPSON, MYKELLE ALEXANDRIA",
+    "bookedAt": "2026-11-27T05:38:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": 1100,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE/DV",
+        "arrestDate": "2026-11-27T05:38:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0426348"
+      },
+      {
+        "description": "DWLS 3RD DEGREE/FTA",
+        "arrestDate": "2026-11-27T05:38:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "Cash or Bond",
+        "bondAmount": 1100,
+        "warrantNumber": "4A0369567"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T13:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "422933-20261127040200",
     "inmateNumber": "422933",
     "name": "SOMMERVILLE, KAMDEN LLOYD",

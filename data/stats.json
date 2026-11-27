@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T13:32:24",
+  "generatedAt": "2026-11-27T13:49:14",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 601,
-    "bookingsObserved": 452,
+    "bookingsTracked": 602,
+    "bookingsObserved": 453,
     "releasesObserved": 473,
-    "inCustody": 128,
-    "uniquePeople": 548
+    "inCustody": 129,
+    "uniquePeople": 549
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 2,
+      "booked": 3,
       "released": 2
     }
   ],
@@ -177,13 +177,13 @@
       "pct": 4.9
     },
     {
-      "name": "POSS of Controlled Substance",
+      "name": "DWLS 3RD DEGREE/FTA",
       "count": 57,
       "pct": 4.5
     },
     {
-      "name": "DWLS 3RD DEGREE/FTA",
-      "count": 56,
+      "name": "POSS of Controlled Substance",
+      "count": 57,
       "pct": 4.5
     },
     {
@@ -194,7 +194,7 @@
     {
       "name": "POSS of Controlled Substance-Gross Misdemeanor/FTA",
       "count": 32,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -202,12 +202,12 @@
       "pct": 2.3
     },
     {
-      "name": "Protection Order Violation",
-      "count": 24,
-      "pct": 1.9
+      "name": "ASSAULT 4TH DEGREE/DV",
+      "count": 25,
+      "pct": 2
     },
     {
-      "name": "ASSAULT 4TH DEGREE/DV",
+      "name": "Protection Order Violation",
       "count": 24,
       "pct": 1.9
     },
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LCSO",
-      "count": 146,
-      "pct": 24.3,
+      "count": 147,
+      "pct": 24.5,
       "label": "Lewis County Sheriff's Office"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "WASH",
       "count": 76,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "Washington State Patrol"
     },
     {
       "name": "CHEH",
       "count": 67,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "Chehalis Police"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SUP",
       "count": 461,
-      "pct": 37.6,
+      "pct": 37.5,
       "label": "Lewis County Superior Court"
     },
     {
       "name": "LCD",
-      "count": 417,
-      "pct": 34,
+      "count": 419,
+      "pct": 34.1,
       "label": "Lewis County District Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "WLM",
       "count": 35,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Winlock Municipal Court"
     },
     {
@@ -457,13 +457,13 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 353,
-      "pct": 28.6
+      "count": 354,
+      "pct": 28.7
     },
     {
       "name": "Included",
       "count": 230,
-      "pct": 18.7
+      "pct": 18.6
     },
     {
       "name": "Serving Time",
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 163,
-      "pct": 13.2
+      "count": 164,
+      "pct": 13.3
     },
     {
       "name": "Released by Court",
@@ -546,15 +546,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 37.2,
+    "currentMedianDaysHeld": 36.3,
     "currentLongestDaysHeld": 810.9
   },
   "bond": {
-    "withBond": 85,
+    "withBond": 86,
     "noBond": 43,
     "medianBond": 50000,
     "maxBond": 3000000,
-    "totalBond": 19233650
+    "totalBond": 19234750
   },
   "chargesPerBooking": 2.1
 }
