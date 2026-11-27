@@ -1,5 +1,29 @@
 [
   {
+    "id": "28965-20261127103700",
+    "inmateNumber": "28965",
+    "name": "MCQUIGG, SAMUEL THOMAS",
+    "bookedAt": "2026-11-27T10:37:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": 4000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION/FTA",
+        "arrestDate": "2026-11-27T10:37:00",
+        "arrestingAgency": "JAIL",
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 4000,
+        "warrantNumber": "3A0716899"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T14:17:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "398793-20261127053800",
     "inmateNumber": "398793",
     "name": "SIMPSON, MYKELLE ALEXANDRIA",
@@ -31,7 +55,9 @@
     "status": "in_custody",
     "firstSeen": "2026-11-27T13:49:14",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "422933-20261127040200",
