@@ -47,11 +47,11 @@
         "description": "VIOL NO HARASSMENT ORDER/FTC",
         "arrestDate": "2026-11-26T09:07:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
+        "court": "CSM",
+        "billingAgency": "CENT",
+        "bondType": "No Bail",
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0444634"
       }
     ],
     "status": "in_custody",

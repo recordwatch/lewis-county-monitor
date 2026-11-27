@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:49:15",
+  "generatedAt": "2026-11-26T16:17:16",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 597,
@@ -345,8 +345,8 @@
     },
     {
       "name": "CSM",
-      "count": 90,
-      "pct": 7.4,
+      "count": 91,
+      "pct": 7.5,
       "label": "Chehalis Municipal Court"
     },
     {
@@ -472,7 +472,7 @@
     },
     {
       "name": "No Bail",
-      "count": 159,
+      "count": 160,
       "pct": 13
     },
     {
