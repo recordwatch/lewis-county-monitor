@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:49:16",
+  "generatedAt": "2026-11-27T07:17:15",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 599,
@@ -339,13 +339,13 @@
     },
     {
       "name": "CNM",
-      "count": 144,
+      "count": 145,
       "pct": 11.8,
       "label": "Centralia Municipal Court"
     },
     {
       "name": "CSM",
-      "count": 91,
+      "count": 90,
       "pct": 7.4,
       "label": "Chehalis Municipal Court"
     },
@@ -457,8 +457,8 @@
   "bondTypes": [
     {
       "name": "Cash or Bond",
-      "count": 352,
-      "pct": 28.6
+      "count": 351,
+      "pct": 28.5
     },
     {
       "name": "Included",
@@ -472,8 +472,8 @@
     },
     {
       "name": "No Bail",
-      "count": 162,
-      "pct": 13.2
+      "count": 163,
+      "pct": 13.3
     },
     {
       "name": "Released by Court",

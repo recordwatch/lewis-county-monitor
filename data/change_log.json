@@ -23,8 +23,8 @@
         "arrestingAgency": "LCSO",
         "court": "LCD",
         "billingAgency": "LC",
-        "bondType": "Cash or Bond",
-        "bondAmount": 500,
+        "bondType": "No Bail",
+        "bondAmount": null,
         "warrantNumber": "6A0151756"
       }
     ],
@@ -119,7 +119,7 @@
         "description": "VIOL NO HARASSMENT ORDER/FTC",
         "arrestDate": "2026-11-26T09:07:00",
         "arrestingAgency": "CENT",
-        "court": "CSM",
+        "court": "CNM",
         "billingAgency": "CENT",
         "bondType": "No Bail",
         "bondAmount": null,
