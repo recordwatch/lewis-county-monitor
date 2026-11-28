@@ -5,53 +5,55 @@
     "name": "BERG, JOSEPH PAUL",
     "bookedAt": "2026-11-28T03:46:00",
     "arrestingAgency": "CENT",
-    "bondTotal": null,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
         "arrestDate": "2026-11-28T03:46:00",
         "arrestingAgency": "CENT",
-        "court": null,
+        "court": "CNM",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null,
-        "warrantNumber": null
+        "warrantNumber": "6A0444775"
       },
       {
         "description": "HARASS TELEPHONE CAL/FTA",
         "arrestDate": "2026-11-28T03:46:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "5A0867737"
       },
       {
         "description": "INTERFERE HEALTH CARE FACILITY/FTA",
         "arrestDate": "2026-11-28T03:46:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "5A0867738"
       },
       {
         "description": "INTERFERE HEALTH CARE FACILITY/FTA",
         "arrestDate": "2026-11-28T03:46:00",
         "arrestingAgency": "CENT",
-        "court": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null,
-        "warrantNumber": null
+        "court": "CNM",
+        "billingAgency": "CENT",
+        "bondType": "Appearance Bond",
+        "bondAmount": 2000,
+        "warrantNumber": "5A0916255"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-28T04:17:23",
     "releasedAt": null,
-    "baseline": false
+    "baseline": false,
+    "releasedTo": null,
+    "releaseSource": null
   },
   {
     "id": "376616-20261127162500",
