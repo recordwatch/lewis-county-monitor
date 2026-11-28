@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:49:14",
+  "generatedAt": "2026-11-27T18:17:13",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
     "bookingsTracked": 604,
@@ -546,7 +546,7 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 34.2,
+    "currentMedianDaysHeld": 34.3,
     "currentLongestDaysHeld": 811.1
   },
   "bond": {
