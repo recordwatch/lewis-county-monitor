@@ -26,6 +26,30 @@
     "releaseSource": "official"
   },
   {
+    "id": "212273-20261127151500",
+    "inmateNumber": "212273",
+    "name": "JENSEN, AUGUSTINA MARIE",
+    "bookedAt": "2026-11-27T15:15:00",
+    "arrestingAgency": "LCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "arrestDate": "2026-11-27T15:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "LCD",
+        "billingAgency": "LC",
+        "bondType": "No Bail",
+        "bondAmount": null,
+        "warrantNumber": "6A0169502"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T21:32:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "28965-20261127103700",
     "inmateNumber": "28965",
     "name": "MCQUIGG, SAMUEL THOMAS",
