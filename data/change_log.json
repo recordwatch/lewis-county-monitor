@@ -114,6 +114,30 @@
     "releaseSource": null
   },
   {
+    "id": "394989-20261127100000",
+    "inmateNumber": "394989",
+    "name": "FORD, ELIJAH TREYVON",
+    "bookedAt": "2026-11-27T10:00:00",
+    "arrestingAgency": "JAIL",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSESSION DRUGS/PRIS",
+        "arrestDate": "2026-11-27T10:00:00",
+        "arrestingAgency": "JAIL",
+        "court": "SUP",
+        "billingAgency": "LCSC",
+        "bondType": "Serving Time",
+        "bondAmount": null,
+        "warrantNumber": "2510035221"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T22:49:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "398793-20261127053800",
     "inmateNumber": "398793",
     "name": "SIMPSON, MYKELLE ALEXANDRIA",
