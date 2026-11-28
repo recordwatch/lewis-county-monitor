@@ -31,7 +31,7 @@
     "name": "JENSEN, AUGUSTINA MARIE",
     "bookedAt": "2026-11-27T15:15:00",
     "arrestingAgency": "LCSO",
-    "bondTotal": null,
+    "bondTotal": 15100,
     "charges": [
       {
         "description": "ASSAULT 4TH DV",
@@ -42,6 +42,46 @@
         "bondType": "No Bail",
         "bondAmount": null,
         "warrantNumber": "6A0169502"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-27T15:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "OSC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "25-1-00579-29"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-27T15:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 100,
+        "warrantNumber": "4A0140121"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-27T15:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "4A0847227"
+      },
+      {
+        "description": "OTHER AGENCY HOLD",
+        "arrestDate": "2026-11-27T15:15:00",
+        "arrestingAgency": "LCSO",
+        "court": "ODC",
+        "billingAgency": "OTAG",
+        "bondType": "Cash or Bond",
+        "bondAmount": 5000,
+        "warrantNumber": "4A0797787"
       }
     ],
     "status": "in_custody",
