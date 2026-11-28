@@ -1,5 +1,59 @@
 [
   {
+    "id": "24624-20261128034600",
+    "inmateNumber": "24624",
+    "name": "BERG, JOSEPH PAUL",
+    "bookedAt": "2026-11-28T03:46:00",
+    "arrestingAgency": "CENT",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "arrestDate": "2026-11-28T03:46:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "HARASS TELEPHONE CAL/FTA",
+        "arrestDate": "2026-11-28T03:46:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "INTERFERE HEALTH CARE FACILITY/FTA",
+        "arrestDate": "2026-11-28T03:46:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      },
+      {
+        "description": "INTERFERE HEALTH CARE FACILITY/FTA",
+        "arrestDate": "2026-11-28T03:46:00",
+        "arrestingAgency": "CENT",
+        "court": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null,
+        "warrantNumber": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T04:17:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "376616-20261127162500",
     "inmateNumber": "376616",
     "name": "BISHOP, MAKENZIE A",

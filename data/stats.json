@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T03:49:17",
+  "generatedAt": "2026-11-28T04:17:23",
   "monitoringSince": "2026-10-10T15:40:09",
   "totals": {
-    "bookingsTracked": 607,
-    "bookingsObserved": 458,
+    "bookingsTracked": 608,
+    "bookingsObserved": 459,
     "releasesObserved": 475,
-    "inCustody": 132,
-    "uniquePeople": 554
+    "inCustody": 133,
+    "uniquePeople": 555
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-28",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD DEGREE",
       "count": 73,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "OTHER AGENCY HOLD",
@@ -204,7 +204,7 @@
     {
       "name": "ASSAULT 4TH DEGREE/DV",
       "count": 26,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "Protection Order Violation",
@@ -247,14 +247,14 @@
       "pct": 1.1
     },
     {
-      "name": "CRIM TRESPASS 2ND/FTA",
+      "name": "CRIM TRESPASS 1ST",
       "count": 13,
       "pct": 1
     },
     {
-      "name": "CRIM TRESPASS 1ST",
-      "count": 12,
-      "pct": 0.9
+      "name": "CRIM TRESPASS 2ND/FTA",
+      "count": 13,
+      "pct": 1
     },
     {
       "name": "BURGLARY 2ND",
@@ -277,8 +277,8 @@
     },
     {
       "name": "CENT",
-      "count": 130,
-      "pct": 21.5,
+      "count": 131,
+      "pct": 21.6,
       "label": "Centralia Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "CHEH",
       "count": 67,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Chehalis Police"
     },
     {
@@ -546,12 +546,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 32.3,
+    "currentMedianDaysHeld": 31.8,
     "currentLongestDaysHeld": 811.5
   },
   "bond": {
     "withBond": 87,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 50000,
     "maxBond": 3000000,
     "totalBond": 19236250
